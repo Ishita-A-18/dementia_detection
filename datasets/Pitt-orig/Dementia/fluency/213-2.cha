@@ -1,0 +1,92 @@
+@UTF8
+@PID:	11312/t-00016128-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR||male|ProbableAD||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T06:00:41-04:00]
+@Media:	213-2, audio
+@G:	animals
+*INV:	www . 0_4359
+%exp:	finishing previous task
+*INV:	okay . 4359_6896
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	go ahead xxx . 6896_7580
+%mor:	verb|go-Fin-Imp-S adv|ahead .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*PAR:	dog . 7580_8207
+%mor:	noun|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cats . 8207_9413
+%mor:	noun|cat-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	leopards . 9413_11062
+%mor:	noun|leopard-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	tigers . 11062_12293
+%mor:	noun|tiger-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	sharks . 12293_13415
+%mor:	noun|shark-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	fish . 13415_15346
+%mor:	noun|fish .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) zebras . 15346_21617
+%mor:	noun|zebras-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&+do &-um (...) horse . 21617_42332
+%mor:	noun|horse .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cows . 42332_45305
+%mor:	noun|cow-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(...) worms . 45305_65194
+%mor:	noun|worm-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	snails . 65194_66596
+%mor:	noun|snail-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay . 66596_70994
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	good . 70994_71406
+%mor:	adj|good-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+@G:	F
+*INV:	any words that begin with f@l . 71406_75749
+%mor:	det|any-Def-Ind noun|word-Plur pron|that-Rel verb|begin-Fin-Ind-Pres-P3 adp|with n:let|f .
+%gra:	1|2|DET 2|0|ROOT 3|4|NSUBJ 4|2|ACL-RELCL 5|6|CASE 6|4|DEP 7|2|PUNCT
+*INV:	go ahead . 75749_77056
+%mor:	verb|go-Fin-Imp-S adv|ahead .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*PAR:	fish . 77056_78254
+%mor:	noun|fish .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	fowl . 78254_79483
+%mor:	noun|fowl .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) any people ? [+ exc] 79483_85772
+%mor:	det|any-Def-Ind noun|person-Plur ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*INV:	no people . 85772_86939
+%mor:	det|no-Def-Neg noun|person-Plur .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	+< no people „ oh . [+ exc] 86000_87339
+%mor:	det|no-Def-Neg noun|person-Plur punct|„ intj|oh .
+%gra:	1|2|DET 2|0|ROOT 3|4|PUNCT 4|2|DISCOURSE 5|2|PUNCT
+*INV:	(..) any words that begin with f@l . 87339_97102
+%mor:	det|any-Def-Ind noun|word-Plur pron|that-Rel verb|begin-Fin-Ind-Pres-P3 adp|with n:let|f .
+%gra:	1|2|DET 2|0|ROOT 3|4|NSUBJ 4|2|ACL-RELCL 5|6|CASE 6|4|DEP 7|2|PUNCT
+*PAR:	(...) fowl . 87339_119000
+%mor:	noun|fowl .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	I guess I gave you fowls@q . [+ exc] 119000_121895
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|give-Fin-Ind-Past-S1-irr pron|you-Prs-Acc-S2 meta|fowls .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|4|IOBJ 6|4|DEP 7|2|PUNCT
+*INV:	(...) okay . 121895_140000
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

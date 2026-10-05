@@ -1,0 +1,139 @@
+@UTF8
+@PID:	11312/t-00016640-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|87;|female|ProbableAD||Participant|20||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-07T09:45:16-04:00]
+@Media:	341-0, audio
+*INV:	okay ‡ good . 0_2183
+%mor:	intj|okay intj|‡ adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|PUNCT
+*INV:	pencil@q . 2183_2941
+%mor:	meta|pencil .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	can you give me a short simple sentence using the word pencil@q . 2941_6385
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|give-Inf-S pron|I-Prs-Acc-S1 det|a-Ind-Art adj|short-S1 adj|simple-S1 noun|sentence-Acc verb|use-Ger-S det|the-Def-Art noun|word-Acc meta|pencil .
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|IOBJ 5|8|DET 6|8|AMOD 7|8|AMOD 8|3|OBJ 9|8|ACL 10|11|DET 11|9|OBJ 12|9|DEP 13|3|PUNCT
+*PAR:	I write with a pencil . 6385_10900
+%mor:	pron|I-Prs-Nom-S1 verb|write-Fin-Ind-Pres-S1 adp|with det|a-Ind-Art noun|pencil .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*INV:	how_(a)bout tree@q ? 10900_13600
+%mor:	propn|howabout meta|tree ?
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*INV:	tree@q . 13600_14645
+%mor:	meta|tree .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	tree@q ? [+ exc] 14645_15780
+%mor:	meta|tree ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	mhm . 15780_16800
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	we have a tree in our garden . 16800_25000
+%mor:	pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 det|a-Ind-Art noun|tree-Acc adp|in pron|our-Prs-Gen-P1 noun|garden .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|NMOD-POSS 7|4|NMOD 8|2|PUNCT
+*INV:	now I am going to give you two words . 25000_27283
+%mor:	adv|now pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|give-Inf-S pron|you-Prs-Acc-S2 num|two noun|word-Plur-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|IOBJ 8|9|NUMMOD 9|6|OBJ 10|4|PUNCT
+*INV:	don't worry about the order of the two words (.) that I give you . 27283_30285
+%mor:	aux|do-Fin-Imp-S~part|not verb|worry-Fin-Imp-S adp|about det|the-Def-Art noun|order adp|of det|the-Def-Art num|two noun|word-Plur pron|that-Rel pron|I-Prs-Nom-S1 verb|give-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|3|AUX 2|3|ADVMOD 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|10|CASE 8|10|DET 9|10|NUMMOD 10|6|NMOD 11|13|OBJ 12|13|NSUBJ 13|10|ACL-RELCL 14|13|IOBJ 15|3|PUNCT
+*INV:	just use both of them in one sentence . 30285_32500
+%mor:	adv|just verb|use-Fin-Imp-S det|both-Def-Tot adp|of pron|they-Prs-Acc-P3 adp|in num|one noun|sentence .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|OBJ 4|5|CASE 5|3|NMOD 6|8|CASE 7|8|NUMMOD 8|2|OBL 9|2|PUNCT
+*INV:	child@q hospital@q . 32500_34425
+%mor:	meta|child meta|hospital .
+%gra:	1|2|DEP 2|0|ROOT 3|2|PUNCT
+*PAR:	what's the first one ? [+ exc] 34425_35967
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|first-S1 noun|one ?
+%gra:	1|0|ROOT 2|5|COP 3|5|DET 4|5|AMOD 5|1|NSUBJ 6|1|PUNCT
+*INV:	child@q . 35967_36871
+%mor:	meta|child .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	child's hospital@q . [+ exc] 36871_38150
+%mor:	noun|child~part|s meta|hospital .
+%gra:	1|3|NMOD-POSS 2|1|DEP 3|0|ROOT 4|3|PUNCT
+*INV:	child@q is the one word and hospital@q is the other word . 38150_42113
+%mor:	meta|child aux|be-Fin-Ind-Pres-S3 det|the-Def-Art num|one noun|word cconj|and meta|hospital aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|other-S1 noun|word .
+%gra:	1|5|DEP 2|5|COP 3|5|DET 4|5|NUMMOD 5|0|ROOT 6|11|CC 7|11|DEP 8|11|COP 9|11|DET 10|11|AMOD 11|5|CONJ 12|5|PUNCT
+*INV:	they are two words . 42113_45500
+%mor:	pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 num|two noun|word-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NUMMOD 4|0|ROOT 5|4|PUNCT
+*INV:	can you use both of those words in a sentence ? 45500_51000
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|use-Inf-S det|both-Def-Tot adp|of det|that-Def-Dem-Plur noun|word-Plur adp|in det|a-Ind-Art noun|sentence ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|10|CASE 9|10|DET 10|3|OBL 11|3|PUNCT
+*PAR:	the little girl is in the child's hospital . 51000_61500
+%mor:	det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|child~part|s noun|hospital .
+%gra:	1|3|DET 2|3|AMOD 3|9|NSUBJ 4|9|COP 5|9|CASE 6|7|DET 7|9|NMOD-POSS 8|7|CASE 9|0|ROOT 10|9|PUNCT
+*INV:	(..) cold@q winter@q . 61500_63981
+%mor:	meta|cold meta|winter .
+%gra:	1|2|DEP 2|0|ROOT 3|2|PUNCT
+*PAR:	cold@q winter@q . [+ exc] 63981_65000
+%mor:	meta|cold meta|winter .
+%gra:	1|2|DEP 2|0|ROOT 3|2|PUNCT
+*INV:	mhm . 65000_67000
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	last year (.) we had a cold winter . 67000_74000
+%mor:	adj|last-S1 noun|year pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Past-P1-irr det|a-Ind-Art adj|cold-S1 noun|winter-Acc .
+%gra:	1|2|AMOD 2|4|OBL-UNMARKED 3|4|NSUBJ 4|0|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|4|PUNCT
+*INV:	(.) now I'm going to give you three words . 74000_76170
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|give-Inf-S pron|you-Prs-Acc-S2 num|three noun|word-Plur-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|IOBJ 8|9|NUMMOD 9|6|OBJ 10|4|PUNCT
+*INV:	again don't worry about the order of the three words but just use all three of them in one sentence . 76170_81568
+%mor:	adv|again aux|do-Fin-Imp-S~part|not verb|worry-Fin-Imp-S adp|about det|the-Def-Art noun|order adp|of det|the-Def-Art num|three noun|word-Plur cconj|but adv|just verb|use-Fin-Imp-S det|all-Def-Tot num|three adp|of pron|they-Prs-Acc-P3 adp|in num|one noun|sentence .
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|11|CASE 9|11|DET 10|11|NUMMOD 11|7|NMOD 12|14|CC 13|14|ADVMOD 14|4|CONJ 15|16|DET 16|14|OBJ 17|18|CASE 18|16|NMOD 19|21|CASE 20|21|NUMMOD 21|14|OBL 22|4|PUNCT
+*INV:	chair@q doctor@q sit@q . 81568_85819
+%mor:	meta|chair meta|doctor meta|sit .
+%gra:	1|0|ROOT 2|3|DEP 3|1|DEP 4|1|PUNCT
+*PAR:	is the first one chair@q ? [+ exc] 85819_87500
+%mor:	aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|first-S1 noun|one meta|chair ?
+%gra:	1|5|COP 2|5|DET 3|5|AMOD 4|5|COMPOUND 5|0|ROOT 6|5|PUNCT
+*PAR:	(.) and doctor@q ? [+ exc] 87500_89200
+%mor:	cconj|and meta|doctor ?
+%gra:	1|2|CC 2|0|ROOT 3|2|PUNCT
+*INV:	++ and sit@q . 89200_90361
+%mor:	cconj|and meta|sit .
+%gra:	1|2|CC 2|0|ROOT 3|2|PUNCT
+*PAR:	six . [+ exc] 90361_91005
+%mor:	num|six .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	sit@q . 91005_92263
+%mor:	meta|sit .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	sick . [+ exc] 92263_93400
+%mor:	adj|sick-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	sit@q (.) sit@q . 93400_96914
+%mor:	meta|sit meta|sit .
+%gra:	1|2|DEP 2|0|ROOT 3|2|PUNCT
+*PAR:	sit@k . 96914_97640
+%mor:	n:let|sit .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	right ‡ (.) can you use those three words in a sentence for me ? 97640_104050
+%mor:	adv|right punct|‡ aux|can-Fin-S pron|you-Prs-Nom-S2 verb|use-Inf-S det|that-Def-Dem-Plur num|three noun|word-Plur-Acc adp|in det|a-Ind-Art noun|sentence adp|for pron|I-Prs-Acc-S1 ?
+%gra:	1|2|ADVMOD 2|5|ADVMOD 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|8|DET 7|8|NUMMOD 8|5|OBJ 9|11|CASE 10|11|DET 11|5|OBL 12|13|CASE 13|11|NMOD 14|5|PUNCT
+*INV:	chair@q doctor@q sit@q . 104050_107600
+%mor:	meta|chair meta|doctor meta|sit .
+%gra:	1|0|ROOT 2|3|DEP 3|1|DEP 4|1|PUNCT
+*PAR:	I sit in a chair when I go to the doctor . 107600_116800
+%mor:	pron|I-Prs-Nom-S1 verb|sit-Fin-Ind-Pres-S1 adp|in det|a-Ind-Art noun|chair adv|when pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Pres-S1 adp|to det|the-Def-Art noun|doctor .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|8|ADVMOD 7|8|NSUBJ 8|2|ADVCL 9|11|CASE 10|11|DET 11|8|OBL 12|2|PUNCT
+*INV:	bureau@q [/] bureau@q . 116800_119450
+%mor:	meta|bureau .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	bureau@q . [+ exc] 119450_120400
+%mor:	meta|bureau .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	open@q drawer@q . 120400_128500
+%mor:	meta|open meta|drawer .
+%gra:	1|2|DEP 2|0|ROOT 3|2|PUNCT
+*PAR:	I left the drawer open in the bureau . 128500_137500
+%mor:	pron|I-Prs-Nom-S1 verb|leave-Fin-Ind-Past-S1-irr det|the-Def-Art noun|drawer-Acc adj|open-S1 adp|in det|the-Def-Art noun|bureau .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|2|PUNCT
+*INV:	okay . 137500_138911
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

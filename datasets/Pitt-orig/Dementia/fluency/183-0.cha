@@ -1,0 +1,117 @@
+@UTF8
+@PID:	11312/a-00015195-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|63;|male|ProbableAD||Participant|25||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T05:57:29-04:00]
+@Media:	183-0, audio
+@G:	animals
+*INV:	okay . 0_1115
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	in one minute . 1115_2668
+%mor:	adp|in num|one noun|minute .
+%gra:	1|3|CASE 2|3|NUMMOD 3|0|ROOT 4|3|PUNCT
+*INV:	and you can begin now . 2668_5451
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S adv|now .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	cow . 5451_7715
+%mor:	noun|cow .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	sheep . 7715_8315
+%mor:	noun|sheep-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	goat . 8315_10083
+%mor:	noun|goat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	dog . 10083_12027
+%mor:	noun|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cat . 12027_13163
+%mor:	noun|cat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) rabbit . 13163_17707
+%mor:	noun|rabbit .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) chicken . 17707_22597
+%mor:	noun|chicken .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) pigeon . 22597_25851
+%mor:	noun|pigeon .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(...) lion . 25851_34211
+%mor:	noun|lion .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) tiger . 34211_37299
+%mor:	noun|tiger .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) elephant . 37299_41059
+%mor:	noun|elephant .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(...) snake . 41059_61342
+%mor:	noun|snake .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay ‡ good . 61342_64942
+%mor:	intj|okay intj|‡ adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|PUNCT
+*INV:	okay . 64942_65891
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@G:	F
+*INV:	now I'm gonna ask you to think of as many words beginning with the letter f@l as you can think of . 65891_71600
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S~part|to verb|ask-Inf-S pron|you-Prs-Acc-S2 part|to verb|think-Inf-S adp|of adv|as adj|many-S1 noun|word-Plur verb|begin-Ger-S adp|with det|the-Def-Art noun|letter n:let|f sconj|as pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|IOBJ 8|9|MARK 9|6|XCOMP 10|13|CASE 11|12|ADVMOD 12|13|AMOD 13|9|OBL 14|13|ACL 15|18|CASE 16|18|DEP 17|18|COMPOUND 18|14|OBL 19|22|MARK 20|22|NSUBJ 21|22|AUX 22|14|ADVCL 23|22|OBL 24|4|PUNCT
+*INV:	okay ? 71600_72603
+%mor:	intj|okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	now the only thing here to remember is that it can't be a proper name or a place . 72603_77462
+%mor:	adv|now det|the-Def-Art adj|only-S1 noun|thing-Ger adv|here part|to verb|remember-Inf-S aux|be-Fin-Ind-Pres-S3 sconj|that pron|it-Prs-Nom-S3 aux|can-Fin-S~part|not aux|be-Inf-S det|a-Ind-Art adj|proper-S1 noun|name cconj|or det|a-Ind-Art noun|place .
+%gra:	1|16|ADVMOD 2|4|DET 3|4|AMOD 4|16|NSUBJ-OUTER 5|4|ADVMOD 6|7|MARK 7|4|ACL 8|16|COP 9|16|MARK 10|16|NSUBJ 11|16|AUX 12|16|ADVMOD 13|16|COP 14|16|DET 15|16|AMOD 16|0|ROOT 17|19|CC 18|19|DET 19|16|CONJ 20|16|PUNCT
+*INV:	like couldn't be France@q . 77462_79278
+%mor:	intj|like aux|could-Fin-S~part|not aux|be-Inf-S meta|France .
+%gra:	1|5|DISCOURSE 2|5|AUX 3|5|ADVMOD 4|5|DEP 5|0|ROOT 6|5|PUNCT
+*INV:	or it couldn't be Fred@q . 79278_80702
+%mor:	cconj|or pron|it-Prs-Nom-S3 aux|could-Fin-S~part|not aux|be-Inf-S meta|Fred .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|AUX 4|6|ADVMOD 5|6|DEP 6|0|ROOT 7|6|PUNCT
+*INV:	okay ? 80702_81958
+%mor:	intj|okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	and it couldn't be a derivative . 81958_83800
+%mor:	cconj|and pron|it-Prs-Nom-S3 aux|could-Fin-S~part|not aux|be-Inf-S det|a-Ind-Art noun|derivative .
+%gra:	1|7|CC 2|7|NSUBJ 3|7|AUX 4|7|ADVMOD 5|7|COP 6|7|DET 7|0|ROOT 8|7|PUNCT
+*INV:	like run@q runner@q and running@q using the letter r@l would all be counted as one word . 83800_88611
+%mor:	adp|like meta|run meta|runner cconj|and meta|running verb|use-Ger-S det|the-Def-Art noun|letter n:let|r aux|would-Fin-S adv|all aux|be-Inf-S verb|count-Part-Past-S adp|as num|one noun|word .
+%gra:	1|3|CASE 2|3|DEP 3|13|DEP 4|5|CC 5|3|DEP 6|3|ACL 7|9|DET 8|9|COMPOUND 9|6|DEP 10|13|AUX 11|13|ADVMOD 12|13|AUX-PASS 13|0|ROOT 14|16|CASE 15|16|NUMMOD 16|13|OBL 17|13|PUNCT
+*INV:	so ‡ as many words beginning with the letter f@l as you can think of . 88611_92587
+%mor:	adv|so punct|‡ sconj|as adj|many-S1 noun|word-Plur verb|begin-Ger-S adp|with det|the-Def-Art noun|letter n:let|f sconj|as pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|MARK 4|5|AMOD 5|6|NSUBJ 6|0|ROOT 7|10|CASE 8|10|DET 9|10|COMPOUND 10|6|DEP 11|14|MARK 12|14|NSUBJ 13|14|AUX 14|6|ADVCL 15|14|OBL 16|6|PUNCT
+*INV:	you can begin now . 92587_95035
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S adv|now .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	farther . 95035_97190
+%mor:	adj|far-Cmp-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	farm . 97190_98630
+%mor:	noun|farm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) funnel . 98630_103958
+%mor:	noun|funnel .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(...) fish . 103958_126102
+%mor:	noun|fish .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(...) there is none . [+ exc] 126102_140182
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 pron|none-Neg-S1 .
+%gra:	1|2|EXPL 2|0|ROOT 3|2|NSUBJ 4|2|PUNCT
+*INV:	you can ring about ten seconds left . 140182_142574
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|ring-Inf-S adv|about num|ten noun|second-Plur-Acc verb|leave-Part-Past-S-irr .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|ADVMOD 5|6|NUMMOD 6|3|OBJ 7|3|ADVCL 8|3|PUNCT
+*INV:	words beginning with the letter f@l . 142574_145230
+%mor:	noun|word-Plur verb|begin-Ger-S adp|with det|the-Def-Art noun|letter n:let|f .
+%gra:	1|0|ROOT 2|1|ACL 3|6|CASE 4|6|DET 5|6|COMPOUND 6|2|DEP 7|1|PUNCT
+*INV:	okay . 145254_153300
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

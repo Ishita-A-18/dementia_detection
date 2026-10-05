@@ -1,0 +1,349 @@
+@UTF8
+@PID:	11312/a-00064230-1
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Baycrest-PPA|INV|||||Investigator|||
+@ID:	eng|Baycrest-PPA|PAR|71;00.|male|PPA||Participant|21||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T04:44:22-04:00]
+@Media:	Baycrest12829, audio
+*INV:	ask you some questions . 290_1230
+%mor:	verb|ask-Fin-Imp-S pron|you-Prs-Acc-S2 det|some-Def-Ind noun|question-Plur-Acc .
+%gra:	1|0|ROOT 2|1|IOBJ 3|4|DET 4|1|OBJ 5|1|PUNCT
+*INV:	and I'd like you to talk through your answers as much as possible because we're interested in analyzing your language . 1283_6123
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S pron|you-Prs-Acc-S2 part|to verb|talk-Inf-S adp|through pron|your-Prs-Gen-S2 noun|answer-Plur adv|as adv|much sconj|as adj|possible-S1 sconj|because pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 adj|interested-S1 sconj|in verb|analyze-Part-Pres-S pron|your-Prs-Gen-S2 noun|language-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|MARK 7|4|XCOMP 8|10|CASE 9|10|NMOD-POSS 10|7|OBL 11|12|ADVMOD 12|7|ADVMOD 13|14|MARK 14|12|ADVCL 15|18|MARK 16|18|NSUBJ 17|18|COP 18|7|ADVCL 19|20|MARK 20|18|ADVCL 21|22|NMOD-POSS 22|20|OBJ 23|4|PUNCT
+@G:	Speech
+*INV:	&-um so , how do you think your speech these days ? 6750_11990
+%mor:	adv|so cm|cm adv|how aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|think-Inf-S pron|your-Prs-Gen-S2 noun|speech-Acc det|this-Def-Dem-Plur noun|day-Plur ?
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|ADVMOD 4|6|AUX 5|6|NSUBJ 6|0|ROOT 7|8|NMOD-POSS 8|6|OBJ 9|10|DET 10|6|OBL-UNMARKED 11|6|PUNCT
+*PAR:	not too &-uh bad . 14030_15240
+%mor:	part|not adv|too adj|bad-S1 .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|0|ROOT 4|3|PUNCT
+*INV:	that's good . 15890_16270
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*INV:	&-um great . 17555_18300
+%mor:	adj|great-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+@G:	Important_Event
+*INV:	so , thinking back can you tell me a story about something important that happened to you in your life ? 18697_24120
+%mor:	adv|so cm|cm verb|think-Part-Pres-S adv|back aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 det|a-Ind-Art noun|story-Acc adp|about pron|something-Ind-S1 adj|important-S1 pron|that-Rel verb|happen-Fin-Ind-Past-S3 adp|to pron|you-Prs-Acc-S2 adp|in pron|your-Prs-Gen-S2 noun|life ?
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|ADVCL 4|3|ADVMOD 5|7|AUX 6|7|NSUBJ 7|0|ROOT 8|7|IOBJ 9|10|DET 10|7|OBJ 11|12|CASE 12|10|NMOD 13|12|AMOD 14|15|NSUBJ 15|12|ACL-RELCL 16|17|CASE 17|15|OBL 18|20|CASE 19|20|NMOD-POSS 20|15|OBL 21|7|PUNCT
+*INV:	it can be happy or sad or from any time . 24666_27030
+%mor:	pron|it-Prs-Nom-S3 aux|can-Fin-S aux|be-Inf-S adj|happy-S1 cconj|or adj|sad-S1 cconj|or adp|from det|any-Def-Ind noun|time .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|COP 4|0|ROOT 5|6|CC 6|4|CONJ 7|10|CC 8|10|CASE 9|10|DET 10|4|CONJ 11|4|PUNCT
+*INV:	from when you were a kid or more recently . 27255_29222
+%mor:	adp|from adv|when pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Past-S2-irr det|a-Ind-Art noun|kid cconj|or adv|more adv|recently .
+%gra:	1|6|MARK 2|6|ADVMOD 3|6|NSUBJ 4|6|COP 5|6|DET 6|0|ROOT 7|9|CC 8|9|ADVMOD 9|6|CONJ 10|6|PUNCT
+*PAR:	well , &-uh &=throat:clears I [//] &-uh my first wife had her &-uh baby in the +//. 36590_54360
+%mor:	intj|well cm|cm pron|my-Prs-Gen-S1 adj|first-S1 noun|wife verb|have-Fin-Ind-Past-S3-irr pron|her-Prs-Gen-S3 noun|baby-Acc adp|in det|the-Def-Art +//.
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|5|NMOD-POSS 4|5|AMOD 5|6|NSUBJ 6|0|ROOT 7|8|NMOD-POSS 8|6|OBJ 9|10|CASE 10|6|OBL 11|6|PUNCT
+*PAR:	it was &-uh seventeen hours of &-uh &=throat:clears labor . 54864_61984
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr num|seventeen noun|hour-Plur adp|of noun|labor .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NUMMOD 4|0|ROOT 5|6|CASE 6|4|NMOD 7|4|PUNCT
+*PAR:	and &-uh I went in the &-uh waiting room . 63654_68380
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Past-S1-irr adp|in det|the-Def-Art noun|waiting-Ger noun|room .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|7|CASE 5|7|DET 6|7|COMPOUND 7|3|OBL 8|3|PUNCT
+*PAR:	and I went to sleep &=laughs . 69590_71240
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Past-S1-irr adp|to noun|sleep .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*INV:	for sure .
+%mor:	adp|for adj|sure-S1 .
+%gra:	1|2|CASE 2|0|ROOT 3|2|PUNCT
+*PAR:	and &-uh I woke up . 73711_75398
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|wake-Fin-Ind-Past-S1-irr adp|up .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+*PAR:	and &-uh there was a bunch o(f) nurses at the door saying &-uh +... 76232_83175
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|bunch adp|of noun|nurse-Plur adp|at det|the-Def-Art noun|door verb|say-Part-Pres-S +...
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|7|CASE 7|5|NMOD 8|10|CASE 9|10|DET 10|7|NMOD 11|3|ADVCL 12|3|PUNCT
+*PAR:	the &-uh head one was saying +... 87488_90038
+%mor:	det|the-Def-Art noun|head noun|one aux|be-Fin-Ind-Past-S3-irr verb|say-Part-Pres-S +...
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	the one that took them on the tour &-uh was saying +"/. 90911_98018
+%mor:	det|the-Def-Art noun|one pron|that-Rel verb|take-Fin-Ind-Past-S3-irr pron|they-Prs-Acc-P3 adp|on det|the-Def-Art noun|tour aux|be-Fin-Ind-Past-S3-irr verb|say-Part-Pres-S +"/.
+%gra:	1|2|DET 2|10|NSUBJ 3|4|NSUBJ 4|2|ACL-RELCL 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|10|COP 10|0|ROOT 11|10|PUNCT
+*PAR:	+" this is a standard procedure &=laughs . 98643_101802
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|standard-S1 noun|procedure .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|0|ROOT 6|5|PUNCT
+*INV:	awesome . 104719_105159
+%mor:	adj|awesome-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	great . 106300_106500
+%mor:	adj|great-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+@G:	Routine
+*INV:	&-um so , what do you usually spend your day doing ? 107820_111520
+%mor:	adv|so cm|cm pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adv|usually verb|spend-Inf-S pron|your-Prs-Gen-S2 noun|day-Acc verb|do-Ger-S ?
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|OBJ 4|7|AUX 5|7|NSUBJ 6|7|ADVMOD 7|0|ROOT 8|9|NMOD-POSS 9|7|OBJ 10|7|XCOMP 11|7|PUNCT
+*INV:	can you describe a typical day ? 111607_113229
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|describe-Inf-S det|a-Ind-Art adj|typical-S1 noun|day-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+*PAR:	&-um I get up and wash the dishes and go for a walk and the television . 115160_131269
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Pres-S1 adp|up cconj|and verb|wash-Fin-Ind-Pres-S1 det|the-Def-Art noun|dish-Plur-Acc cconj|and verb|go-Fin-Ind-Pres-S1 adp|for det|a-Ind-Art noun|walk cconj|and det|the-Def-Art noun|television .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|COMPOUND-PRT 4|5|CC 5|2|CONJ 6|7|DET 7|5|OBJ 8|9|CC 9|2|CONJ 10|12|CASE 11|12|DET 12|9|OBL 13|15|CC 14|15|DET 15|12|CONJ 16|2|PUNCT
+*INV:	great . 131910_132140
+%mor:	adj|great-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	cool . 133072_133302
+%mor:	adj|cool-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+@G:	Sandwich
+*INV:	&-uh this one's a little bit different . 135040_136777
+%mor:	det|this-Def-Dem-Sing noun|one~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|little-S1 noun|bit adj|different-S1 .
+%gra:	1|2|DET 2|7|NSUBJ 3|7|COP 4|6|DET 5|6|AMOD 6|7|OBL-UNMARKED 7|0|ROOT 8|7|PUNCT
+*INV:	&-um can you tell me how you would make a peanut butter and jelly sandwich ? 137378_140883
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 adv|how pron|you-Prs-Nom-S2 aux|would-Fin-S verb|make-Inf-S det|a-Ind-Art noun|peanut noun|butter-Acc cconj|and noun|jelly noun|sandwich ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|IOBJ 5|8|ADVMOD 6|8|NSUBJ 7|8|AUX 8|3|CCOMP 9|11|DET 10|11|COMPOUND 11|8|OBJ 12|14|CC 13|14|COMPOUND 14|11|CONJ 15|3|PUNCT
+*PAR:	jelly on the top &=laughs . 144660_146222
+%mor:	noun|jelly adp|on det|the-Def-Art noun|top .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+*INV:	for sure . 148204_148505
+%mor:	adp|for adj|sure-S1 .
+%gra:	1|2|CASE 2|0|ROOT 3|2|PUNCT
+*INV:	alright . 150300_150760
+%mor:	intj|alright .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	great . 150847_151113
+%mor:	adj|great-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+@G:	Cinderella
+*INV:	&-uh this next &+tas . 152830_153520
+%mor:	det|this-Def-Dem-Sing adj|next-S1 .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*INV:	so , next could you tell me the story of Cinderella as best as you can remember it ? 153698_158938
+%mor:	adv|so cm|cm adv|next aux|could-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 det|the-Def-Art noun|story-Acc adp|of propn|Cinderella adv|as adj|good-Sup-S1 sconj|as pron|you-Prs-Nom-S2 aux|can-Fin-S verb|remember-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|ADVMOD 4|6|AUX 5|6|NSUBJ 6|0|ROOT 7|6|IOBJ 8|9|DET 9|6|OBJ 10|11|CASE 11|9|NMOD 12|13|ADVMOD 13|9|AMOD 14|17|MARK 15|17|NSUBJ 16|17|AUX 17|13|ADVCL 18|17|OBJ 19|6|PUNCT
+*PAR:	&-uh she went to &-uh the ball in a pumpkin . 162950_170708
+%mor:	pron|she-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3-irr adp|to det|the-Def-Art noun|ball adp|in det|a-Ind-Art noun|pumpkin .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|8|CASE 7|8|DET 8|2|OBL 9|2|PUNCT
+*PAR:	and a pumpkin drawn by &-uh six white horses . 172592_180924
+%mor:	cconj|and det|a-Ind-Art noun|pumpkin verb|draw-Part-Past-S-irr adp|by num|six adj|white-S1 noun|horse-Plur .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|ACL 5|8|CASE 6|8|NUMMOD 7|8|AMOD 8|4|OBL-AGENT 9|3|PUNCT
+*PAR:	and &-uh she lost her &-uh slipper . 182247_185652
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|lose-Fin-Ind-Past-S3-irr pron|her-Prs-Gen-S3 noun|slipper-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|PUNCT
+*PAR:	and the &-uh Prince Charming &=throat:clears tried it on . 189870_205830
+%mor:	cconj|and det|the-Def-Art propn|Prince propn|Charming-Ger verb|try-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 adp|on .
+%gra:	1|5|CC 2|4|DET 3|4|COMPOUND 4|5|NSUBJ 5|0|ROOT 6|5|OBJ 7|5|ADVMOD 8|5|PUNCT
+*PAR:	&-uh and &-uh the two &-uh sɪsti@u [: ugly] [* p:m] ʌglɚz@u [: sisters] [* p:m] &=laughs &-uh didn't fit . 206580_218870
+%mor:	cconj|and det|the-Def-Art num|two adj|ugly-S1 noun|sister-Plur aux|do-Fin-Ind-Past-P3-irr~part|not verb|fit-Inf-S .
+%gra:	1|8|CC 2|5|DET 3|5|NUMMOD 4|5|AMOD 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|0|ROOT 9|8|PUNCT
+*PAR:	but &-uh it fit Cinderella . 222391_225454
+%mor:	cconj|but pron|it-Prs-Nom-S3 verb|fit-Fin-Ind-Pres-S3 propn|Cinderella-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and so , they lived happily ever after . 227357_231897
+%mor:	cconj|and adv|so cm|cm pron|they-Prs-Nom-P3 verb|live-Fin-Ind-Past-P3 adv|happily adv|ever adv|after .
+%gra:	1|5|CC 2|5|ADVMOD 3|2|PUNCT 4|5|NSUBJ 5|0|ROOT 6|5|ADVMOD 7|8|ADVMOD 8|5|ADVMOD 9|5|PUNCT
+*INV:	excellent . 232643_232981
+%mor:	adj|excellent-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	great . 233124_233336
+%mor:	adj|great-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	alright . 235067_235567
+%mor:	intj|alright .
+%gra:	1|0|ROOT 2|1|PUNCT
+@G:	Window
+*INV:	&-uh for this next task I'm going to ask you to tell me some more stories . 238670_245895
+%mor:	adp|for det|this-Def-Dem-Sing adj|next-S1 noun|task pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|ask-Inf-S pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 det|some-Def-Ind adj|more-Cmp-S1 noun|story-Plur-Acc .
+%gra:	1|4|CASE 2|4|DET 3|4|AMOD 4|7|OBL 5|7|NSUBJ 6|7|AUX 7|0|ROOT 8|9|MARK 9|7|XCOMP 10|9|IOBJ 11|12|MARK 12|9|XCOMP 13|12|IOBJ 14|16|DET 15|16|AMOD 16|12|OBJ 17|7|PUNCT
+*INV:	but I'm gonna ask you to +... 246576_249679
+%mor:	cconj|but pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S~part|to verb|ask-Inf-S pron|you-Prs-Acc-S2 adp|to +...
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|IOBJ 8|4|PUNCT 9|4|PUNCT
+*INV:	so , these &-uh pictures tell a story kind of like a comic book would . 252734_256474
+%mor:	adv|so cm|cm det|this-Def-Dem-Plur noun|picture-Plur verb|tell-Fin-Ind-Pres-P3 det|a-Ind-Art noun|story-Acc noun|kind adp|of adp|like det|a-Ind-Art adj|comic-S1 noun|book aux|would-Fin-S .
+%gra:	1|5|ADVMOD 2|1|PUNCT 3|4|DET 4|5|NSUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|13|ADVMOD 9|8|FIXED 10|13|CASE 11|13|DET 12|13|AMOD 13|5|OBL 14|5|CCOMP 15|5|PUNCT
+*INV:	so , I'd like you to just look at the pictures and tell me what the story is . 256958_260170
+%mor:	adv|so cm|cm pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S pron|you-Prs-Acc-S2 part|to adv|just verb|look-Inf-S adp|at det|the-Def-Art noun|picture-Plur cconj|and verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|what-Int-S1 det|the-Def-Art noun|story aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|5|ADVMOD 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|9|MARK 8|9|ADVMOD 9|5|XCOMP 10|12|CASE 11|12|DET 12|9|OBL 13|14|CC 14|9|CONJ 15|14|IOBJ 16|14|CCOMP 17|18|DET 18|16|NSUBJ 19|16|ACL-RELCL 20|5|PUNCT
+*PAR:	he kicked the &-uh soccer ball . 261344_263450
+%mor:	pron|he-Prs-Nom-S3 verb|kick-Fin-Ind-Past-S3 det|the-Def-Art noun|soccer noun|ball-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|COMPOUND 5|2|OBJ 6|2|PUNCT
+*PAR:	it went through &-uh the window . 264047_266489
+%mor:	pron|it-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3-irr adp|through det|the-Def-Art noun|window .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*PAR:	and &-uh the guy inside caught it and &-uh looked out the window . 267990_279660
+%mor:	cconj|and det|the-Def-Art noun|guy adv|inside verb|catch-Fin-Ind-Past-S3-irr pron|it-Prs-Acc-S3 cconj|and verb|look-Fin-Ind-Past-S3 adp|out det|the-Def-Art noun|window-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|3|ADVMOD 5|0|ROOT 6|5|OBJ 7|8|CC 8|5|CONJ 9|8|COMPOUND-PRT 10|11|DET 11|8|OBJ 12|5|PUNCT
+*INV:	excellent .
+%mor:	adj|excellent-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+@G:	Umbrella
+*INV:	how about this one ?
+%mor:	adv|how adp|about det|this-Def-Dem-Sing noun|one ?
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+*PAR:	&-um she doesn't &-uh wanna take the umbrella . 291076_295879
+%mor:	pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|want-Inf-S~part|to verb|take-Inf-S det|the-Def-Art noun|umbrella-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|8|DET 8|6|OBJ 9|4|PUNCT
+*PAR:	and it's &-uh raining . 303450_304971
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|rain-Part-Pres-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	but &-uh I guess &-uh was he +..? [+ exc] 312483_317050
+%mor:	cconj|but pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 aux|be-Fin-Ind-Past-S3-irr pron|he-Prs-Nom-S3 +..?
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|CCOMP 5|3|CCOMP 6|3|PUNCT
+*PAR:	he relented after it rained and &-uh took the umbrella and went for a walk . 320710_332910
+%mor:	pron|he-Prs-Nom-S3 verb|relent-Fin-Ind-Past-S3 sconj|after pron|it-Prs-Nom-S3 verb|rain-Fin-Ind-Past-S3 cconj|and verb|take-Fin-Ind-Past-S3-irr det|the-Def-Art noun|umbrella-Acc cconj|and verb|go-Fin-Ind-Past-S3-irr adp|for det|a-Ind-Art noun|walk .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|MARK 4|5|NSUBJ 5|2|ADVCL 6|7|CC 7|5|CONJ 8|9|DET 9|7|OBJ 10|11|CC 11|7|CONJ 12|14|CASE 13|14|DET 14|11|OBL 15|2|PUNCT
+*INV:	great . 333605_333835
+%mor:	adj|great-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	excellent . 334126_334405
+%mor:	adj|excellent-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+@G:	Cat
+*INV:	and one last one here .
+%mor:	cconj|and num|one adj|last-S1 noun|one adv|here .
+%gra:	1|4|CC 2|4|NUMMOD 3|4|AMOD 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	guy went up the &-uh tree for a cat . 343516_347000
+%mor:	noun|guy verb|go-Fin-Ind-Past-S3-irr adp|up det|the-Def-Art noun|tree adp|for det|a-Ind-Art noun|cat .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|8|CASE 7|8|DET 8|2|OBL 9|2|PUNCT
+*PAR:	and a dog's chasing him . 348561_351441
+%mor:	cconj|and det|a-Ind-Art noun|dog~part|s verb|chase-Ger-S pron|he-Prs-Acc-S3 .
+%gra:	1|5|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	and &-uh firemen are on their way . 352343_356913
+%mor:	cconj|and noun|firemen-Plur aux|be-Fin-Ind-Pres-P3 adp|on pron|their-Prs-Gen-P3 noun|way .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|NMOD-POSS 6|0|ROOT 7|6|PUNCT
+*INV:	excellent .
+%mor:	adj|excellent-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	great .
+%mor:	adj|great-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+@G:	Repetition
+*INV:	the tour bus is coming . 368000_369381
+%mor:	det|the-Def-Art noun|tour noun|bus aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	the tour bus is coming . 370303_372790
+%mor:	det|the-Def-Art noun|tour noun|bus aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*INV:	the tour bus is coming into the town . 373808_376370
+%mor:	det|the-Def-Art noun|tour noun|bus aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S adp|into det|the-Def-Art noun|town .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*PAR:	the tour bus is coming into the town . 377753_382500
+%mor:	det|the-Def-Art noun|tour noun|bus aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S adp|into det|the-Def-Art noun|town .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*INV:	the tour bus is coming into the town to pick up the people . 384340_388884
+%mor:	det|the-Def-Art noun|tour noun|bus aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S adp|into det|the-Def-Art noun|town part|to verb|pick-Inf-S adp|up det|the-Def-Art noun|person-Plur-Acc .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|10|MARK 10|5|ADVCL 11|10|COMPOUND-PRT 12|13|DET 13|10|OBJ 14|5|PUNCT
+*PAR:	the tour bus is coming into the town to pick up the people . 390026_397810
+%mor:	det|the-Def-Art noun|tour noun|bus aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S adp|into det|the-Def-Art noun|town part|to verb|pick-Inf-S adp|up det|the-Def-Art noun|person-Plur-Acc .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|10|MARK 10|5|ADVCL 11|10|COMPOUND-PRT 12|13|DET 13|10|OBJ 14|5|PUNCT
+*INV:	great . 398397_398537
+%mor:	adj|great-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	the tour bus is coming into the town to pick up the people from the hotel . 400140_406108
+%mor:	det|the-Def-Art noun|tour noun|bus aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S adp|into det|the-Def-Art noun|town part|to verb|pick-Inf-S adp|up det|the-Def-Art noun|person-Plur-Acc adp|from det|the-Def-Art noun|hotel .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|10|MARK 10|5|ADVCL 11|10|COMPOUND-PRT 12|13|DET 13|10|OBJ 14|16|CASE 15|16|DET 16|10|OBL 17|5|PUNCT
+*PAR:	the tour bus is coming into the town to pick up the people coming from the hotel . 407520_421749
+%mor:	det|the-Def-Art noun|tour noun|bus aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S adp|into det|the-Def-Art noun|town part|to verb|pick-Inf-S adp|up det|the-Def-Art noun|person-Plur-Acc verb|come-Ger-S adp|from det|the-Def-Art noun|hotel .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|10|MARK 10|5|ADVCL 11|10|COMPOUND-PRT 12|13|DET 13|10|OBJ 14|13|ACL 15|17|CASE 16|17|DET 17|14|OBL 18|5|PUNCT
+*INV:	okay . 422280_422560
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	the tour bus is coming into the town to pick up the people from the hotel to go swimming . 426206_433818
+%mor:	det|the-Def-Art noun|tour noun|bus aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S adp|into det|the-Def-Art noun|town part|to verb|pick-Inf-S adp|up det|the-Def-Art noun|person-Plur-Acc adp|from det|the-Def-Art noun|hotel part|to verb|go-Inf-S noun|swim-Acc-Ger .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|10|MARK 10|5|ADVCL 11|10|COMPOUND-PRT 12|13|DET 13|10|OBJ 14|16|CASE 15|16|DET 16|10|OBL 17|18|MARK 18|10|ADVCL 19|18|OBJ 20|5|PUNCT
+*PAR:	the tour bus is coming into the town to pick up the &-uh people who wants &-uh to go swimming . 435450_454700
+%mor:	det|the-Def-Art noun|tour noun|bus aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S adp|into det|the-Def-Art noun|town part|to verb|pick-Inf-S adp|up det|the-Def-Art noun|person-Plur-Acc pron|who-Rel verb|want-Fin-Ind-Pres-S3 part|to verb|go-Inf-S verb|swim-Ger-S .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|10|MARK 10|5|ADVCL 11|10|COMPOUND-PRT 12|13|DET 13|10|OBJ 14|15|NSUBJ 15|13|ACL-RELCL 16|17|MARK 17|15|XCOMP 18|17|XCOMP 19|5|PUNCT
+*INV:	great .
+%mor:	adj|great-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	excellent .
+%mor:	adj|excellent-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	alright .
+%mor:	intj|alright .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	&-uh for the second part &-um still going to say some sentences that I'd like you to repeat . 463376_468519
+%mor:	adp|for det|the-Def-Art adj|second-S1 noun|part adv|still verb|go-Part-Pres-S part|to verb|say-Inf-S det|some-Def-Ind noun|sentence-Plur-Acc pron|that-Rel pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S pron|you-Prs-Acc-S2 part|to verb|repeat-Inf-S .
+%gra:	1|4|CASE 2|4|DET 3|4|AMOD 4|6|OBL 5|6|ADVMOD 6|0|ROOT 7|8|MARK 8|6|XCOMP 9|10|DET 10|8|OBJ 11|14|OBJ 12|14|NSUBJ 13|14|AUX 14|10|ACL-RELCL 15|14|OBJ 16|17|MARK 17|14|XCOMP 18|6|PUNCT
+*INV:	&-um this time I'd like to just remind you to say exactly what I say even if it sounds a little funny . 469466_474256
+%mor:	det|this-Def-Dem-Sing noun|time pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S part|to adv|just verb|remind-Inf-S pron|you-Prs-Acc-S2 part|to verb|say-Inf-S adv|exactly pron|what-Rel-S1 pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Pres-S1 adv|even sconj|if pron|it-Prs-Nom-S3 verb|sound-Fin-Ind-Pres-S3 det|a-Ind-Art adj|little-S1 adj|funny-S1 .
+%gra:	1|2|DET 2|5|OBL-UNMARKED 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|MARK 7|8|ADVMOD 8|5|XCOMP 9|8|IOBJ 10|11|MARK 11|8|XCOMP 12|13|ADVMOD 13|11|OBJ 14|15|NSUBJ 15|13|ACL-RELCL 16|19|ADVMOD 17|19|MARK 18|19|NSUBJ 19|11|ADVCL 20|21|DET 21|22|OBL-UNMARKED 22|19|XCOMP 23|5|PUNCT
+*INV:	the dog chased the cat up the tree . 476543_478970
+%mor:	det|the-Def-Art noun|dog verb|chase-Fin-Ind-Past-S3 det|the-Def-Art noun|cat-Acc adp|up det|the-Def-Art noun|tree-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|COMPOUND-PRT 7|8|DET 8|3|OBJ 9|3|PUNCT
+*PAR:	the dog chased the cat up the tree . 480580_484810
+%mor:	det|the-Def-Art noun|dog verb|chase-Fin-Ind-Past-S3 det|the-Def-Art noun|cat-Acc adp|up det|the-Def-Art noun|tree-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|COMPOUND-PRT 7|8|DET 8|3|OBJ 9|3|PUNCT
+*INV:	the bird was caught by the worm . 486466_488950
+%mor:	det|the-Def-Art noun|bird aux|be-Fin-Ind-Past-S3-irr verb|catch-Part-Past-S-irr adp|by det|the-Def-Art noun|worm .
+%gra:	1|2|DET 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL-AGENT 8|4|PUNCT
+*PAR:	the bird was caught by the worm . 490571_494030
+%mor:	det|the-Def-Art noun|bird aux|be-Fin-Ind-Past-S3-irr verb|catch-Part-Past-S-irr adp|by det|the-Def-Art noun|worm .
+%gra:	1|2|DET 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL-AGENT 8|4|PUNCT
+*INV:	great . 494266_494435
+%mor:	adj|great-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	would you like to star in a movie ? 495800_497390
+%mor:	aux|would-Fin-S pron|you-Prs-Nom-S2 verb|like-Inf-S part|to verb|star-Inf-S adp|in det|a-Ind-Art noun|movie ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|3|PUNCT
+*PAR:	would you like to &-uh star in a movie ? 498764_502430
+%mor:	aux|would-Fin-S pron|you-Prs-Nom-S2 verb|like-Inf-S part|to verb|star-Inf-S adp|in det|a-Ind-Art noun|movie ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|3|PUNCT
+*INV:	books like to read children . 504231_506494
+%mor:	noun|book-Plur verb|like-Fin-Ind-Pres-P3 part|to verb|read-Inf-S noun|child-Plur-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+*PAR:	books like to read children . 507866_511886
+%mor:	noun|book-Plur verb|like-Fin-Ind-Pres-P3 part|to verb|read-Inf-S noun|child-Plur-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+*PAR:	okay .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	icecream tastes good in the summer . 514456_517090
+%mor:	noun|icecream verb|taste-Fin-Ind-Pres-S3 adj|good-S1 adp|in det|the-Def-Art noun|summer .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|XCOMP 4|6|CASE 5|6|DET 6|2|OBL 7|2|PUNCT
+*PAR:	icecream tastes good in the summer . 518302_522309
+%mor:	noun|icecream verb|taste-Fin-Ind-Pres-S3 adj|good-S1 adp|in det|the-Def-Art noun|summer .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|XCOMP 4|6|CASE 5|6|DET 6|2|OBL 7|2|PUNCT
+*INV:	beautiful flowers smelled the lovely woman . 524020_527262
+%mor:	adj|beautiful-S1 noun|flower-Plur verb|smell-Fin-Ind-Past-P3 det|the-Def-Art adj|lovely-S1 noun|woman-Acc .
+%gra:	1|2|AMOD 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+*PAR:	beautiful flowers smelled the beautiful woman . 529144_536170
+%mor:	adj|beautiful-S1 noun|flower-Plur verb|smell-Fin-Ind-Past-P3 det|the-Def-Art adj|beautiful-S1 noun|woman-Acc .
+%gra:	1|2|AMOD 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+*INV:	count to ten as fast as you can . 539930_542040
+%mor:	verb|count-Fin-Imp-S adp|to num|ten adv|as adv|fast sconj|as pron|you-Prs-Nom-S2 aux|can-Fin-S .
+%gra:	1|0|ROOT 2|3|CASE 3|1|OBL 4|5|ADVMOD 5|1|ADVMOD 6|8|MARK 7|8|NSUBJ 8|5|ADVCL 9|1|PUNCT
+*PAR:	count to ten as fast as you can . 543372_547350
+%mor:	verb|count-Fin-Imp-S adp|to num|ten adv|as adv|fast sconj|as pron|you-Prs-Nom-S2 aux|can-Fin-S .
+%gra:	1|0|ROOT 2|3|CASE 3|1|OBL 4|5|ADVMOD 5|1|ADVMOD 6|8|MARK 7|8|NSUBJ 8|5|ADVCL 9|1|PUNCT
+*INV:	the man saw the boy that the dog chased . 549117_552219
+%mor:	det|the-Def-Art noun|man verb|see-Fin-Ind-Past-S3-irr det|the-Def-Art noun|boy-Acc pron|that-Rel det|the-Def-Art noun|dog verb|chase-Fin-Ind-Past-S3 .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|9|OBJ 7|8|DET 8|9|NSUBJ 9|5|ACL-RELCL 10|3|PUNCT
+*PAR:	the man saw the boy that the dog chased . 553420_558865
+%mor:	det|the-Def-Art noun|man verb|see-Fin-Ind-Past-S3-irr det|the-Def-Art noun|boy-Acc pron|that-Rel det|the-Def-Art noun|dog verb|chase-Fin-Ind-Past-S3 .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|9|OBJ 7|8|DET 8|9|NSUBJ 9|5|ACL-RELCL 10|3|PUNCT
+*INV:	tell me the name of the person next door . 560507_562750
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|the-Def-Art noun|name-Acc adp|of det|the-Def-Art noun|person adj|next-S1 noun|door .
+%gra:	1|0|ROOT 2|1|IOBJ 3|4|DET 4|1|OBJ 5|9|CASE 6|7|DET 7|9|NMOD-POSS 8|9|AMOD 9|4|NMOD 10|1|PUNCT
+*PAR:	tell me the name of the person next door . 564070_568680
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|the-Def-Art noun|name-Acc adp|of det|the-Def-Art noun|person adj|next-S1 noun|door .
+%gra:	1|0|ROOT 2|1|IOBJ 3|4|DET 4|1|OBJ 5|9|CASE 6|7|DET 7|9|NMOD-POSS 8|9|AMOD 9|4|NMOD 10|1|PUNCT
+*INV:	how many are in a dozen ? 569970_571402
+%mor:	adv|how adj|many-S1 aux|be-Fin-Ind-Pres-P3 adp|in det|a-Ind-Art num|dozen ?
+%gra:	1|2|ADVMOD 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|0|ROOT 7|6|PUNCT
+*PAR:	how many are in a dozen ? 572845_575310
+%mor:	adv|how adj|many-S1 aux|be-Fin-Ind-Pres-P3 adp|in det|a-Ind-Art num|dozen ?
+%gra:	1|2|ADVMOD 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|0|ROOT 7|6|PUNCT
+*INV:	the tiger was clawed by the lion . 576730_579211
+%mor:	det|the-Def-Art noun|tiger aux|be-Fin-Ind-Past-S3-irr verb|claw-Part-Past-S adp|by det|the-Def-Art noun|lion .
+%gra:	1|2|DET 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL-AGENT 8|4|PUNCT
+*PAR:	the tiger was clawed by the lion . 580372_583850
+%mor:	det|the-Def-Art noun|tiger aux|be-Fin-Ind-Past-S3-irr verb|claw-Part-Past-S adp|by det|the-Def-Art noun|lion .
+%gra:	1|2|DET 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL-AGENT 8|4|PUNCT
+*INV:	bad weather was caused by long airplane delays . 585176_588819
+%mor:	adj|bad-S1 noun|weather aux|be-Fin-Ind-Past-S3-irr verb|cause-Part-Past-S adp|by adj|long-S1 noun|airplane noun|delay-Plur .
+%gra:	1|2|AMOD 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|0|ROOT 5|8|CASE 6|8|AMOD 7|8|COMPOUND 8|4|OBL-AGENT 9|4|PUNCT
+*PAR:	bad weather was caused by the airplane delays . 590400_597353
+%mor:	adj|bad-S1 noun|weather aux|be-Fin-Ind-Past-S3-irr verb|cause-Part-Past-S adp|by det|the-Def-Art noun|airplane noun|delay-Plur .
+%gra:	1|2|AMOD 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|0|ROOT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL-AGENT 9|4|PUNCT
+*INV:	great . 597893_598033
+%mor:	adj|great-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	excellent .
+%mor:	adj|excellent-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

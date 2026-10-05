@@ -1,0 +1,87 @@
+@UTF8
+@PID:	11312/t-00016147-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR||female|MCI||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T06:00:25-04:00]
+@Media:	237-2, audio
+@G:	animals
+*INV:	good ‡ and you can begin now . 0_2459
+%mor:	adj|good-S1 noun|‡ cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S adv|now .
+%gra:	1|2|AMOD 2|0|ROOT 3|6|CC 4|6|NSUBJ 5|6|AUX 6|2|CONJ 7|6|ADVMOD 8|2|PUNCT
+*PAR:	rabbit . 2459_3519
+%mor:	noun|rabbit .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-um dog . 3519_8095
+%mor:	noun|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cat . 8095_9324
+%mor:	noun|cat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	squirrel . 9324_11549
+%mor:	noun|squirrel .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) &-uh rhinoceros . 11549_15907
+%mor:	noun|rhinocero-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh monkey . 15907_20031
+%mor:	noun|monkey .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) &-um (...) &-um &-um possum . 20031_41975
+%mor:	noun|possum .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	oh_gosh &=laughs . [+ exc] 41975_54007
+%mor:	propn|ohgosh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	I'm not good at animals &=laughs . [+ exc] 54007_57306
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not adj|good-S1 adp|at noun|animal-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*INV:	you just have a few more seconds left . 57306_59686
+%mor:	pron|you-Prs-Nom-S2 adv|just verb|have-Fin-Ind-Pres-S2 det|a-Ind-Art adj|few-S1 adj|more-Cmp-S1 noun|second-Plur-Acc verb|leave-Part-Past-S-irr .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|7|DET 5|7|AMOD 6|7|AMOD 7|3|OBJ 8|3|XCOMP 9|3|PUNCT
+@G:	F
+*INV:	okay ‡ for f@l . 62659_64449
+%mor:	intj|okay punct|‡ adp|for n:let|f .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|4|CASE 4|2|DEP 5|2|PUNCT
+*INV:	and you can begin now . 64449_66379
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S adv|now .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	fan . 66379_67843
+%mor:	noun|fan .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	funnel . 67843_68854
+%mor:	noun|funnel .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	frames . 68854_70736
+%mor:	noun|frame-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	faucets . 70736_72776
+%mor:	noun|faucet-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	any words at all that begins with the letter f@l . 95500_99472
+%mor:	det|any-Def-Ind noun|word-Plur adp|at det|all-Def-Tot pron|that-Rel verb|begin-Fin-Ind-Pres-S3 adp|with det|the-Def-Art noun|letter n:let|f .
+%gra:	1|2|DET 2|0|ROOT 3|4|CASE 4|2|NMOD 5|6|NSUBJ 6|2|ACL-RELCL 7|10|CASE 8|10|DET 9|10|COMPOUND 10|6|DEP 11|2|PUNCT
+*PAR:	isn't this somethin(g) ? [+ exc] 99472_101900
+%mor:	aux|be-Fin-Ind-Pres-S3~part|not pron|this-Dem-S1 pron|something-Ind-S1 ?
+%gra:	1|4|COP 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	&=sighs &-um (..) flannel ! 101900_111110
+%mor:	noun|flannel !
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	does that count ? [+ exc] 111110_112219
+%mor:	aux|do-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|count-Acc ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*INV:	+< mhm . 111519_112565
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	flannel . 112565_113575
+%mor:	noun|flannel .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	fabric . 113575_114368
+%mor:	noun|fabric .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay . 123200_126700
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

@@ -1,0 +1,130 @@
+@UTF8
+@PID:	11312/t-00016226-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|83;|female|ProbableAD||Participant|24||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-07T09:47:19-04:00]
+@Media:	620-0, audio
+@G:	animals
+*INV:	you can start now . 0_1650
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	cow . 1650_3254
+%mor:	noun|cow .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	horse . 3254_5401
+%mor:	noun|horse .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	pony . 5401_7908
+%mor:	noun|pony .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	sheep . 7908_9977
+%mor:	noun|sheep-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	hippopotamus . 9977_13604
+%mor:	noun|hippopotamus .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	rhinoceros . 13604_16094
+%mor:	noun|rhinocero-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	rabbit . 16094_19049
+%mor:	noun|rabbit .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) &-um chicken . 19049_23844
+%mor:	noun|chicken .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) &-um dog . 23844_29229
+%mor:	noun|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cat . 29229_31020
+%mor:	noun|cat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	snake . 31020_33899
+%mor:	noun|snake .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-hm horse . 33899_41651
+%mor:	noun|horse .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	sheep . 41651_45867
+%mor:	noun|sheep-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	I did say sheep@q „ didn't I ? [+ exc] 45867_47299
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr verb|say-Inf-S meta|sheep punct|„ aux|do-Fin-Ind-Past-S3-irr~part|not pron|I-Prs-Nom-S1 ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|DEP 5|6|PUNCT 6|3|CCOMP 7|6|ADVMOD 8|6|OBJ 9|3|PUNCT
+*PAR:	cows . 47299_50987
+%mor:	noun|cow-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	pigs . 50987_52389
+%mor:	noun|pig-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) xxx . 52389_57997
+*INV:	okay ‡ good . 57997_59668
+%mor:	intj|okay intj|‡ adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|PUNCT
+@G:	F
+*INV:	begin with the letter f@l . 59668_61616
+%mor:	verb|begin-Fin-Imp-S adp|with det|the-Def-Art noun|letter n:let|f .
+%gra:	1|0|ROOT 2|5|CASE 3|5|DET 4|5|COMPOUND 5|1|DEP 6|1|PUNCT
+*INV:	and you can start now . 61616_63658
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	fence . 63658_67595
+%mor:	noun|fence .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	funeral . 67595_69633
+%mor:	noun|funeral .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	furnace . 69633_74334
+%mor:	noun|furnace .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	is that right ? [+ exc] 74334_76465
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem adj|right-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*INV:	mhm . 76465_77447
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	all the words you can think of that begin with the letter f@l . 77447_81463
+%mor:	det|all-Def-Tot det|the-Def-Art noun|word-Plur pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of pron|that-Rel verb|begin-Fin-Ind-Pres-P3 adp|with det|the-Def-Art noun|letter n:let|f .
+%gra:	1|3|DET-PREDET 2|3|DET 3|9|NSUBJ 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|6|OBL 8|9|NSUBJ 9|0|ROOT 10|13|CASE 11|13|DET 12|13|COMPOUND 13|9|DEP 14|9|PUNCT
+*PAR:	flowers . 81463_82865
+%mor:	noun|flower-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) no animals ? [+ exc] 82865_87184
+%mor:	det|no-Def-Neg noun|animal-Plur ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*INV:	all the words . 87184_88751
+%mor:	det|all-Def-Tot det|the-Def-Art noun|word-Plur .
+%gra:	1|3|DET-PREDET 2|3|DET 3|0|ROOT 4|3|PUNCT
+*INV:	any word at all . 88751_90492
+%mor:	det|any-Def-Ind noun|word adp|at det|all-Def-Tot .
+%gra:	1|2|DET 2|0|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+*PAR:	+< falcon [/] falcon . 89092_91535
+%mor:	propn|falcon .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&+phe &-uh no ‡ pheasent@q begins with p@l . [+ exc] 91535_97014
+%mor:	det|no-Def-Neg punct|‡ meta|pheasent verb|begin-Fin-Ind-Pres-S3 adp|with n:let|p .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|DEP 4|0|ROOT 5|6|CASE 6|4|DEP 7|4|PUNCT
+*PAR:	(..) any kind of an animal . [+ exc] 97014_103026
+%mor:	det|any-Def-Ind noun|kind adp|of det|a-Ind-Art noun|animal .
+%gra:	1|2|DET 2|0|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|2|PUNCT
+*INV:	any word at all that begins with the letter f@l . 103026_105697
+%mor:	det|any-Def-Ind noun|word adp|at det|all-Def-Tot pron|that-Rel verb|begin-Fin-Ind-Pres-S3 adp|with det|the-Def-Art noun|letter n:let|f .
+%gra:	1|2|DET 2|0|ROOT 3|4|CASE 4|2|NMOD 5|6|NSUBJ 6|2|ACL-RELCL 7|10|CASE 8|10|DET 9|10|COMPOUND 10|6|DEP 11|2|PUNCT
+*PAR:	f@l . [+ exc] 105697_106945
+%mor:	n:let|f .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	flowers . 106945_112113
+%mor:	noun|flower-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	I said flowers@q . [+ exc] 112113_113515
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr meta|flowers .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|DEP 4|2|PUNCT
+*PAR:	(.) funerals . 113515_120609
+%mor:	noun|funeral-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay ‡ that's good . 120609_125079
+%mor:	intj|okay punct|‡ pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+@End

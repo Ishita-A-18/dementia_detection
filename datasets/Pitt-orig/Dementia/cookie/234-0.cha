@@ -1,0 +1,67 @@
+@UTF8
+@PID:	11312/t-00002573-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|66;|male|Vascular||Participant|16||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T22:02:07-04:00]
+@Media:	234-0, audio
+@G:	Cookie
+*INV:	what do you see happening in that picture ? 0_1500
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|5|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|4|PUNCT
+%wor:	what 0_180 do 180_220 you 220_260 see 260_440 happening 440_740 in 740_1000 that 1000_1180 picture 1180_1530 ?
+*PAR:	mhm . [+ exc] 1500_1889
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	mhm 1500_2059 .
+*INV:	+< what's happening ? 1889_2440
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S ?
+%gra:	1|3|OBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%wor:	what's 1940_2140 happening 2140_2449 ?
+*PAR:	well ‡ the kids is [* m:a] robbin(g) a cookie jar . 2440_4780
+%mor:	intj|well punct|‡ det|the-Def-Art noun|kid-Plur aux|be-Fin-Ind-Pres-S3 verb|robb-Part-Pres-S det|a-Ind-Art noun|cookie noun|jar-Acc .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|4|DET 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|9|DET 8|9|COMPOUND 9|6|OBJ 10|6|PUNCT
+%wor:	well 2440_2900 ‡ the 2900_3100 kids 3100_3320 is 3320_3520 robbing 3520_3940 a 3940_4080 cookie 4080_4320 jar 4320_4964 .
+*PAR:	and &-uh the mother is &-uh washin(g) dishes and forgettin(g) that the water is runnin(g) . 4780_9384
+%mor:	cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc cconj|and verb|forget-Part-Pres-S sconj|that det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|8|CC 8|5|CONJ 9|13|MARK 10|11|DET 11|13|NSUBJ 12|13|AUX 13|8|CCOMP 14|5|PUNCT
+%wor:	and 4780_5620 uh 5620_5860 the 5860_5980 mother 5980_6220 is 6220_6440 uh 6440_6740 washing 6740_7600 dishes 7600_8020 and 8020_8240 forgetting 8240_8560 that 8560_8720 the 8720_8800 water 8800_9040 is 9040_9240 running 9240_9384 .
+*PAR:	it's runnin(g) on the floor . 9420_10380
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	it's 9420_9580 running 9580_9780 on 9780_9920 the 9920_10040 floor 10040_10488 .
+*INV:	mhm . 10380_11260
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	mhm 10380_11368 .
+*PAR:	and his stool is about to dump him &=laughs . 11260_14280
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|stool aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|dump-Inf-S pron|he-Prs-Acc-S3 .
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|7|OBJ 9|5|PUNCT
+%wor:	and 11260_11760 his 12640_12880 stool 12880_13240 is 13240_13340 about 13340_13540 to 13540_13700 dump 13700_13960 him 13960_14966 .
+*PAR:	see here ? [+ exc] 14280_15650
+%mor:	verb|see-Fin-Imp-S adv|here ?
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	see 14280_15260 here 15260_15650 ?
+*INV:	uhhuh yeah . 15660_16680
+%mor:	intj|uhhuh intj|yeah .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%wor:	uhhuh 15660_16260 yeah 16260_16864 .
+*PAR:	+< he's about to go . 16680_18075
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|go-Inf-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|3|PUNCT
+%wor:	he's 16680_16800 about 16800_17040 to 17040_17240 go 17240_18075 .
+*PAR:	now I think that's just about all I can see that's [//] that you might be lookin(g) for . [+ exc] 21206_25756
+%mor:	adv|now pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|just adv|about det|all-Def-Tot pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S sconj|that pron|you-Prs-Nom-S2 aux|might-Fin-S aux|be-Inf-S verb|look-Part-Pres-S adp|for .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|8|NSUBJ 5|8|COP 6|8|ADVMOD 7|8|ADVMOD 8|3|CCOMP 9|11|NSUBJ 10|11|AUX 11|8|ACL-RELCL 12|16|MARK 13|16|NSUBJ 14|16|AUX 15|16|AUX 16|11|CCOMP 17|16|OBL 18|3|PUNCT
+%wor:	now 21206_21426 I 21426_21506 think 21506_21646 that's 21646_21946 just 21946_22166 about 22166_22406 all 22406_22626 I 22626_22786 can 22786_22946 see 22946_23186 that's 23186_23486 that 23486_23986 you 24666_24786 might 24786_24986 be 24986_25146 looking 25146_25386 for 25386_25756 .
+*PAR:	he's about to drop off that stool too . 25786_28280
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|drop-Inf-S adp|off det|that-Def-Dem-Sing noun|stool-Acc adv|too .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|COMPOUND-PRT 7|8|DET 8|5|OBJ 9|5|ADVMOD 10|3|PUNCT
+%wor:	he's 25786_26306 about 26306_26546 to 26546_26786 drop 26786_27306 off 27306_27526 that 27526_27726 stool 27726_28086 too 28086_28677 .
+*INV:	okay . 28280_28500
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	okay 28446_28500 .
+@End

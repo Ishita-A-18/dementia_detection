@@ -1,0 +1,72 @@
+@UTF8
+@PID:	11312/t-00002207-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|72;00.|male|Control||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T21:48:41-04:00]
+@Media:	034-2, audio
+@Comment:	bad background hum , age is educated estimate extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	you see going on in the picture . 50_4510
+%mor:	pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|XCOMP 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|2|PUNCT
+%wor:	you 50_550 see 3090_3130 going 3130_3770 on 3770_4010 in 4010_4250 the 4250_4290 picture 4290_4740 .
+*PAR:	everything I see in action or everything I +..? [+ exc] 4510_6970
+%mor:	pron|everything-Tot-S1 pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 adp|in noun|action cconj|or pron|everything-Tot-S1 pron|I-Prs-Nom-S1 +..?
+%gra:	1|0|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|5|CASE 5|3|OBL 6|7|CC 7|5|CONJ 8|7|FLAT 9|1|PUNCT
+%wor:	everything 4510_5070 I 5070_5430 see 5430_5710 in 5710_5890 action 5890_6250 or 6250_6470 everything 6470_6730 I 6730_7295 +..?
+*PAR:	in action or +..? [+ exc] 6970_8150
+%mor:	adp|in noun|action cconj|or +..?
+%gra:	1|2|CASE 2|0|ROOT 3|2|CC 4|2|PUNCT
+%wor:	in 6970_7730 action 7730_8170 or 8170_8375 +..?
+*INV:	+< in action . 8150_8500
+%mor:	adp|in noun|action .
+%gra:	1|2|CASE 2|0|ROOT 3|2|PUNCT
+%wor:	in 8770_8950 action 8950_9450 .
+*PAR:	in action . [+ exc] 8500_8860
+%mor:	adp|in noun|action .
+%gra:	1|2|CASE 2|0|ROOT 3|2|PUNCT
+%wor:	in 9070_9110 action 9110_9450 .
+*INV:	+< everything that's happening in that picture . 8860_10470
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|7|CASE 6|7|DET 7|4|OBL 8|1|PUNCT
+%wor:	everything 9070_9110 that's 9110_9230 happening 9230_9490 in 9490_9790 that 9790_10010 picture 10010_10470 .
+*PAR:	the little girl is trying to get a cookie from the little boy who is on a stool reaching up too high and is just about to have an accident . 10491_26081
+%mor:	det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|get-Inf-S det|a-Ind-Art noun|cookie-Acc adp|from det|the-Def-Art adj|little-S1 noun|boy pron|who-Rel aux|be-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art noun|stool verb|reach-Ger-S adp|up adv|too adj|high-S1 cconj|and aux|be-Fin-Ind-Pres-S3 adv|just adj|about-S1 part|to verb|have-Inf-S det|a-Ind-Art noun|accident-Acc .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|9|DET 9|7|OBJ 10|13|CASE 11|13|DET 12|13|AMOD 13|9|NMOD 14|18|NSUBJ 15|18|COP 16|18|CASE 17|18|DET 18|13|ACL-RELCL 19|18|ACL 20|19|COMPOUND-PRT 21|22|ADVMOD 22|19|ADVMOD 23|26|CC 24|26|COP 25|26|ADVMOD 26|18|CONJ 27|28|MARK 28|26|XCOMP 29|30|DET 30|28|OBJ 31|5|PUNCT
+%wor:	the 10491_10991 little 15711_15831 girl 15831_16151 is 16151_16491 trying 16491_17451 to 17451_17571 get 17571_17731 a 17731_17871 cookie 17871_18151 from 18151_18451 the 18451_18591 little 18591_18791 boy 18791_19191 who 19191_20031 is 20031_20171 on 20171_20371 a 20371_20551 stool 20551_20991 reaching 20991_21491 up 22151_22451 too 22451_22731 high 22731_23111 and 23111_23291 is 23291_23491 just 23491_24191 about 24191_24511 to 24511_24731 have 24731_24931 an 24931_25071 accident 25071_26081 .
+*PAR:	stool is gonna tip over on him . [+ gram] 26102_30582
+%mor:	noun|stool aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|tip-Inf-S adp|over adp|on pron|he-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|COMPOUND-PRT 7|8|CASE 8|5|OBL 9|3|PUNCT
+%wor:	stool 26102_27062 is 27062_27222 gonna 27222_27462 tip 27462_27962 over 28962_29322 on 29322_29642 him 29642_30732 .
+*PAR:	the supposed mother is drying dishes and not paying attention to what she's doing . 30582_39794
+%mor:	det|the-Def-Art verb|suppose-Part-Past-S noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur-Acc cconj|and part|not verb|pay-Part-Pres-S noun|attention-Acc adp|to pron|what-Rel-S1 pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|9|CC 8|9|ADVMOD 9|5|CONJ 10|9|OBJ 11|12|CASE 12|9|OBL 13|15|NSUBJ 14|15|AUX 15|12|ACL-RELCL 16|5|PUNCT
+%wor:	the 30582_31082 supposed 31602_32102 mother 33822_34362 is 34362_34862 drying 35922_36302 dishes 36302_36762 and 36762_36982 not 36982_37162 paying 37162_37422 attention 37422_37882 to 37882_38082 what 38082_38262 she's 38262_38482 doing 38482_39794 .
+*PAR:	and the &+s water in the sink is running over onto the floor making another hazardous condition . 39844_46764
+%mor:	cconj|and det|the-Def-Art noun|water adp|in det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over adp|onto det|the-Def-Art noun|floor verb|make-Part-Pres-S det|another-Def-Ind adj|hazardous-S1 noun|condition-Acc .
+%gra:	1|8|CC 2|3|DET 3|8|NSUBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|8|AUX 8|0|ROOT 9|8|COMPOUND-PRT 10|12|CASE 11|12|DET 12|8|OBL 13|8|ADVCL 14|16|DET 15|16|AMOD 16|13|OBJ 17|8|PUNCT
+%wor:	and 39844_40304 the 40304_40464 water 40464_40964 in 41764_42024 the 42024_42204 sink 42204_42464 is 42464_42664 running 42664_42964 over 42964_43284 onto 43284_43584 the 43584_43744 floor 43744_44184 making 44184_45164 another 45164_45544 hazardous 45544_46104 condition 46104_47514 .
+*PAR:	the window seems to be open . 46764_50924
+%mor:	det|the-Def-Art noun|window verb|seem-Fin-Ind-Pres-S3 part|to aux|be-Inf-S adj|open-S1 .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|6|MARK 5|6|COP 6|3|XCOMP 7|3|PUNCT
+%wor:	the 46764_47264 window 49264_49604 seems 49604_50044 to 50044_50264 be 50264_50444 open 50444_51314 .
+*PAR:	that's it . [+ exc] 50924_57584
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+%wor:	that's 50924_51424 it 57344_57639 .
+*INV:	mhm , okay . 57584_58862
+%mor:	intj|mhm cm|cm intj|okay .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+%wor:	mhm 57584_58084 , okay 69724_70224 .
+*PAR:	all this activity took place in the kitchen . 58862_61770
+%mor:	det|all-Def-Tot det|this-Def-Dem-Sing noun|activity verb|take-Fin-Ind-Past-S3-irr noun|place-Acc adp|in det|the-Def-Art noun|kitchen .
+%gra:	1|3|DET-PREDET 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+%wor:	all 58862_59362 this 60582_60822 activity 60822_61282 took 61282_61662 place 61662_62002 in 62002_62222 the 62222_62402 kitchen 62402_62792 .
+*INV:	+< mhm . 61770_63022
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	mhm 62522_63022 .
+@End

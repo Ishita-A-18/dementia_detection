@@ -1,0 +1,89 @@
+@UTF8
+@PID:	11312/t-00016080-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR||female|ProbableAD||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	070-2, audio
+@G:	foods
+*INV:	you can begin now . 0_2459
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S adv|now .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	bananas . 2459_5091
+%mor:	noun|banana-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) fruit . 5091_10990
+%mor:	noun|fruit .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) spaghetti . 10990_17216
+%mor:	noun|spaghetti .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) hotdogs . 17216_21261
+%mor:	noun|hotdog-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) hamburgers . 21261_28503
+%mor:	noun|hamburger-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	(...) any more ? 28503_47783
+%mor:	det|any-Def-Ind adj|more-Cmp-S1 ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	hmhunh . [+ exc] 47783_49095
+%mor:	intj|hmhunh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	you still have some time . 49095_50505
+%mor:	pron|you-Prs-Nom-S2 adv|still verb|have-Fin-Ind-Pres-S2 det|some-Def-Ind noun|time-Acc .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*INV:	you could get a couple more in there . 50505_52266
+%mor:	pron|you-Prs-Nom-S2 aux|could-Fin-S verb|get-Inf-S det|a-Ind-Art noun|couple adj|more-Cmp-S1 adp|in adv|there .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|6|OBL-UNMARKED 6|3|OBJ 7|8|CASE 8|3|OBL 9|3|PUNCT
+*PAR:	(..) fruit ? 52266_56732
+%mor:	noun|fruit ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	(..) anything else ? 56732_63345
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|1|PUNCT
+*PAR:	jello . 63345_65471
+%mor:	noun|jello .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay . 65471_67734
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@G:	S
+*PAR:	sistex [: sister] [*] . [+ exc] 67734_70660
+%mor:	noun|sister .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	pardon me ? 70660_72885
+%mor:	verb|pardon-Inf-Imp-S pron|I-Prs-Acc-S1 ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	sistes [: sisters] [*] . 72885_74754
+%mor:	noun|sister-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	(..) okay . 74754_79280
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	sock . 79280_80607
+%mor:	noun|sock .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) steal . 80607_85929
+%mor:	noun|steal .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) sit . 85929_93928
+%mor:	verb|sit-Fin-Imp-S .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) sat . 93928_100980
+%mor:	verb|sit-Fin-Ind-Past-S-irr .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	(...) anything else ? 100980_116916
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|1|PUNCT
+*INV:	you have some more time . 116916_120760
+%mor:	pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 det|some-Def-Ind adj|more-Cmp-S1 noun|time-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|2|PUNCT
+*PAR:	(.) sistes [: sisters] [*] . 120760_128495
+%mor:	noun|sister-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay ‡ good . 128495_134658
+%mor:	intj|okay intj|‡ adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|PUNCT
+@End

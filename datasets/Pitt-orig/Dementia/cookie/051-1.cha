@@ -1,0 +1,80 @@
+@UTF8
+@PID:	11312/t-00002463-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|66;|female|ProbableAD||Participant|23||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T21:56:58-04:00]
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-07T09:47:59-04:00]
+@Media:	051-1, audio
+@G:	Cookie
+*INV:	there [/] there it is . 110_1214
+%mor:	pron|there-Int-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+%wor:	there 110_870 there 870_910 it 910_1090 is 1090_1214 .
+*INV:	whoops . 1350_1724
+%mor:	intj|whoops .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	whoops 1350_1724 .
+*INV:	there you go . 1850_3070
+%mor:	pron|there-Dem-S1 pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Pres-S2 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+%wor:	there 1850_2830 you 2830_2870 go 2870_3669 .
+*PAR:	the boy reaching for the cookies is gonna fall down on the &-um what do you call it . [+ es] 3070_13210
+%mor:	det|the-Def-Art noun|boy verb|reach-Ger-S adp|for det|the-Def-Art noun|cookie-Plur aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|fall-Inf-S adp|down adp|on det|the-Def-Art pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|call-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|DET 2|8|NSUBJ 3|2|ACL 4|6|CASE 5|6|DET 6|3|OBL 7|8|AUX 8|0|ROOT 9|10|MARK 10|8|XCOMP 11|10|COMPOUND-PRT 12|14|CASE 13|14|DET 14|10|OBL 15|17|AUX 16|17|NSUBJ 17|8|PARATAXIS 18|17|OBJ 19|8|PUNCT
+%wor:	the 3070_3570 boy 4610_5090 reaching 5090_5590 for 6590_6810 the 6810_6970 cookies 6970_7390 is 7390_8390 gonna 8390_8570 fall 8570_8890 down 8890_9370 on 9370_9510 the 9510_10610 um 10610_11110 what 12050_12450 do 12450_12570 you 12570_12650 call 12650_12930 it 12930_13258 .
+*PAR:	&-uh she's saying “shh” I think +"/. 13210_17930
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|say-Part-Pres-S intj|shh pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 +"/.
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|DISCOURSE 5|6|NSUBJ 6|3|CCOMP 7|3|PUNCT
+%wor:	uh 13210_13710 she's 14510_15010 saying 15690_16430 shh 16430_16970 I 16970_17430 think 17430_17930 +"/.
+*PAR:	+" shh@o but give me a cookie too . 18120_19840
+%mor:	on|shh cconj|but verb|give-Fin-Imp-S pron|I-Prs-Acc-S1 det|a-Ind-Art noun|cookie-Acc adv|too .
+%gra:	1|0|ROOT 2|3|CC 3|1|CONJ 4|3|IOBJ 5|6|DET 6|3|OBJ 7|3|ADVMOD 8|1|PUNCT
+%wor:	shh 18120_18300 but 18300_18520 give 18520_18800 me 18800_18920 a 18920_19040 cookie 19040_19280 too 19280_20570 .
+*PAR:	&-um mother is wiping the dish . 19840_25758
+%mor:	noun|mother aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S det|the-Def-Art noun|dish-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	um 19840_20340 mother 21680_22180 is 23460_23940 wiping 23940_24880 the 24880_25280 dish 25280_25758 .
+*PAR:	sink is running over . 25920_28038
+%mor:	noun|sink aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+%wor:	sink 25920_26420 is 26960_27180 running 27180_27440 over 27440_28038 .
+*PAR:	the &-uh +... 31139_31819
+%mor:	det|the-Def-Art +...
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	the 31139_31819 uh 31819_42995 +...
+*PAR:	I'm to tell everything I see ? [+ exc] 31819_45142
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|to verb|tell-Inf-S pron|everything-Tot-S1 pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 ?
+%gra:	1|4|NSUBJ-OUTER 2|4|COP 3|4|MARK 4|0|ROOT 5|4|IOBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|4|PUNCT
+%wor:	I'm 31819_32319 to 43259_43399 tell 43399_43679 everything 43679_44179 I 44719_45059 see 45059_45142 ?
+*INV:	well just the action , just what you see going on . 45259_47939
+%mor:	intj|well adv|just det|the-Def-Art noun|action cm|cm adv|just pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on .
+%gra:	1|4|DISCOURSE 2|4|ADVMOD 3|4|DET 4|0|ROOT 5|7|PUNCT 6|7|ADVMOD 7|4|APPOS 8|9|NSUBJ 9|7|ACL-RELCL 10|9|XCOMP 11|10|COMPOUND-PRT 12|4|PUNCT
+%wor:	well 45259_46139 just 46139_46339 the 46339_46499 action 46499_46859 , just 46859_47159 what 47159_47379 you 47379_47459 see 47459_47739 going 47739_47939 on 47939_48035 .
+*PAR:	+< all the action yeah . [+ exc] 47939_48219
+%mor:	det|all-Def-Tot det|the-Def-Art noun|action intj|yeah .
+%gra:	1|3|DET-PREDET 2|3|DET 3|0|ROOT 4|3|DISCOURSE 5|3|PUNCT
+%wor:	all 47939_47939 the 47939_47939 action 47939_47979 yeah 47979_48530 .
+*PAR:	splashing the water . [+ gram] 48219_49680
+%mor:	verb|splash-Part-Pres-S det|the-Def-Art noun|water-Acc .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	splashing 48219_49219 the 49219_49479 water 49479_49680 .
+*PAR:	well xxx and the girl saying +"/. 51807_53557
+%mor:	intj|well cconj|and det|the-Def-Art noun|girl verb|say-Part-Pres-S +"/.
+%gra:	1|4|DISCOURSE 2|4|CC 3|4|DET 4|0|ROOT 5|4|ACL 6|4|PUNCT
+%wor:	well 51807_52307 and 52967_52967 the 52967_53007 girl 53007_53267 saying 53267_53557 +"/.
+*PAR:	+" shh@o give me a cookie too . 54907_56767
+%mor:	on|shh verb|give-Fin-Imp-S pron|I-Prs-Acc-S1 det|a-Ind-Art noun|cookie-Acc adv|too .
+%gra:	1|2|DEP 2|0|ROOT 3|2|IOBJ 4|5|DET 5|2|OBJ 6|2|ADVMOD 7|2|PUNCT
+%wor:	shh 54907_55547 give 55547_56007 me 56007_56147 a 56147_56207 cookie 56207_56427 too 56427_57140 .
+*PAR:	that's all I see . [+ exc] 56767_59983
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|3|PUNCT
+%wor:	that's 56767_57467 all 57467_57967 I 58907_59127 see 59127_59983 .
+*INV:	alright good . 59987_62977
+%mor:	intj|alright adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+%wor:	alright 59987_60647 good 60647_62977 .
+@End

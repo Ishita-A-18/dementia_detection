@@ -1,0 +1,63 @@
+@UTF8
+@PID:	11312/t-00002501-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|77;|male|MCI||Participant|29||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T22:03:23-04:00]
+@Media:	120-0, audio
+@G:	Cookie
+*INV:	okay . 170_470
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	okay 170_600 .
+*INV:	and here's the picture . 470_1650
+%mor:	cconj|and adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|2|CC 2|0|ROOT 3|2|COP 4|5|DET 5|2|NSUBJ 6|2|PUNCT
+%wor:	and 470_870 here's 870_1150 the 1150_1290 picture 1290_1830 .
+*PAR:	okay . [+ exc] 1650_3030
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	okay 1650_3449 .
+*PAR:	the boy is getting cookies from the cookie jar and handing one <to his> [//] to the girl . 3030_10390
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S noun|cookie-Plur-Acc adp|from det|the-Def-Art noun|cookie noun|jar cconj|and verb|hand-Part-Pres-S num|one adp|to det|the-Def-Art noun|girl .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|9|CASE 7|9|DET 8|9|COMPOUND 9|4|OBL 10|11|CC 11|4|CONJ 12|11|OBJ 13|15|CASE 14|15|DET 15|11|OBL 16|4|PUNCT
+%wor:	the 3030_3530 boy 4430_5010 is 5010_5510 getting 5510_5910 cookies 5910_6430 from 6430_6790 the 6790_6950 cookie 6950_7210 jar 7210_7710 and 7710_8170 handing 8170_8690 one 8690_9050 to 9050_9430 his 9430_9770 to 9770_9950 the 9950_10050 girl 10050_10440 .
+*PAR:	oh and the woman is wiping the dishes with her back to the children . 10390_17461
+%mor:	intj|oh cconj|and det|the-Def-Art noun|woman aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc adp|with pron|her-Prs-Acc-S3 adv|back adp|to det|the-Def-Art noun|child-Plur .
+%gra:	1|6|DISCOURSE 2|6|CC 3|4|DET 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ 9|10|CASE 10|6|OBL 11|6|ADVMOD 12|14|CASE 13|14|DET 14|6|OBL 15|6|PUNCT
+%wor:	oh 10390_10890 and 11890_12210 the 12210_12550 woman 12550_13190 is 13190_13770 wiping 13770_14370 the 14370_14650 dishes 14650_15110 with 15110_15830 her 15830_15970 back 15970_16310 to 16310_16530 the 16530_16690 children 16690_17461 .
+*PAR:	and the sink is running over and spilling water onto the floor . 17512_21792
+%mor:	cconj|and det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over cconj|and verb|spill-Part-Pres-S noun|water-Acc adp|onto det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|8|CC 8|5|CONJ 9|8|OBJ 10|12|CASE 11|12|DET 12|8|OBL 13|5|PUNCT
+%wor:	and 17512_18052 the 18052_18152 sink 18152_18552 is 18552_18792 running 18792_19072 over 19072_19652 and 19652_19932 spilling 19932_20312 water 20312_20692 onto 20692_21152 the 21152_21332 floor 21332_22162 .
+*PAR:	I guess that's all the action . [+ exc] 21792_25772
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot det|the-Def-Art noun|action .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|7|NSUBJ 4|7|COP 5|7|DET-PREDET 6|7|DET 7|2|CCOMP 8|2|PUNCT
+%wor:	I 21792_22292 guess 24052_24432 that's 24432_24872 all 24872_25132 the 25132_25332 action 25332_26164 .
+*PAR:	oh no the [/] the stool &=laughs is [/] &+ti is tipping over . 25772_29632
+%mor:	intj|oh intj|no det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|tip-Part-Pres-S adp|over .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|4|DET 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|6|COMPOUND-PRT 8|6|PUNCT
+%wor:	oh 25772_26272 no 27052_27352 the 27352_27672 the 27672_27872 stool 27872_28092 is 28092_28332 is 28332_28912 tipping 28912_29172 over 29172_29665 .
+*PAR:	&=laughs the stool that the boy is standing on is tipping over . 29632_33161
+%mor:	det|the-Def-Art noun|stool pron|that-Rel det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on aux|be-Fin-Ind-Pres-S3 verb|tip-Part-Pres-S adp|over .
+%gra:	1|2|DET 2|10|NSUBJ 3|7|OBL 4|5|DET 5|7|NSUBJ 6|7|AUX 7|2|ACL-RELCL 8|3|CASE 9|10|COP 10|0|ROOT 11|10|COMPOUND-PRT 12|10|PUNCT
+%wor:	the 29632_30132 stool 30732_31012 that 31012_31192 the 31192_31332 boy 31332_31532 is 31532_31712 standing 31712_31992 on 31992_32212 is 32212_32332 tipping 32332_32492 over 32492_33161 .
+*PAR:	that appears to be all the action . [+ exc] 33185_38325
+%mor:	pron|that-Dem verb|appear-Fin-Ind-Pres-S3 part|to aux|be-Inf-S det|all-Def-Tot det|the-Def-Art noun|action .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|7|MARK 4|7|COP 5|7|DET-PREDET 6|7|DET 7|2|XCOMP 8|2|PUNCT
+%wor:	that 33185_33685 appears 36685_37065 to 37065_37365 be 37365_37545 all 37545_37805 the 37805_37925 action 37925_38735 .
+*INV:	okay ? 38325_41787
+%mor:	intj|okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	okay 38325_41787 ?
+*PAR:	mhm . [+ exc] 42345_43322
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	mhm 42345_43322 .
+*INV:	okay good . 43344_45165
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+%wor:	okay 43505_44005 good 44665_45165 .
+@End

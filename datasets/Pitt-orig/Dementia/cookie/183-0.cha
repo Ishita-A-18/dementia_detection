@@ -1,0 +1,56 @@
+@UTF8
+@PID:	11312/t-00002537-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|63;|male|ProbableAD||Participant|25||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T22:10:44-04:00]
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T06:01:03-04:00]
+@Media:	183-0, audio
+@G:	Cookie
+*INV:	and here's the picture . 780_1530
+%mor:	cconj|and adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|2|CC 2|0|ROOT 3|2|COP 4|5|DET 5|2|NSUBJ 6|2|PUNCT
+%wor:	and 780_960 here's 960_1120 the 1120_1280 picture 1280_1530 .
+*INV:	tell me all of the action . 1540_2920
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|all-Def-Tot adp|of det|the-Def-Art noun|action .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|1|PUNCT
+%wor:	tell 1540_1820 me 1820_1940 all 1940_2120 of 2120_2240 the 2240_2380 action 2380_3792 .
+*PAR:	the boy's gettin(g) a dint@u [: x@n] [* n:uk] . [+ jar] 2920_7480
+%mor:	det|the-Def-Art noun|boy~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S det|a-Ind-Art neo|x .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DEP 6|4|OBJ 7|4|PUNCT
+%wor:	the 2920_3420 boy's 6400_6560 getting 6560_6860 a 6860_7180 dint 7180_7587 .
+*PAR:	the girl's lookin(g) to grab it . 7480_10420
+%mor:	det|the-Def-Art noun|girl~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S part|to verb|grab-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|ADVCL 7|6|OBJ 8|4|PUNCT
+%wor:	the 7480_7820 girl's 7820_8300 looking 8300_8680 to 8680_9140 grab 9140_10100 it 10100_10600 .
+*PAR:	the lady's drying dishes . 10420_13275
+%mor:	det|the-Def-Art noun|lady~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	the 10420_10920 lady's 11720_12300 drying 12300_12800 dishes 12800_13275 .
+*PAR:	the water is spɪlɪs@u [: spilling] [* p:n] . 13480_15981
+%mor:	det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+%wor:	the 13480_14480 water 14480_14860 is 14860_15981 spɪlɪs .
+*PAR:	the stool is fallin(g) over and down . 18186_21686
+%mor:	det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over cconj|and adv|down .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|7|CC 7|5|CONJ 8|4|PUNCT
+%wor:	the 18186_18666 stool 18666_18706 is 18706_19126 falling 19126_20006 over 20006_20506 and 21666_21706 down 21706_22186 .
+*PAR:	(.) that's about all . [+ exc] 21686_30706
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|about det|all-Def-Tot .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+%wor:	that's 21686_22186 about 30006_30386 all 30386_30919 .
+*INV:	nothin(g) else goin(g) on in the picture ? 30706_32626
+%mor:	pron|nothing-Neg-S1 adj|else-S1 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|ACL 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|1|PUNCT
+%wor:	nothing 30706_31366 else 31366_31686 going 31686_31926 on 31926_32146 in 32146_32246 the 32246_32306 picture 32306_33769 ?
+*PAR:	(.) that's all . [+ exc] 32626_36146
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+%wor:	that's 32626_33126 all 35646_36146 .
+*INV:	okay good . 44204_74564
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+%wor:	okay 74064_74104 good 74104_74564 .
+@End

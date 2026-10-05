@@ -1,0 +1,153 @@
+@UTF8
+@PID:	11312/t-00016038-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR||male|MCI||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T05:59:18-04:00]
+@Media:	016-4, audio
+@G:	animals
+*INV:	I want you to begin (.) now . 0_2225
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|begin-Inf-S adv|now .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|ADVMOD 7|2|PUNCT
+*PAR:	horse . 2225_3813
+%mor:	noun|horse .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	dog . 3813_4982
+%mor:	noun|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	llama . 4982_6009
+%mor:	noun|llama .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cat . 6009_7722
+%mor:	noun|cat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh zebra . 7722_11643
+%mor:	noun|zebra .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	ox . 11643_13184
+%mor:	noun|ox .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	not birds (th)ough . [+ exc] 13184_15332
+%mor:	part|not noun|bird-Plur adv|though .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|ADVMOD 4|2|PUNCT
+*PAR:	okay . [+ exc] 15332_16992
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	ox . 16992_18100
+%mor:	noun|ox .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh onyx . 18100_24313
+%mor:	noun|onyx .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	or is there &+on +..? [+ exc] 24313_26182
+%mor:	cconj|or aux|be-Fin-Ind-Pres-S3 adv|there +..?
+%gra:	1|3|CC 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	&-uh elk . 26182_29045
+%mor:	propn|elk .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) &-uh snake . 29045_33324
+%mor:	noun|snake .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh ibex . 33324_40017
+%mor:	noun|ibex .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	snail . 40017_42600
+%mor:	noun|snail .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh (..) chipmunk . 42600_51673
+%mor:	noun|chipmunk .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	squirrel . 51673_52546
+%mor:	noun|squirrel .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	mole . 52546_54957
+%mor:	noun|mole .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh &+p possum . 54957_59875
+%mor:	noun|possum .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	skunk . 59875_62536
+%mor:	noun|skunk .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay ‡ that's good . 62536_64266
+%mor:	intj|okay punct|‡ pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+@G:	F
+*INV:	beginning with the letter f@l . 64266_66007
+%mor:	verb|begin-Part-Pres-S adp|with det|the-Def-Art noun|letter n:let|f .
+%gra:	1|0|ROOT 2|5|CASE 3|5|DET 4|5|COMPOUND 5|1|DEP 6|1|PUNCT
+*PAR:	and you can begin now . 66007_68123
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S adv|now .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	fry . 68123_69104
+%mor:	noun|fry .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	finish . 69104_69960
+%mor:	noun|finish .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	frog . 69960_72045
+%mor:	noun|frog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	further . 72045_73227
+%mor:	adj|further-Cmp-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	follow . 73227_75018
+%mor:	verb|follow-Fin-Imp-S .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	feel . 75018_76169
+%mor:	verb|feel-Fin-Imp-S .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	fit . 76169_78301
+%mor:	noun|fit .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	forth . 78301_79889
+%mor:	adv|forth .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	farthing . 79889_82317
+%mor:	noun|farthing-Ger .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	friend . 82317_84931
+%mor:	noun|friend .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	fold . 84931_87188
+%mor:	verb|fold-Fin-Imp-S .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	flew . 87188_89570
+%mor:	verb|fly-Fin-Ind-Past-S1-irr .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh fix . 89570_94255
+%mor:	noun|fix .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) from . 94255_99669
+%mor:	adp|from .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	fender . 99669_102317
+%mor:	noun|fender .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	flow . 102317_104931
+%mor:	noun|flow .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	fit . 104931_107794
+%mor:	noun|fit .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) fender . 107794_113164
+%mor:	noun|fender .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	forum . 113164_116540
+%mor:	noun|forum .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	fried . 116540_118829
+%mor:	noun|fry .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) fat . 118829_123436
+%mor:	adj|fat-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	foolish . 123436_124899
+%mor:	adj|foolish-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay ‡ that's a minute . 124899_130019
+%mor:	intj|okay punct|‡ pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|minute .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|DET 6|0|ROOT 7|6|PUNCT
+@End

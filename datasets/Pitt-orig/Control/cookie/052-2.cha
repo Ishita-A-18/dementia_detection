@@ -1,0 +1,27 @@
+@UTF8
+@PID:	11312/t-00002218-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|Pitt-orig|PAR|68;00.|male|Control||Participant|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T22:12:20-04:00]
+@Media:	052-2, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*PAR:	I see a young boy falling off a stool stealing cookies . 30_6400
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|a-Ind-Art adj|young-S1 noun|boy-Acc verb|fall-Ger-S adp|off det|a-Ind-Art noun|stool verb|steal-Ger-S noun|cookie-Plur-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|5|ACL 7|9|CASE 8|9|DET 9|6|OBL 10|6|ADVCL 11|10|OBJ 12|2|PUNCT
+%wor:	I 30_530 see 3050_3130 a 3130_3350 young 3350_3630 boy 3630_3970 falling 3970_4430 off 4430_4730 a 4730_4930 stool 4930_5230 stealing 5230_5850 cookies 5850_6400 .
+*PAR:	the mother drying dishes . [+ gram] 6470_10650
+%mor:	det|the-Def-Art noun|mother verb|drying-Ger-S noun|dish-Plur .
+%gra:	1|4|DET 2|4|COMPOUND 3|4|AMOD 4|0|ROOT 5|4|PUNCT
+%wor:	the 6470_6970 mother 9310_9550 drying 9550_10230 dishes 10230_10739 .
+*PAR:	the sink overflowing . [+ gram] 10650_12390
+%mor:	det|the-Def-Art noun|sink noun|overflow-Ger .
+%gra:	1|3|DET 2|3|COMPOUND 3|0|ROOT 4|3|PUNCT
+%wor:	the 10650_11410 sink 11410_11630 overflowing 11630_12390 .
+*PAR:	(..) a little girl saying “be quiet” to her brother (.) ready to accept a cookie . [+ gram] 12435_24625
+%mor:	det|a-Ind-Art adj|little-S1 noun|girl verb|say-Ger-S aux|be-Inf-S adj|quiet-S1 adp|to pron|her-Prs-Gen-S3 noun|brother adj|ready-S1 part|to verb|accept-Inf-S det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|3|DET 2|3|AMOD 3|0|ROOT 4|3|ACL 5|6|COP 6|4|XCOMP 7|9|CASE 8|9|NMOD-POSS 9|6|OBL 10|6|ADVCL 11|12|MARK 12|10|XCOMP 13|14|DET 14|12|OBJ 15|3|PUNCT
+%wor:	a 12435_12935 little 19055_19195 girl 19195_19715 saying 19715_20155 be 20155_20455 quiet 20455_20815 to 20815_21095 her 21095_21235 brother 21235_21555 ready 21555_22055 to 23495_23695 accept 23695_24095 a 24095_24315 cookie 24315_24625 .
+@End

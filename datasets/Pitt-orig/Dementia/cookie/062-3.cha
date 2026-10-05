@@ -1,0 +1,47 @@
+@UTF8
+@PID:	11312/a-00090876-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@ID:	eng|Pitt-orig|PAR||male|||Participant|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T22:06:58-04:00]
+@Media:	062-3, audio
+@Comment:	Batchalign 0.7.17-post.10 , ASR Engine rev.
+*INV:	I want for you to look at this picture and tell me everything that you see going on in that picture . 2325_8405
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 sconj|for pron|you-Prs-Acc-S2 part|to verb|look-Inf-S adp|at det|this-Def-Dem-Sing noun|picture cconj|and verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|MARK 4|6|NSUBJ 5|6|MARK 6|2|ADVCL 7|9|CASE 8|9|DET 9|6|OBL 10|11|CC 11|6|CONJ 12|11|IOBJ 13|11|OBJ 14|17|OBJ 15|16|NSUBJ 16|13|ACL-RELCL 17|16|XCOMP 18|17|COMPOUND-PRT 19|21|CASE 20|21|DET 21|17|OBL 22|2|PUNCT
+%wor:	I 2325_2545 want 2545_2585 for 2585_2705 you 2705_2845 to 2845_3045 look 3045_3245 at 3245_3405 this 3405_3645 picture 3645_4085 and 4085_4785 tell 4785_5085 me 5085_5305 everything 5305_5845 that 5845_6365 you 6365_6545 see 6545_6845 going 6845_7245 on 7245_7685 in 7685_7885 that 7885_8085 picture 8085_8405 .
+*INV:	everything that you see happening . 8545_12005
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S .
+%gra:	1|0|ROOT 2|5|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|1|PUNCT
+%wor:	everything 8545_9045 that 11025_11325 you 11325_11425 see 11425_11605 happening 11605_12005 .
+*PAR:	all the bad things . 12065_13305
+%mor:	det|all-Def-Tot det|the-Def-Art adj|bad-S1 noun|thing-Plur .
+%gra:	1|4|DET-PREDET 2|4|DET 3|4|AMOD 4|0|ROOT 5|4|PUNCT
+%wor:	all 12065_12325 the 12325_12485 bad 12485_12765 things 12765_13732 .
+*PAR:	sink's overflowing . 13305_15865
+%mor:	noun|sink~aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%wor:	sink's 13305_13805 overflowing 15045_15866 .
+*PAR:	the stool's going over and the cookie jar . 15865_21384
+%mor:	det|the-Def-Art noun|stool~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|over cconj|and det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|9|CC 7|9|DET 8|9|COMPOUND 9|4|CONJ 10|4|PUNCT
+%wor:	the 15865_16305 stool's 16305_16805 going 18205_18705 over 19505_19985 and 19985_20345 the 20345_20545 cookie 20545_20705 jar 20705_21384 .
+*PAR:	I guess the little girl she's saying give me shh . 27496_30596
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 det|the-Def-Art adj|little-S1 noun|girl-Acc pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|say-Part-Pres-S verb|give-Inf-S pron|I-Prs-Acc-S1 intj|shh .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|AMOD 5|9|OBJ 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|2|CCOMP 10|9|IOBJ 11|9|DISCOURSE 12|2|PUNCT
+%wor:	I 27496_27836 guess 27836_27876 the 27876_28016 little 28016_28216 girl 28216_28516 she's 28516_28936 saying 28936_29216 give 29216_29456 me 29456_29696 shh 29696_30996 .
+*PAR:	and the sink's overflowing . 30596_34530
+%mor:	cconj|and det|the-Def-Art noun|sink~aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+%wor:	and 30596_31096 the 33376_33616 sink's 33616_33996 overflowing 33996_34530 .
+*INV:	I might not be very observant but I don't see anything else . [+ exc] 47336_50927
+%mor:	pron|I-Prs-Nom-S1 aux|might-Fin-S part|not aux|be-Inf-S adv|very adj|observant-S1 cconj|but pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S pron|anything-Ind-S1 adj|else-S1 .
+%gra:	1|6|NSUBJ 2|6|AUX 3|6|ADVMOD 4|6|COP 5|6|ADVMOD 6|0|ROOT 7|11|CC 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|6|CONJ 12|11|OBJ 13|12|AMOD 14|6|PUNCT
+%wor:	I 47336_47696 might 47696_47736 not 47736_48036 be 48036_48276 very 48276_48596 observant 48596_49336 but 49336_49556 I 49556_49676 don't 49676_49936 see 49936_50176 anything 50176_50556 else 50556_50927 .
+*INV:	okay , good . 51116_52712
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|0|ROOT 4|3|PUNCT
+%wor:	okay 51116_51656 , good 51656_52712 .
+@End

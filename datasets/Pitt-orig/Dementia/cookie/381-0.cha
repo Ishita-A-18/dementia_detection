@@ -1,0 +1,60 @@
+@UTF8
+@PID:	11312/t-00002647-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|75;|female|ProbableAD||Participant|16||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T22:05:44-04:00]
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T06:00:36-04:00]
+@Media:	381-0, audio
+@G:	Cookie
+*PAR:	well the kids are swipin(g) the cookies . 590_2370
+%mor:	intj|well det|the-Def-Art noun|kid-Plur aux|be-Fin-Ind-Pres-P3 verb|swipe-Part-Pres-S det|the-Def-Art noun|cookie-Plur-Acc .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%wor:	well 590_810 the 810_1010 kids 1010_1310 are 1310_1450 swiping 1450_1790 the 1790_2010 cookies 2010_2380 .
+*PAR:	mom's doin(g) the dishes as usual . 2370_5710
+%mor:	noun|mom~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc sconj|as adj|usual-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|MARK 7|3|ADVCL 8|3|PUNCT
+%wor:	mom's 2370_2870 doing 4490_4670 the 4670_4850 dishes 4850_5090 as 5090_5310 usual 5310_5767 .
+*PAR:	and she's got water all over the floor . 5710_10130
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr noun|water-Acc adv|all adp|over det|the-Def-Art noun|floor .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|9|ADVMOD 7|9|CASE 8|9|DET 9|4|OBL 10|4|PUNCT
+%wor:	and 5710_6210 she's 8550_8870 got 8870_8990 water 8990_9270 all 9270_9490 over 9490_9610 the 9610_9810 floor 9810_11145 .
+*PAR:	anything else <I need> [//] you need ? [+ exc] 10130_15510
+%mor:	pron|anything-Ind-S1 adj|else-S1 pron|you-Prs-Nom-S2 verb|need-Fin-Ind-Pres-S2 ?
+%gra:	1|0|ROOT 2|1|ADVMOD 3|4|NSUBJ 4|1|ACL-RELCL 5|1|PUNCT
+%wor:	anything 10130_10630 else 14170_14550 I 14550_14670 need 14670_14930 you 14930_15230 need 15230_15521 ?
+*INV:	anything that you see , anything +/. 15510_16813
+%mor:	pron|anything-Ind-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 cm|cm pron|anything-Ind-S1 +/.
+%gra:	1|0|ROOT 2|4|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|6|PUNCT 6|1|APPOS 7|1|PUNCT
+%wor:	anything 15510_16090 that 16090_16410 you 16410_16450 see 16450_16750 , anything 16750_17250 +/.
+*PAR:	+< she's dryin(g) dishes . 16813_17683
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|0|ROOT 5|4|PUNCT
+%wor:	she's 16950_16990 drying 16990_17190 dishes 17190_17683 .
+*PAR:	water runnin(g) over the sink . [+ gram] 20968_22288
+%mor:	noun|water verb|run-Ger-S adp|over det|the-Def-Art noun|sink .
+%gra:	1|0|ROOT 2|1|ACL 3|5|CASE 4|5|DET 5|2|OBL 6|1|PUNCT
+%wor:	water 20968_21168 running 21168_21448 over 21448_21728 the 21728_22008 sink 22008_22288 .
+*PAR:	some of the dishes aren't washed yet . 22308_24988
+%mor:	det|some-Def-Ind adp|of det|the-Def-Art noun|dish-Plur aux|be-Fin-Ind-Pres-P3~part|not verb|wash-Part-Past-S adv|yet .
+%gra:	1|7|NSUBJ-PASS 2|4|CASE 3|4|DET 4|1|NMOD 5|7|AUX-PASS 6|7|ADVMOD 7|0|ROOT 8|7|ADVMOD 9|7|PUNCT
+%wor:	some 22308_22808 of 23628_23808 the 23808_23868 dishes 23868_24088 aren't 24088_24368 washed 24368_24688 yet 24688_25947 .
+*PAR:	kids are takin(g) the cookies . 24988_27408
+%mor:	noun|kid-Plur aux|be-Fin-Ind-Pres-P3 verb|take-Part-Pres-S det|the-Def-Art noun|cookie-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	kids 24988_25488 are 26428_26588 taking 26588_26828 the 26828_27008 cookies 27008_28030 .
+*PAR:	he's gonna fall off the [//] of the (.) stɹeɪəs@u [: stool] [* n:k] &+s +//. 27408_32737
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|fall-Inf-S adp|off adp|of det|the-Def-Art noun|stool +//.
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|9|CASE 7|9|CASE 8|9|DET 9|5|OBL 10|3|PUNCT
+%wor:	he's 27408_27908 gonna 28688_28848 fall 28848_29268 off 29268_29508 the 29508_30168 of 30168_30408 the 30408_32737 stɹeɪəs +//.
+*PAR:	&-uh no , what do you call that ? [+ exc] 33065_35843
+%mor:	intj|no cm|cm pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|call-Inf-S pron|that-Dem ?
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|OBJ 4|6|AUX 5|6|NSUBJ 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+%wor:	uh no , what do you call that ?
+*PAR:	(.) stool . [+ gram] 38181_38461
+%mor:	noun|stool .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	stool .
+@End

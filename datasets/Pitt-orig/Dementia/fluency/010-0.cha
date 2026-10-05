@@ -1,0 +1,152 @@
+@UTF8
+@PID:	11312/t-00016031-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|66;|male|ProbableAD||Participant|20||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T05:58:10-04:00]
+@Media:	010-0, audio
+@G:	animals
+*INV:	are you ready ? 0_1744
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adj|ready-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*INV:	start now . 1744_2849
+%mor:	verb|start-Fin-Imp-S adv|now .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*PAR:	dog . 2849_3628
+%mor:	noun|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cat . 3628_4701
+%mor:	noun|cat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	horse . 4701_5479
+%mor:	noun|horse .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cow . 5479_6476
+%mor:	noun|cow .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	kangaroo . 6476_7970
+%mor:	noun|kangaroo .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh lion . 7970_10055
+%mor:	noun|lion .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	tiger . 10055_11003
+%mor:	noun|tiger .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh elephant . 11003_13214
+%mor:	noun|elephant .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	giraffe . 13214_15829
+%mor:	noun|giraffe .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) pig . 15829_19564
+%mor:	noun|pig .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	skunk . 19564_21105
+%mor:	noun|skunk .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) mole . 21105_24000
+%mor:	noun|mole .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) groundhog . 24000_26536
+%mor:	noun|groundhog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	hedgehog or groundhog . 26536_28451
+%mor:	noun|hedgehog cconj|or noun|groundhog .
+%gra:	1|0|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+*PAR:	&-uh bear . 28451_33105
+%mor:	noun|bear .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-hm (.) pig +//. 33105_42017
+%mor:	noun|pig +//.
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh I said , but bear . [+ exc] 42017_44015
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr cm|cm cconj|but verb|bear-Fin-Imp-S .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|PUNCT 4|5|CC 5|2|CONJ 6|2|PUNCT
+*PAR:	xxx . [+ exc] 44015_44700
+*PAR:	(.) mule . 44700_47751
+%mor:	noun|mule .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) leopard . 47751_51083
+%mor:	noun|leopard .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) zebra . 51083_53758
+%mor:	noun|zebra .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) hippopotamus . 53758_56684
+%mor:	noun|hippopotamus .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) groundhog . 56684_60248
+%mor:	noun|groundhog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	(.) okay . 60248_65493
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@G:	F
+*PAR:	friends +/. 65493_67658
+%mor:	noun|friend-Plur +/.
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	now +/. 67658_67968
+%mor:	adv|now +/.
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	fruit . 67968_68436
+%mor:	noun|fruit .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	fish . 68436_69960
+%mor:	noun|fish .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh frog . 69960_72154
+%mor:	noun|frog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) flamingo . 72154_77150
+%mor:	noun|flamingo .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	that's a bird . [+ exc] 77150_79081
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|bird .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|0|ROOT 5|4|PUNCT
+*INV:	mhm . 79081_79687
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh fly . 79687_82910
+%mor:	verb|fly-Inf-S .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) xxx . [+ exc] 82910_96995
+*PAR:	(..) I'm trying to think of that pink bird &=laughs down in Florida down at Hialeah . [+ exc] 96995_111832
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|try-Part-Pres-S part|to verb|think-Inf-S adp|of det|that-Def-Dem-Sing adj|pink-S1 noun|bird adp|down adp|in propn|Florida adv|down adp|at propn|Hialeah .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|9|CASE 7|9|DET 8|9|AMOD 9|5|OBL 10|5|COMPOUND-PRT 11|12|CASE 12|5|OBL 13|5|ADVMOD 14|15|CASE 15|13|OBL 16|3|PUNCT
+*PAR:	the flamingo . 111832_113304
+%mor:	det|the-Def-Art noun|flamingo .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*INV:	mhm . 113304_113974
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	+< but then that's again a bird . [+ exc] 113974_115188
+%mor:	cconj|but adv|then pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|again det|a-Ind-Art noun|bird .
+%gra:	1|7|CC 2|7|ADVMOD 3|7|NSUBJ 4|7|COP 5|7|ADVMOD 6|7|DET 7|0|ROOT 8|7|PUNCT
+*INV:	no ‡ we're doing +/. 114988_116105
+%mor:	intj|no punct|‡ pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 verb|do-Part-Pres-S +/.
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	+< is it permitted ? [+ exc] 115505_116573
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 verb|permit-Part-Past-S ?
+%gra:	1|3|AUX-PASS 2|3|NSUBJ-PASS 3|0|ROOT 4|3|PUNCT
+*INV:	+< no [//] yes [/] yes . 116273_117989
+%mor:	intj|yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	oh ‡ okay [/] okay . [+ exc] 116843_118037
+%mor:	intj|oh punct|‡ intj|okay .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|DISCOURSE 4|2|PUNCT
+*INV:	beginning with f@l . 118037_119468
+%mor:	verb|begin-Part-Pres-S adp|with n:let|f .
+%gra:	1|0|ROOT 2|3|CASE 3|1|DEP 4|1|PUNCT
+*PAR:	&-uh did I say fish@q ? 119468_127015
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|say-Inf-S meta|fish ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|DEP 5|3|PUNCT
+*INV:	okay . 127015_128821
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay ‡ that's it . 128821_130579
+%mor:	intj|okay punct|‡ pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+@End

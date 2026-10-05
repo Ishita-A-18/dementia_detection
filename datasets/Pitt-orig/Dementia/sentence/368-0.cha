@@ -1,0 +1,82 @@
+@UTF8
+@PID:	11312/t-00016659-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|68;|female|ProbableAD||Participant|19||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-07T09:47:09-04:00]
+@Media:	368-0, audio
+*INV:	okay good . 0_8000
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*PAR:	please pick up your pencil . 8000_10276
+%mor:	intj|please verb|pick-Fin-Imp-S adp|up pron|your-Prs-Gen-S2 noun|pencil-Acc .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|COMPOUND-PRT 4|5|NMOD-POSS 5|2|OBJ 6|2|PUNCT
+*PAR:	or you want a sentence ? [+ exc] 10276_13200
+%mor:	cconj|or pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 det|a-Ind-Art noun|sentence-Acc ?
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*INV:	that's fine . 13200_13760
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*INV:	how_(a)bout tree@q ? 13760_16128
+%mor:	propn|howabout meta|tree ?
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*PAR:	tree@q . 16128_16988
+%mor:	meta|tree .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	the trees are green . 16988_18303
+%mor:	det|the-Def-Art noun|tree-Plur aux|be-Fin-Ind-Pres-P3 adj|green-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*INV:	now I'm gonna two words . 18303_22131
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S~part|to num|two noun|word-Plur .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|MARK 6|7|NUMMOD 7|4|XCOMP 8|4|PUNCT
+*INV:	don't worry about the order that I give them to you in . 22131_25868
+%mor:	aux|do-Fin-Imp-S~part|not verb|worry-Fin-Imp-S adp|about det|the-Def-Art noun|order pron|that-Rel pron|I-Prs-Nom-S1 verb|give-Fin-Ind-Pres-S1 pron|they-Prs-Acc-P3 adp|to pron|you-Prs-Acc-S2 adp|in .
+%gra:	1|3|AUX 2|3|ADVMOD 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|9|OBJ 8|9|NSUBJ 9|6|ACL-RELCL 10|9|IOBJ 11|12|CASE 12|9|OBL 13|3|PUNCT 14|3|PUNCT
+*INV:	just use both of them in a short simple sentence . 25868_27858
+%mor:	adv|just verb|use-Fin-Imp-S det|both-Def-Tot adp|of pron|they-Prs-Acc-P3 adp|in det|a-Ind-Art adj|short-S1 adj|simple-S1 noun|sentence .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|OBJ 4|5|CASE 5|3|NMOD 6|10|CASE 7|10|DET 8|10|AMOD 9|10|AMOD 10|2|OBL 11|2|PUNCT
+*INV:	child@q hospital@q . 27858_30273
+%mor:	meta|child meta|hospital .
+%gra:	1|2|DEP 2|0|ROOT 3|2|PUNCT
+*PAR:	the child is in the hospital . 30273_33025
+%mor:	det|the-Def-Art noun|child aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|hospital .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|0|ROOT 7|6|PUNCT
+*PAR:	my child . [+ exc] 33025_34394
+%mor:	pron|my-Prs-Gen-S1 noun|child .
+%gra:	1|2|NMOD-POSS 2|0|ROOT 3|2|PUNCT
+*INV:	how_(a)bout cold@q winter@q . 34394_38099
+%mor:	noun|howabout meta|cold meta|winter .
+%gra:	1|3|COMPOUND 2|3|DEP 3|0|ROOT 4|3|PUNCT
+*PAR:	this has been a long cold winter . 38099_40746
+%mor:	pron|this-Dem-S1 aux|have-Fin-Ind-Pres-S3 aux|be-Part-Past-S-irr det|a-Ind-Art adj|long-S1 adj|cold-S1 noun|winter .
+%gra:	1|7|NSUBJ 2|7|AUX 3|7|COP 4|7|DET 5|7|AMOD 6|7|AMOD 7|0|ROOT 8|7|PUNCT
+*INV:	okay ‡ now I'm gonna give you two [//] three words . 40746_47610
+%mor:	intj|okay intj|‡ adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S~part|to verb|give-Inf-S pron|you-Prs-Acc-S2 num|three noun|word-Plur-Acc .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|6|ADVMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|8|MARK 8|6|XCOMP 9|8|IOBJ 10|11|NUMMOD 11|8|OBJ 12|6|PUNCT
+*INV:	again , don't worry about the order that I give them to you in . 47610_49833
+%mor:	adv|again cm|cm aux|do-Fin-Imp-S~part|not verb|worry-Fin-Imp-S adp|about det|the-Def-Art noun|order pron|that-Rel pron|I-Prs-Nom-S1 verb|give-Fin-Ind-Pres-S1 pron|they-Prs-Acc-P3 adp|to pron|you-Prs-Acc-S2 adp|in .
+%gra:	1|5|ADVMOD 2|1|PUNCT 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|11|OBJ 10|11|NSUBJ 11|8|ACL-RELCL 12|11|IOBJ 13|14|CASE 14|11|OBL 15|5|PUNCT 16|5|PUNCT
+*INV:	just use all three of them in one short simple sentence . 49833_52341
+%mor:	adv|just verb|use-Fin-Imp-S det|all-Def-Tot num|three adp|of pron|they-Prs-Acc-P3 adp|in num|one adj|short-S1 adj|simple-S1 noun|sentence .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|CASE 6|4|NMOD 7|11|CASE 8|11|NUMMOD 9|11|AMOD 10|11|AMOD 11|2|OBL 12|2|PUNCT
+*INV:	chair@q doctor@q sit@q . 52341_55003
+%mor:	meta|chair meta|doctor meta|sit .
+%gra:	1|0|ROOT 2|3|DEP 3|1|DEP 4|1|PUNCT
+*PAR:	(.) I went to see the doctor and he told me to sit in a chair . 55003_63471
+%mor:	pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Past-S1-irr part|to verb|see-Inf-S det|the-Def-Art noun|doctor-Acc cconj|and pron|he-Prs-Nom-S3 verb|tell-Fin-Ind-Past-S3-irr pron|I-Prs-Acc-S1 part|to verb|sit-Inf-S adp|in det|a-Ind-Art noun|chair .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|MARK 4|2|ADVCL 5|6|DET 6|4|OBJ 7|9|CC 8|9|NSUBJ 9|2|CONJ 10|9|IOBJ 11|12|MARK 12|9|XCOMP 13|15|CASE 14|15|DET 15|12|OBL 16|2|PUNCT
+*INV:	(.) bureau@q open@q drawer@q . 63471_74195
+%mor:	meta|bureau meta|open meta|drawer .
+%gra:	1|0|ROOT 2|3|DEP 3|1|DEP 4|1|PUNCT
+*PAR:	&+bur bureau@q ? [+ exc] 74195_77726
+%mor:	meta|bureau ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	bureau@q open@q drawer@q . 77726_80204
+%mor:	meta|bureau meta|open meta|drawer .
+%gra:	1|0|ROOT 2|3|DEP 3|1|DEP 4|1|PUNCT
+*PAR:	who opened the bureau drawer ? 80204_83950
+%mor:	pron|who-Rel verb|open-Fin-Ind-Past-S3 det|the-Def-Art noun|bureau noun|drawer-Acc ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|COMPOUND 5|2|OBJ 6|2|PUNCT
+@End

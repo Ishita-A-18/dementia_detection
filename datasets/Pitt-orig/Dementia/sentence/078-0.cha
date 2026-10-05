@@ -1,0 +1,125 @@
+@UTF8
+@PID:	11312/t-00017044-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|64;|female|ProbableAD||Participant|17||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-07T09:45:43-04:00]
+@Media:	078-0, audio
+*INV:	what_about the word pencil@q ? 0_2659
+%mor:	intj|whatabout det|the-Def-Art noun|word meta|pencil ?
+%gra:	1|3|DISCOURSE 2|3|DET 3|0|ROOT 4|3|DEP 5|3|PUNCT
+*PAR:	(..) &-uh pencil „ oh . [+ exc] 2659_10496
+%mor:	noun|pencil punct|„ intj|oh .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+*PAR:	(.) get me the pencil . 10496_15400
+%mor:	verb|get-Fin-Imp-S pron|I-Prs-Acc-S1 det|the-Def-Art noun|pencil-Acc .
+%gra:	1|0|ROOT 2|1|IOBJ 3|4|DET 4|1|OBJ 5|1|PUNCT
+*INV:	mhm . 15400_15899
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	tree@q . 15899_18326
+%mor:	meta|tree .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	leaves &=laughs . [+ exc] 18326_22500
+%mor:	noun|leave-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	no . [+ exc] 22500_23456
+%mor:	intj|no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	can you use the word tree@q in a sentence ? 23456_26358
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|use-Inf-S det|the-Def-Art noun|word-Acc meta|tree adp|in det|a-Ind-Art noun|sentence ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|DEP 7|9|CASE 8|9|DET 9|3|OBL 10|3|PUNCT
+*PAR:	+< oh ‡ in a sentence . [+ exc] 25858_27147
+%mor:	intj|oh punct|‡ adp|in det|a-Ind-Art noun|sentence .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|2|PUNCT
+*PAR:	tree@q . [+ exc] 27147_30666
+%mor:	meta|tree .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	oh ‡ the tree's large . 30666_32257
+%mor:	intj|oh punct|‡ det|the-Def-Art noun|tree~part|s adj|large-S1 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|4|DET 4|6|NMOD-POSS 5|4|CASE 6|0|ROOT 7|6|PUNCT
+*INV:	now then I'm gonna give you two words . 32257_37284
+%mor:	adv|now adv|then pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S~part|to verb|give-Inf-S pron|you-Prs-Acc-S2 num|two noun|word-Plur-Acc .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|7|IOBJ 9|10|NUMMOD 10|7|OBJ 11|5|PUNCT
+*INV:	I want you to use both words in one sentence . 37284_40256
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|use-Inf-S det|both-Def-Tot noun|word-Plur-Acc adp|in num|one noun|sentence .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|7|DET 7|5|OBJ 8|10|CASE 9|10|NUMMOD 10|5|OBL 11|2|PUNCT
+*INV:	alright ‡ don't worry about the order . 40256_42265
+%mor:	intj|alright punct|‡ aux|do-Fin-Imp-S~part|not verb|worry-Fin-Imp-S adp|about det|the-Def-Art noun|order .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*INV:	child@q hospital@q . 42265_45318
+%mor:	meta|child meta|hospital .
+%gra:	1|2|DEP 2|0|ROOT 3|2|PUNCT
+*PAR:	now how am I sposta +..? [+ exc] 46501_50497
+%mor:	adv|now adv|how aux|be-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 adj|sposta-S1 +..?
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|5|COP 4|5|NSUBJ 5|0|ROOT 6|5|PUNCT
+*INV:	okay . 50497_51031
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	have I +..? [+ exc] 51031_51786
+%mor:	aux|have-Fin-Ind-Pres-S pron|I-Prs-Nom-S1 +..?
+%gra:	1|0|ROOT 2|1|NSUBJ 3|1|PUNCT
+*INV:	I'm gonna give you two words . 51786_53469
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S~part|to verb|give-Inf-S pron|you-Prs-Acc-S2 num|two noun|word-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|IOBJ 7|8|NUMMOD 8|5|OBJ 9|3|PUNCT
+*PAR:	yeah ‡ oh ‡ that bothers me &=laughs . [+ exc] 53469_56444
+%mor:	intj|yeah punct|‡ intj|oh intj|‡ pron|that-Dem verb|bother-Fin-Ind-Pres-S3 pron|I-Prs-Acc-S1 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|DISCOURSE 4|6|DISCOURSE 5|6|NSUBJ 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*PAR:	yeah ‡ okay ‡ go ahead . [+ exc] 56444_57965
+%mor:	intj|yeah x|‡ intj|okay intj|‡ verb|go-Fin-Imp-S adv|ahead .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|DISCOURSE 4|5|DISCOURSE 5|0|ROOT 6|5|ADVMOD 7|5|PUNCT
+*INV:	and I want you to use both words in one brief simple sentence . 57965_63085
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|use-Inf-S det|both-Def-Tot noun|word-Plur-Acc adp|in num|one adj|brief-S1 adj|simple-S1 noun|sentence .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|8|DET 8|6|OBJ 9|13|CASE 10|13|NUMMOD 11|13|AMOD 12|13|AMOD 13|6|OBL 14|3|PUNCT
+*PAR:	+< yeah ‡ okay . 62800_63531
+%mor:	intj|yeah punct|‡ intj|okay .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|0|ROOT 4|3|PUNCT
+*INV:	+< you don't needta worry about the order . 63338_64998
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|needta-Inf-S verb|worry-Inf-S adp|about det|the-Def-Art noun|order .
+%gra:	1|5|NSUBJ 2|5|AUX 3|4|ADVMOD 4|5|ADVMOD 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*INV:	here are the words . 64998_66635
+%mor:	adv|here aux|be-Fin-Ind-Pres-P3 det|the-Def-Art noun|word-Plur .
+%gra:	1|0|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*INV:	child@q hospital@q . 66635_68679
+%mor:	meta|child meta|hospital .
+%gra:	1|2|DEP 2|0|ROOT 3|2|PUNCT
+*INV:	use those two words in a brief sentence . 68679_73219
+%mor:	verb|use-Fin-Imp-S det|that-Def-Dem-Plur num|two noun|word-Plur-Acc adp|in det|a-Ind-Art adj|brief-S1 noun|sentence .
+%gra:	1|0|ROOT 2|4|DET 3|4|NUMMOD 4|1|OBJ 5|8|CASE 6|8|DET 7|8|AMOD 8|1|OBL 9|1|PUNCT
+*PAR:	my granddaughter's in the hospital &=laughs . 73219_78965
+%mor:	pron|my-Prs-Gen-S1 noun|granddaughter~aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|hospital .
+%gra:	1|2|NMOD-POSS 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|0|ROOT 7|6|PUNCT
+*INV:	+< mhm . 76700_77524
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(...) right up here . [+ exc] 78965_83830
+%mor:	adv|right adp|up adv|here .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|ADVMOD 4|2|PUNCT
+*INV:	cold@q winter@q . 83830_87998
+%mor:	meta|cold meta|winter .
+%gra:	1|2|DEP 2|0|ROOT 3|2|PUNCT
+*INV:	can you use those two words in a sentence ? 87998_92851
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|use-Inf-S det|that-Def-Dem-Plur num|two noun|word-Plur-Acc adp|in det|a-Ind-Art noun|sentence ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|NUMMOD 6|3|OBJ 7|9|CASE 8|9|DET 9|3|OBL 10|3|PUNCT
+*PAR:	winter's cold . 92851_94592
+%mor:	noun|winter~part|s adj|cold-S1 .
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|0|ROOT 4|3|PUNCT
+*PAR:	that's all I put . [+ exc] 94592_95631
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|I-Prs-Nom-S1 verb|put-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|3|PUNCT
+*INV:	now then ‡ three words and I want you to use all three words in one sentence . 95631_102678
+%mor:	adv|now adv|then punct|‡ num|three noun|word-Plur cconj|and pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|use-Inf-S det|all-Def-Tot num|three noun|word-Plur-Acc adp|in num|one noun|sentence .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|2|PUNCT 4|5|NUMMOD 5|0|ROOT 6|8|CC 7|8|NSUBJ 8|5|CONJ 9|8|OBJ 10|11|MARK 11|8|XCOMP 12|14|DET 13|14|NUMMOD 14|11|OBJ 15|17|CASE 16|17|NUMMOD 17|11|OBL 18|5|PUNCT
+*INV:	and you don't needta worry about the order . 102678_104919
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not adv|needta verb|worry-Inf-S adp|about det|the-Def-Art noun|order .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|AUX 4|6|ADVMOD 5|6|ADVMOD 6|0|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+*PAR:	yeah . [+ exc] 104919_105627
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	chair@q doctor@q +//. 105701_108641
+%com:	tape cuts off
+%mor:	meta|chair meta|doctor +//.
+%gra:	1|2|DEP 2|0|ROOT 3|2|PUNCT
+@End

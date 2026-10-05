@@ -1,0 +1,123 @@
+@UTF8
+@PID:	11312/t-00016173-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|77;|male|ProbableAD||Participant|20||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-07T09:47:24-04:00]
+@Media:	339-0, audio
+@G:	animals
+*INV:	now . 0_1697
+%mor:	adv|now .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-hm dog . 1697_4935
+%mor:	noun|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	a cat . 4935_5479
+%mor:	det|a-Ind-Art noun|cat .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	an elephant . 5479_6195
+%mor:	det|a-Ind-Art noun|elephant .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	a deer . 6195_7000
+%mor:	det|a-Ind-Art noun|deer .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	I don't know . [+ exc] 7000_9086
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*PAR:	a goat . 9086_10272
+%mor:	det|a-Ind-Art noun|goat .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	a cow . 10272_11549
+%mor:	det|a-Ind-Art noun|cow .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	I don't know . [+ exc] 11549_15861
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*PAR:	a horse . 15861_17401
+%mor:	det|a-Ind-Art noun|horse .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	a monkey . 17401_18864
+%mor:	det|a-Ind-Art noun|monkey .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	(.) and a donkey . 18864_23114
+%mor:	cconj|and det|a-Ind-Art noun|donkey .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	and who else ? [+ exc] 23114_26056
+%mor:	cconj|and pron|who-Int adv|else ?
+%gra:	1|2|CC 2|0|ROOT 3|2|ADVMOD 4|2|PUNCT
+*PAR:	alligators . 26056_30491
+%mor:	noun|alligator-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	is that count ? [+ exc] 30491_31489
+%mor:	aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|count ?
+%gra:	1|3|COP 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	(.) I didn't +... [+ exc] 31489_35425
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not +...
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|ADVMOD 4|2|PUNCT
+*PAR:	(.) deers . 35425_38025
+%mor:	noun|deer-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) who else is there ? [+ exc] 38025_41045
+%mor:	pron|who-Int adj|else-S1 aux|be-Fin-Ind-Pres-S3 adv|there ?
+%gra:	1|4|NSUBJ 2|1|ADVMOD 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	elephant . 41045_42244
+%mor:	noun|elephant .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	what else now ? [+ exc] 52000_53556
+%mor:	pron|what-Int-S1 adv|else adv|now ?
+%gra:	1|0|ROOT 2|3|ADVMOD 3|1|ADVMOD 4|1|PUNCT
+*PAR:	I guess that's about all . [+ exc] 53556_58000
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about det|all-Def-Tot .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|NSUBJ 4|6|COP 5|6|CASE 6|2|CCOMP 7|2|PUNCT
+*PAR:	xxx I know . [+ exc] 58000_59708
+%mor:	pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*INV:	okay ‡ time's up . 59708_62259
+%mor:	intj|okay punct|‡ noun|time~aux|be-Fin-Ind-Pres-S3 adv|up .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+@G:	F
+*INV:	okay ‡ begin now . 62259_64796
+%mor:	intj|okay x|‡ verb|begin-Fin-Imp-S adv|now .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	(.) five . 64796_67665
+%mor:	num|five .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and four . 67660_68800
+%mor:	cconj|and num|four .
+%gra:	1|2|CC 2|0|ROOT 3|2|PUNCT
+*PAR:	and feathers . 68800_70024
+%mor:	cconj|and noun|feather-Plur .
+%gra:	1|2|CC 2|0|ROOT 3|2|PUNCT
+*PAR:	and [/] and &-uh &+f +... 70024_74570
+%mor:	cconj|and +...
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&=laughs f@l . [+ exc] 74570_76741
+%mor:	n:let|f .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) boy that's amazing „ huh ? [+ exc] 77517_82840
+%mor:	intj|boy pron|that-Rel~aux|be-Fin-Ind-Pres-S3 adj|amazing-S1 punct|„ intj|huh ?
+%gra:	1|0|ROOT 2|4|NSUBJ 3|4|COP 4|1|PARATAXIS 5|6|PUNCT 6|4|PARATAXIS 7|1|PUNCT
+*PAR:	(...) finish . 82840_96397
+%mor:	noun|finish .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	no . [+ exc] 97732_98556
+%mor:	intj|no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(...) had it . [+ exc] 98556_110387
+%mor:	verb|have-Fin-Ind-Past-S1-irr pron|it-Prs-Acc-S3 .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	no use for me . [+ exc] 110387_112569
+%mor:	det|no-Def-Neg noun|use adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|2|DET 2|0|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+*INV:	couple more seconds you have left . 112569_115276
+%mor:	noun|couple adj|more-Cmp-S1 noun|second-Plur pron|you-Prs-Nom-S2 aux|have-Fin-Ind-Pres-S2 verb|leave-Part-Past-S-irr .
+%gra:	1|2|OBL-UNMARKED 2|3|AMOD 3|0|ROOT 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|3|PUNCT
+*PAR:	(.) there's the fool . 115276_119155
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|fool .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+*PAR:	&=laughs which I am right now . [+ exc] 119155_121237
+%mor:	pron|which-Rel-S1 pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 adj|right-S1 adv|now .
+%gra:	1|4|OBJ 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+@End

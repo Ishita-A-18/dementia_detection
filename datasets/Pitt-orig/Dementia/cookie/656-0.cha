@@ -1,0 +1,43 @@
+@UTF8
+@PID:	11312/t-00002715-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|59;|female|MCI||Participant|29||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T22:12:03-04:00]
+@Media:	656-0, audio
+@G:	Cookie
+*PAR:	well the water ran over . 40_4500
+%mor:	intj|well det|the-Def-Art noun|water verb|run-Fin-Ind-Past-S3-irr adv|over .
+%gra:	1|4|DISCOURSE 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	well 40_540 the 3260_3580 water 3580_3840 ran 3840_4180 over 4180_4610 .
+*PAR:	the mother's wiping dishes . 4500_7380
+%mor:	det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 verb|wiping-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	the 4500_5000 mother's 5940_6560 wiping 6560_6860 dishes 6860_7831 .
+*PAR:	the boy's up in the cookie jar ready to fall over . 7380_12280
+%mor:	det|the-Def-Art noun|boy~aux|be-Fin-Ind-Pres-S3 adp|up adp|in det|the-Def-Art noun|cookie noun|jar adj|ready-S1 part|to verb|fall-Inf-S adv|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|4|CONJ 10|11|MARK 11|9|XCOMP 12|11|ADVMOD 13|4|PUNCT
+%wor:	the 7380_7880 boy's 8720_9100 up 9100_9320 in 9320_9980 the 9980_10260 cookie 10260_10520 jar 10520_10880 ready 10880_11200 to 11200_11420 fall 11420_11800 over 11800_12437 .
+*PAR:	the little girl is reaching out to get the cookies . 12280_16656
+%mor:	det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|out part|to verb|get-Inf-S det|the-Def-Art noun|cookie-Plur-Acc .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|8|MARK 8|5|ADVCL 9|10|DET 10|8|OBJ 11|5|PUNCT
+%wor:	the 12280_12820 little 12820_13000 girl 13000_13320 is 13320_13780 reaching 13780_14280 out 15160_15520 to 15520_15720 get 15720_15900 the 15900_16060 cookies 16060_16656 .
+*PAR:	and the mother's mad . 19090_20910
+%mor:	cconj|and det|the-Def-Art noun|mother~part|s noun|mad .
+%gra:	1|5|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|0|ROOT 6|5|PUNCT
+%wor:	and 19090_19710 the 19710_20010 mother's 20010_20410 mad 20410_21080 .
+*PAR:	and the window's open . 20910_24010
+%mor:	cconj|and det|the-Def-Art noun|window~part|s adj|open-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|0|ROOT 6|5|PUNCT
+%wor:	and 20910_21410 the 22570_23290 window's 23290_23670 open 23670_24023 .
+*PAR:	and (.) is there more than that ? [+ exc] 24010_32773
+%mor:	cconj|and aux|be-Fin-Ind-Pres-S3 adv|there adj|more-Cmp-S1 adp|than pron|that-Dem ?
+%gra:	1|4|CC 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+%wor:	and 24010_24510 is 28230_28730 there 32050_32130 more 32130_32390 than 32390_32590 that 32590_32773 ?
+*INV:	that's fine . 32790_33428
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+%wor:	that's 32790_33230 fine 33230_33428 .
+@End

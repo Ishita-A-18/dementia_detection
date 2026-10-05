@@ -1,0 +1,64 @@
+@UTF8
+@PID:	11312/t-00002567-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|74;00.|male|MCI||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T21:55:36-04:00]
+@Media:	221-3, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	picture . 650_930
+%mor:	noun|picture .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	picture 650_1000 .
+*PAR:	well ‡ the boy is taking cookies out_o(f) the cookie jar . 930_5970
+%mor:	intj|well punct|‡ det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S noun|cookie-Plur-Acc adp|outof det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|4|DET 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|6|OBJ 8|11|CASE 9|11|DET 10|11|COMPOUND 11|6|OBL 12|6|PUNCT
+%wor:	well 930_1850 ‡ the 1850_2350 boy 3010_3410 is 3410_3790 taking 3790_4190 cookies 4190_4750 out_of 4750_5170 the 5170_5310 cookie 5310_5550 jar 5550_6001 .
+*PAR:	and he's handing one to his sister as he almost falls off his stool . 5970_13570
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|hand-Part-Pres-S num|one adp|to pron|his-Prs-Gen-S3 noun|sister sconj|as pron|he-Prs-Nom-S3 adv|almost verb|fall-Fin-Ind-Pres-S3 adp|off pron|his-Prs-Gen-S3 noun|stool .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|8|CASE 7|8|NMOD-POSS 8|4|OBL 9|12|MARK 10|12|NSUBJ 11|12|ADVMOD 12|4|ADVCL 13|15|CASE 14|15|NMOD-POSS 15|12|OBL 16|4|PUNCT
+%wor:	and 5970_6510 he's 6510_6810 handing 6810_7190 one 7190_7630 to 7630_7950 his 7950_8310 sister 8310_8890 as 8890_9410 he 9410_9850 almost 9850_10350 falls 11190_11990 off 11990_12450 his 12450_12830 stool 12830_13675 .
+*PAR:	and he has knocked the lid off the cookie jar . 13570_17853
+%mor:	cconj|and pron|he-Prs-Nom-S3 aux|have-Fin-Ind-Pres-S3 verb|knock-Part-Past-S det|the-Def-Art noun|lid-Acc adp|off det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|10|CASE 8|10|DET 9|10|COMPOUND 10|4|OBL 11|4|PUNCT
+%wor:	and 13570_13910 he 13910_14170 has 14170_14430 knocked 14430_14790 the 14790_15290 lid 15930_16270 off 16270_16670 the 16670_16890 cookie 16890_17210 jar 17210_17853 .
+*PAR:	and the mother is washing dishes . 18564_22924
+%mor:	cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%wor:	and 18564_18864 the 18864_18924 mother 18924_19304 is 19304_19804 washing 20604_21344 dishes 21344_23334 .
+*PAR:	and she has let the sink overflow . 22924_25904
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|have-Fin-Ind-Pres-S3 verb|let-Part-Past-S-irr det|the-Def-Art noun|sink-Acc verb|overflow-Inf-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|XCOMP 8|4|PUNCT
+%wor:	and 22924_23684 she 23684_23964 has 23964_24224 let 24224_24524 the 24524_24744 sink 24744_25164 overflow 25164_26179 .
+*PAR:	and she's standing in a puddle . 25904_28180
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in det|a-Ind-Art noun|puddle .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	and 25904_26304 she's 26304_26664 standing 26664_27084 in 27084_27324 a 27324_27544 puddle 27544_28180 .
+*PAR:	and &+d window is open . [+ gram] 28184_32960
+%mor:	cconj|and noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+%wor:	and 28184_28684 window 29724_30224 is 30764_31264 open 32144_32960 .
+*PAR:	and &-uh there's a view of the back of the house with a hedge and a nice walk and a grassy area . 32997_43497
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|view adp|of det|the-Def-Art noun|back adp|of det|the-Def-Art noun|house adp|with det|a-Ind-Art noun|hedge cconj|and det|a-Ind-Art adj|nice-S1 noun|walk cconj|and det|a-Ind-Art adj|grassy-S1 noun|area .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|11|CASE 10|11|DET 11|8|NMOD 12|14|CASE 13|14|DET 14|8|NMOD 15|18|CC 16|18|DET 17|18|AMOD 18|14|CONJ 19|22|CC 20|22|DET 21|22|AMOD 22|14|CONJ 23|3|PUNCT
+%wor:	and 32997_34997 uh 34997_34997 there's 34997_35497 a 36537_36737 view 36737_37037 of 37037_37317 the 37317_37517 back 37517_37957 of 37957_38177 the 38177_38417 house 38417_38877 with 38877_39237 a 39237_39497 hedge 39497_39937 and 39937_40317 a 40317_40497 nice 40497_40817 walk 40817_41457 and 41457_42097 a 42097_42297 grassy 42297_42937 area 42937_43607 .
+*PAR:	and the curtains are blowing in the wind . 43497_48257
+%mor:	cconj|and det|the-Def-Art noun|curtain-Plur aux|be-Fin-Ind-Pres-P3 verb|blow-Part-Pres-S adp|in det|the-Def-Art noun|wind .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	and 43497_44437 the 44437_44697 curtains 44697_45097 are 45097_45637 blowing 45637_46397 in 46397_46897 the 47497_47797 wind 47797_48602 .
+*PAR:	and she's standing in a puddle . 48257_51790
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in det|a-Ind-Art noun|puddle .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	and 48257_48757 she's 49637_50177 standing 50177_50597 in 50597_50917 a 50917_51237 puddle 51237_51790 .
+*PAR:	and so that's about all . [+ exc] 52844_55424
+%mor:	cconj|and adv|so pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about det|all-Def-Tot .
+%gra:	1|6|CC 2|6|DISCOURSE 3|6|NSUBJ 4|6|COP 5|6|CASE 6|0|ROOT 7|6|PUNCT
+%wor:	and 52844_53424 so 53424_53864 that's 53864_54364 about 54884_55144 all 55144_55644 .
+*INV:	okay ‡ that's fine . 55424_56160
+%mor:	intj|okay punct|‡ pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+%wor:	okay 55424_55624 ‡ that's 55624_55884 fine 55884_56160 .
+@End

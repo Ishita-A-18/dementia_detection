@@ -1,0 +1,66 @@
+@UTF8
+@PID:	11312/a-00048809-1
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|WLS|INV|||||Investigator|||
+@ID:	eng|WLS|PAR|||||Participant|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T05:58:24-04:00]
+@Media:	01255, audio
+*INV:	please take a look at this picture and describe everything that you see here . 910_22150
+%mor:	intj|please verb|take-Fin-Imp-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture cconj|and verb|describe-Fin-Imp-S pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 adv|here .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|9|CC 9|2|CONJ 10|9|OBJ 11|13|OBJ 12|13|NSUBJ 13|10|ACL-RELCL 14|13|ADVMOD 15|2|PUNCT
+@Bg:	Activity
+*PAR:	okay . [+ exc] 22490_23080
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	there's a little boy trying to take cookies out_of a cookie jar . 23822_26902
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|little-S1 noun|boy verb|try-Ger-S part|to verb|take-Inf-S noun|cookie-Plur-Acc adp|outof det|a-Ind-Art noun|cookie noun|jar .
+%gra:	1|2|EXPL 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|NSUBJ 6|5|ACL 7|8|MARK 8|6|XCOMP 9|8|OBJ 10|13|CASE 11|13|DET 12|13|COMPOUND 13|8|OBL 14|2|PUNCT
+*PAR:	he's on a stool . 27039_27809
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art noun|stool .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|CASE 4|5|DET 5|0|ROOT 6|5|PUNCT
+*PAR:	and it looks like he's going to teep@n [//] tip over . 27934_30234
+%mor:	cconj|and pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|tip-Inf-S adp|over .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|7|MARK 5|7|NSUBJ 6|7|AUX 7|3|ADVCL 8|9|MARK 9|7|XCOMP 10|9|COMPOUND-PRT 11|3|PUNCT
+*PAR:	and his sister or a little girl is asking for a cookie . 30353_34293
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|sister cconj|or det|a-Ind-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|ask-Part-Pres-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|9|CC 2|3|NMOD-POSS 3|9|NSUBJ 4|7|CC 5|7|DET 6|7|AMOD 7|3|CONJ 8|9|AUX 9|0|ROOT 10|12|CASE 11|12|DET 12|9|OBL 13|9|PUNCT
+*PAR:	mom is at the sink . 34700_36360
+%mor:	noun|mom aux|be-Fin-Ind-Pres-S3 adp|at det|the-Def-Art noun|sink .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|CASE 4|5|DET 5|0|ROOT 6|5|PUNCT
+*PAR:	and the water's running . 36773_37783
+%mor:	cconj|and det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|running-Part-Pres-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	it's overflowing . 37830_39160
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	she's drying a plate or something . 39293_42423
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|plate-Acc cconj|or pron|something-Ind-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|CC 7|5|CONJ 8|3|PUNCT
+*PAR:	there's an open window in front of the sink . 42476_45636
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|open-S1 noun|window adp|in noun|front adp|of det|the-Def-Art noun|sink .
+%gra:	1|2|EXPL 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|NSUBJ 6|7|CASE 7|2|OBL 8|10|CASE 9|10|DET 10|7|NMOD 11|2|PUNCT
+*PAR:	and there's a couple of cups and a plate on the counter . 45890_49260
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|couple adp|of noun|cup-Plur cconj|and det|a-Ind-Art noun|plate adp|on det|the-Def-Art noun|counter .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|7|CASE 7|5|NMOD 8|10|CC 9|10|DET 10|5|CONJ 11|13|CASE 12|13|DET 13|10|NMOD 14|3|PUNCT
+*PAR:	and it looks like she's standing in the water . 49806_52826
+%mor:	cconj|and pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in det|the-Def-Art noun|water .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|7|MARK 5|7|NSUBJ 6|7|AUX 7|3|ADVCL 8|10|CASE 9|10|DET 10|7|OBL 11|3|PUNCT
+*PAR:	and she seems oblivious to the water that's dripping out_of the sink . 52871_56981
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|seem-Fin-Ind-Pres-S3 adj|oblivious-S1 adp|to det|the-Def-Art noun|water pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|drip-Part-Pres-S adp|outof det|the-Def-Art noun|sink .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|XCOMP 5|7|CASE 6|7|DET 7|4|OBL 8|10|NSUBJ 9|10|AUX 10|7|ACL-RELCL 11|13|CASE 12|13|DET 13|10|OBL 14|3|PUNCT
+@Eg:	Activity
+*INV:	okay . 57991_58581
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	seems like you got everything . 58631_60171
+%mor:	verb|seem-Fin-Ind-Pres-S3 sconj|like pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Past-S2-irr pron|everything-Tot-S1 .
+%gra:	1|0|ROOT 2|4|MARK 3|4|NSUBJ 4|1|ADVCL 5|4|OBJ 6|1|PUNCT
+*INV:	thank_you . 60228_60798
+%mor:	propn|thankyou .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	thank_you , that's just what we were looking for . 62156_64605
+%mor:	propn|thankyou cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|just pron|what-Rel-S1 pron|we-Prs-Nom-P1 aux|be-Fin-Ind-Past-P1-irr verb|look-Part-Pres-S adp|for .
+%gra:	1|6|VOCATIVE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|0|ROOT 7|9|NSUBJ 8|9|AUX 9|6|ACL-RELCL 10|9|OBL 11|6|PUNCT
+@End

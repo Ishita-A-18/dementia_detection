@@ -1,0 +1,63 @@
+@UTF8
+@PID:	11312/t-00002516-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|74;|male|ProbableAD||Participant|10||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T22:08:42-04:00]
+@Media:	148-0, audio
+@G:	Cookie
+*PAR:	well <the table [: stool] [* s:r-ret]> [//] the seat [: stool] [* s:r] is falling . 1820_3800
+%mor:	intj|well det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+%wor:	well 1820_2040 the 2040_2080 table 2080_2120 the 2120_2780 seat 2780_3280 is 3280_3460 falling 3460_3960 .
+*PAR:	the sink is running over . 3800_8436
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adv|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	the 3800_4300 sink 6960_7220 is 7220_7520 running 7520_8060 over 8060_8436 .
+*PAR:	the girl's reaching for a cookie . 10140_13460
+%mor:	det|the-Def-Art noun|girl~part|s verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|2|DET 2|4|NSUBJ 3|2|CASE 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	the 10140_10640 girl's 12140_12420 reaching 12420_12740 for 12740_13000 a 13000_13140 cookie 13140_14285 .
+*PAR:	the mom is dryin(g) a dish . 13460_19476
+%mor:	det|the-Def-Art noun|mom aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|dish-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	the 13460_13960 mom 16760_16900 is 16900_17140 drying 17140_17640 a 17640_17840 dish 17840_19476 .
+*PAR:	&-hm &-hm cup and saucers there . [+ gram] 20402_23878
+%mor:	noun|cup cconj|and noun|saucer-Plur adv|there .
+%gra:	1|0|ROOT 2|3|CC 3|1|CONJ 4|1|ADVMOD 5|1|PUNCT
+%wor:	hm 20402_21342 hm 21342_21342 cup 21342_21842 and 23102_23382 saucers 23382_23838 there 23838_23878 .
+*PAR:	(..) yeah that's about all that +//. [+ exc] 27582_35662
+%mor:	intj|yeah pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|about det|all-Def-Tot pron|that-Dem +//.
+%gra:	1|6|DISCOURSE 2|6|NSUBJ 3|6|COP 4|6|ADVMOD 5|6|DET-PREDET 6|0|ROOT 7|6|PUNCT
+%wor:	yeah 27582_28082 that's 34682_34922 about 34922_35162 all 35162_35462 that 35462_35911 +//.
+*PAR:	I <didn't hit> [//] did this and then I did that . [+ exc] 35662_45452
+%mor:	pron|I-Prs-Nom-S1 verb|do-Fin-Ind-Past-S1-irr pron|this-Dem-S1 cconj|and adv|then pron|I-Prs-Nom-S1 verb|do-Fin-Ind-Past-S1-irr pron|that-Dem .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|7|CC 5|7|ADVMOD 6|7|NSUBJ 7|2|CONJ 8|7|OBJ 9|2|PUNCT
+%wor:	I 35662_35902 didn't 35902_36502 hit 36502_36682 did 36682_37022 this 37022_37302 and 37302_37502 then 37502_37822 I 37822_38322 did 50242_50282 that 50282_50742 .
+*INV:	can you see anything else ? 45452_46412
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|see-Inf-S pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|4|AMOD 6|3|PUNCT
+%wor:	can 45452_45632 you 45632_45672 see 45672_45812 anything 45812_46012 else 46012_47202 ?
+*PAR:	&-hm well yeah here's some outside (.) the window . [+ es] 46412_52860
+%mor:	intj|well intj|yeah adv|here~aux|be-Fin-Ind-Pres-S3 det|some-Def-Ind adp|outside det|the-Def-Art noun|window .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|COP 5|3|NSUBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|3|PUNCT
+%wor:	hm 46412_46912 well 48172_48672 yeah 49292_49552 here's 49552_49912 some 49912_50172 outside 50172_51132 the 51132_51632 window 52592_52860 .
+*PAR:	&-uh a garden I guess . [+ gram] 53452_57892
+%mor:	det|a-Ind-Art noun|garden pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|2|DET 2|0|ROOT 3|4|NSUBJ 4|2|ACL-RELCL 5|2|PUNCT
+%wor:	uh 53452_53952 a 56272_56812 garden 56812_57452 I 57452_57632 guess 57632_58249 .
+*INV:	okay . 57892_59019
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	okay 57892_59019 .
+*INV:	(..) okay ? 69733_70933
+%mor:	intj|okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	okay 99633_100133 ?
+*INV:	good . 70933_100133
+%mor:	adj|good-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	good 99633_100133 .
+@End

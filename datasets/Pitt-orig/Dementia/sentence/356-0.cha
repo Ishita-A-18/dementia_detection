@@ -1,0 +1,124 @@
+@UTF8
+@PID:	11312/t-00016651-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|57;|female|ProbableAD||Participant|20||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-07T09:46:18-04:00]
+@Media:	356-0, audio
+*INV:	okay . 0_624
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	you must have patience . [+ exc] 624_1755
+%mor:	pron|you-Prs-Nom-S2 aux|must-Fin-S verb|have-Inf-S noun|patience-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*INV:	pencil@q . 1755_2612
+%mor:	meta|pencil .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	can you give me a short simple sentence using the word pencil@q ? 2612_5828
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|give-Inf-S pron|I-Prs-Acc-S1 det|a-Ind-Art adj|short-S1 adj|simple-S1 noun|sentence-Acc verb|use-Ger-S det|the-Def-Art noun|word-Acc meta|pencil ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|IOBJ 5|8|DET 6|8|AMOD 7|8|AMOD 8|3|OBJ 9|8|ACL 10|11|DET 11|9|OBJ 12|9|DEP 13|3|PUNCT
+*PAR:	write a letter . 5828_6745
+%mor:	verb|write-Fin-Imp-S det|a-Ind-Art noun|letter-Acc .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*INV:	(.) (o)kay . 6745_9172
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	now want you to (.) give me a short simple sentence using the word that I give you „ okay ? 9172_17914
+%mor:	adv|now verb|want-Fin-Ind-Pres-S2 pron|you-Prs-Acc-S2 part|to verb|give-Inf-S pron|I-Prs-Acc-S1 det|a-Ind-Art adj|short-S1 adj|simple-S1 noun|sentence-Acc verb|use-Ger-S det|the-Def-Art noun|word-Acc pron|that-Rel pron|I-Prs-Nom-S1 verb|give-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 punct|„ intj|okay ?
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|10|DET 8|10|AMOD 9|10|AMOD 10|5|OBJ 11|10|ACL 12|13|DET 13|11|OBJ 14|16|OBJ 15|16|NSUBJ 16|13|ACL-RELCL 17|16|IOBJ 18|19|PUNCT 19|16|DISCOURSE 20|2|PUNCT
+*INV:	for example if I give you the word table@q . 17914_20851
+%mor:	adp|for noun|example sconj|if pron|I-Prs-Nom-S1 verb|give-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 det|the-Def-Art noun|word-Acc meta|table .
+%gra:	1|2|CASE 2|0|ROOT 3|5|MARK 4|5|NSUBJ 5|2|ACL 6|5|IOBJ 7|8|DET 8|5|OBJ 9|8|DEP 10|2|PUNCT
+*INV:	something like +"/. 20851_21555
+%mor:	pron|something-Ind-S1 adp|like +"/.
+%gra:	1|0|ROOT 2|1|CASE 3|1|PUNCT
+*INV:	+" your dinner is on the table . 21555_23243
+%mor:	pron|your-Prs-Gen-S2 noun|dinner aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|table .
+%gra:	1|2|NMOD-POSS 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|0|ROOT 7|6|PUNCT
+*PAR:	oh . [+ exc] 23243_23731
+%mor:	intj|oh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	+< short simple sentence using the word that I give you . 23500_25749
+%mor:	adj|short-S1 adj|simple-S1 noun|sentence verb|use-Ger-S det|the-Def-Art noun|word-Acc pron|that-Rel pron|I-Prs-Nom-S1 verb|give-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|3|AMOD 2|3|AMOD 3|0|ROOT 4|3|ACL 5|6|DET 6|4|OBJ 7|9|OBJ 8|9|NSUBJ 9|6|ACL-RELCL 10|9|IOBJ 11|3|PUNCT
+*INV:	tree@q . 25749_27236
+%mor:	meta|tree .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	tree@q ? [+ exc] 27236_29680
+%mor:	meta|tree ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	mhm . 29680_30209
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	tree outside ? 30209_31034
+%mor:	noun|tree adv|outside ?
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*INV:	okay . 31034_32216
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	now I'm gonna give you two words . 32216_35928
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S~part|to verb|give-Inf-S pron|you-Prs-Acc-S2 num|two noun|word-Plur-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|IOBJ 8|9|NUMMOD 9|6|OBJ 10|4|PUNCT
+*INV:	don't worry about the order . 35928_36883
+%mor:	aux|do-Fin-Imp-S~part|not verb|worry-Fin-Imp-S adp|about det|the-Def-Art noun|order .
+%gra:	1|3|AUX 2|3|ADVMOD 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*INV:	just use both of them in one short simple sentence . 36883_39486
+%mor:	adv|just verb|use-Fin-Imp-S det|both-Def-Tot adp|of pron|they-Prs-Acc-P3 adp|in num|one adj|short-S1 adj|simple-S1 noun|sentence .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|OBJ 4|5|CASE 5|3|NMOD 6|10|CASE 7|10|NUMMOD 8|10|AMOD 9|10|AMOD 10|2|OBL 11|2|PUNCT
+*INV:	child@q hospital@q . 39486_41774
+%mor:	meta|child meta|hospital .
+%gra:	1|2|DEP 2|0|ROOT 3|2|PUNCT
+*PAR:	oh ‡ child@q . [+ exc] 41774_46129
+%mor:	intj|oh punct|‡ meta|child .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|0|ROOT 4|3|PUNCT
+*PAR:	child@q „ okay +... [+ exc] 46129_49056
+%mor:	meta|child punct|„ intj|okay +...
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+*INV:	+< child@q hospital@q . 49056_51065
+%mor:	meta|child meta|hospital .
+%gra:	1|2|DEP 2|0|ROOT 3|2|PUNCT
+*PAR:	+< hospital@q . 50749_52014
+%mor:	meta|hospital .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	+< short simple sentence using those words . 51814_54113
+%mor:	adj|short-S1 adj|simple-S1 noun|sentence verb|use-Ger-S det|that-Def-Dem-Plur noun|word-Plur-Acc .
+%gra:	1|3|AMOD 2|3|AMOD 3|0|ROOT 4|3|ACL 5|6|DET 6|4|OBJ 7|3|PUNCT
+*PAR:	(.) the name of the &-uh (.) &-mm +... [+ exc] 54113_62892
+%mor:	det|the-Def-Art noun|name adp|of det|the-Def-Art +...
+%gra:	1|2|DET 2|0|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+*INV:	short simple sentence using the words that I give you . 62892_68183
+%mor:	adj|short-S1 adj|simple-S1 noun|sentence verb|use-Ger-S det|the-Def-Art noun|word-Plur-Acc pron|that-Rel pron|I-Prs-Nom-S1 verb|give-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|3|AMOD 2|3|AMOD 3|0|ROOT 4|3|ACL 5|6|DET 6|4|OBJ 7|9|OBJ 8|9|NSUBJ 9|6|ACL-RELCL 10|9|IOBJ 11|3|PUNCT
+*INV:	child@q hospital@q . 68183_70208
+%mor:	meta|child meta|hospital .
+%gra:	1|2|DEP 2|0|ROOT 3|2|PUNCT
+*PAR:	(.) hm . [+ exc] 70208_74757
+%mor:	intj|hm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	how_(a)bout these words ? 74757_75744
+%mor:	verb|howabout-Fin-Imp-S det|this-Def-Dem-Plur noun|word-Plur-Acc ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*INV:	cold@q winter@q . 75744_77578
+%mor:	meta|cold meta|winter .
+%gra:	1|2|DEP 2|0|ROOT 3|2|PUNCT
+*PAR:	cold@q winter@q . [+ exc] 77578_78426
+%mor:	meta|cold meta|winter .
+%gra:	1|2|DEP 2|0|ROOT 3|2|PUNCT
+*INV:	can you use those in a sentence for me ? 78426_80295
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|use-Inf-S pron|that-Dem-P1 adp|in det|a-Ind-Art noun|sentence adp|for pron|I-Prs-Acc-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|9|CASE 9|7|NMOD 10|3|PUNCT
+*INV:	cold@q winter@q . 80295_81712
+%mor:	meta|cold meta|winter .
+%gra:	1|2|DEP 2|0|ROOT 3|2|PUNCT
+*PAR:	&-mm (.) to go out with a coat . 81712_87702
+%mor:	part|to verb|go-Inf-S adp|out adp|with det|a-Ind-Art noun|coat .
+%gra:	1|2|MARK 2|0|ROOT 3|2|COMPOUND-PRT 4|6|CASE 5|6|DET 6|2|OBL 7|2|PUNCT
+*INV:	okay . 87702_89316
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay . 89316_94390
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

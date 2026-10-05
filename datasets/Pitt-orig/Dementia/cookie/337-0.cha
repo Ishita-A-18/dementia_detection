@@ -1,0 +1,83 @@
+@UTF8
+@PID:	11312/t-00002619-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|59;|female|ProbableAD||Participant|16||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T21:57:53-04:00]
+@Media:	337-0, audio
+@G:	Cookie
+*INV:	okay good . 30_720
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+%wor:	okay 30_190 good 190_720 .
+*INV:	going on in the picture . 790_2210
+%mor:	verb|go-Part-Pres-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|0|ROOT 2|1|COMPOUND-PRT 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+%wor:	going 790_1270 on 1270_1550 in 1550_1730 the 1730_1830 picture 1830_2860 .
+*PAR:	well ‡ the poor mother's a-doin(g) [: doin(g)] dishes &=laughs . 2210_9730
+%mor:	intj|well punct|‡ det|the-Def-Art adj|poor-S1 noun|mother~part|s verb|do-Ger-S noun|dish-Plur-Acc .
+%gra:	1|7|DISCOURSE 2|7|DISCOURSE 3|5|DET 4|5|AMOD 5|8|NMOD-POSS 6|5|CASE 7|0|ROOT 8|7|OBJ 9|7|PUNCT
+%wor:	well 2210_2710 ‡ the 8390_8530 poor 8530_8710 mother's 8710_9050 a-doing 9050_9290 dishes 9290_9848 .
+*PAR:	there's a boy <on a> [/] &+lad on a stool . 9730_14010
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|boy adp|on det|a-Ind-Art noun|stool .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|7|CASE 6|7|DET 7|2|OBL 8|2|PUNCT
+%wor:	there's 9730_10230 a 11890_11990 boy 11990_12250 on 12250_12490 a 12490_12650 on 12650_12910 a 12910_13430 stool 13430_14067 .
+*PAR:	cookie jar . [+ gram] 14010_16670
+%mor:	noun|cookie noun|jar .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+%wor:	cookie 14010_14510 jar 16249_16725 .
+*PAR:	and a girl down below . [+ gram] 16670_19241
+%mor:	cconj|and det|a-Ind-Art noun|girl adv|down adv|below .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|5|ADVMOD 5|3|ADVMOD 6|3|PUNCT
+%wor:	and 16670_17630 a 17630_17730 girl 17730_17890 down 17890_18170 below 18170_19241 .
+*PAR:	is that all you wanted to know ? [+ exc] 19819_20899
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that det|all-Def-Tot pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Past-S2 part|to verb|know-Inf-S ?
+%gra:	1|3|COP 2|5|MARK 3|0|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|7|MARK 7|5|XCOMP 8|3|PUNCT
+%wor:	is 19819_19939 that 19939_20019 all 20019_20139 you 20139_20259 wanted 20259_20519 to 20519_20679 know 20679_20954 ?
+*INV:	tell me everything that you see going on in the picture . 20899_23639
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|7|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|6|XCOMP 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|1|PUNCT
+%wor:	tell 20899_21339 me 21339_21439 everything 21439_21739 that 21739_21919 you 21919_22039 see 22039_22259 going 22259_22559 on 22559_22979 in 22979_23119 the 23119_23239 picture 23239_24120 .
+*PAR:	okay . [+ exc] 23639_24599
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	okay 23639_24700 .
+*PAR:	there's a cookie jar . 24599_26499
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie noun|jar .
+%gra:	1|2|EXPL 2|0|ROOT 3|5|DET 4|5|COMPOUND 5|2|NSUBJ 6|2|PUNCT
+%wor:	there's 24599_25099 a 25819_25939 cookie 25939_26159 jar 26159_26653 .
+*PAR:	the little boy is standing on a stool . 26499_28999
+%mor:	det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|a-Ind-Art noun|stool .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	the 26499_26699 little 26699_26839 boy 26839_27099 is 27099_27319 standing 27319_27819 on 28339_28559 a 28559_28699 stool 28699_29029 .
+*PAR:	and he's ready to go over . 28999_30259
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|ready-S1 part|to verb|go-Inf-S adp|over .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|COMPOUND-PRT 8|4|PUNCT
+%wor:	and 28999_29259 he's 29259_29459 ready 29459_29619 to 29619_29779 go 29779_29959 over 29959_31240 .
+*PAR:	the little girl's standing there . 30259_33719
+%mor:	det|the-Def-Art adj|little-S1 noun|girl~aux|be-Fin-Ind-Pres-S3 verb|standing-Part-Pres-S adv|there .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|ADVMOD 7|5|PUNCT
+%wor:	the 30259_30759 little 32539_32679 girl's 32679_33079 standing 33079_33339 there 33339_33785 .
+*PAR:	the mother's &+st at the sink doing dishes . 33719_36244
+%mor:	det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 adp|at det|the-Def-Art noun|sink verb|do-Ger-S noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|0|ROOT 7|6|ACL 8|7|OBJ 9|6|PUNCT
+%wor:	the 33719_34319 mother's 34319_34759 at 34759_35059 the 35059_35239 sink 35239_35439 doing 35439_35659 dishes 35659_36244 .
+*PAR:	(.) her water's overflowing . 41623_42823
+%mor:	pron|her-Prs-Gen-S3 noun|water~aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%wor:	her 41623_41803 water's 41803_42103 overflowing 42103_42863 .
+*INV:	(.) okay anything else ? 42823_48583
+%mor:	intj|okay pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|AMOD 4|2|PUNCT
+%wor:	okay 42823_43323 anything 47803_48163 else 48163_48588 ?
+*PAR:	that's about it . [+ exc] 48583_49803
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|0|ROOT 5|4|PUNCT
+%wor:	that's 48583_49283 about 49283_49543 it 49543_49856 .
+*INV:	okay good . 49803_50880
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+%wor:	okay 49803_50403 good 50403_50880 .
+@End

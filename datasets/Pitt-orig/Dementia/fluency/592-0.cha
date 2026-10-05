@@ -1,0 +1,107 @@
+@UTF8
+@PID:	11312/t-00016217-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|73;|male|ProbableAD||Participant|14||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T05:59:40-04:00]
+@Media:	592-0, audio
+*INV:	www . 0_5229
+%exp:	previous task
+@G:	animals
+*PAR:	dog . 5229_7082
+%mor:	noun|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cat . 7082_8856
+%mor:	noun|cat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	rabbit . 8856_12219
+%mor:	noun|rabbit .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	mouse . 12219_15704
+%mor:	noun|mouse .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	rats . 15704_18179
+%mor:	noun|rat-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	chickens . 18179_21729
+%mor:	noun|chicken-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	horse . 21729_23970
+%mor:	noun|horse .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	monkey . 23970_26537
+%mor:	noun|monkey .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	dog . 26537_30133
+%mor:	noun|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	squirrel . 30133_33323
+%mor:	noun|squirrel .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) fish . 33323_42942
+%mor:	noun|fish .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) grasshopper . 42942_47906
+%mor:	noun|grasshopper .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	you got ten seconds . 47906_56019
+%mor:	pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Past-S2-irr num|ten noun|second-Plur-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NUMMOD 4|2|OBJ 5|2|PUNCT
+*PAR:	cow . 56019_57103
+%mor:	noun|cow .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	rhinoceros . 57103_60435
+%mor:	noun|rhinocero-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	elephant . 60435_62769
+%mor:	noun|elephant .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay ‡ good . 62769_64590
+%mor:	intj|okay intj|‡ adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|PUNCT
+@G:	F
+*INV:	okay ‡ now I'm going to change +//. 64590_66888
+%mor:	intj|okay punct|‡ adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|change-Inf-S +//.
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|ADVMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|8|MARK 8|6|XCOMP 9|6|PUNCT
+*INV:	and you can begin now . 66888_68862
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S adv|now .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	farm ? [+ exc] 68862_70394
+%mor:	noun|farm ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	mhm . 70394_70998
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	farm . 70998_75486
+%mor:	noun|farm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	I don't know . [+ exc] 75486_80031
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*INV:	any word at all . 80031_81570
+%mor:	det|any-Def-Ind noun|word adp|at det|all-Def-Tot .
+%gra:	1|2|DET 2|0|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+*PAR:	(.) I [/] I [/] I don't know . [+ exc] 81570_89898
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*INV:	can you think of any words that begin with the letter f@l ? 89898_92932
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|think-Inf-S adp|of det|any-Def-Ind noun|word-Plur pron|that-Rel verb|begin-Fin-Ind-Pres-P3 adp|with det|the-Def-Art noun|letter n:let|f ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|8|NSUBJ 8|6|ACL-RELCL 9|12|CASE 10|12|DET 11|12|COMPOUND 12|8|DEP 13|3|PUNCT
+*PAR:	friend . 92932_95096
+%mor:	noun|friend .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) farm . 95096_105289
+%mor:	noun|farm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) friendship . 105289_114642
+%mor:	noun|friendship .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	that's about all I know . [+ exc] 114642_120028
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|about det|all-Def-Tot pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|6|NSUBJ 6|4|ACL-RELCL 7|4|PUNCT
+*INV:	you have about five seconds any other words you can think of . 120028_123217
+%mor:	pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 adv|about num|five noun|second-Plur-Acc det|any-Def-Ind adj|other-S1 noun|word-Plur-Acc pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|ADVMOD 4|5|NUMMOD 5|2|OBJ 6|8|DET 7|8|AMOD 8|2|OBJ 9|11|NSUBJ 10|11|AUX 11|8|ACL-RELCL 12|11|OBL 13|2|PUNCT
+@End

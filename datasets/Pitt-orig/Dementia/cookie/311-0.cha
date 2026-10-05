@@ -1,0 +1,63 @@
+@UTF8
+@PID:	11312/t-00002611-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|57;|female|ProbableAD||Participant|13||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T22:09:44-04:00]
+@Media:	311-0, audio
+@G:	Cookie
+*INV:	can you see the picture here ? 60_1280
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|see-Inf-S det|the-Def-Art noun|picture-Acc adv|here ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|ADVMOD 7|3|PUNCT
+%wor:	can 60_160 you 160_220 see 220_380 the 380_540 picture 540_920 here 920_1588 ?
+*PAR:	mhm . [+ exc] 1280_1860
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	mhm 1280_2138 .
+*INV:	tell me what's going on in that picture . 1860_4120
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|1|IOBJ 3|5|NSUBJ 4|5|AUX 5|1|CCOMP 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|1|PUNCT
+%wor:	tell 1860_2680 me 2680_2840 what's 2840_3100 going 3100_3280 on 3280_3500 in 3500_3600 that 3600_3740 picture 3740_4631 .
+*INV:	what's happening there ? 4120_5740
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adv|there ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	what's 4120_5080 happening 5080_5340 there 5340_5881 ?
+*INV:	just tell me what you see happening in the picture . 5740_8068
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|the-Def-Art noun|picture .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|IOBJ 4|2|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|6|XCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|2|PUNCT
+%wor:	just 5740_6360 tell 6360_6600 me 6600_6780 what 6780_6920 you 6920_7060 see 7060_7280 happening 7280_7600 in 7600_7800 the 7800_7900 picture 7900_8068 .
+*PAR:	oh . [+ exc] 8140_8520
+%mor:	intj|oh .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	oh 8140_8618 .
+*PAR:	there's a cookie jar . 8520_16852
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie noun|jar .
+%gra:	1|2|EXPL 2|0|ROOT 3|5|DET 4|5|COMPOUND 5|2|NSUBJ 6|2|PUNCT
+%wor:	there's 8520_9020 a 15720_15960 cookie 15960_16660 jar 16660_16852 .
+*INV:	mhm . 17000_17886
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	mhm 17000_17886 .
+*PAR:	and the boy is toppling off (.) a stool . 19443_25543
+%mor:	cconj|and det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|topple-Part-Pres-S adp|off det|a-Ind-Art noun|stool .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	and 19443_19943 the 20483_20523 boy 20523_20643 is 20643_21043 toppling 21043_21923 off 21923_22303 a 22303_22803 stool 25023_25573 .
+*PAR:	and the mother is spilling the water . 25543_34816
+%mor:	cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S det|the-Def-Art noun|water-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%wor:	and 25543_26043 the 27563_28063 mother 29143_29643 is 31043_31543 spilling 33163_33663 the 33663_34163 water 34163_34816 .
+*PAR:	and the [//] &-uh what else ? [+ exc] 38461_42901
+%mor:	cconj|and pron|what-Int-S1 adj|else-S1 ?
+%gra:	1|2|CC 2|0|ROOT 3|2|AMOD 4|2|PUNCT
+%wor:	and 38461_38921 the 38921_39421 uh 39761_40261 what 42901_42941 else 42941_43401 ?
+*PAR:	(..) that's about it . [+ exc] 42901_49659
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|0|ROOT 5|4|PUNCT
+%wor:	that's 42901_43401 about 49281_49521 it 49521_49659 .
+*INV:	okay good . 49821_51701
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+%wor:	okay 49821_50321 good 51201_51701 .
+@End

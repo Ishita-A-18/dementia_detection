@@ -1,0 +1,67 @@
+@UTF8
+@PID:	11312/t-00002584-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|64;|male|ProbableAD||Participant|17||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T22:06:08-04:00]
+@Media:	252-2, audio
+@G:	Cookie
+*INV:	I want you to tell me +/. 170_250
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 +/.
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|2|PUNCT
+%wor:	I 170_210 want 210_250 you 250_250 to 250_250 tell 250_290 me 290_1410 +/.
+*PAR:	+< I want you to put the picture . [+ exc] 250_1290
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|put-Inf-S det|the-Def-Art noun|picture-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|7|DET 7|5|OBJ 8|2|PUNCT
+%wor:	I 250_290 want 290_430 you 430_590 to 590_730 put 730_950 the 950_1070 picture 1070_1390 .
+*INV:	yeah take a look at this picture . 1290_2910
+%mor:	intj|yeah verb|take-Fin-Imp-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|2|PUNCT
+%wor:	yeah 1290_1690 take 1690_1970 a 1970_2110 look 2110_2250 at 2250_2390 this 2390_2550 picture 2550_3308 .
+*INV:	tell me everything you see happening in that picture . 2910_6290
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|5|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|1|PUNCT
+%wor:	tell 2910_3710 me 3710_3890 everything 3890_4430 you 4430_4730 see 4730_4950 happening 4950_5470 in 5470_5750 that 5750_5930 picture 5930_6378 .
+*INV:	everything that's going on in there . 6290_8730
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in adv|there .
+%gra:	1|0|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|COMPOUND-PRT 6|7|CASE 7|4|OBL 8|1|PUNCT
+%wor:	everything 6290_7270 that's 7270_7650 going 7650_7910 on 7910_8270 in 8270_8490 there 8490_8730 .
+*INV:	mhm . 8750_10640
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	mhm 8750_10640 .
+*INV:	what's happening ? 10790_12379
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S ?
+%gra:	1|3|OBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%wor:	what's 10790_11290 happening 12070_12379 ?
+*INV:	tell me what's going on . 12430_13050
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on .
+%gra:	1|0|ROOT 2|1|IOBJ 3|5|NSUBJ 4|5|AUX 5|1|CCOMP 6|5|COMPOUND-PRT 7|1|PUNCT
+%wor:	tell 12430_12710 me 12710_12830 what's 12830_13050 going 13050_13090 on 13090_14220 .
+*PAR:	+< well ‡ the: stool is falling over . 13050_16219
+%mor:	intj|well punct|‡ det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|4|DET 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|6|ADVMOD 8|6|PUNCT
+%wor:	well 13050_13090 ‡ the 13090_13350 stool 13350_13850 is 15130_15390 falling 15390_15690 over 15690_16219 .
+*PAR:	and the mother's &-uh sink [//] wash [//] sink is overrun . 17533_23873
+%mor:	cconj|and det|the-Def-Art noun|mother~part|s noun|sink aux|be-Fin-Ind-Pres-S3 verb|overrun-Part-Past-S .
+%gra:	1|7|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|7|NSUBJ-PASS 6|7|AUX-PASS 7|0|ROOT 8|7|PUNCT
+%wor:	and 17533_17953 the 17953_18153 mother's 18153_19333 uh 19333_19753 sink 19753_20253 wash 21433_21813 sink 21813_22213 is 22213_22913 overrun 22913_23873 .
+*INV:	(.) anything else you see happening ? 24013_30459
+%mor:	pron|anything-Ind-S1 adj|else-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S ?
+%gra:	1|0|ROOT 2|1|AMOD 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|1|PUNCT
+%wor:	anything 24013_24513 else 29173_29533 you 29533_29693 see 29693_29833 happening 29833_30459 ?
+*PAR:	(...) taking the cookies . [+ gram] 44397_45600
+%mor:	verb|take-Part-Pres-S det|the-Def-Art noun|cookie-Plur-Acc .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	taking 74297_74297 the 74297_74337 cookies 74337_74797 .
+*INV:	mhm . 45600_48715
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	mhm 74297_74797 .
+*INV:	(...) okay . 48715_74797
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	okay 74297_74797 .
+@End

@@ -1,0 +1,64 @@
+@UTF8
+@PID:	11312/t-00017270-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR||male|ProbableAD||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-07T09:48:05-04:00]
+@Media:	184-2, audio
+*INV:	pencil@q . 0_1806
+%mor:	meta|pencil .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	I have a pencil in my hand . 1806_5713
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|a-Ind-Art noun|pencil-Acc adp|in pron|my-Prs-Gen-S1 noun|hand .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|NMOD-POSS 7|2|OBL 8|2|PUNCT
+*INV:	(...) tree@q . 5713_19268
+%mor:	meta|tree .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	the leaves have fallen off the tree . 19268_24451
+%mor:	det|the-Def-Art noun|leave-Plur aux|have-Fin-Ind-Pres-P3 verb|fall-Part-Past-S-irr adp|off det|the-Def-Art noun|tree .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*INV:	(...) child@q hospital@q . 24451_43188
+%mor:	meta|child meta|hospital .
+%gra:	1|2|DEP 2|0|ROOT 3|2|PUNCT
+*PAR:	the child is in the hospital . 43188_46878
+%mor:	det|the-Def-Art noun|child aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|hospital .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|0|ROOT 7|6|PUNCT
+*INV:	(...) cold@q winter@q . 46878_64121
+%mor:	meta|cold meta|winter .
+%gra:	1|2|DEP 2|0|ROOT 3|2|PUNCT
+*PAR:	(..) the weatherman is predicting a cold winter . 64121_71359
+%mor:	det|the-Def-Art noun|weatherman aux|be-Fin-Ind-Pres-S3 verb|predict-Part-Pres-S det|a-Ind-Art adj|cold-S1 noun|winter-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|4|PUNCT
+*INV:	(..) now I'm gonna give you three words . 71359_88725
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S~part|to verb|give-Inf-S pron|you-Prs-Acc-S2 num|three noun|word-Plur-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|IOBJ 8|9|NUMMOD 9|6|OBJ 10|4|PUNCT
+*INV:	I want you to use them all for me in a sentence . 88725_90794
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|use-Inf-S pron|they-Prs-Acc-P3 det|all-Def-Tot adp|for pron|I-Prs-Acc-S1 adp|in det|a-Ind-Art noun|sentence .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|OBJ 7|6|DET 8|9|CASE 9|5|OBL 10|12|CASE 11|12|DET 12|5|OBL 13|2|PUNCT
+*INV:	chair@q doctor@q sit@q . 90722_96213
+%mor:	meta|chair meta|doctor meta|sit .
+%gra:	1|0|ROOT 2|3|DEP 3|1|DEP 4|1|PUNCT
+*PAR:	the doctor told me to sit in the chair . 96213_102859
+%mor:	det|the-Def-Art noun|doctor verb|tell-Fin-Ind-Past-S3-irr pron|I-Prs-Acc-S1 part|to verb|sit-Inf-S adp|in det|the-Def-Art noun|chair .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|3|IOBJ 5|6|MARK 6|3|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|3|PUNCT
+*INV:	(...) bureau@q open@q drawer@q . 102859_123529
+%mor:	meta|bureau meta|open meta|drawer .
+%gra:	1|0|ROOT 2|3|DEP 3|1|DEP 4|1|PUNCT
+*PAR:	the first is door@q ? [+ exc] 123529_126145
+%mor:	det|the-Def-Art adj|first-S1 aux|be-Fin-Ind-Pres-S3 meta|door ?
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*INV:	bureau@q +/. 126145_127000
+%mor:	meta|bureau +/.
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	bureau@q ! [+ exc] 127000_127550
+%mor:	meta|bureau !
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	open@q drawer@q . 127550_129301
+%mor:	meta|open meta|drawer .
+%gra:	1|2|DEP 2|0|ROOT 3|2|PUNCT
+*PAR:	(..) will you open the bureau drawer ? 129301_139868
+%mor:	aux|will-Fin-S pron|you-Prs-Nom-S2 verb|open-Inf-S det|the-Def-Art noun|bureau noun|drawer-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|COMPOUND 6|3|OBJ 7|3|PUNCT
+@End

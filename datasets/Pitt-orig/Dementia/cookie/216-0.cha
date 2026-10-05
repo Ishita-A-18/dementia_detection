@@ -1,0 +1,55 @@
+@UTF8
+@PID:	11312/t-00002558-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|72;|female|ProbableAD||Participant|20||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T22:09:21-04:00]
+@Media:	216-0, audio
+@G:	Cookie
+*INV:	there it is . 0_1870
+%mor:	pron|there-Int-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+%wor:	there 0_500 it 1580_1620 is 1620_1870 .
+*PAR:	well there's a kid in a cookie jar . 1900_4580
+%mor:	intj|well pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|kid adp|in det|a-Ind-Art noun|cookie noun|jar .
+%gra:	1|3|DISCOURSE 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|9|CASE 7|9|DET 8|9|COMPOUND 9|5|NMOD 10|3|PUNCT
+%wor:	well 1900_2400 there's 3160_3380 a 3380_3460 kid 3460_3640 in 3640_3760 a 3760_3860 cookie 3860_4120 jar 4120_5674 .
+*PAR:	there's a girl waitin(g) for some food . 4580_7414
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|girl verb|wait-Ger-S adp|for det|some-Def-Ind noun|food .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|4|ACL 6|8|CASE 7|8|DET 8|5|OBL 9|2|PUNCT
+%wor:	there's 4580_5080 a 6140_6140 girl 6140_6180 waiting 6180_6460 for 6460_6720 some 6720_7000 food 7000_7414 .
+*PAR:	the mother spilled the water . 7420_9462
+%mor:	det|the-Def-Art noun|mother verb|spill-Fin-Ind-Past-S3 det|the-Def-Art noun|water-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	the 7420_8340 mother 8340_8480 spilled 8480_8820 the 8820_9120 water 9120_9462 .
+*PAR:	and she's dryin(g) a dish . 9500_12429
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|dish-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	and 9500_10000 she's 11200_11540 drying 11540_11840 a 11840_12060 dish 12060_12429 .
+*PAR:	and a (.) kid standing on a stool (th)at's tilted . 12500_19812
+%mor:	cconj|and det|a-Ind-Art noun|kid verb|stand-Ger-S adp|on det|a-Ind-Art noun|stool pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Past-S .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|ACL 5|7|CASE 6|7|DET 7|4|OBL 8|10|NSUBJ-PASS 9|10|AUX-PASS 10|7|ACL-RELCL 11|3|PUNCT
+%wor:	and 12500_13000 a 14080_14580 kid 16200_16440 standing 16440_16860 on 16860_17120 a 17120_17740 stool 17740_18340 that's 18340_18700 tilted 18700_19812 .
+*PAR:	he's in the cookie jar . 21362_22482
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|CASE 4|6|DET 5|6|COMPOUND 6|0|ROOT 7|6|PUNCT
+%wor:	he's 21362_21542 in 21542_21582 the 21582_21702 cookie 21702_22042 jar 22042_23112 .
+*PAR:	and the water is coming over the sink . 22482_25662
+%mor:	cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S adp|over det|the-Def-Art noun|sink .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	and 22482_22982 the 23882_24062 water 24062_24322 is 24322_24482 coming 24482_24742 over 24742_25042 the 25042_25302 sink 25302_26718 .
+*PAR:	and the window is open . 25662_28682
+%mor:	cconj|and det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+%wor:	and 25662_26162 the 27522_27822 window 27822_28042 is 28042_28242 open 28242_29018 .
+*PAR:	and that's about all I can tell . [+ exc] 28682_31922
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|about det|all-Def-Tot pron|I-Prs-Nom-S1 aux|can-Fin-S verb|tell-Inf-S .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|0|ROOT 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|5|PUNCT
+%wor:	and 28682_29182 that's 30742_31002 about 31002_31282 all 31282_31442 I 31442_31542 can 31542_31682 tell 31682_32379 .
+*INV:	okay . 31922_32689
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	okay 31922_32689 .
+@End

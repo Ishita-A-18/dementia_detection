@@ -238,6 +238,23 @@ def _empty_audio_features():
 # ==========================================================================
 
 
+def _speaker_id_from_sample_id(sample_id: str) -> str:
+    """Derive a speaker-level group id from a transcript/sample id.
+
+    The DementiaBank / Pitt files commonly look like ``001-0.cha`` where
+    ``001`` is the speaker and the suffix is the visit/task instance.  This
+    function keeps the speaker portion so all visits from the same participant
+    stay in the same split.
+    """
+    if not isinstance(sample_id, str) or not sample_id:
+        return str(sample_id)
+
+    for sep in ("-", "_", "/", "\\"):
+        if sep in sample_id:
+            return sample_id.split(sep)[0]
+    return sample_id
+
+
 def _read_transcript_file(path: Path) -> str:
     """Read a transcript file, supporting both plain text and CHAT (.cha)."""
     if path.suffix.lower() == ".cha":
@@ -294,8 +311,10 @@ def load_dataset(data_dir: str) -> pd.DataFrame:
 
     rows = []
     for stem, r in records.items():
+        speaker_id = _speaker_id_from_sample_id(stem)
         rows.append({
             "id": stem,
+            "speaker_id": speaker_id,
             "label": r["label"],
             "text": r.get("text", ""),
             "audio_path": r.get("audio_path", None),
@@ -327,10 +346,10 @@ def make_demo_data(n_per_class=25, seed=42):
     ]
     rows = []
     for i in range(n_per_class):
-        rows.append({"id": f"hc_{i}", "label": "HC",
+        rows.append({"id": f"hc_{i}", "speaker_id": f"hc_{i}", "label": "HC",
                      "text": " ".join(rng.choice(hc_templates, size=3)),
                      "audio_path": None})
-        rows.append({"id": f"ad_{i}", "label": "AD",
+        rows.append({"id": f"ad_{i}", "speaker_id": f"ad_{i}", "label": "AD",
                      "text": " ".join(rng.choice(ad_templates, size=3)),
                      "audio_path": None})
     return pd.DataFrame(rows)
@@ -362,6 +381,8 @@ def build_feature_matrix(df: pd.DataFrame, use_text=True, use_audio=True):
 
     feats["label"] = df["label"].values
     feats["id"] = df["id"].values
+    if "speaker_id" in df.columns:
+        feats["speaker_id"] = df["speaker_id"].values
     return feats
 
 
@@ -369,8 +390,8 @@ def build_feature_matrix(df: pd.DataFrame, use_text=True, use_audio=True):
 # 6. MODELING & EVALUATION
 # ==========================================================================
 
-def train_and_evaluate(feats: pd.DataFrame, label_col="label", id_cols=("id", "label")):
-    from sklearn.model_selection import StratifiedKFold, cross_val_predict
+def train_and_evaluate(feats: pd.DataFrame, label_col="label", id_cols=("id", "label", "speaker_id"), grouped=True):
+    from sklearn.model_selection import StratifiedKFold, cross_val_predict, GroupKFold
     from sklearn.preprocessing import StandardScaler, LabelEncoder
     from sklearn.pipeline import Pipeline
     from sklearn.feature_selection import SelectKBest, f_classif
@@ -382,6 +403,12 @@ def train_and_evaluate(feats: pd.DataFrame, label_col="label", id_cols=("id", "l
 
     X = feats.drop(columns=list(id_cols)).values
     y = LabelEncoder().fit_transform(feats[label_col].values)  # AD=0/HC=1 or similar
+    
+    # Extract speaker ID from the dataset metadata (speaker-level grouping)
+    speaker_groups = None
+    if grouped and "speaker_id" in feats.columns:
+        speaker_groups = feats["speaker_id"].astype(str).values
+        print("[*] Using speaker-level grouping (prevents speaker leakage across train/test)")
 
     models = {
         "Logistic Regression": LogisticRegression(max_iter=1000, class_weight="balanced"),
@@ -391,7 +418,19 @@ def train_and_evaluate(feats: pd.DataFrame, label_col="label", id_cols=("id", "l
 
     n_splits = min(5, np.min(np.bincount(y)))  # can't have more folds than smallest class
     n_splits = max(n_splits, 2)
-    cv = StratifiedKFold(n_splits=n_splits, shuffle=True, random_state=42)
+    
+    # Prefer stratified group splits when available so class balance is preserved
+    if grouped and speaker_groups is not None:
+        try:
+            from sklearn.model_selection import StratifiedGroupKFold
+            cv = StratifiedGroupKFold(n_splits=n_splits, shuffle=True, random_state=42)
+            cv_is_grouped = True
+        except Exception:
+            cv = GroupKFold(n_splits=n_splits)
+            cv_is_grouped = True
+    else:
+        cv = StratifiedKFold(n_splits=n_splits, shuffle=True, random_state=42)
+        cv_is_grouped = False
 
     results = {}
     for name, clf in models.items():
@@ -401,12 +440,22 @@ def train_and_evaluate(feats: pd.DataFrame, label_col="label", id_cols=("id", "l
             ("select", SelectKBest(score_func=f_classif, k=k)),
             ("clf", clf),
         ])
-        y_pred = cross_val_predict(pipe, X, y, cv=cv)
-        try:
-            y_proba = cross_val_predict(pipe, X, y, cv=cv, method="predict_proba")[:, 1]
-            auc = roc_auc_score(y, y_proba)
-        except Exception:
-            auc = float("nan")
+        
+        # Use groups parameter for grouped cross-validation
+        if grouped and speaker_groups is not None and cv_is_grouped:
+            y_pred = cross_val_predict(pipe, X, y, cv=cv, groups=speaker_groups)
+            try:
+                y_proba = cross_val_predict(pipe, X, y, cv=cv, groups=speaker_groups, method="predict_proba")[:, 1]
+                auc = roc_auc_score(y, y_proba)
+            except Exception:
+                auc = float("nan")
+        else:
+            y_pred = cross_val_predict(pipe, X, y, cv=cv)
+            try:
+                y_proba = cross_val_predict(pipe, X, y, cv=cv, method="predict_proba")[:, 1]
+                auc = roc_auc_score(y, y_proba)
+            except Exception:
+                auc = float("nan")
 
         acc = accuracy_score(y, y_pred)
         f1 = f1_score(y, y_pred)
@@ -420,9 +469,9 @@ def train_and_evaluate(feats: pd.DataFrame, label_col="label", id_cols=("id", "l
     return pd.DataFrame(results).T
 
 
-def train_text_baselines(df: pd.DataFrame, text_col="text", label_col="label"):
+def train_text_baselines(df: pd.DataFrame, text_col="text", label_col="label", grouped=True):
     from sklearn.feature_extraction.text import TfidfVectorizer
-    from sklearn.model_selection import StratifiedKFold, cross_val_predict
+    from sklearn.model_selection import StratifiedKFold, cross_val_predict, GroupKFold
     from sklearn.preprocessing import LabelEncoder
     from sklearn.pipeline import Pipeline
     from sklearn.svm import SVC
@@ -432,6 +481,9 @@ def train_text_baselines(df: pd.DataFrame, text_col="text", label_col="label"):
 
     texts = df[text_col].fillna("").astype(str).values
     y = LabelEncoder().fit_transform(df[label_col].values)
+    speaker_groups = None
+    if grouped and "speaker_id" in df.columns:
+        speaker_groups = df["speaker_id"].astype(str).values
 
     models = {
         "TF-IDF + Logistic Regression": Pipeline([
@@ -446,13 +498,29 @@ def train_text_baselines(df: pd.DataFrame, text_col="text", label_col="label"):
 
     n_splits = min(5, np.min(np.bincount(y)))
     n_splits = max(n_splits, 2)
-    cv = StratifiedKFold(n_splits=n_splits, shuffle=True, random_state=42)
+    if grouped and speaker_groups is not None:
+        try:
+            from sklearn.model_selection import StratifiedGroupKFold
+            cv = StratifiedGroupKFold(n_splits=n_splits, shuffle=True, random_state=42)
+            grouped_cv = True
+        except Exception:
+            cv = GroupKFold(n_splits=n_splits)
+            grouped_cv = True
+    else:
+        cv = StratifiedKFold(n_splits=n_splits, shuffle=True, random_state=42)
+        grouped_cv = False
 
     results = {}
     for name, pipe in models.items():
-        y_pred = cross_val_predict(pipe, texts, y, cv=cv)
+        if grouped and speaker_groups is not None and grouped_cv:
+            y_pred = cross_val_predict(pipe, texts, y, cv=cv, groups=speaker_groups)
+        else:
+            y_pred = cross_val_predict(pipe, texts, y, cv=cv)
         try:
-            y_proba = cross_val_predict(pipe, texts, y, cv=cv, method="predict_proba")[:, 1]
+            if grouped and speaker_groups is not None and grouped_cv:
+                y_proba = cross_val_predict(pipe, texts, y, cv=cv, groups=speaker_groups, method="predict_proba")[:, 1]
+            else:
+                y_proba = cross_val_predict(pipe, texts, y, cv=cv, method="predict_proba")[:, 1]
             auc = roc_auc_score(y, y_proba)
         except Exception:
             auc = float("nan")
@@ -469,7 +537,7 @@ def train_text_baselines(df: pd.DataFrame, text_col="text", label_col="label"):
     return pd.DataFrame(results).T
 
 
-def train_and_evaluate_holdout(feats: pd.DataFrame, label_col="label", id_cols=("id", "label"), test_size=0.2):
+def train_and_evaluate_holdout(feats: pd.DataFrame, label_col="label", id_cols=("id", "label", "speaker_id"), test_size=0.2, grouped=True):
     from sklearn.model_selection import train_test_split
     from sklearn.preprocessing import StandardScaler, LabelEncoder
     from sklearn.pipeline import Pipeline
@@ -486,9 +554,44 @@ def train_and_evaluate_holdout(feats: pd.DataFrame, label_col="label", id_cols=(
     if len(np.unique(y)) < 2:
         raise ValueError("Need at least two classes to train a classifier.")
 
-    X_train, X_test, y_train, y_test = train_test_split(
-        X, y, test_size=test_size, random_state=42, stratify=y
-    )
+    # Speaker-level split (prevent leakage)
+    if grouped and "speaker_id" in feats.columns:
+        print("[*] Using speaker-level holdout split (no speaker appears in both train and test)")
+        speaker_ids = feats["speaker_id"].astype(str).values
+        speaker_df = pd.DataFrame({"speaker_id": speaker_ids, "label": y})
+        speaker_df = speaker_df.drop_duplicates("speaker_id")
+
+        # Split speakers (not transcripts), stratified by speaker label when possible
+        from sklearn.model_selection import train_test_split as tts
+        try:
+            train_speakers, test_speakers = tts(
+                speaker_df["speaker_id"],
+                test_size=test_size,
+                random_state=42,
+                stratify=speaker_df["label"],
+            )
+        except ValueError:
+            train_speakers, test_speakers = tts(
+                speaker_df["speaker_id"],
+                test_size=test_size,
+                random_state=42,
+            )
+        
+        # Get indices for each split
+        train_mask = np.isin(speaker_ids, train_speakers)
+        test_mask = np.isin(speaker_ids, test_speakers)
+        
+        X_train, X_test = X[train_mask], X[test_mask]
+        y_train, y_test = y[train_mask], y[test_mask]
+        
+        print(f"  Train speakers: {len(train_speakers)} | Train samples: {len(y_train)}")
+        print(f"  Test speakers: {len(test_speakers)} | Test samples: {len(y_test)}")
+    else:
+        # Fallback to transcript-level split (old way, with leakage)
+        print("[!] Using transcript-level split (WARNING: may have speaker leakage)")
+        X_train, X_test, y_train, y_test = train_test_split(
+            X, y, test_size=test_size, random_state=42, stratify=y
+        )
 
     models = {
         "Logistic Regression": LogisticRegression(max_iter=1000, class_weight="balanced"),
@@ -563,17 +666,17 @@ def main():
     print(f"Saved feature matrix -> {args.out}  (shape={feats.shape})")
 
     if args.eval_mode == "holdout":
-        print("\nTraining & evaluating handcrafted-feature models (holdout split)...")
-        results = train_and_evaluate_holdout(feats, test_size=args.test_size)
+        print("\nTraining & evaluating handcrafted-feature models (holdout split, speaker-level)...")
+        results = train_and_evaluate_holdout(feats, test_size=args.test_size, grouped=True)
     else:
-        print("\nTraining & evaluating handcrafted-feature models (5-fold stratified CV)...")
-        results = train_and_evaluate(feats)
+        print("\nTraining & evaluating handcrafted-feature models (5-fold CV, speaker-level)...")
+        results = train_and_evaluate(feats, grouped=True)
     print("\n=== SUMMARY ===")
     print(results)
 
     if not args.no_text and "text" in df.columns:
-        print("\nTraining & evaluating TF-IDF text baselines (5-fold stratified CV)...")
-        text_results = train_text_baselines(df)
+        print("\nTraining & evaluating TF-IDF text baselines (speaker-level CV)...")
+        text_results = train_text_baselines(df, grouped=True)
         print("\n=== TEXT BASELINE SUMMARY ===")
         print(text_results)
 

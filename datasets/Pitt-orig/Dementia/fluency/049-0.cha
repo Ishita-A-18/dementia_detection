@@ -1,0 +1,114 @@
+@UTF8
+@PID:	11312/t-00016058-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|56;|female|ProbableAD||Participant|19||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T06:00:16-04:00]
+@Media:	049-0, audio
+@G:	animals
+*INV:	okay ‡ thank_you . 0_1045
+%mor:	intj|okay x|‡ propn|thankyou .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|PUNCT
+*INV:	go . 1045_2578
+%mor:	verb|go-Fin-Imp-S .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	okay . 2578_3170
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	dog . 3170_4281
+%mor:	noun|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cats . 4281_4804
+%mor:	noun|cat-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&=laughs snakes . 4804_5822
+%mor:	noun|snake-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-um (.) chickens . 5822_12638
+%mor:	noun|chicken-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(...) &-um elephants . 12638_23650
+%mor:	noun|elephant-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	giraffes . 23650_24576
+%mor:	noun|giraffe-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) roosters . 24576_36630
+%mor:	noun|rooster-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	hens . 36630_37492
+%mor:	noun|hen-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) squirrels . 37492_40855
+%mor:	noun|squirrel-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	rabbits . 40855_42915
+%mor:	noun|rabbit-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) &-uh snakes . 42915_51546
+%mor:	noun|snake-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) birds . 51546_57071
+%mor:	noun|bird-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+@G:	F
+*INV:	(..) okay ‡ go . 57071_70299
+%mor:	intj|okay punct|‡ verb|go-Fin-Imp-S .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|0|ROOT 4|3|PUNCT
+*PAR:	&-uh farm . 70299_71731
+%mor:	noun|farm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	female . 71731_72447
+%mor:	adj|female-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	foot . 72447_73318
+%mor:	noun|foot .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) freak . 73318_74885
+%mor:	noun|freak .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&=laughs oh ‡ that's not right . [+ exc] 74885_76394
+%mor:	intj|oh punct|‡ pron|that-Dem~aux|be-Fin-Ind-Pres-S3 part|not adj|right-S1 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|0|ROOT 7|6|PUNCT
+*PAR:	&-um (..) Falkland . 76394_82813
+%mor:	propn|Falkland .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) fool . 82813_89599
+%mor:	verb|fool-Fin-Imp-S .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) fudge . 89599_96135
+%mor:	noun|fudge .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) family . 96135_100461
+%mor:	noun|family .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) forest . 100461_106797
+%mor:	noun|forest .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) front . 106797_113878
+%mor:	noun|front .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) fruit . 113878_121737
+%mor:	noun|fruit .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) fall . 121737_126600
+%mor:	noun|fall .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	what was the last one ? 126600_127807
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Past-S3-irr det|the-Def-Art adj|last-S1 noun|one ?
+%gra:	1|0|ROOT 2|1|COP 3|5|DET 4|5|AMOD 5|1|NSUBJ 6|1|PUNCT
+*PAR:	I said fall@q . [+ exc] 127807_128736
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr meta|fall .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|DEP 4|2|PUNCT
+*INV:	fall . 128736_129444
+%mor:	noun|fall .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	mhm ‡ yeah . [+ exc] 129444_130629
+%mor:	intj|mhm intj|‡ intj|yeah .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|DISCOURSE 4|1|PUNCT
+*INV:	that's it . 133471_140000
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+@End

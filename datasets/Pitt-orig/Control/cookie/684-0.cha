@@ -1,0 +1,107 @@
+@UTF8
+@PID:	11312/t-00002414-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|75;|male|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T21:26:37-04:00]
+@Media:	684-0, audio
+@G:	Cookie
+*INV:	I want you to tell me everything you see happening in that picture . 680_3640
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|5|OBJ 8|9|NSUBJ 9|7|ACL-RELCL 10|9|XCOMP 11|13|CASE 12|13|DET 13|10|OBL 14|2|PUNCT
+%wor:	I 680_860 want 860_900 you 900_1000 to 1000_1200 tell 1200_1320 me 1320_1480 everything 1480_1840 you 1840_2140 see 2140_2340 happening 2340_2760 in 2760_3040 that 3040_3280 picture 3280_4040 .
+*INV:	everything that's going on there . 3640_5800
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adv|there .
+%gra:	1|0|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|COMPOUND-PRT 6|4|ADVMOD 7|1|PUNCT
+%wor:	everything 3640_4580 that's 4580_4920 going 4920_5220 on 5220_5500 there 5500_6620 .
+*PAR:	&-uh the boy is reaching into the cookie jar . 5800_11680
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|into det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|4|PUNCT
+%wor:	uh 5800_6300 the 8180_8420 boy 8420_8880 is 8880_9360 reaching 9360_10240 into 10240_10720 the 10720_10940 cookie 10940_11200 jar 11200_11749 .
+*PAR:	he's falling off the stool . 11680_13940
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	he's 11680_12140 falling 12140_12500 off 12500_12940 the 12940_13520 stool 13520_14070 .
+*PAR:	the little girl is reaching for a cookie . 13940_17300
+%mor:	det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	the 13940_14440 little 15440_15600 girl 15600_15920 is 15920_16240 reaching 16240_16560 for 16560_16860 a 16860_17040 cookie 17040_17410 .
+*PAR:	mother is drying the dishes . 17300_20576
+%mor:	noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	mother 17300_17800 is 19360_19680 drying 19680_20000 the 20000_20220 dishes 20220_20576 .
+*PAR:	the sink is running over . 20600_21920
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adv|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	the 20600_20800 sink 20800_21040 is 21040_21220 running 21220_21500 over 21500_21960 .
+*PAR:	mother's getting her feet wet . 21920_30520
+%mor:	noun|mother~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S pron|her-Prs-Gen-S3 noun|foot-Plur-Acc adj|wet-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|XCOMP 7|3|PUNCT
+%wor:	mother's 21920_22420 getting 29420_29660 her 29660_29860 feet 29860_30140 wet 30140_30651 .
+*PAR:	they all have shoes on . 30520_34702
+%mor:	pron|they-Prs-Nom-P3 det|all-Def-Tot verb|have-Fin-Ind-Pres-P3 noun|shoe-Plur-Acc adp|on .
+%gra:	1|3|NSUBJ 2|1|DET 3|0|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+%wor:	they 30520_31020 all 33380_33640 have 33640_33900 shoes 33900_34280 on 34280_34702 .
+*PAR:	there's <a cup> [//] two cups and a saucer on the sink . 38248_42808
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 num|two noun|cup-Plur cconj|and det|a-Ind-Art noun|saucer adp|on det|the-Def-Art noun|sink .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|NUMMOD 4|2|NSUBJ 5|7|CC 6|7|DET 7|4|CONJ 8|10|CASE 9|10|DET 10|7|NMOD 11|2|PUNCT
+%wor:	there's 38248_38488 a 38488_38748 cup 38748_39128 two 39128_39628 cups 40808_41188 and 41188_41388 a 41388_41568 saucer 41568_41988 on 41988_42228 the 42228_42428 sink 42428_42918 .
+*PAR:	the window has draw [//] withdrawn [: drawn] [* s:r] drapes . 42808_48328
+%mor:	det|the-Def-Art noun|window aux|have-Fin-Ind-Pres-S3 verb|draw-Part-Past-S-irr noun|drape-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	the 42808_43308 window 44788_45108 has 45108_45588 draw 45588_46308 withdrawn 46308_46808 drapes 47748_48413 .
+*PAR:	you look out on the driveway . 48328_51088
+%mor:	pron|you-Prs-Nom-S2 verb|look-Fin-Ind-Pres-S2 adp|out adp|on det|the-Def-Art noun|driveway .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|COMPOUND-PRT 4|6|CASE 5|6|DET 6|2|OBL 7|2|PUNCT
+%wor:	you 48328_48828 look 49748_49968 out 49968_50248 on 50248_50428 the 50428_50548 driveway 50548_51392 .
+*PAR:	there's kitchen cabinets . 51088_54748
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|kitchen noun|cabinet-Plur .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|COMPOUND 4|2|NSUBJ 5|2|PUNCT
+%wor:	there's 51088_51588 kitchen 53688_54028 cabinets 54028_54878 .
+*INV:	now tell me what's happening . 54748_56928
+%mor:	adv|now verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|IOBJ 4|6|NSUBJ 5|6|AUX 6|2|CCOMP 7|2|PUNCT
+%wor:	now 54748_55248 tell 55908_56128 me 56128_56228 what's 56228_56508 happening 56508_56970 .
+*PAR:	oh what's happening . [+ exc] 56928_58020
+%mor:	intj|oh pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|4|AUX 4|2|ACL-RELCL 5|2|PUNCT
+%wor:	oh 56928_57328 what's 57328_57588 happening 57588_58020 .
+*PAR:	mother is looking out the window . 60930_62510
+%mor:	noun|mother aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|6|DET 6|3|OBJ 7|3|PUNCT
+%wor:	mother 60930_61170 is 61170_61450 looking 61450_61770 out 61770_61990 the 61990_62110 window 62110_62680 .
+*PAR:	the girl is touching her lips . 62510_64830
+%mor:	det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|touch-Part-Pres-S pron|her-Prs-Gen-S3 noun|lip-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|PUNCT
+%wor:	the 62510_63390 girl 63390_63630 is 63630_63830 touching 63830_64150 her 64150_64410 lips 64410_64971 .
+*PAR:	the boy is standing on his right foot . 64830_68530
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on pron|his-Prs-Gen-S3 adj|right-S1 noun|foot .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|8|CASE 6|8|NMOD-POSS 7|8|AMOD 8|4|OBL 9|4|PUNCT
+%wor:	the 64830_65330 boy 66570_66850 is 66850_67070 standing 67070_67330 on 67330_67530 his 67530_67690 right 67690_67990 foot 67990_68625 .
+*PAR:	his left foot is sort_of up in the air . 68530_71721
+%mor:	pron|his-Prs-Gen-S3 adj|left-S1 noun|foot aux|be-Fin-Ind-Pres-S3 adj|sortof-S1 adp|up adp|in det|the-Def-Art noun|air .
+%gra:	1|3|NMOD-POSS 2|3|AMOD 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|ADVMOD 7|9|CASE 8|9|DET 9|5|OBL 10|5|PUNCT
+%wor:	his 68530_69110 left 69110_69390 foot 69390_69670 is 69670_69990 sort_of 69990_70890 up 70890_71070 in 71070_71210 the 71210_71330 air 71330_71721 .
+*PAR:	mother's right foot is flat on the floor and <her left> [//] she's on her left toe . 73000_81100
+%mor:	noun|mother~part|s adj|right-S1 noun|foot aux|be-Fin-Ind-Pres-S3 adj|flat-S1 adp|on det|the-Def-Art noun|floor cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|on pron|her-Prs-Gen-S3 adj|left-S1 noun|toe .
+%gra:	1|4|NMOD-POSS 2|1|CASE 3|4|AMOD 4|6|NSUBJ 5|6|COP 6|0|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|16|CC 11|16|NSUBJ 12|16|COP 13|16|CASE 14|16|NMOD-POSS 15|16|AMOD 16|6|CONJ 17|6|PUNCT
+%wor:	mother's 73000_73420 right 73420_73680 foot 73680_74080 is 74080_74580 flat 75120_75520 on 75520_75780 the 75780_75980 floor 75980_76700 and 76700_76900 her 76900_77280 left 77280_77780 she's 78460_79440 on 79440_80260 her 80260_80400 left 80400_80680 toe 80680_81190 .
+*PAR:	&-uh she's holding the dish cloth in her right hand and the plate she is drying in her left . 81100_90246
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|hold-Part-Pres-S det|the-Def-Art noun|dish noun|cloth-Acc adp|in pron|her-Prs-Gen-S3 adj|right-S1 noun|hand cconj|and det|the-Def-Art noun|plate pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S adp|in pron|her-Prs-Gen-S3 noun|left .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|COMPOUND 6|3|OBJ 7|10|CASE 8|10|NMOD-POSS 9|10|AMOD 10|3|OBL 11|13|CC 12|13|DET 13|10|CONJ 14|16|NSUBJ 15|16|AUX 16|13|ACL-RELCL 17|19|CASE 18|19|NMOD-POSS 19|16|OBL 20|3|PUNCT
+%wor:	uh 81100_81600 she's 83680_84120 holding 84120_84440 the 84440_84700 dish 84700_84940 cloth 84940_85380 in 85380_85620 her 85620_85920 right 85920_86380 hand 86380_86840 and 86840_87260 the 87260_87420 plate 87420_87800 she 87800_88740 is 88740_88940 drying 88940_89300 in 89300_89560 her 89560_89700 left 89700_90246 .
+*PAR:	I think I've run out of +/. [+ exc] 94299_95299
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|run-Part-Past-S-irr adp|out adp|of +/.
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|NSUBJ 4|5|AUX 5|2|CCOMP 6|5|COMPOUND-PRT 7|5|OBL 8|2|PUNCT
+%wor:	I 94299_94579 think 94579_94619 I've 94619_94779 run 94779_94959 out 94959_95179 of 95179_95319 +/.
+*INV:	+< oh yeah I think that's alright thanks . 95299_97050
+%mor:	intj|oh intj|yeah pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|alright-S1 noun|thanks .
+%gra:	1|4|DISCOURSE 2|4|DISCOURSE 3|4|NSUBJ 4|0|ROOT 5|7|NSUBJ 6|7|COP 7|4|CCOMP 8|4|DISCOURSE 9|4|PUNCT
+%wor:	oh 95299_95559 yeah 95559_95679 I 95679_95719 think 95719_95939 that's 95939_96219 alright 96219_96719 thanks 96719_97260 .
+*PAR:	+< yeah &=laughs . [+ exc] 97050_97679
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	yeah 97179_97679 .
+@End

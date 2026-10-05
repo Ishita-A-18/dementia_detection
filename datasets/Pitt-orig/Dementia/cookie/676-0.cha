@@ -1,0 +1,55 @@
+@UTF8
+@PID:	11312/t-00002721-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|72;|male|ProbableAD||Participant|24||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T22:06:26-04:00]
+@Media:	676-0, audio
+@G:	Cookie
+*INV:	everything that you see happening in that picture , everything that's going on there . 140_3760
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture cm|cm pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adv|there .
+%gra:	1|0|ROOT 2|5|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|1|PUNCT 10|1|APPOS 11|13|NSUBJ 12|13|AUX 13|10|ACL-RELCL 14|13|COMPOUND-PRT 15|13|ADVMOD 16|1|PUNCT
+%wor:	everything 140_520 that 520_720 you 720_840 see 840_1020 happening 1020_1460 in 1460_1760 that 1760_1920 picture 1920_2220 , everything 2220_2580 that's 2580_2920 going 2920_3200 on 3200_3460 there 3460_3790 .
+*PAR:	the boy and the girl are playing . 3760_7180
+%mor:	det|the-Def-Art noun|boy cconj|and det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-P3 verb|play-Part-Pres-S .
+%gra:	1|2|DET 2|7|NSUBJ 3|5|CC 4|5|DET 5|2|CONJ 6|7|AUX 7|0|ROOT 8|7|PUNCT
+%wor:	the 3760_4260 boy 5680_6000 and 6000_6180 the 6180_6340 girl 6340_6600 are 6600_6800 playing 6800_7247 .
+*PAR:	and he's gonna fall down off the ladder [: stool] [* s:r] . 7180_9900
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|fall-Inf-S adp|down adp|off det|the-Def-Art noun|stool .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|4|PUNCT
+%wor:	and 7180_7320 he's 7320_7560 gonna 7560_7720 fall 7720_8060 down 8060_8420 off 8420_8920 the 9480_9620 ladder 9620_9933 .
+*PAR:	and the mother's washing the dishes . 9900_14620
+%mor:	cconj|and det|the-Def-Art noun|mother~part|s verb|wash-Ger-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|3|CASE 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%wor:	and 9900_10400 the 12520_13060 mother's 13060_13680 washing 13680_14120 the 14120_14320 dishes 14320_14707 .
+*PAR:	and it's flying out over the sink down to the floor . 14620_19778
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fly-Part-Pres-S adp|out adp|over det|the-Def-Art noun|sink adv|down adp|to det|the-Def-Art noun|floor .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|4|ADVMOD 10|12|CASE 11|12|DET 12|4|OBL 13|4|PUNCT
+%wor:	and 14620_14880 it's 14880_15380 flying 16560_17100 out 17100_17420 over 17420_17880 the 17880_18580 sink 18580_18840 down 18840_19140 to 19140_19260 the 19260_19420 floor 19420_19778 .
+*PAR:	what else do you want me to tell you ? [+ exc] 22012_23132
+%mor:	pron|what-Int-S1 adv|else aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S pron|I-Prs-Acc-S1 part|to verb|tell-Inf-S pron|you-Prs-Acc-S2 ?
+%gra:	1|5|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|5|OBJ 7|8|MARK 8|5|XCOMP 9|8|IOBJ 10|5|PUNCT
+%wor:	what 22012_22192 else 22192_22352 do 22352_22492 you 22492_22532 want 22532_22612 me 22612_22752 to 22752_22792 tell 22792_22992 you 22992_23812 ?
+*INV:	that's all . 23132_24372
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+%wor:	that's 23132_23632 all 24272_24372 .
+*PAR:	whatever you see happening . [+ exc] 24419_25652
+%mor:	pron|whatever-Int-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S .
+%gra:	1|0|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|3|XCOMP 5|1|PUNCT
+%wor:	whatever 24472_24852 you 24852_25112 see 25112_25252 happening 25252_25679 .
+*INV:	is that it ? 25652_26532
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem pron|it-Prs-Nom-S3 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+%wor:	is 25652_26192 that 26192_26332 it 26332_26532 ?
+*PAR:	yeah that's it . [+ exc] 26592_27202
+%mor:	intj|yeah pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+%wor:	yeah 26592_26912 that's 26912_27112 it 27112_27202 .
+*INV:	okay fine . 27272_27910
+%mor:	intj|okay adj|fine-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+%wor:	okay 27272_27572 fine 27572_27910 .
+@End

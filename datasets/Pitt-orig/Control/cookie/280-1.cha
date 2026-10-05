@@ -1,0 +1,47 @@
+@UTF8
+@PID:	11312/t-00002384-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|68;|female|Control||Participant|29||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T22:11:24-04:00]
+@Media:	280-1, audio
+@G:	Cookie
+*PAR:	okay . [+ exc] 490_970
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	okay 490_1180 .
+*PAR:	I see a little girl telling her little brother to be quiet . 970_6254
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|a-Ind-Art adj|little-S1 noun|girl-Acc verb|tell-Ger-S pron|her-Prs-Gen-S3 adj|little-S1 noun|brother part|to aux|be-Inf-S adj|quiet-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|5|ACL 7|9|NMOD-POSS 8|9|AMOD 9|6|IOBJ 10|12|MARK 11|12|COP 12|6|XCOMP 13|2|PUNCT
+%wor:	I 970_1550 see 1550_2250 a 2250_2990 little 2990_3490 girl 4270_4590 telling 4590_4950 her 4950_5150 little 5150_5330 brother 5330_5550 to 5550_5670 be 5670_5850 quiet 5850_6254 .
+*PAR:	and the little brother is falling off the stool while getting cookies . 6305_11430
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|brother aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off det|the-Def-Art noun|stool sconj|while verb|get-Part-Pres-S noun|cookie-Plur-Acc .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|11|MARK 11|6|ADVCL 12|11|OBJ 13|6|PUNCT
+%wor:	and 6310_6710 the 6710_6790 little 6790_6950 brother 6950_7230 is 7230_7490 falling 7490_8170 off 8170_8490 the 8490_8730 stool 8730_9150 while 9150_9830 getting 9830_10630 cookies 10630_11525 .
+*PAR:	the mother is drying a plate . 11430_15247
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|plate-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	the 11430_12290 mother 12290_12550 is 12550_12950 drying 12950_13930 a 13930_14710 plate 14710_15247 .
+*PAR:	and the sink is overflowing . 15310_17160
+%mor:	cconj|and det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+%wor:	and 15310_15690 the 15690_15930 sink 15930_16270 is 16270_16570 overflowing 16570_17160 .
+*PAR:	(.) <she can> [//] I can see out the window . 21929_23989
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S adp|out det|the-Def-Art noun|window-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|6|DET 6|3|OBJ 7|3|PUNCT
+%wor:	she 21929_22049 can 22049_22309 I 22309_22729 can 22729_22909 see 22909_23189 out 23189_23389 the 23389_23569 window 23569_24029 .
+*PAR:	that's not an action . [+ exc] 23989_25129
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 part|not det|a-Ind-Art noun|action .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|ADVMOD 4|5|DET 5|0|ROOT 6|5|PUNCT
+%wor:	that's 23989_24589 not 24589_24729 an 24729_24889 action 24889_25129 .
+*PAR:	no [/] no [/] no more action . [+ exc] 25209_27119
+%mor:	det|no-Def-Neg adj|more-Cmp-S1 noun|action .
+%gra:	1|3|DET 2|3|AMOD 3|0|ROOT 4|3|PUNCT
+%wor:	no 25209_25569 no 25569_25809 no 25809_26069 more 26069_26149 action 26149_27119 .
+*INV:	okay that's fine . 27169_28638
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+%wor:	okay 27169_28029 that's 28029_28489 fine 28489_28638 .
+@End

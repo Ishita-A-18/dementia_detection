@@ -1,0 +1,117 @@
+@UTF8
+@PID:	11312/t-00016191-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|68;|female|ProbableAD||Participant|19||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T05:59:34-04:00]
+@Media:	368-0, audio
+@G:	animals
+*INV:	you can begin now . 0_1800
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S adv|now .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	dog . 1800_2974
+%mor:	noun|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cat . 2974_3735
+%mor:	noun|cat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	pig . 3735_4576
+%mor:	noun|pig .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	horse . 4576_6086
+%mor:	noun|horse .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	goat . 6086_8155
+%mor:	noun|goat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	I don't know (.) animals . [+ exc] 8155_11907
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S noun|animal-Plur-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	did I give cat@q ? [+ exc] 11907_13354
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|give-Inf-S meta|cat ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|DEP 5|3|PUNCT
+*PAR:	dog . 13354_14241
+%mor:	noun|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) &-uh giraffe . 14241_19268
+%mor:	noun|giraffe .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	xxx pig and [/] and dog +... [+ exc] 19268_34000
+%mor:	noun|pig cconj|and noun|dog +...
+%gra:	1|0|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+*PAR:	I don't know . [+ exc] 34000_36468
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*INV:	you've got about twenty five seconds . 36468_39408
+%mor:	pron|you-Prs-Nom-S2~aux|have-Fin-Ind-Pres-S2 verb|get-Part-Past-S-irr adv|about num|twenty num|five noun|second-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|ADVMOD 5|6|COMPOUND 6|7|NUMMOD 7|3|OBJ 8|3|PUNCT
+*INV:	(...) can you think of any more ? 39408_48311
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|think-Inf-S adp|of det|any-Def-Ind adj|more-Cmp-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*PAR:	hmhunh . [+ exc] 48011_49011
+%mor:	intj|hmhunh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) I'm too tired . [+ exc] 49011_52358
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|too adj|tired-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+@G:	F
+*INV:	okay . 52358_62101
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	let's see what you can think of beginning with the letter f@l . 62101_64871
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S pron|what-Rel-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S sconj|of verb|begin-Part-Pres-S adp|with det|the-Def-Art noun|letter n:let|f .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|7|OBJ 5|7|NSUBJ 6|7|AUX 7|3|CCOMP 8|9|MARK 9|7|ADVCL 10|13|CASE 11|13|DET 12|13|DEP 13|9|OBL 14|1|PUNCT
+*INV:	and you can start now . 64871_66537
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	animals ? [+ exc] 66537_67645
+%mor:	noun|animal-Plur ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	any word . 67645_68434
+%mor:	det|any-Def-Ind noun|word .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	oh . [+ exc] 68434_69433
+%mor:	intj|oh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	fox . 69433_71895
+%mor:	propn|fox .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	fun . 71895_72860
+%mor:	noun|fun .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	fin . 72860_74292
+%mor:	noun|fin .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	fish . 74292_77093
+%mor:	noun|fish .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	farm . 77093_79304
+%mor:	noun|farm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh full . 79304_84066
+%mor:	adj|full-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	fresh . 84066_88797
+%mor:	adj|fresh-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	after . 88797_92485
+%mor:	adv|after .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	frog . 92485_96921
+%mor:	noun|frog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-um (..) &-uh (..) friend . 96921_109434
+%mor:	noun|friend .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	foe . 109434_111069
+%mor:	noun|foe .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(...) flower . 111069_124483
+%mor:	noun|flower .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay ‡ good ! 124483_127067
+%mor:	intj|okay intj|‡ adj|good-S1 !
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|PUNCT
+@End

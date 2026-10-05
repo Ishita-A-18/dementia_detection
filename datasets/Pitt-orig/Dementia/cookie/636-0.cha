@@ -1,0 +1,79 @@
+@UTF8
+@PID:	11312/t-00002708-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|77;|male|ProbableAD||Participant|14||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T21:58:13-04:00]
+@Media:	636-0, audio
+@G:	Cookie
+*INV:	what I want you to do is take a good look at this picture . 790_4370
+%mor:	pron|what-Int-S1 pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|do-Inf-S aux|be-Fin-Ind-Pres-S3 verb|take-Inf-S det|a-Ind-Art adj|good-S1 noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture .
+%gra:	1|8|NSUBJ-OUTER 2|3|NSUBJ 3|1|ACL-RELCL 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|8|COP 8|0|ROOT 9|11|DET 10|11|AMOD 11|8|OBJ 12|14|CASE 13|14|DET 14|11|NMOD 15|8|PUNCT
+%wor:	what 790_1350 I 1350_1970 want 1970_2430 you 2430_2470 to 2470_2510 do 2510_2690 is 2690_2990 take 2990_3210 a 3210_3310 good 3310_3490 look 3490_3710 at 3710_3850 this 3850_4010 picture 4010_4430 .
+*INV:	and tell me everything that you see going on in that picture . 4370_7870
+%mor:	cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|CC 2|0|ROOT 3|2|IOBJ 4|2|OBJ 5|8|OBJ 6|7|NSUBJ 7|4|ACL-RELCL 8|7|XCOMP 9|8|COMPOUND-PRT 10|12|CASE 11|12|DET 12|8|OBL 13|2|PUNCT
+%wor:	and 4370_4870 tell 5410_5590 me 5590_5710 everything 5710_6150 that 6150_6430 you 6430_6510 see 6510_6710 going 6710_7010 on 7010_7250 in 7250_7350 that 7350_7510 picture 7510_8200 .
+*INV:	tell me everything that you see happening . 7870_9990
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|6|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|6|XCOMP 8|1|PUNCT
+%wor:	tell 7870_8570 me 8570_8690 everything 8690_9050 that 9050_9250 you 9250_9370 see 9370_9570 happening 9570_10850 .
+*INV:	tell me everything +/. 9990_19030
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 +/.
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|1|PUNCT
+%wor:	tell 9990_10490 me 18650_18830 everything 18830_19388 +/.
+*PAR:	+< he must be pickin(g) apples here . 19030_20740
+%mor:	pron|he-Prs-Nom-S3 aux|must-Fin-S aux|be-Inf-S verb|pick-Part-Pres-S noun|apple-Plur-Acc adv|here .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|ADVMOD 7|4|PUNCT
+%wor:	he 19030_19150 must 19150_19370 be 19370_19570 picking 19570_19870 apples 19870_20310 here 20310_20740 .
+*INV:	okay . 21075_21435
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	okay 21075_21755 .
+*PAR:	(be)cause he's on the ladder [: stool] [* s:r] . 21435_23055
+%mor:	sconj|because pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|stool .
+%gra:	1|6|MARK 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|0|ROOT 7|6|PUNCT
+%wor:	because 21435_21935 he's 21935_22355 on 22355_22555 the 22555_22735 ladder 22735_23120 .
+*PAR:	and he's got both hands open . 23055_25235
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr det|both-Def-Tot noun|hand-Plur-Acc adj|open-S1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|XCOMP 8|4|PUNCT
+%wor:	and 23055_23455 he's 23455_23995 got 23995_24195 both 24195_24455 hands 24455_24835 open 24835_25348 .
+*PAR:	and he can be . 25235_25995
+%mor:	cconj|and pron|he-Prs-Nom-S3 aux|can-Fin-S aux|be-Inf-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%wor:	and 25235_25435 he 25435_25535 can 25535_25735 be 25735_26770 .
+*INV:	anything else that you see happening here ? 25995_33015
+%mor:	pron|anything-Ind-S1 adj|else-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adv|here ?
+%gra:	1|0|ROOT 2|1|AMOD 3|6|OBJ 4|5|NSUBJ 5|1|ACL-RELCL 6|5|XCOMP 7|6|ADVMOD 8|1|PUNCT
+%wor:	anything 25995_26495 else 31375_31795 that 31795_31935 you 31935_32055 see 32055_32215 happening 32215_32595 here 32595_33512 ?
+*PAR:	and the chair [: stool] [* s:r] was fallin(g) . 33015_36995
+%mor:	cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Past-S3-irr verb|fall-Part-Pres-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+%wor:	and 33015_33515 the 35935_36115 chair 36115_36375 was 36375_36635 falling 36635_37144 .
+*INV:	okay . 36995_38288
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	okay 36995_38288 .
+*INV:	anything else ? 40199_40999
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	anything 40199_40579 else 40579_41109 ?
+*PAR:	the baby's cryin(g) . 40999_47959
+%mor:	det|the-Def-Art noun|baby~aux|be-Fin-Ind-Pres-S3 verb|cry-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%wor:	the 40999_41499 baby's 44579_45079 crying 47519_47975 .
+*INV:	okay anything else that you see happening ? 47959_50979
+%mor:	intj|okay pron|anything-Ind-S1 adj|else-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S ?
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|AMOD 4|6|OBJ 5|6|NSUBJ 6|2|ACL-RELCL 7|6|XCOMP 8|2|PUNCT
+%wor:	okay 47959_48459 anything 49159_49779 else 49779_50159 that 50159_50279 you 50279_50379 see 50379_50559 happening 50559_51060 ?
+*PAR:	that's all . [+ exc] 50979_53099
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+%wor:	that's 50979_51479 all 52819_53217 .
+*INV:	okay . 53099_54240
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	okay 53099_54240 .
+@End

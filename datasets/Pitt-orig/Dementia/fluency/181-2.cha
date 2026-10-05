@@ -1,0 +1,132 @@
+@UTF8
+@PID:	11312/t-00016111-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR||female|ProbableAD||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T05:58:00-04:00]
+@Media:	181-2, audio
+@G:	animals
+*INV:	go ahead . 0_1355
+%mor:	verb|go-Fin-Imp-S adv|ahead .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*PAR:	horse . 1355_2219
+%mor:	noun|horse .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and a cow . 2219_3000
+%mor:	cconj|and det|a-Ind-Art noun|cow .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	and &-uh a cat . 3000_4982
+%mor:	cconj|and det|a-Ind-Art noun|cat .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	and a dog . 4982_5663
+%mor:	cconj|and det|a-Ind-Art noun|dog .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	<and a> [/] and a mule . 5663_7676
+%mor:	cconj|and det|a-Ind-Art noun|mule .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	and &-uh a wolf . 7676_9511
+%mor:	cconj|and det|a-Ind-Art noun|wolf .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	and a coyote . 9511_11638
+%mor:	cconj|and det|a-Ind-Art noun|coyote .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	and a &+h hippopotamus . 11638_15379
+%mor:	cconj|and det|a-Ind-Art noun|hippopotamus .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	and a elephant . 15379_16608
+%mor:	cconj|and det|a-Ind-Art noun|elephant .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	and a lion . 16529_18273
+%mor:	cconj|and det|a-Ind-Art noun|lion .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	and a monkey . 18273_21791
+%mor:	cconj|and det|a-Ind-Art noun|monkey .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	and &-uh +... 21791_29000
+%mor:	cconj|and +...
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	I [/] I named the horse@q „ didn't I ? 29000_31145
+%mor:	pron|I-Prs-Nom-S1 verb|name-Fin-Ind-Past-S1 det|the-Def-Art meta|horse punct|„ aux|do-Fin-Ind-Past-S3-irr~part|not pron|I-Prs-Nom-S1 ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|DEP 5|2|PUNCT 6|2|PARATAXIS 7|6|ADVMOD 8|6|NSUBJ 9|2|PUNCT
+*PAR:	and [/] and a cow . 30957_35861
+%mor:	cconj|and det|a-Ind-Art noun|cow .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	<and a> [/] and a rabbit . 35861_39954
+%mor:	cconj|and det|a-Ind-Art noun|rabbit .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	and then a squirrel . 39954_42072
+%mor:	cconj|and adv|then det|a-Ind-Art noun|squirrel .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|DET 4|0|ROOT 5|4|PUNCT
+*PAR:	and &-uh +... 42072_47000
+%mor:	cconj|and +...
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and oh_boy . [+ exc] 47000_48920
+%mor:	cconj|and noun|ohboy .
+%gra:	1|2|CC 2|0|ROOT 3|2|PUNCT
+*PAR:	and giraffe . 48920_51741
+%mor:	cconj|and noun|giraffe .
+%gra:	1|2|CC 2|0|ROOT 3|2|PUNCT
+*PAR:	and a pig . 51771_54862
+%mor:	cconj|and det|a-Ind-Art noun|pig .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	and &-uh a sheep . 54862_59875
+%mor:	cconj|and det|a-Ind-Art noun|sheep .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	and a goat . 59875_61466
+%mor:	cconj|and det|a-Ind-Art noun|goat .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|PUNCT
+*INV:	(.) okay ‡ good . 61466_67599
+%mor:	intj|okay intj|‡ adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|PUNCT
+@G:	F
+*INV:	go ahead . 67599_70056
+%mor:	verb|go-Fin-Imp-S adv|ahead .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*PAR:	&-uh a frog . 70072_72361
+%mor:	det|a-Ind-Art noun|frog .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	and you say no forest@q ? 72361_75427
+%mor:	cconj|and pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Pres-S2 det|no-Def-Neg meta|forest ?
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|DEP 6|3|PUNCT
+*INV:	no ‡ that's fine . 75427_78307
+%mor:	intj|no noun|‡ pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*PAR:	&-um (.) &=sighs &-uh a fan . 78307_84283
+%mor:	det|a-Ind-Art noun|fan .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	oh_my_goodness . [+ exc] 93663_95532
+%mor:	propn|ohmygoodness .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	all these f@ls and I can't think of one . [+ exc] 95532_97703
+%mor:	det|all-Def-Tot det|this-Def-Dem-Plur n:let|f-Plur cconj|and pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|think-Inf-S adp|of num|one .
+%gra:	1|3|DET-PREDET 2|3|DET 3|8|DEP 4|5|CC 5|3|CONJ 6|8|AUX 7|8|ADVMOD 8|0|ROOT 9|10|CASE 10|8|OBL 11|8|PUNCT
+*PAR:	&-uh f@l is &-uh +... [+ exc] 97703_114000
+%mor:	n:let|f aux|be-Fin-Ind-Pres-S3 +...
+%gra:	1|2|DEP 2|0|ROOT 3|2|PUNCT
+*INV:	any other words you can't think of that begin with f@l ? 114000_116845
+%mor:	det|any-Def-Ind adj|other-S1 noun|word-Plur pron|you-Prs-Nom-S2 aux|can-Fin-S~part|not verb|think-Inf-S adp|of pron|that-Dem verb|begin-Fin-Ind-Pres-P3 adp|with n:let|f ?
+%gra:	1|3|DET 2|3|AMOD 3|10|NSUBJ 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|3|ACL-RELCL 8|9|CASE 9|7|OBL 10|0|ROOT 11|12|DEP 12|10|OBL 13|10|PUNCT
+*PAR:	four . 116845_118737
+%mor:	num|four .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and (.) five . 118737_122776
+%mor:	cconj|and num|five .
+%gra:	1|2|CC 2|0|ROOT 3|2|PUNCT
+*INV:	+< okay . 119133_121827
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	funny . 122776_125562
+%mor:	adj|funny-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	did I say forest@q ? [+ exc] 125562_131307
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|say-Inf-S meta|forest ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|DEP 5|3|PUNCT
+*INV:	okay . 131307_132567
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay ‡ good . 132567_135618
+%mor:	intj|okay intj|‡ adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|PUNCT
+@End

@@ -1,0 +1,136 @@
+@UTF8
+@PID:	11312/t-00016130-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|72;|female|ProbableAD||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T05:58:43-04:00]
+@Media:	216-0, audio
+@G:	animals
+*INV:	okay . 0_1744
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	as many as you can think of in a minute . 1744_5428
+%mor:	adv|as adj|many-S1 sconj|as pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of adp|in det|a-Ind-Art noun|minute .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|6|MARK 4|6|NSUBJ 5|6|AUX 6|2|ADVCL 7|6|OBL 8|10|CASE 9|10|DET 10|6|OBL 11|2|PUNCT
+*INV:	starting now . 5428_6958
+%mor:	verb|start-Part-Pres-S adv|now .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*PAR:	dog . 6958_8234
+%mor:	noun|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cat . 9059_10211
+%mor:	noun|cat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	elephant . 10211_13090
+%mor:	noun|elephant .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) horse . 13090_17648
+%mor:	noun|horse .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	kangaroo . 17648_18670
+%mor:	noun|kangaroo .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	where am I at now ? [+ exc] 18670_22594
+%mor:	adv|where aux|be-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 adp|at adv|now ?
+%gra:	1|0|ROOT 2|1|COP 3|1|NSUBJ 4|5|CASE 5|1|OBL 6|1|PUNCT
+*PAR:	&-um dog cat +... [+ exc] 22594_26588
+%mor:	noun|dog noun|cat +...
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*PAR:	snake . 26588_27829
+%mor:	noun|snake .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cat . 27829_30989
+%mor:	noun|cat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	dog . 30989_33555
+%mor:	noun|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	rhinoceros . 33555_36528
+%mor:	noun|rhinocero-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&+c camel . 36528_41104
+%mor:	noun|camel .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	did I give you horse@q ? [+ exc] 41104_43113
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|give-Inf-S pron|you-Prs-Acc-S2 meta|horse ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|IOBJ 5|3|DEP 6|3|PUNCT
+*INV:	okay . 43113_44217
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	tired jackass too . 44217_47424
+%mor:	adj|tired-S1 noun|jackass adv|too .
+%gra:	1|2|AMOD 2|0|ROOT 3|2|ADVMOD 4|2|PUNCT
+*PAR:	&-um what else ? [+ exc] 47424_51123
+%mor:	pron|what-Int-S1 adv|else ?
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*PAR:	snake . 51123_53042
+%mor:	noun|snake .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(...) &-um cow . 53042_57914
+%mor:	noun|cow .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	horse . 57914_60994
+%mor:	noun|horse .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	I can't think of any more . [+ exc] 60994_64232
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|think-Inf-S adp|of det|any-Def-Ind adj|more-Cmp-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*INV:	okay . 64232_67484
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@G:	F
+*INV:	are you ready ? 67484_68781
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adj|ready-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*INV:	you can start now . 68781_70233
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	+< fan . 69433_70658
+%mor:	noun|fan .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	mhm . 70658_71390
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	foot . 71390_72635
+%mor:	noun|foot .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	fool . 72635_74425
+%mor:	verb|fool-Fin-Imp-S .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) I'm lost already . [+ exc] 74425_78612
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|lose-Part-Past-S-irr adv|already .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	(..) fowl . 78612_83156
+%mor:	noun|fowl .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) fan . 83156_90004
+%mor:	noun|fan .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	oh ‡ come_on ‡ let's get some words . [+ exc] 90004_95171
+%mor:	intj|oh x|‡ x|comeon x|‡ verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|get-Inf-S det|some-Def-Ind noun|word-Plur-Acc .
+%gra:	1|5|DISCOURSE 2|5|VOCATIVE 3|2|FLAT 4|2|FLAT 5|0|ROOT 6|5|OBJ 7|5|XCOMP 8|9|DET 9|7|OBJ 10|5|PUNCT
+*PAR:	I can't think any more of this . [+ exc] 95171_100322
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|think-Inf-S det|any-Def-Ind adj|more-Cmp-S1 adp|of pron|this-Dem-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|CASE 8|6|OBL 9|4|PUNCT
+*PAR:	xxx only &-uh +... [+ exc] 100322_107170
+%mor:	adv|only +...
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	foot@q did I say ? [+ exc] 107170_111996
+%mor:	meta|foot aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|say-Inf-S ?
+%gra:	1|4|DEP 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	fingers . 111996_114225
+%mor:	noun|finger-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	xxx . [+ exc] 114225_119728
+*PAR:	(..) fowl . 119728_122937
+%mor:	noun|fowl .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	front . 122937_128880
+%mor:	noun|front .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay . 128665_131000
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

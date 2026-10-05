@@ -1,0 +1,159 @@
+@UTF8
+@PID:	11312/t-00016230-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|78;|male|ProbableAD||Participant|26||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-07T09:45:48-04:00]
+@Media:	639-0, audio
+@G:	animals
+*INV:	beginning now . 0_1619
+%mor:	verb|begin-Part-Pres-S adv|now .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*PAR:	horse . 1619_2506
+%mor:	noun|horse .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cow . 2506_3425
+%mor:	noun|cow .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	sheep . 3425_4296
+%mor:	noun|sheep-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	goats . 4296_7892
+%mor:	noun|goat-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	mules . 7892_9433
+%mor:	noun|mule-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) giraffe . 9433_15519
+%mor:	noun|giraffe .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	elephant . 15519_16935
+%mor:	noun|elephant .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	hippopotamus . 16935_18709
+%mor:	noun|hippopotamus .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	rhinoceros . 18709_19673
+%mor:	noun|rhinocero-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh &=whistles (.) rabbits . 19673_28810
+%mor:	noun|rabbit-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	opossum . 28810_30585
+%mor:	noun|opossum .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	raccoon . 30585_31785
+%mor:	noun|raccoon .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	skunk . 31785_33217
+%mor:	noun|skunk .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	civet cat . 33217_35178
+%mor:	noun|civet noun|cat .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*PAR:	ferret . 35178_37091
+%mor:	noun|ferret .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) dogs . 37091_40718
+%mor:	noun|dog-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cat . 40718_42990
+%mor:	noun|cat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) mouse . 42990_45809
+%mor:	noun|mouse .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	rat . 45809_46694
+%mor:	noun|rat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) mule . 46694_56563
+%mor:	noun|mule .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay ‡ that's a minute then . 56563_62073
+%mor:	intj|okay punct|‡ pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|minute adv|then .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|DET 6|0|ROOT 7|6|ADVMOD 8|6|PUNCT
+@G:	F
+*INV:	alright ‡ now <I wanna> [//] I want you to name as many words as you can think of that start with the letter f@l . 62073_69089
+%mor:	intj|alright adv|‡ adv|now pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|name-Inf-S adv|as adj|many-S1 noun|word-Plur-Acc sconj|as pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of det|that-Def-Dem-Sing noun|start adp|with det|the-Def-Art noun|letter n:let|f .
+%gra:	1|5|DISCOURSE 2|5|ADVMOD 3|5|ADVMOD 4|5|NSUBJ 5|0|ROOT 6|5|OBJ 7|8|MARK 8|5|XCOMP 9|10|ADVMOD 10|11|AMOD 11|8|OBJ 12|15|MARK 13|15|NSUBJ 14|15|AUX 15|8|ADVCL 16|18|CASE 17|18|DET 18|15|OBL 19|22|CASE 20|22|DET 21|22|COMPOUND 22|18|DEP 23|5|PUNCT
+*PAR:	f@l ? [+ exc] 69089_69732
+%mor:	n:let|f ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	yeah . 69732_70185
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	no proper nouns that is names of people or places . 70185_74341
+%mor:	det|no-Def-Neg adj|proper-S1 noun|noun-Plur pron|that-Rel aux|be-Fin-Ind-Pres-S3 noun|name-Plur adp|of noun|person-Plur cconj|or noun|place-Plur .
+%gra:	1|3|DET 2|3|AMOD 3|0|ROOT 4|6|NSUBJ 5|6|COP 6|3|ACL-RELCL 7|8|CASE 8|6|NMOD 9|10|CC 10|8|CONJ 11|3|PUNCT
+*PAR:	and if you give me one word I don't want you to give me all the forms of that word that you can think of . 74341_79818
+%mor:	cconj|and sconj|if pron|you-Prs-Nom-S2 verb|give-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 num|one noun|word-Acc pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|want-Inf-S pron|you-Prs-Acc-S2 part|to verb|give-Inf-S pron|I-Prs-Acc-S1 det|all-Def-Tot det|the-Def-Art noun|form-Plur-Acc adp|of det|that-Def-Dem-Sing noun|word pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|11|CC 2|4|MARK 3|4|NSUBJ 4|11|ADVCL 5|4|IOBJ 6|7|NUMMOD 7|4|OBJ 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|0|ROOT 12|11|OBJ 13|14|MARK 14|11|XCOMP 15|14|IOBJ 16|18|DET-PREDET 17|18|DET 18|14|OBJ 19|21|CASE 20|21|DET 21|18|NMOD 22|25|OBJ 23|25|NSUBJ 24|25|AUX 25|21|ACL-RELCL 26|22|CASE 27|11|PUNCT
+*INV:	for example if you give me the word walk@q I wouldn't want you to also give me word walked@q and walking@q . 79818_84706
+%mor:	adp|for noun|example sconj|if pron|you-Prs-Nom-S2 verb|give-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 det|the-Def-Art noun|word-Acc meta|walk pron|I-Prs-Nom-S1 aux|would-Fin-S~part|not verb|want-Inf-S pron|you-Prs-Acc-S2 part|to adv|also verb|give-Inf-S pron|I-Prs-Acc-S1 noun|word-Acc meta|walked cconj|and meta|walking .
+%gra:	1|2|CASE 2|13|OBL 3|5|MARK 4|5|NSUBJ 5|13|ADVCL 6|5|IOBJ 7|8|DET 8|5|OBJ 9|5|DEP 10|13|NSUBJ 11|13|AUX 12|13|ADVMOD 13|0|ROOT 14|13|OBJ 15|17|MARK 16|17|ADVMOD 17|13|XCOMP 18|17|IOBJ 19|17|DEP 20|17|OBJ 21|22|DEP 22|20|CONJ 23|13|PUNCT
+*PAR:	mhm ‡ alright . [+ exc] 84706_85749
+%mor:	intj|mhm x|‡ intj|alright .
+%gra:	1|0|ROOT 2|1|VOCATIVE 3|1|DISCOURSE 4|1|PUNCT
+*INV:	+< okay ? 84706_85426
+%mor:	intj|okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	+< yep . [+ exc] 85426_85983
+%mor:	intj|yep .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	right ‡ all the words that you can think of that begin with f@l . 85983_88831
+%mor:	adj|right-S1 punct|‡ det|all-Def-Tot det|the-Def-Art noun|word-Plur pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of pron|that-Rel verb|begin-Fin-Ind-Pres-P3 adp|with n:let|f .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|DET-PREDET 4|5|DET 5|0|ROOT 6|9|OBL 7|9|NSUBJ 8|9|AUX 9|5|ACL-RELCL 10|6|CASE 11|12|NSUBJ 12|5|ACL-RELCL 13|14|CASE 14|12|DEP 15|5|PUNCT
+*INV:	beginning now . 88831_89874
+%mor:	verb|begin-Part-Pres-S adv|now .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*PAR:	frank . 89874_91245
+%mor:	propn|frank .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	<not the> [/] not the proper name Frank . [+ exc] 91245_93671
+%mor:	part|not det|the-Def-Art adj|proper-S1 noun|name propn|Frank .
+%gra:	1|4|ADVMOD 2|4|DET 3|4|AMOD 4|0|ROOT 5|4|VOCATIVE 6|4|PUNCT
+*PAR:	&-uh &-um (.) further . 93671_98699
+%mor:	adj|further-Cmp-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) future . 98699_104737
+%mor:	noun|future .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	frankincense . 104737_107928
+%mor:	noun|frankincense .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) full . 107928_112753
+%mor:	adj|full-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) fan . 112753_120145
+%mor:	noun|fan .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) vase . 120145_126106
+%mor:	noun|vase .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) flower pot . 126106_135165
+%mor:	noun|flower noun|pot .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*PAR:	(.) Venetian blind . 135165_139585
+%mor:	adj|Venetian-S1 adj|blind-S1 .
+%gra:	1|2|AMOD 2|0|ROOT 3|2|PUNCT
+*PAR:	no [/] no [/] no ‡ I'm sorry &=laughs . [+ exc] 139585_143289
+%mor:	intj|no punct|‡ pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|sorry-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*INV:	okay . 143289_144752
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	+< well +... [+ exc] 143589_144752
+%mor:	intj|well +...
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-um faults . 144752_147633
+%mor:	noun|fault-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	Fahrenheit . 147633_149673
+%mor:	propn|Fahrenheit .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay ‡ that's good . 149673_151025
+%mor:	intj|okay punct|‡ pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+@End

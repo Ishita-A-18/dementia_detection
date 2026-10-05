@@ -1,0 +1,123 @@
+@UTF8
+@PID:	11312/t-00016133-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|69;|female|ProbableAD||Participant|17||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T05:58:15-04:00]
+@Media:	220-0, audio
+*INV:	okay ‡ good . 0_1230
+%mor:	intj|okay intj|‡ adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|PUNCT
+@G:	animals
+*INV:	animals and you can begin now . 1230_4670
+%mor:	noun|animal-Plur cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S adv|now .
+%gra:	1|5|NSUBJ 2|3|CC 3|1|CONJ 4|5|AUX 5|0|ROOT 6|5|ADVMOD 7|5|PUNCT
+*PAR:	(.) cat . 4670_6942
+%mor:	noun|cat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay . 6942_7643
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) a goat . 7643_10227
+%mor:	det|a-Ind-Art noun|goat .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	a horse . 10227_12141
+%mor:	det|a-Ind-Art noun|horse .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	&-uh (..) a dog . 12141_18523
+%mor:	det|a-Ind-Art noun|dog .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	(.) &-uh (...) a bike . 18523_36300
+%mor:	det|a-Ind-Art noun|bike .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	uhhuh ? [+ exc] 36300_37217
+%mor:	intj|uhhuh ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	well ‡ that's not an animal though . [+ exc] 37217_39828
+%mor:	intj|well punct|‡ pron|that-Dem~aux|be-Fin-Ind-Pres-S3 part|not det|a-Ind-Art noun|animal adv|though .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|7|NSUBJ 4|7|COP 5|7|ADVMOD 6|7|DET 7|2|ACL-RELCL 8|7|ADVMOD 9|2|PUNCT
+*INV:	+< okay ‡ right ‡ you wanna tell me animals . 37300_41088
+%mor:	intj|okay punct|‡ adj|right-S1 noun|‡ pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2~part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 noun|animal-Plur-Acc .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|4|DISCOURSE 4|6|OBL-UNMARKED 5|6|NSUBJ 6|0|ROOT 7|8|MARK 8|6|XCOMP 9|8|IOBJ 10|8|OBJ 11|6|PUNCT
+*PAR:	yeah ‡ let's see . [+ exc] 41088_43158
+%mor:	intj|yeah intj|‡ verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|OBJ 5|3|XCOMP 6|3|PUNCT
+*PAR:	(.) I said horse@q already ‡ huh . [+ exc] 43158_47175
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr meta|horse adv|already intj|‡ intj|huh .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|DEP 4|5|ADVMOD 5|2|CCOMP 6|2|PARATAXIS 7|2|PUNCT
+*INV:	mhm ‡ yeah . 47175_47781
+%mor:	intj|mhm intj|‡ intj|yeah .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|DISCOURSE 4|1|PUNCT
+*PAR:	&-hm (..) cat . 47781_56715
+%mor:	noun|cat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay . 56715_57365
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	a dog +//. 57365_58724
+%mor:	det|a-Ind-Art noun|dog +//.
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	xxx I [/] I think we had that already . [+ exc] 58724_60721
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Past-P1-irr pron|that-Dem adv|already .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|4|OBJ 6|4|ADVMOD 7|2|PUNCT
+*INV:	right . 60721_61150
+%mor:	adj|right-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	dog . 61150_61568
+%mor:	noun|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and &-uh &-hm +... 61568_71400
+%mor:	cconj|and +...
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay [/] okay that's fine . 71400_74508
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+@G:	F
+*INV:	and you can begin now . 74508_77247
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S adv|now .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	fun . 77247_78213
+%mor:	noun|fun .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) freedom . 78213_81482
+%mor:	noun|freedom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh (..) fun , freedom . [+ exc] 81713_88982
+%mor:	adj|fun-S1 cm|cm noun|freedom .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|PARATAXIS 4|1|PUNCT
+*PAR:	foolish &=laughs . 88982_92220
+%mor:	adj|foolish-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(...) I'm thinking &=laughs . [+ exc] 92220_102415
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|think-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*INV:	+< mhm ‡ that's okay . 100804_102855
+%mor:	intj|mhm punct|‡ pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|okay-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*PAR:	(...) family . 102855_117796
+%mor:	noun|family .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) children „ I guess . 117796_123773
+%mor:	noun|child-Plur punct|„ pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|4|CCOMP 2|1|PUNCT 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*INV:	okay ‡ words that begin with f@l . 123773_126010
+%mor:	intj|okay punct|‡ noun|word-Plur pron|that-Rel verb|begin-Fin-Ind-Pres-P3 adp|with n:let|f .
+%gra:	1|3|DISCOURSE 2|3|PUNCT 3|0|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|7|CASE 7|5|DEP 8|3|PUNCT
+*PAR:	oh ‡ just f@l ? [+ exc] 126010_126985
+%mor:	intj|oh punct|‡ adv|just n:let|f ?
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|4|ADVMOD 4|2|DEP 5|2|PUNCT
+*INV:	mhm . 126985_128225
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	ah . [+ exc] 128225_129119
+%mor:	intj|ah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(...) foolish &=laughs . 129119_143728
+%mor:	adj|foolish-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay ‡ good . 143728_144529
+%mor:	intj|okay intj|‡ adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|PUNCT
+@End

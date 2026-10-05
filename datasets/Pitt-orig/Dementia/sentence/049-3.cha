@@ -1,0 +1,91 @@
+@UTF8
+@PID:	11312/t-00017411-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|59;|female|ProbableAD||Participant|7||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-07T09:46:56-04:00]
+@Media:	049-3, audio
+*PAR:	oh &=laughs . 0_1304
+%mor:	intj|oh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	+< okay ‡ pencil@q . 1304_3100
+%mor:	intj|okay punct|‡ meta|pencil .
+%gra:	1|3|DISCOURSE 2|3|COMPOUND 3|0|ROOT 4|3|PUNCT
+*PAR:	pencils . [+ exc] 3100_5828
+%mor:	noun|pencil-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	people always take my pencils . 5828_8287
+%mor:	noun|person-Plur adv|always verb|take-Fin-Ind-Pres-P3 pron|my-Prs-Gen-S1 noun|pencil-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|PUNCT
+*INV:	okay . 8287_9625
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	do they take yours &=laughs ? [+ exc] 9625_14562
+%mor:	aux|do-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|take-Inf-S pron|your-Prs-S2 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*INV:	how_(a)bout tree@q ? 14562_16765
+%mor:	propn|howabout meta|tree ?
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*PAR:	&-uh I like great big trees (a)s long as they don't fall over on me . 16765_22756
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 adj|great-S1 adj|big-S1 noun|tree-Plur-Acc adv|as adv|long sconj|as pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Pres-P3~part|not verb|fall-Inf-S adv|over adp|on pron|I-Prs-Acc-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|AMOD 4|5|AMOD 5|2|OBJ 6|7|ADVMOD 7|2|ADVMOD 8|12|MARK 9|12|NSUBJ 10|12|AUX 11|12|ADVMOD 12|7|ADVCL 13|12|ADVMOD 14|15|CASE 15|12|OBL 16|2|PUNCT
+*INV:	how_(a)bout now I'm gonna give you two words . 22756_26357
+%mor:	noun|howabout adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S~part|to verb|give-Inf-S pron|you-Prs-Acc-S2 num|two noun|word-Plur-Acc .
+%gra:	1|5|VOCATIVE 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|7|IOBJ 9|10|NUMMOD 10|7|OBJ 11|5|PUNCT
+*INV:	and I don't want you to worry about the order of the two words . 26357_28265
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|want-Inf-S pron|you-Prs-Acc-S2 part|to verb|worry-Inf-S adp|about det|the-Def-Art noun|order adp|of det|the-Def-Art num|two noun|word-Plur .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|5|OBJ 7|8|MARK 8|5|XCOMP 9|11|CASE 10|11|DET 11|8|OBL 12|15|CASE 13|15|DET 14|15|NUMMOD 15|11|NMOD 16|5|PUNCT
+*INV:	just use both of them in one short simple sentence . 28265_31684
+%mor:	adv|just verb|use-Fin-Imp-S det|both-Def-Tot adp|of pron|they-Prs-Acc-P3 adp|in num|one adj|short-S1 adj|simple-S1 noun|sentence .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|OBJ 4|5|CASE 5|3|NMOD 6|10|CASE 7|10|NUMMOD 8|10|AMOD 9|10|AMOD 10|2|OBL 11|2|PUNCT
+*INV:	how_(a)bout child@q hospital@q ? 31684_34877
+%mor:	noun|howabout meta|child meta|hospital ?
+%gra:	1|3|COMPOUND 2|3|DEP 3|0|ROOT 4|3|PUNCT
+*PAR:	the child hadta go to the hospital . 34877_37779
+%mor:	det|the-Def-Art noun|child noun|hadta verb|go-Fin-S adp|to det|the-Def-Art noun|hospital .
+%gra:	1|3|DET 2|3|COMPOUND 3|4|NSUBJ 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*INV:	how_(a)bout cold@q winter@q ? 37779_44525
+%mor:	noun|howabout meta|cold meta|winter ?
+%gra:	1|3|COMPOUND 2|3|DEP 3|0|ROOT 4|3|PUNCT
+*PAR:	I don't like cold winter . 44525_47102
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S adj|cold-S1 noun|winter-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|6|AMOD 6|4|OBJ 7|4|PUNCT
+*PAR:	I hate cold winter &=laughs . [+ exc] 47102_50043
+%mor:	pron|I-Prs-Nom-S1 verb|hate-Fin-Ind-Pres-S1 adj|cold-S1 noun|winter-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|AMOD 4|2|OBJ 5|2|PUNCT
+*INV:	me too . 50043_51154
+%mor:	pron|I-Prs-Acc-S1 adv|too .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*INV:	now I'm gonna give you three words . 51154_53116
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S~part|to verb|give-Inf-S pron|you-Prs-Acc-S2 num|three noun|word-Plur-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|IOBJ 8|9|NUMMOD 9|6|OBJ 10|4|PUNCT
+*INV:	I don't want you worry [/] worry about the order of the three words . 53116_56204
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|want-Inf-S pron|you-Prs-Acc-S2 verb|worry-Inf-S adp|about det|the-Def-Art noun|order adp|of det|the-Def-Art num|three noun|word-Plur .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|4|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|13|CASE 11|13|DET 12|13|NUMMOD 13|9|NMOD 14|4|PUNCT
+*INV:	I just want you to use them in one sentence . 56204_58586
+%mor:	pron|I-Prs-Nom-S1 adv|just verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|use-Inf-S pron|they-Prs-Acc-P3 adp|in num|one noun|sentence .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|6|OBJ 8|10|CASE 9|10|NUMMOD 10|6|OBL 11|3|PUNCT
+*PAR:	okay . [+ exc] 58586_59130
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	chair@q doctor@q sit@q . 59130_62973
+%mor:	meta|chair meta|doctor meta|sit .
+%gra:	1|0|ROOT 2|3|DEP 3|1|DEP 4|1|PUNCT
+*PAR:	the doctor sat on his chair . 62973_66277
+%mor:	det|the-Def-Art noun|doctor verb|sit-Fin-Ind-Past-S3-irr adp|on pron|his-Prs-Gen-S3 noun|chair .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|3|PUNCT
+*INV:	okay . 66277_67245
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	how_(a)bout bureau@q open@q drawer@q ? 67245_73573
+%mor:	noun|howabout meta|bureau meta|open meta|drawer ?
+%gra:	1|2|COMPOUND 2|0|ROOT 3|4|DEP 4|2|DEP 5|2|PUNCT
+*PAR:	&-uh open the bureau drawer . 73573_77474
+%mor:	verb|open-Fin-Imp-S det|the-Def-Art noun|bureau noun|drawer-Acc .
+%gra:	1|0|ROOT 2|4|DET 3|4|COMPOUND 4|1|OBJ 5|1|PUNCT
+*INV:	okay . 77474_82431
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

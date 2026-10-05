@@ -1,0 +1,123 @@
+@UTF8
+@PID:	11312/a-00049414-1
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|WLS|INV|||||Investigator|||
+@ID:	eng|WLS|PAR|||||Participant|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T05:47:11-04:00]
+@Media:	09960, audio
+*INV:	please take a look at this picture and describe everything that you see here . 2170_15120
+%mor:	intj|please verb|take-Fin-Imp-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture cconj|and verb|describe-Fin-Imp-S pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 adv|here .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|9|CC 9|2|CONJ 10|9|OBJ 11|13|OBJ 12|13|NSUBJ 13|10|ACL-RELCL 14|13|ADVMOD 15|2|PUNCT
+@Bg:	Activity
+*PAR:	the sink is overflowing . 23190_24630
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	the adult female is wiping the dishes . 25020_27980
+%mor:	det|the-Def-Art adj|adult-S1 noun|female aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	the [/] &+la the stepladder is tipping over on the young lad getting cookies and handing them to his sister . 29080_34500
+%mor:	det|the-Def-Art noun|stepladder aux|be-Fin-Ind-Pres-S3 verb|tip-Part-Pres-S adp|over adp|on det|the-Def-Art adj|young-S1 noun|lad verb|get-Ger-S noun|cookie-Plur-Acc cconj|and verb|hand-Part-Pres-S pron|they-Prs-Acc-P3 adp|to pron|his-Prs-Gen-S3 noun|sister .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|9|CASE 7|9|DET 8|9|AMOD 9|4|OBL 10|9|ACL 11|10|OBJ 12|13|CC 13|10|CONJ 14|13|OBJ 15|17|CASE 16|17|NMOD-POSS 17|13|OBL 18|4|PUNCT
+*PAR:	and the [/] the girl is &-uh +... 40860_45130
+%mor:	cconj|and det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 +...
+%gra:	1|3|CC 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	and the lady's wearing an apron , wiping the dish . 47370_52250
+%mor:	cconj|and det|the-Def-Art noun|lady~aux|be-Fin-Ind-Pres-S3 verb|wear-Part-Pres-S det|a-Ind-Art noun|apron-Acc cm|cm verb|wipe-Part-Pres-S det|the-Def-Art noun|dish-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|9|PUNCT 9|5|ADVCL 10|11|DET 11|9|OBJ 12|5|PUNCT
+*PAR:	and the curtains are tied back . 55140_56430
+%mor:	cconj|and det|the-Def-Art noun|curtain-Plur aux|be-Fin-Ind-Pres-P3 verb|tie-Part-Past-S adv|back .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ-PASS 4|5|AUX-PASS 5|0|ROOT 6|5|ADVMOD 7|5|PUNCT
+*PAR:	and the boy is wearing sneakers with socks . 58360_64690
+%mor:	cconj|and det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|wear-Part-Pres-S noun|sneaker-Plur-Acc adp|with noun|sock-Plur .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|8|CASE 8|5|OBL 9|5|PUNCT
+*PAR:	the woman's wearing flats . 65388_67249
+%mor:	det|the-Def-Art noun|woman~part|s verb|wear-Ger-S noun|flat-Plur .
+%gra:	1|2|DET 2|5|NMOD-POSS 3|2|CASE 4|5|AMOD 5|0|ROOT 6|5|PUNCT
+*PAR:	and the young girl is wearing anklets and has a very short skirt . 67950_72280
+%mor:	cconj|and det|the-Def-Art adj|young-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|wear-Part-Pres-S noun|anklet-Plur-Acc cconj|and verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art adv|very adj|short-S1 noun|skirt-Acc .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|6|OBJ 8|9|CC 9|6|CONJ 10|13|DET 11|12|ADVMOD 12|13|AMOD 13|9|OBJ 14|6|PUNCT
+*PAR:	it's a double hung window with colonial bars on the top . 72300_84350
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|double-S1 adj|hung-S1 noun|window adp|with adj|colonial-S1 noun|bar-Plur adp|on det|the-Def-Art noun|top .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|DET 4|6|AMOD 5|6|AMOD 6|0|ROOT 7|9|CASE 8|9|AMOD 9|6|NMOD 10|12|CASE 11|12|DET 12|9|NMOD 13|6|PUNCT
+*PAR:	<the OT h e r> [//] &-uh there's a tree in the background . 84370_88710
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|tree adp|in det|the-Def-Art noun|background .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|2|PUNCT
+*PAR:	I can't see the bottom of the trunk . 88730_91310
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|see-Inf-S det|the-Def-Art noun|bottom-Acc adp|of det|the-Def-Art noun|trunk .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|4|PUNCT
+*PAR:	it must be right where the divider is . [+ exc] 91830_93870
+%mor:	pron|it-Prs-Nom-S3 aux|must-Fin-S aux|be-Inf-S adj|right-S1 adv|where det|the-Def-Art noun|divider aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|4|EXPL 2|4|AUX 3|4|COP 4|0|ROOT 5|4|CCOMP 6|7|DET 7|5|NSUBJ 8|4|ADVCL 9|4|PUNCT
+*PAR:	there's tall grass . 95210_95830
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 adj|tall-S1 noun|grass .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|AMOD 4|2|NSUBJ 5|2|PUNCT
+*PAR:	colonial style windows there . 95850_100950
+%mor:	adj|colonial-S1 noun|style noun|window-Plur adv|there .
+%gra:	1|2|AMOD 2|3|COMPOUND 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	and the house looks like an l@l shape with a path . 101550_104250
+%mor:	cconj|and det|the-Def-Art noun|house verb|look-Fin-Ind-Pres-S3 adp|like det|a-Ind-Art n:let|l noun|shape adp|with det|a-Ind-Art noun|path .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|8|CASE 6|8|DET 7|8|DEP 8|4|OBL 9|11|CASE 10|11|DET 11|4|OBL 12|4|PUNCT
+*PAR:	and I think that's +... [+ exc] 106490_116620
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 +...
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|NSUBJ 5|3|CCOMP 6|3|PUNCT
+*PAR:	the kitchen cabinet looks finished . 116860_122340
+%mor:	det|the-Def-Art noun|kitchen noun|cabinet verb|look-Fin-Ind-Pres-S3 verb|finish-Part-Past-S .
+%gra:	1|3|DET 2|3|COMPOUND 3|4|NSUBJ 4|0|ROOT 5|4|XCOMP 6|4|PUNCT
+*PAR:	there doesn't appear to be knobs for the bottom doors on the kitchen cabinets . 122390_126380
+%mor:	pron|there-Int-S1 aux|do-Fin-Ind-Pres-S3~part|not verb|appear-Inf-S part|to verb|be-Inf-S noun|knob-Plur adp|for det|the-Def-Art noun|bottom noun|door-Plur adp|on det|the-Def-Art noun|kitchen noun|cabinet-Plur .
+%gra:	1|4|EXPL 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|NSUBJ 8|11|CASE 9|11|DET 10|11|COMPOUND 11|7|NMOD 12|15|CASE 13|15|DET 14|15|COMPOUND 15|11|NMOD 16|4|PUNCT
+*PAR:	and &-uh wow that's the wall there . 130060_132310
+%mor:	cconj|and intj|wow pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|wall adv|there .
+%gra:	1|6|CC 2|6|DISCOURSE 3|6|NSUBJ 4|6|COP 5|6|DET 6|0|ROOT 7|6|ADVMOD 8|6|PUNCT
+*PAR:	okay . [+ exc] 132780_132970
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	that's about it . [+ exc] 133780_134160
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|0|ROOT 5|4|PUNCT
+*PAR:	and there is [//] are two cups and a plate on the counter . 134180_138480
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 num|two noun|cup-Plur cconj|and det|a-Ind-Art noun|plate adp|on det|the-Def-Art noun|counter .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|NUMMOD 5|3|NSUBJ 6|8|CC 7|8|DET 8|5|CONJ 9|11|CASE 10|11|DET 11|8|NMOD 12|3|PUNCT
+*PAR:	and I just said the faucet's on . 140320_141640
+%mor:	cconj|and pron|I-Prs-Nom-S1 adv|just verb|say-Fin-Ind-Past-S1-irr det|the-Def-Art noun|faucet~part|s adp|on .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|6|DET 6|8|NMOD-POSS 7|6|CASE 8|4|COMPOUND-PRT 9|4|PUNCT
+*PAR:	and it's overrunning the sink . 141750_144350
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|overrunn-Part-Pres-S det|the-Def-Art noun|sink-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*INV:	okay . 145330_145870
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	I said that . [+ exc] 146000_148120
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr pron|that-Dem .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+@Eg:	Activity
+*PAR:	<Sunday [/] &-uh S UN DA y n i g h t o r> [//] Sunday morning , we got up and there was water on the floor . 149110_154190
+%mor:	propn|Sunday noun|morning-Ger cm|cm pron|we-Prs-Nom-P1 verb|get-Fin-Ind-Past-P1-irr adp|up cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr noun|water adp|on det|the-Def-Art noun|floor .
+%gra:	1|2|COMPOUND 2|5|OBL-UNMARKED 3|2|PUNCT 4|5|NSUBJ 5|0|ROOT 6|5|COMPOUND-PRT 7|9|CC 8|9|EXPL 9|5|CONJ 10|9|NSUBJ 11|13|CASE 12|13|DET 13|9|OBL 14|5|PUNCT
+*PAR:	one of these hoses from the tap sprung a little [//] real little leak . 154640_159510
+%mor:	num|one adp|of det|this-Def-Dem-Plur noun|hose-Plur adp|from det|the-Def-Art noun|tap verb|spring-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|real-S1 adj|little-S1 noun|leak-Acc .
+%gra:	1|8|NSUBJ 2|4|CASE 3|4|DET 4|1|NMOD 5|7|CASE 6|7|DET 7|4|NMOD 8|0|ROOT 9|12|DET 10|12|AMOD 11|12|AMOD 12|8|OBJ 13|8|PUNCT
+*PAR:	that's what I had there . 161010_161760
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1-irr adv|there .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|5|ADVMOD 7|3|PUNCT
+*PAR:	I went and got one that shuts off automatically . 162560_165450
+%mor:	pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Past-S1-irr cconj|and verb|get-Fin-Ind-Past-S1-irr num|one pron|that-Rel verb|shut-Fin-Ind-Pres-S3 adp|off adv|automatically .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|CC 4|2|CONJ 5|4|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|7|COMPOUND-PRT 9|7|ADVMOD 10|2|PUNCT
+*PAR:	one that xxx . 166590_171780
+%mor:	num|one pron|that-Dem .
+%gra:	1|0|ROOT 2|1|NMOD-UNMARKED 3|1|PUNCT
+*PAR:	I'm [//] I xxx doing that all the time . 171880_172660
+%mor:	pron|I-Prs-Nom-S1 verb|do-Part-Pres-S pron|that-Dem det|all-Def-Tot det|the-Def-Art noun|time .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|6|DET-PREDET 5|6|DET 6|2|OBL-UNMARKED 7|2|PUNCT
+*PAR:	every time I turn her off . 173130_175340
+%mor:	det|every-Def-Tot noun|time pron|I-Prs-Nom-S1 verb|turn-Fin-Ind-Pres-S1 pron|her-Prs-Acc-S3 adp|off .
+%gra:	1|2|DET 2|0|ROOT 3|4|NSUBJ 4|2|ACL-RELCL 5|4|OBJ 6|4|COMPOUND-PRT 7|2|PUNCT
+*INV:	well ‡ thank_you . 176080_177550
+%mor:	intj|well x|‡ propn|thankyou .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|PUNCT
+*INV:	you gave us exactly what we were looking for . 177910_180220
+%mor:	pron|you-Prs-Nom-S2 verb|give-Fin-Ind-Past-S2-irr pron|we-Prs-Acc-P1 adv|exactly pron|what-Rel-S1 pron|we-Prs-Nom-P1 aux|be-Fin-Ind-Past-P1-irr verb|look-Part-Pres-S adp|for .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|IOBJ 4|5|ADVMOD 5|2|OBJ 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|8|OBL 10|2|PUNCT
+@End

@@ -1,0 +1,59 @@
+@UTF8
+@PID:	11312/t-00002291-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|Pitt-orig|PAR|73;00.|female|Control||Participant|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T22:02:15-04:00]
+@Media:	137-2, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*PAR:	she's &-uh drying &-uh dishes . 60_2340
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|0|ROOT 5|4|PUNCT
+%wor:	she's 60_500 uh 500_860 drying 860_1480 uh 1480_1960 dishes 1960_2700 .
+*PAR:	the water is pouring out_of the sink . 2340_5980
+%mor:	det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|pour-Part-Pres-S adp|outof det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	the 2340_3020 water 3020_3420 is 3420_3960 pouring 3960_4740 out_of 4740_5340 the 5340_5620 sink 5620_5980 .
+*PAR:	this kid's about to break his neck because this is moving . 6020_10460
+%mor:	det|this-Def-Dem-Sing noun|kid~aux|be-Fin-Ind-Pres-S3 adv|about part|to verb|break-Inf-S pron|his-Prs-Gen-S3 noun|neck-Acc sconj|because pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 verb|move-Part-Pres-S .
+%gra:	1|2|DET 2|6|NSUBJ-OUTER 3|6|COP 4|6|ADVMOD 5|6|MARK 6|0|ROOT 7|8|NMOD-POSS 8|6|OBJ 9|12|MARK 10|12|NSUBJ 11|12|AUX 12|6|ADVCL 13|6|PUNCT
+%wor:	this 6020_6860 kid's 6860_7300 about 7300_7600 to 7600_7840 break 7840_8160 his 8160_8380 neck 8380_8760 because 8760_9220 this 9220_9560 is 9560_9760 moving 9760_10619 .
+*PAR:	this thing's moving . [+ es] 10460_11880
+%mor:	det|this-Def-Dem-Sing noun|thing-Ger~aux|be-Fin-Ind-Pres-S3 verb|move-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%wor:	this 10460_10940 thing's 10940_11560 moving 11560_11938 .
+*PAR:	and she's talking and moving her hands . 11880_16778
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|talk-Part-Pres-S cconj|and verb|move-Part-Pres-S pron|her-Prs-Gen-S3 noun|hand-Plur-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|CC 6|4|CONJ 7|8|NMOD-POSS 8|6|OBJ 9|4|PUNCT
+%wor:	and 11880_12380 she's 13380_13880 talking 14620_15180 and 15180_15540 moving 15540_15900 her 15900_16180 hands 16180_16778 .
+*PAR:	and he's moving , getting the cookie out_of the jar . 16860_20480
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|move-Part-Pres-S cm|cm verb|get-Part-Pres-S det|the-Def-Art noun|cookie-Acc adp|outof det|the-Def-Art noun|jar .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|PUNCT 6|4|ADVCL 7|8|DET 8|6|OBJ 9|11|CASE 10|11|DET 11|6|OBL 12|4|PUNCT
+%wor:	and 16860_17100 he's 17100_17320 moving 17320_17760 , getting 17760_18640 the 18640_18940 cookie 18940_19200 out_of 19200_19760 the 19760_20020 jar 20020_20530 .
+*PAR:	&-um I don't know +... [+ exc] 20480_24600
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S +...
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+%wor:	um 20480_20980 I 22200_22700 don't 23760_24100 know 24100_24600 +...
+*PAR:	<she may want> [//] if she isn't moving her feet out_of that water she's going to be shortly . 25320_30400
+%mor:	sconj|if pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3~part|not verb|move-Part-Pres-S pron|her-Prs-Gen-S3 noun|foot-Plur-Acc adv|outof det|that-Def-Dem-Sing noun|water-Acc pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to aux|be-Inf-S adv|shortly .
+%gra:	1|5|MARK 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|13|ADVCL 6|7|NMOD-POSS 7|5|OBJ 8|5|ADVMOD 9|10|DET 10|5|OBJ 11|13|NSUBJ 12|13|AUX 13|0|ROOT 14|15|MARK 15|16|COP 16|13|XCOMP 17|13|PUNCT
+%wor:	she 25320_25900 may 25900_26340 want 26340_26640 if 26640_26940 she 26940_27100 isn't 27100_27380 moving 27380_27660 her 27660_27840 feet 27840_28160 out_of 28160_28380 that 28380_28520 water 28520_28760 she's 28760_29140 going 29140_29340 to 29340_29480 be 29480_29740 shortly 29740_30570 .
+*PAR:	and that's &-uh +... [+ exc] 30400_32205
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 +...
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+%wor:	and 30400_30900 that's 31640_31920 uh 31920_32205 +...
+*PAR:	oh over +... [+ exc] 32500_32740
+%mor:	intj|oh adv|over +...
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+%wor:	oh 32500_32580 over 32580_33005 +...
+*PAR:	no I don't see the wind blowin(g) , hmhunh . 32740_35903
+%mor:	intj|no pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S det|the-Def-Art noun|wind noun|blowing-Acc-Ger cm|cm intj|hmhunh .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|8|DET 7|8|COMPOUND 8|5|OBJ 9|10|PUNCT 10|5|DISCOURSE 11|5|PUNCT
+%wor:	no 32740_33240 I 34060_34300 don't 34300_34480 see 34480_34740 the 34740_34880 wind 34880_35140 blowing 35140_35500 , hmhunh 35500_35903 .
+*PAR:	that about it . [+ exc] 35952_66432
+%mor:	pron|that-Dem adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|0|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+%wor:	that 65932_65932 about 65932_65972 it 65972_66432 .
+@End

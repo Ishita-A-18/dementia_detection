@@ -1,0 +1,75 @@
+@UTF8
+@PID:	11312/t-00002651-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|85;|female|ProbableAD||Participant|18||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T22:00:50-04:00]
+@Media:	458-0, audio
+@G:	Cookie
+*INV:	picture . 0_260
+%mor:	noun|picture .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	picture 0_260 .
+*PAR:	oh . [+ exc] 300_800
+%mor:	intj|oh .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	oh 300_1370 .
+*PAR:	huh ? [+ exc] 800_2540
+%mor:	intj|huh ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	huh 800_2551 ?
+*PAR:	which moves ? [+ exc] 2540_3170
+%mor:	pron|which-Rel-S1 verb|move-Fin-Ind-Pres-S3 ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+%wor:	which 2540_2840 moves 2840_3170 ?
+*INV:	just tell me everything you see going on in the picture . 3300_5150
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|IOBJ 4|2|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|6|XCOMP 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|2|PUNCT
+%wor:	just 3300_3600 tell 3600_3860 me 3860_4020 everything 4020_4620 you 4620_4900 see 4900_5140 going 5140_5400 on 5400_5640 in 5640_5760 the 5760_5840 picture 5840_6212 .
+*PAR:	+< oh [/] oh . [+ exc] 5150_6700
+%mor:	intj|oh .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	oh 6040_6500 oh 6500_7000 .
+*PAR:	the boy is takin(g) <a cookie> [//] &-uh cookies out_of a cookie jar . 6700_10080
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S noun|cookie-Plur-Acc adp|outof det|a-Ind-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|9|CASE 7|9|DET 8|9|COMPOUND 9|4|OBL 10|4|PUNCT
+%wor:	the 6700_6940 boy 6940_7160 is 7160_7300 taking 7300_7580 a 7580_7740 cookie 7740_8080 uh 8080_8740 cookies 8740_9020 out_of 9020_9320 a 9320_9460 cookie 9460_9680 jar 9680_10148 .
+*PAR:	his mama's washin(g) the dishes . 10080_13120
+%mor:	pron|his-Prs-Gen-S3 noun|mama~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	his 10080_10580 mama's 11740_12160 washing 12160_12640 the 12640_12880 dishes 12880_13288 .
+*PAR:	and the water is comin(g) &-uh &-uh over the sink into the floor . 13120_17681
+%mor:	cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S adp|over det|the-Def-Art noun|sink adp|into det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|11|CASE 10|11|DET 11|5|OBL 12|5|PUNCT
+%wor:	and 13120_13460 the 13460_13580 water 13580_13800 is 13800_13980 coming 13980_14280 uh 14280_14740 uh 14740_15680 over 15680_16020 the 16020_16260 sink 16260_16580 into 16580_16980 the 16980_17200 floor 17200_17681 .
+*PAR:	and she's wiping the dishes . 19883_21963
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	and 19883_20383 she's 20383_20663 wiping 20663_21183 the 21183_21523 dishes 21523_22353 .
+*PAR:	and as I'd said the boy is &+fa &-uh falling . 21963_27663
+%mor:	cconj|and sconj|as pron|I-Prs-Nom-S1~aux|would-Fin-Ind-Past-S1 verb|say-Part-Past-S-irr det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S .
+%gra:	1|5|CC 2|5|MARK 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|9|NSUBJ 8|9|AUX 9|5|CCOMP 10|5|PUNCT
+%wor:	and 21963_22863 as 22863_23363 I'd 25383_25623 said 25623_25843 the 25843_26283 boy 26283_26543 is 26543_26703 uh 26703_27003 falling 27003_27740 .
+*PAR:	and the girl's got her hand up to get the cookie . 27663_31563
+%mor:	cconj|and det|the-Def-Art noun|girl~part|s verb|get-Fin-Ind-Past-S3-irr pron|her-Prs-Gen-S3 noun|hand-Acc adp|up part|to verb|get-Inf-S det|the-Def-Art noun|cookie-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|3|CASE 5|0|ROOT 6|7|NMOD-POSS 7|5|OBJ 8|5|COMPOUND-PRT 9|10|MARK 10|5|ADVCL 11|12|DET 12|10|OBJ 13|5|PUNCT
+%wor:	and 27663_28163 the 29703_29803 girl's 29803_30103 got 30103_30263 her 30263_30403 hand 30403_30643 up 30643_30843 to 30843_31003 get 31003_31163 the 31163_31303 cookie 31303_31760 .
+*PAR:	and what else do you wanna know ? [+ exc] 31563_33223
+%mor:	cconj|and pron|what-Int-S1 adv|else aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S~part|to verb|know-Inf-S ?
+%gra:	1|6|CC 2|6|OBJ 3|2|ADVMOD 4|6|AUX 5|6|NSUBJ 6|0|ROOT 7|8|MARK 8|6|XCOMP 9|6|PUNCT
+%wor:	and 31563_31883 what 31883_32143 else 32143_32343 do 32343_32483 you 32483_32543 wanna 32543_32703 know 32703_33447 ?
+*INV:	that's all ? 33223_33883
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot ?
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+%wor:	that's 33223_33663 all 33663_34347 ?
+*PAR:	did I get it right ? [+ exc] 33883_35423
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|get-Inf-S pron|it-Prs-Acc-S3 adv|right ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+%wor:	did 33883_34743 I 34743_34883 get 34883_35083 it 35083_35223 right 35223_35481 ?
+*INV:	okay that +//. 35423_35924
+%mor:	intj|okay pron|that-Dem +//.
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+%wor:	okay 35423_35803 that 35803_35924 +//.
+@End

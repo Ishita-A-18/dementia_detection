@@ -1,0 +1,59 @@
+@UTF8
+@PID:	11312/t-00002402-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|56;|male|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T21:53:15-04:00]
+@Media:	322-1, audio
+@G:	Cookie
+*INV:	&+chir I'd like you to tell me everything you see going on in the picture . 290_3510
+%mor:	pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|6|IOBJ 8|6|OBJ 9|10|NSUBJ 10|8|ACL-RELCL 11|10|XCOMP 12|11|COMPOUND-PRT 13|15|CASE 14|15|DET 15|11|OBL 16|3|PUNCT
+%wor:	I'd 290_570 like 570_730 you 730_830 to 830_970 tell 970_1110 me 1110_1250 everything 1250_1570 you 1570_1890 see 1890_2290 going 2290_2630 on 2630_2910 in 2910_3010 the 3010_3130 picture 3130_5159 .
+*INV:	and there's the picture . 3510_6370
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+%wor:	and 3510_4010 there's 5530_5830 the 5830_5990 picture 5990_6759 .
+*PAR:	action type things ? [+ exc] 6370_9850
+%mor:	noun|action noun|type noun|thing-Plur ?
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|0|ROOT 4|3|PUNCT
+%wor:	action 6370_6870 type 8710_9370 things 9370_9935 ?
+*PAR:	there is water coming out_of a faucet into a basin which is overflowing onto the floor . 9850_19327
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 noun|water verb|come-Ger-S noun|outof det|a-Ind-Art noun|faucet-Acc adp|into det|a-Ind-Art noun|basin pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|onto det|the-Def-Art noun|floor .
+%gra:	1|2|EXPL 2|0|ROOT 3|2|NSUBJ 4|3|ACL 5|4|COMPOUND-PRT 6|7|DET 7|4|OBJ 8|10|CASE 9|10|DET 10|4|OBL 11|13|NSUBJ 12|13|AUX 13|10|ACL-RELCL 14|16|CASE 15|16|DET 16|13|OBL 17|2|PUNCT
+%wor:	there 9850_10350 is 11290_11470 water 11470_11810 coming 11810_12190 out_of 12190_12510 a 12510_12730 faucet 12730_13270 into 13270_13770 a 14750_15230 basin 15230_15730 which 16390_16910 is 16910_17090 overflowing 17090_17930 onto 17930_18470 the 18470_18710 floor 18710_19327 .
+*PAR:	the mother is drying dishes . 21162_23202
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|AMOD 5|0|ROOT 6|5|PUNCT
+%wor:	the 21162_21582 mother 21582_21622 is 21622_21962 drying 21962_22562 dishes 22562_23502 .
+*PAR:	and she's walking in the water that is flowing on the floor . 23202_27502
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|walk-Part-Pres-S adp|in det|the-Def-Art noun|water pron|that-Rel aux|be-Fin-Ind-Pres-S3 verb|flow-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|10|NSUBJ 9|10|AUX 10|7|ACL-RELCL 11|13|CASE 12|13|DET 13|10|OBL 14|4|PUNCT
+%wor:	and 23202_24142 she's 24142_24462 walking 24462_24962 in 24962_25322 the 25322_25482 water 25482_25842 that 25842_26162 is 26162_26342 flowing 26342_26722 on 26722_26962 the 26962_27062 floor 27062_27591 .
+*PAR:	two children are stealing cookies . 27502_32366
+%mor:	num|two noun|child-Plur aux|be-Fin-Ind-Pres-P3 verb|steal-Part-Pres-S noun|cookie-Plur-Acc .
+%gra:	1|2|NUMMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	two 27502_28002 children 30442_30882 are 30882_31162 stealing 31162_31562 cookies 31562_32366 .
+*PAR:	one of whom is up on a &-uh stool that is about to fall . [+ gram] 33287_41127
+%mor:	num|one adp|of pron|whom-Rel-S1 aux|be-Fin-Ind-Pres-S3 adv|up adp|on det|a-Ind-Art noun|stool pron|that-Rel aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|fall-Inf-S .
+%gra:	1|5|NSUBJ 2|3|CASE 3|1|NMOD 4|5|COP 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|11|NSUBJ 10|11|COP 11|8|ACL-RELCL 12|13|MARK 13|11|XCOMP 14|5|PUNCT
+%wor:	one 33287_33467 of 33467_33547 whom 33547_33827 is 33827_34027 up 34027_34247 on 34247_34547 a 34547_34907 uh 34907_35407 stool 36707_37507 that 37507_38007 is 39827_40027 about 40027_40407 to 40407_40687 fall 40687_41217 .
+*PAR:	he's removing cookies from an upper shelf in the closet . 41127_46055
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|remove-Part-Pres-S noun|cookie-Plur-Acc adp|from det|a-Ind-Art adj|upper-S1 noun|shelf adp|in det|the-Def-Art noun|closet .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|8|CASE 6|8|DET 7|8|AMOD 8|3|OBL 9|11|CASE 10|11|DET 11|3|OBL 12|3|PUNCT
+%wor:	he's 41127_41627 removing 42987_43427 cookies 43427_43987 from 43987_44347 an 44347_44467 upper 44467_44707 shelf 44707_45147 in 45147_45347 the 45347_45507 closet 45507_46055 .
+*PAR:	the wind appears to be blowing because the curtains appear to be you_know puffed . 49526_58186
+%mor:	det|the-Def-Art noun|wind verb|appear-Fin-Ind-Pres-S3 part|to aux|be-Inf-S verb|blow-Part-Pres-S sconj|because det|the-Def-Art noun|curtain-Plur verb|appear-Fin-Ind-Pres-P3 part|to aux|be-Inf-S noun|youknow verb|puff-Part-Past-S .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|6|MARK 5|6|AUX 6|3|XCOMP 7|10|MARK 8|9|DET 9|10|NSUBJ 10|6|ADVCL 11|14|MARK 12|14|AUX-PASS 13|14|COMPOUND 14|10|XCOMP 15|3|PUNCT
+%wor:	the 49526_49666 wind 49666_49906 appears 49906_50366 to 50366_50746 be 50746_50926 blowing 50926_51306 because 51306_51986 the 51986_52946 curtains 52946_53446 appear 54246_54846 to 54846_55126 be 55126_55486 you_know 55486_55986 puffed 57226_58186 .
+*PAR:	those are the only action things that I can see . [+ exc] 58346_62954
+%mor:	pron|that-Dem-P1 aux|be-Fin-Ind-Pres-P3 det|the-Def-Art adj|only-S1 noun|action noun|thing-Plur pron|that-Rel pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|DET 4|6|AMOD 5|6|COMPOUND 6|0|ROOT 7|10|OBJ 8|10|NSUBJ 9|10|AUX 10|6|ACL-RELCL 11|6|PUNCT
+%wor:	those 58346_58846 are 60586_60726 the 60726_60886 only 60886_61146 action 61146_61746 things 61746_62206 that 62206_62406 I 62406_62566 can 62566_62726 see 62726_62954 .
+*INV:	okay good . 63106_64450
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+%wor:	okay 63106_63886 good 63886_64450 .
+@End

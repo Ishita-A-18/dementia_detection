@@ -1,0 +1,70 @@
+@UTF8
+@PID:	11312/t-00016674-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|64;|female|ProbableAD||Participant|20||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-07T09:47:30-04:00]
+@Media:	488-0, audio
+*INV:	pencil@q . 0_1027
+%mor:	meta|pencil .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	I write with a pencil . 1027_2974
+%mor:	pron|I-Prs-Nom-S1 verb|write-Fin-Ind-Pres-S1 adp|with det|a-Ind-Art noun|pencil .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*INV:	tree@q . 2974_6320
+%mor:	meta|tree .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	a tree grows in the lawn . 6320_9043
+%mor:	det|a-Ind-Art noun|tree verb|grow-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|lawn .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*INV:	now I'm gonna give you two words . 9043_14163
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S~part|to verb|give-Inf-S pron|you-Prs-Acc-S2 num|two noun|word-Plur-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|IOBJ 8|9|NUMMOD 9|6|OBJ 10|4|PUNCT
+*INV:	don't worry about the order that I give them to you . 14163_16200
+%mor:	aux|do-Fin-Imp-S~part|not verb|worry-Fin-Imp-S adp|about det|the-Def-Art noun|order pron|that-Rel pron|I-Prs-Nom-S1 verb|give-Fin-Ind-Pres-S1 pron|they-Prs-Acc-P3 adp|to pron|you-Prs-Acc-S2 .
+%gra:	1|3|AUX 2|3|ADVMOD 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|9|OBJ 8|9|NSUBJ 9|6|ACL-RELCL 10|9|IOBJ 11|12|CASE 12|9|OBL 13|3|PUNCT
+*INV:	just use both of them in a short simple sentence . 16200_19143
+%mor:	adv|just verb|use-Fin-Imp-S det|both-Def-Tot adp|of pron|they-Prs-Acc-P3 adp|in det|a-Ind-Art adj|short-S1 adj|simple-S1 noun|sentence .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|OBJ 4|5|CASE 5|3|NMOD 6|10|CASE 7|10|DET 8|10|AMOD 9|10|AMOD 10|2|OBL 11|2|PUNCT
+*INV:	child@q hospital@q . 19143_21494
+%mor:	meta|child meta|hospital .
+%gra:	1|2|DEP 2|0|ROOT 3|2|PUNCT
+*PAR:	the child is in the hospital . 21494_25572
+%mor:	det|the-Def-Art noun|child aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|hospital .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|0|ROOT 7|6|PUNCT
+*INV:	cold@q winter@q . 25572_32372
+%mor:	meta|cold meta|winter .
+%gra:	1|2|DEP 2|0|ROOT 3|2|PUNCT
+*PAR:	this is a very cold winter . 32372_36435
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adv|very adj|cold-S1 noun|winter .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|DET 4|5|ADVMOD 5|6|AMOD 6|0|ROOT 7|6|PUNCT
+*INV:	okay ‡ now I'm gonna to give you three words . 36435_41881
+%mor:	intj|okay intj|‡ adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S~part|to part|to verb|give-Inf-S pron|you-Prs-Acc-S2 num|three noun|word-Plur-Acc .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|6|ADVMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|9|MARK 8|9|MARK 9|6|XCOMP 10|9|IOBJ 11|12|NUMMOD 12|9|OBJ 13|6|PUNCT
+*INV:	again don't worry about the order that I give them to you in . 41881_44400
+%mor:	adv|again aux|do-Fin-Imp-S~part|not verb|worry-Fin-Imp-S adp|about det|the-Def-Art noun|order pron|that-Rel pron|I-Prs-Nom-S1 verb|give-Fin-Ind-Pres-S1 pron|they-Prs-Acc-P3 adp|to pron|you-Prs-Acc-S2 adp|in .
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|10|OBJ 9|10|NSUBJ 10|7|ACL-RELCL 11|10|IOBJ 12|13|CASE 13|10|OBL 14|4|PUNCT 15|4|PUNCT
+*INV:	just use all three of them in one short simple sentence . 44400_47655
+%mor:	adv|just verb|use-Fin-Imp-S det|all-Def-Tot num|three adp|of pron|they-Prs-Acc-P3 adp|in num|one adj|short-S1 adj|simple-S1 noun|sentence .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|CASE 6|4|NMOD 7|11|CASE 8|11|NUMMOD 9|11|AMOD 10|11|AMOD 11|2|OBL 12|2|PUNCT
+*INV:	chair@q doctor@q sit@q . 47655_51406
+%mor:	meta|chair meta|doctor meta|sit .
+%gra:	1|0|ROOT 2|3|DEP 3|1|DEP 4|1|PUNCT
+*PAR:	sit@q ? [+ exc] 51406_54609
+%mor:	meta|sit ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	mhm . 54609_55500
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	I sit in the chair in the doctor's [/] doctor's office . 55500_58051
+%mor:	pron|I-Prs-Nom-S1 verb|sit-Fin-Ind-Pres-S1 adp|in det|the-Def-Art noun|chair adp|in det|the-Def-Art noun|doctor~part|s noun|office .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|10|CASE 7|8|DET 8|10|NMOD-POSS 9|8|CASE 10|2|OBL 11|2|PUNCT
+*INV:	bureau@q open@q drawer@q . 58051_67530
+%mor:	meta|bureau meta|open meta|drawer .
+%gra:	1|0|ROOT 2|3|DEP 3|1|DEP 4|1|PUNCT
+*PAR:	open the drawer to the bureau (.) so_that I can get my clothes out . 67530_73988
+%mor:	verb|open-Fin-Imp-S det|the-Def-Art noun|drawer-Acc adp|to det|the-Def-Art noun|bureau noun|sothat pron|I-Prs-Nom-S1 aux|can-Fin-S verb|get-Inf-S pron|my-Prs-Gen-S1 noun|clothes-Ptan-Acc adp|out .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|7|CASE 5|7|DET 6|7|COMPOUND 7|1|OBL 8|10|NSUBJ 9|10|AUX 10|1|PARATAXIS 11|12|NMOD-POSS 12|10|OBJ 13|10|COMPOUND-PRT 14|1|PUNCT
+@End

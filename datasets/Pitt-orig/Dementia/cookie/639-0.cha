@@ -1,0 +1,63 @@
+@UTF8
+@PID:	11312/t-00002709-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|78;|male|ProbableAD||Participant|26||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T22:02:55-04:00]
+@Media:	639-0, audio
+@G:	Cookie
+*INV:	look at this picture . 380_1280
+%mor:	verb|look-Fin-Imp-S adp|at det|this-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+%wor:	look 380_560 at 560_660 this 660_880 picture 880_1780 .
+*INV:	tell me everything that you see going on in this picture . 1280_4420
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|this-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|7|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|6|XCOMP 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|1|PUNCT
+%wor:	tell 1280_1780 me 2300_2420 everything 2420_2740 that 2740_2940 you 2940_3040 see 3040_3240 going 3240_3500 on 3500_3740 in 3740_3880 this 3880_4020 picture 4020_4838 .
+*INV:	everything that you see happening here . 4420_6738
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adv|here .
+%gra:	1|0|ROOT 2|5|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|1|ACL 6|5|ADVMOD 7|1|PUNCT
+%wor:	everything 4420_5280 that 5280_5500 you 5500_5620 see 5620_5860 happening 5860_6260 here 6260_6738 .
+*PAR:	well ‡ the sink is running over . 6800_11760
+%mor:	intj|well punct|‡ det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adv|over .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|4|DET 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|6|ADVMOD 8|6|PUNCT
+%wor:	well 6800_7300 ‡ the 9480_9980 sink 10820_11040 is 11040_11180 running 11180_11420 over 11420_11819 .
+*PAR:	she's drying the dishes . 11760_14500
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	she's 11760_12260 drying 13520_13840 the 13840_14060 dishes 14060_14504 .
+*PAR:	they're getting in the cookie jar . 14500_16960
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|get-Part-Pres-S adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|7|CASE 5|7|DET 6|7|COMPOUND 7|3|OBL 8|3|PUNCT
+%wor:	they're 14500_15000 getting 15740_16000 in 16000_16180 the 16180_16320 cookie 16320_16560 jar 16560_17133 .
+*PAR:	and they're upsetting the stool . 16960_18562
+%mor:	cconj|and pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|upsetting-Part-Pres-S det|the-Def-Art noun|stool-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	and 16960_17220 they're 17220_17420 upsetting 17420_17760 the 17760_18020 stool 18020_18562 .
+*PAR:	the girl is reaching for a cookie . 20534_22414
+%mor:	det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	the 20534_21014 girl 21014_21054 is 21054_21294 reaching 21294_21594 for 21594_21854 a 21854_22114 cookie 22114_22494 .
+*PAR:	the lady here's standing right in the water . 22414_27094
+%mor:	det|the-Def-Art noun|lady adv|here~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adv|right adp|in det|the-Def-Art noun|water .
+%gra:	1|2|DET 2|5|NSUBJ 3|2|ADVMOD 4|5|AUX 5|0|ROOT 6|9|ADVMOD 7|9|CASE 8|9|DET 9|5|OBL 10|5|PUNCT
+%wor:	the 22414_22914 lady 25414_25674 here's 25674_25974 standing 25974_26234 right 26234_26474 in 26474_26634 the 26634_26754 water 26754_27158 .
+*PAR:	she seems to be looking out the window at the lawn . 27094_38066
+%mor:	pron|she-Prs-Nom-S3 verb|seem-Fin-Ind-Pres-S3 part|to aux|be-Inf-S verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window adp|at det|the-Def-Art noun|lawn .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|MARK 4|5|AUX 5|2|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|11|CASE 10|11|DET 11|5|OBL 12|2|PUNCT
+%wor:	she 27094_27594 seems 34234_34614 to 34614_34754 be 34754_35014 looking 35014_35994 out 35994_36394 the 36394_36814 window 36814_37074 at 37074_37334 the 37334_37554 lawn 37554_38066 .
+*INV:	anything else ? 47882_61222
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	anything 61222_61262 else 61262_61722 ?
+*INV:	is that about it ? 61222_63542
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem adp|about pron|it-Prs-Acc-S3 ?
+%gra:	1|4|COP 2|4|NSUBJ 3|4|CASE 4|0|ROOT 5|4|PUNCT
+%wor:	is 61222_61482 that 61482_61982 about 63122_63322 it 63322_63650 ?
+*PAR:	that's about it right +/. [+ exc] 63542_64750
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 adj|right-S1 +/.
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	that's 63542_64142 about 64142_64382 it 64382_64522 right 64522_64750 +/.
+@End

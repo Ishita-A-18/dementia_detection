@@ -1,0 +1,109 @@
+@UTF8
+@PID:	11312/t-00002480-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|77;00.|female|MCI||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T21:20:45-04:00]
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T05:52:15-04:00]
+@Media:	065-2, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	anything going on in the picture . 220_1700
+%mor:	pron|anything-Ind-S1 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|0|ROOT 2|1|ACL 3|2|COMPOUND-PRT 4|6|CASE 5|6|DET 6|2|OBL 7|1|PUNCT
+%wor:	anything 220_700 going 700_880 on 880_1140 in 1140_1280 the 1280_1420 picture 1420_2261 .
+*PAR:	alright let's start over here . [+ exc] 1700_4811
+%mor:	intj|alright verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|start-Inf-S adp|over adv|here .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|6|CASE 6|4|OBL 7|2|PUNCT
+%wor:	alright 1700_2200 let's 2780_3360 start 3360_4160 over 4160_4420 here 4420_4811 .
+*PAR:	the &+l little boy is [/] &-uh is standing on a stool which is about to fall over . 5580_15468
+%mor:	det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|a-Ind-Art noun|stool pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 adv|about part|to verb|fall-Inf-S adv|over .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|13|NSUBJ 10|13|COP 11|13|ADVMOD 12|13|MARK 13|8|ACL-RELCL 14|13|ADVMOD 15|5|PUNCT
+%wor:	the 5580_6080 little 7900_8400 boy 8920_9400 is 9400_10020 uh 10020_10680 is 10680_11080 standing 11080_11540 on 11540_12100 a 12100_12620 stool 12620_13140 which 13140_13740 is 13740_13880 about 13880_14200 to 14200_14540 fall 14540_14820 over 14820_15468 .
+*PAR:	and he [/] &+ha he is getting a cookie out_of the cookie &-uh jar . 16163_21643
+%mor:	cconj|and pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S det|a-Ind-Art noun|cookie noun|outof-Acc det|the-Def-Art noun|cookie noun|jar-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|COMPOUND 7|4|OBJ 8|10|DET 9|10|COMPOUND 10|4|OBJ 11|4|PUNCT
+%wor:	and 16163_16383 he 16383_16583 he 16583_17083 is 17083_17463 getting 17463_17843 a 17843_18183 cookie 18183_18523 out_of 18523_19023 the 19603_19803 cookie 19803_20163 uh 20163_20963 jar 20963_21823 .
+*PAR:	and his little sister comes +//. 21643_24275
+%mor:	cconj|and pron|his-Prs-Gen-S3 adj|little-S1 noun|sister verb|come-Fin-Ind-Pres-S3 +//.
+%gra:	1|5|CC 2|4|NMOD-POSS 3|4|AMOD 4|5|NSUBJ 5|0|ROOT 6|5|PUNCT
+%wor:	and 21643_22143 his 22723_23063 little 23063_23463 sister 23463_23903 comes 23903_24275 +//.
+*PAR:	<that had> [//] &-uh the lid's off . 24303_25663
+%mor:	det|the-Def-Art noun|lid~part|s adv|off .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|0|ROOT 5|4|PUNCT
+%wor:	that 24303_24563 had 24563_24683 uh 24683_24843 the 24843_24923 lid's 24923_25243 off 25243_25766 .
+*PAR:	and he has a cookie in his hand [/] hand . 25663_28226
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie-Acc adp|in pron|his-Prs-Gen-S3 noun|hand .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|NMOD-POSS 8|5|NMOD 9|3|PUNCT
+%wor:	and 25663_26123 he 26123_26363 has 26363_26643 a 26643_26783 cookie 26783_26983 in 26983_27243 his 27243_27463 hand 27463_27803 hand 27803_28226 .
+*PAR:	and he [//] <and the little> [//] his little sister is down here . 28303_32216
+%mor:	cconj|and pron|his-Prs-Gen-S3 adj|little-S1 noun|sister aux|be-Fin-Ind-Pres-S3 adv|down adv|here .
+%gra:	1|7|CC 2|4|NMOD-POSS 3|4|AMOD 4|7|NSUBJ 5|7|COP 6|7|ADVMOD 7|0|ROOT 8|7|PUNCT
+%wor:	and 28303_28883 he 28883_29043 and 29043_29443 the 29443_29703 little 29703_29883 his 29883_30163 little 30163_30463 sister 30463_31123 is 31123_31483 down 31483_31843 here 31843_32216 .
+*PAR:	<and she> [/] &+wa and she has &-uh her hand up to take the &+t a cookie out_of the little boy's hand . 32569_41829
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|hand-Acc adp|up part|to verb|take-Inf-S det|the-Def-Art det|a-Ind-Art noun|cookie noun|outof-Acc det|the-Def-Art adj|little-S1 noun|boy~part|s noun|hand-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|COMPOUND-PRT 7|8|MARK 8|3|ADVCL 9|12|DET 10|12|DET 11|12|COMPOUND 12|8|OBJ 13|15|DET 14|15|AMOD 15|17|NMOD-POSS 16|15|CASE 17|8|OBJ 18|3|PUNCT
+%wor:	and 32569_32809 she 32809_32929 and 32929_33709 she 33709_34349 has 34349_35289 uh 35289_35849 her 35849_36089 hand 36089_36809 up 36809_37429 to 37429_37989 take 37989_38309 the 38309_39049 a 39049_39729 cookie 39729_40189 out_of 40189_40749 the 40749_40889 little 40889_41029 boy's 41029_41429 hand 41429_41969 .
+*PAR:	he's giving it to her . 41829_43549
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|give-Part-Pres-S pron|it-Prs-Acc-S3 adp|to pron|her-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|3|PUNCT
+%wor:	he's 41829_42549 giving 42549_42769 it 42769_43029 to 43029_43229 her 43229_44021 .
+*PAR:	and her mother is standing at the sink &+w &-uh wiping a dish with a tea towel . 43549_50738
+%mor:	cconj|and pron|her-Prs-Gen-S3 noun|mother aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|at det|the-Def-Art noun|sink verb|wipe-Part-Pres-S det|a-Ind-Art noun|dish-Acc adp|with det|a-Ind-Art noun|tea noun|towel .
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|ADVCL 10|11|DET 11|9|OBJ 12|15|CASE 13|15|DET 14|15|COMPOUND 15|9|OBL 16|5|PUNCT
+%wor:	and 43549_44049 her 44829_45029 mother 45029_45349 is 45349_45689 standing 45689_46089 at 46089_46469 the 46469_46669 sink 46669_47009 uh 47009_48009 wiping 48009_48729 a 48729_49109 dish 49109_49429 with 49429_49669 a 49669_49829 tea 49829_50089 towel 50089_50738 .
+*PAR:	and <on the [/] &+h the [/] the [/] the> [//] there's [//] then there's a sink that has &-uh &-uh faucets . 52046_62626
+%mor:	cconj|and adv|then pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|sink pron|that-Rel verb|have-Fin-Ind-Pres-S3 noun|faucet-Plur-Acc .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|EXPL 4|0|ROOT 5|6|DET 6|4|NSUBJ 7|8|NSUBJ 8|6|ACL-RELCL 9|8|OBJ 10|4|PUNCT
+%wor:	and 52046_52486 on 52486_53066 the 53066_53566 the 54166_54886 the 54886_55386 the 56026_56206 there's 56206_56486 then 56486_56766 there's 56766_57226 a 57226_57606 sink 57606_58166 that 58166_58666 has 60546_60986 uh 60986_61406 uh 61406_61966 faucets 61966_62806 .
+*PAR:	<and the> [/] &+wa and the water is on . 62626_65223
+%mor:	cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 adv|on .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+%wor:	and 62626_63586 the 63586_63766 and 63766_64146 the 64146_64386 water 64386_64706 is 64706_64906 on 64906_65223 .
+*PAR:	<and she has> [//] <and she> [//] <it is> [//] and [/] &+sh and she's is spilling over onto the floor . [+ gram] 65226_70827
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S adp|over adp|onto det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|5|PUNCT
+%wor:	and 65226_65426 she 65426_65606 has 65606_65946 and 65946_66286 she 66286_66566 it 66566_66926 is 66926_67106 and 67106_67546 and 67546_68006 she's 68006_68425 is 68425_68646 spilling 68646_69146 over 69146_69466 onto 69466_69886 the 69886_70366 floor 70366_70827 .
+*PAR:	and on the &-uh sink also there are two cups and a plate . 71872_77172
+%mor:	cconj|and adp|on det|the-Def-Art noun|sink adv|also pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 num|two noun|cup-Plur cconj|and det|a-Ind-Art noun|plate .
+%gra:	1|7|CC 2|4|CASE 3|4|DET 4|7|OBL 5|7|ADVMOD 6|7|EXPL 7|0|ROOT 8|9|NUMMOD 9|7|NSUBJ 10|12|CC 11|12|DET 12|9|CONJ 13|7|PUNCT
+%wor:	and 71872_72092 on 72092_72432 the 72432_72812 uh 72812_73292 sink 73292_73792 also 74472_75052 there 75052_75432 are 75432_75572 two 75572_75792 cups 75792_76152 and 76152_76452 a 76452_76732 plate 76732_77272 .
+*PAR:	and bənʌf@u [: above] [* n:k-ret] [//] (a)bove the sink is a window . 77172_80970
+%mor:	cconj|and adp|above det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|window .
+%gra:	1|7|CC 2|4|CASE 3|4|DET 4|7|NMOD 5|7|COP 6|7|DET 7|0|ROOT 8|7|PUNCT
+%wor:	and 77172_80970 bənʌf above the sink is a window .
+*PAR:	and you look out and you see &-uh another [//] &+d &-uh the garage and [/] &-uh &+th and a <road in> [//] &-uh &+d &+d drive into which has &+t bushes on [/] &+s on the side . [+ gram] 81514_93154
+%mor:	cconj|and pron|you-Prs-Nom-S2 verb|look-Fin-Ind-Pres-S2 adp|out cconj|and pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 det|the-Def-Art noun|garage-Acc cconj|and det|a-Ind-Art noun|drive adp|into pron|which-Rel-S1 verb|have-Fin-Ind-Pres-S3 noun|bush-Plur-Acc adp|on det|the-Def-Art noun|side .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|COMPOUND-PRT 5|7|CC 6|7|NSUBJ 7|3|CONJ 8|9|DET 9|7|OBJ 10|12|CC 11|12|DET 12|9|CONJ 13|14|CASE 14|15|OBL 15|12|ACL-RELCL 16|15|OBJ 17|19|CASE 18|19|DET 19|15|OBL 20|3|PUNCT
+%wor:	and 81514_81714 you 81714_81754 look 81754_82094 out 82094_82374 and 82374_82514 you 82514_82694 see 82694_82954 uh 82954_83274 another 83274_83754 uh 83754_84334 the 84334_84514 garage 84514_85014 and 85014_86194 uh 86194_86414 and 86414_86774 a 86774_86914 road 86914_87234 in 87234_87494 uh 87494_88054 drive 88054_88654 into 88654_89114 which 89114_89954 has 89954_90234 bushes 90234_90994 on 90994_91574 on 91574_92374 the 92374_92694 side 92694_93334 .
+*PAR:	and in [/] <in the> [//] &-um <on the> [//] &+kol in the garage there's also a window . 93154_99197
+%mor:	cconj|and adp|in det|the-Def-Art noun|garage pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 adv|also det|a-Ind-Art noun|window .
+%gra:	1|6|CC 2|4|CASE 3|4|DET 4|6|OBL 5|6|EXPL 6|0|ROOT 7|6|ADVMOD 8|9|DET 9|6|NSUBJ 10|6|PUNCT
+%wor:	and 93154_93774 in 93774_94654 in 94654_94954 the 94954_95054 um 95054_95494 on 95494_96234 the 96234_96414 in 96414_96794 the 96794_97254 garage 97254_97654 there's 97654_98014 also 98014_98374 a 98374_98734 window 98734_99197 .
+*PAR:	<and up> [//] and then up the curtains . [+ gram] 99812_102892
+%mor:	cconj|and adv|then adp|up det|the-Def-Art noun|curtain-Plur .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|CASE 4|5|DET 5|0|ROOT 6|5|PUNCT
+%wor:	and 99812_100092 up 100092_100332 and 100332_100732 then 100732_101092 up 101092_101412 the 101412_102292 curtains 102292_103152 .
+*PAR:	and you can see the top of the garage out the window . 102892_107512
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S det|the-Def-Art noun|top-Acc adp|of det|the-Def-Art noun|garage adp|out det|the-Def-Art noun|window .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|12|CASE 11|12|DET 12|6|NMOD 13|4|PUNCT
+%wor:	and 102892_103392 you 104732_104852 can 104852_104992 see 104992_105192 the 105192_105352 top 105352_105592 of 105592_105712 the 105712_105832 garage 105832_106372 out 106372_106692 the 106692_106932 window 106932_107619 .
+*PAR:	<and the curtains> [//] and her kɜ˞kɪt@u [: curtains] [* n:k-ret] curtains on her window . [+ gram] 107512_111343
+%mor:	cconj|and pron|her-Prs-Gen-S3 noun|curtain-Plur noun|curtain-Plur adp|on pron|her-Prs-Gen-S3 noun|window .
+%gra:	1|4|CC 2|4|NMOD-POSS 3|4|COMPOUND 4|0|ROOT 5|7|CASE 6|7|NMOD-POSS 7|4|NMOD 8|4|PUNCT
+%wor:	and 107512_108192 the 108192_108352 curtains 108352_108892 and 108892_109412 her 109412_111343 kɜ˞kɪt curtains on her window .
+*PAR:	and the [/] &+s the cupboards are underneath the [/] the sink . 111807_115917
+%mor:	cconj|and det|the-Def-Art noun|cupboard-Plur aux|be-Fin-Ind-Pres-P3 adp|underneath det|the-Def-Art noun|sink .
+%gra:	1|7|CC 2|3|DET 3|7|NSUBJ 4|7|COP 5|7|CASE 6|7|DET 7|0|ROOT 8|7|PUNCT
+%wor:	and the the cupboards are underneath the the sink .
+*PAR:	and &-uh it's a good job there if you ask . 116795_119635
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|good-S1 noun|job adv|there sconj|if pron|you-Prs-Nom-S2 verb|ask-Fin-Ind-Pres-S2 .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|6|DET 5|6|AMOD 6|0|ROOT 7|6|ADVMOD 8|10|MARK 9|10|NSUBJ 10|6|ADVCL 11|6|PUNCT
+%wor:	and uh it's a good job there if you ask .
+*INV:	okay good . 120554_150954
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+%wor:	okay 150454_150494 good 150494_150954 .
+@End

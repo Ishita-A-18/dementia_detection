@@ -1,0 +1,55 @@
+@UTF8
+@PID:	11312/t-00002682-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|70;|male|ProbableAD||Participant|25||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T22:02:34-04:00]
+@Media:	544-0, audio
+@G:	Cookie
+*INV:	and here's your picture . 70_1590
+%mor:	cconj|and adv|here~aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|picture .
+%gra:	1|2|CC 2|0|ROOT 3|2|COP 4|5|NMOD-POSS 5|2|NSUBJ 6|2|PUNCT
+%wor:	and 70_1010 here's 1010_1190 your 1190_1350 picture 1350_1850 .
+*PAR:	oh ‡ Johnny is sneaking cookies out_o(f) the cookie jar for his sister Sue . 1590_7090
+%mor:	intj|oh punct|‡ propn|Johnny aux|be-Fin-Ind-Pres-S3 verb|sneak-Part-Pres-S noun|cookie-Plur-Acc adp|outof det|the-Def-Art noun|cookie noun|jar adp|for pron|his-Prs-Gen-S3 noun|sister propn|Sue .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|10|CASE 8|10|DET 9|10|COMPOUND 10|5|OBL 11|13|CASE 12|13|NMOD-POSS 13|10|NMOD 14|13|APPOS 15|5|PUNCT
+%wor:	oh 1590_2090 ‡ Johnny 3090_3950 is 3950_4330 sneaking 4330_4690 cookies 4690_5110 out_of 5110_5410 the 5410_5530 cookie 5530_5750 jar 5750_6010 for 6010_6210 his 6210_6390 sister 6390_6650 Sue 6650_7120 .
+*PAR:	mother is washing the dishes . 7090_8870
+%mor:	noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	mother 7090_7770 is 7770_8030 washing 8030_8350 the 8350_8590 dishes 8590_8940 .
+*PAR:	and the sink is overflowing with the water on the floor . 8870_11750
+%mor:	cconj|and det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|with det|the-Def-Art noun|water adp|on det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|11|CASE 10|11|DET 11|5|OBL 12|5|PUNCT
+%wor:	and 8870_9130 the 9130_9310 sink 9310_9530 is 9530_9710 overflowing 9710_10330 with 10330_10610 the 10610_10770 water 10770_10990 on 10990_11250 the 11250_11410 floor 11410_12300 .
+*PAR:	the curtains are spread aside to let the light in . 11750_14710
+%mor:	det|the-Def-Art noun|curtain-Plur aux|be-Fin-Ind-Pres-P3 verb|spread-Part-Past-S-irr adv|aside part|to verb|let-Inf-S det|the-Def-Art noun|light-Acc adp|in .
+%gra:	1|2|DET 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|0|ROOT 5|4|ADVMOD 6|7|MARK 7|4|ADVCL 8|9|DET 9|7|OBJ 10|7|COMPOUND-PRT 11|4|PUNCT
+%wor:	the 11750_12610 curtains 12610_12950 are 12950_13170 spread 13170_13370 aside 13370_13770 to 13770_13930 let 13930_14070 the 14070_14210 light 14210_14450 in 14450_15019 .
+*PAR:	there's plates and saucers on the table here . 14710_18090
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|plate-Plur cconj|and noun|saucer-Plur adp|on det|the-Def-Art noun|table adv|here .
+%gra:	1|2|EXPL 2|0|ROOT 3|2|NSUBJ 4|5|CC 5|3|CONJ 6|8|CASE 7|8|DET 8|2|OBL 9|2|ADVMOD 10|2|PUNCT
+%wor:	there's 14710_15450 plates 15450_15930 and 15930_16289 saucers 16289_16790 on 16790_17150 the 17150_17290 table 17290_17610 here 17610_18139 .
+*PAR:	and the +... 18090_19643
+%mor:	cconj|and det|the-Def-Art +...
+%gra:	1|2|CC 2|0|ROOT 3|2|PUNCT
+%wor:	and 18090_18590 the 19130_19643 +...
+*PAR:	shall I tell you some more ? [+ exc] 20107_20867
+%mor:	aux|shall-Fin-S pron|I-Prs-Nom-S1 verb|tell-Inf-S pron|you-Prs-Acc-S2 det|some-Def-Ind adj|more-Cmp-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|IOBJ 5|6|DET 6|3|OBJ 7|3|PUNCT
+%wor:	shall 20107_20307 I 20307_20367 tell 20367_20487 you 20487_20587 some 20587_20727 more 20727_21560 ?
+*INV:	just tell me everything you see going on in the picture and tell me when you think you're through . 20867_24927
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 adv|when pron|you-Prs-Nom-S2 verb|think-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adv|through .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|IOBJ 4|2|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|6|XCOMP 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|13|CC 13|2|CONJ 14|13|IOBJ 15|17|ADVMOD 16|17|NSUBJ 17|13|ADVCL 18|20|NSUBJ 19|20|COP 20|17|CCOMP 21|2|PUNCT
+%wor:	just 20867_21847 tell 21847_22047 me 22047_22147 everything 22147_22447 you 22447_22627 see 22627_22827 going 22827_23067 on 23067_23267 in 23267_23387 the 23387_23447 picture 23447_23667 and 23667_23847 tell 23847_24007 me 24007_24107 when 24107_24287 you 24287_24327 think 24327_24467 you're 24467_24587 through 24587_28018 .
+*PAR:	no I'm through . [+ exc] 24927_28767
+%mor:	intj|no pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|through .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+%wor:	no 24927_25427 I'm 28347_28527 through 28527_28867 .
+*INV:	okay good . 28767_29687
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+%wor:	okay 28767_29347 good 29347_29687 .
+@End

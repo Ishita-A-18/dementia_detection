@@ -1,0 +1,53 @@
+@UTF8
+@PID:	11312/t-00002246-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|65;00.|female|Control||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T22:09:09-04:00]
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-07T09:48:16-04:00]
+@Media:	092-3, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*PAR:	the girl's reaching for a cookie . 270_2600
+%mor:	det|the-Def-Art noun|girl~part|s verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|2|DET 2|4|NSUBJ 3|2|CASE 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	the 270_470 girl's 470_1130 reaching 1130_1590 for 1590_2030 a 2030_2310 cookie 2310_2600 .
+*PAR:	the boy is reaching in the cookie jar . 2610_4890
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|4|PUNCT
+%wor:	the 2610_2830 boy 2830_3170 is 3170_3430 reaching 3430_3770 in 3770_4010 the 4010_4130 cookie 4130_4410 jar 4410_4894 .
+*PAR:	he's standing on the stool . 4890_6564
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|the-Def-Art noun|stool .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	he's 4890_5350 standing 5350_5710 on 5710_6070 the 6070_6310 stool 6310_6564 .
+*PAR:	the stool is tipping over . 6570_8190
+%mor:	det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|tip-Part-Pres-S adp|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+%wor:	the 6570_6750 stool 6750_7070 is 7070_7290 tipping 7290_7590 over 7590_8245 .
+*PAR:	sh@o the girl with her finger to her mouth . [+ gram] 8190_11190
+%mor:	on|sh det|the-Def-Art noun|girl-Acc adp|with pron|her-Prs-Gen-S3 noun|finger adp|to pron|her-Prs-Gen-S3 noun|mouth .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|NMOD-POSS 6|1|OBL 7|9|CASE 8|9|NMOD-POSS 9|1|OBL 10|1|PUNCT
+%wor:	sh 8190_8750 the 8750_8790 girl 8790_9090 with 9090_9330 her 9330_9470 finger 9470_9910 to 9910_10210 her 10210_10470 mouth 10470_11263 .
+*PAR:	the mother is drying a dish . 11190_16030
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|dish-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	the 11190_11690 mother 13150_13450 is 13450_14090 drying 14090_14590 a 15230_15590 dish 15590_16129 .
+*PAR:	the sink is overflowing with water . 16030_18692
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|with noun|water .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+%wor:	the 16030_16390 sink 16390_16690 is 16690_16950 overflowing 16950_17750 with 17750_18070 water 18070_18692 .
+*PAR:	the things that are doing , not things that are going on ? [+ exc] 19660_23020
+%mor:	det|the-Def-Art noun|thing-Plur pron|that-Rel aux|be-Fin-Ind-Pres-P3 verb|do-Part-Pres-S cm|cm part|not noun|thing-Plur pron|that-Rel aux|be-Fin-Ind-Pres-P3 verb|go-Part-Pres-S adp|on ?
+%gra:	1|2|DET 2|8|NSUBJ 3|5|NSUBJ 4|5|AUX 5|2|ACL-RELCL 6|2|PUNCT 7|8|ADVMOD 8|0|ROOT 9|11|NSUBJ 10|11|AUX 11|8|ACL-RELCL 12|11|COMPOUND-PRT 13|8|PUNCT
+%wor:	the 19660_20620 things 20620_20660 that 20660_20780 are 20780_20900 doing 20900_21300 , not 21300_21960 things 21960_22160 that 22160_22300 are 22300_22400 going 22400_22680 on 22680_23020 ?
+*PAR:	that's it . [+ exc] 23160_25087
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+%wor:	that's 23160_23660 it 24960_25087 .
+*INV:	okay . 25160_25606
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	okay 25160_25606 .
+@End

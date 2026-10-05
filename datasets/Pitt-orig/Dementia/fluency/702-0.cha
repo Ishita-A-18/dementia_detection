@@ -1,0 +1,126 @@
+@UTF8
+@PID:	11312/t-00016243-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|65;|female|ProbableAD||Participant|20||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-07T09:47:51-04:00]
+@Media:	702-0, audio
+@G:	animals
+*INV:	think of . 0_1022
+%mor:	verb|think-Fin-Imp-S adp|of .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*INV:	and you can start now . 1022_3035
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	cat . 3035_3704
+%mor:	noun|cat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	dog . 3704_4219
+%mor:	noun|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	mouse . 4219_4857
+%mor:	noun|mouse .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	horse . 4857_5354
+%mor:	noun|horse .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	zebra . 5354_6801
+%mor:	noun|zebra .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	elephant . 6801_7685
+%mor:	noun|elephant .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-um &=sighs xxx I get to the zoo . [+ exc] 7685_12764
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Pres-S1 adp|to det|the-Def-Art noun|zoo .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*PAR:	&-uh &-hm rhinoceros . 12764_17496
+%mor:	noun|rhinocero-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh snake . 17496_20484
+%mor:	noun|snake .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) lion . 20484_23706
+%mor:	noun|lion .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	tiger . 23706_24375
+%mor:	noun|tiger .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	jaguar . 24375_27176
+%mor:	noun|jaguar .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-um snake . 27176_31690
+%mor:	noun|snake .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&=sighs deer . 31690_35923
+%mor:	noun|deer .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	rabbit . 35923_36623
+%mor:	noun|rabbit .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	fox . 36623_38351
+%mor:	propn|fox .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	good grief . [+ exc] 45000_46678
+%mor:	adj|good-S1 noun|grief .
+%gra:	1|2|AMOD 2|0|ROOT 3|2|PUNCT
+*PAR:	&-um giraffe . 46678_49495
+%mor:	noun|giraffe .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	rhinoceros . 49010_51049
+%mor:	noun|rhinocero-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	hippopotamus . 51049_54459
+%mor:	noun|hippopotamus .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	monkey . 54459_55672
+%mor:	noun|monkey .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	oh +... 55672_60500
+%mor:	intj|oh +...
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay . 60500_61208
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@G:	F
+*INV:	next is +/. 61208_62368
+%mor:	adv|next aux|be-Fin-Ind-Pres-S3 +/.
+%gra:	1|0|ROOT 2|1|COP 3|1|PUNCT
+*PAR:	the letter f@l . [+ exc] 61868_62913
+%mor:	det|the-Def-Art noun|letter n:let|f .
+%gra:	1|3|DET 2|3|COMPOUND 3|0|ROOT 4|3|PUNCT
+*INV:	all of the words you can think of that start with the letter f@l and you can start now . 62913_66960
+%mor:	det|all-Def-Tot adp|of det|the-Def-Art noun|word-Plur pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of pron|that-Rel verb|start-Fin-Ind-Pres-P3 adp|with det|the-Def-Art noun|letter n:let|f cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|10|NSUBJ 2|4|CASE 3|4|DET 4|1|NMOD 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|7|OBL 9|10|NSUBJ 10|0|ROOT 11|14|CASE 12|14|DET 13|14|COMPOUND 14|10|DEP 15|18|CC 16|18|NSUBJ 17|18|AUX 18|10|CONJ 19|18|ADVMOD 20|10|PUNCT
+*PAR:	farm . 66960_68700
+%mor:	noun|farm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	fun . 68700_69620
+%mor:	noun|fun .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) feeling . 69620_72534
+%mor:	verb|feel-Part-Pres-S .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	good grief . [+ exc] 81000_83115
+%mor:	adj|good-S1 noun|grief .
+%gra:	1|2|AMOD 2|0|ROOT 3|2|PUNCT
+*INV:	any word at all . 83115_84344
+%mor:	det|any-Def-Ind noun|word adp|at det|all-Def-Tot .
+%gra:	1|2|DET 2|0|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+*PAR:	can't even think of f@l letters . [+ exc] 84344_88235
+%mor:	aux|can-Fin-S~part|not adv|even verb|think-Fin-Imp-S adp|of n:let|f noun|letter-Plur .
+%gra:	1|4|AUX 2|4|ADVMOD 3|4|ADVMOD 4|0|ROOT 5|7|DEP 6|7|COMPOUND 7|4|OBL 8|4|PUNCT
+*PAR:	&-uh (..) funny . 88235_96608
+%mor:	adj|funny-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	fin . 96608_99020
+%mor:	noun|fin .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) flower . 99020_109448
+%mor:	noun|flower .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(...) fox . 109448_118520
+%mor:	propn|fox .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

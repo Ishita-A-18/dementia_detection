@@ -1,0 +1,71 @@
+@UTF8
+@PID:	11312/t-00002563-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|70;|female|ProbableAD||Participant|11||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T22:01:19-04:00]
+@Media:	220-1, audio
+@G:	Cookie
+*INV:	picture +. 370_670
+%mor:	noun|picture +.
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	picture 370_680 +.
+*INV:	what's going on in that picture ? 670_2310
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	what's 670_1010 going 1010_1270 on 1270_1570 in 1570_1710 that 1710_1890 picture 1890_2800 ?
+*INV:	tell me all the action in the picture . 2310_4690
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|all-Def-Tot det|the-Def-Art noun|action-Acc adp|in det|the-Def-Art noun|picture .
+%gra:	1|0|ROOT 2|1|IOBJ 3|5|DET-PREDET 4|5|DET 5|1|OBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|1|PUNCT
+%wor:	tell 2310_2810 me 3330_3430 all 3430_3570 the 3570_3710 action 3710_4070 in 4070_4250 the 4250_4370 picture 4370_4861 .
+*PAR:	well ‡ the mother has water spillin(g) all over the floor for one thing . 4690_9711
+%mor:	intj|well punct|‡ det|the-Def-Art noun|mother verb|have-Fin-Ind-Pres-S3 noun|water-Acc verb|spill-Ger-S adv|all adp|over det|the-Def-Art noun|floor adp|for num|one noun|thing-Ger .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|4|DET 4|5|NSUBJ 5|0|ROOT 6|5|OBJ 7|6|ACL 8|11|ADVMOD 9|11|CASE 10|11|DET 11|7|OBL 12|14|CASE 13|14|NUMMOD 14|7|OBL 15|5|PUNCT
+%wor:	well 4690_5390 ‡ the 5390_6010 mother 6010_6370 has 6370_7090 water 7090_7550 spilling 7550_8030 all 8030_8290 over 8290_8490 the 8490_8730 floor 8730_9030 for 9030_9350 one 9350_9570 thing 9570_9711 .
+*INV:	+< mhm . 9761_10091
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	mhm 9890_10091 .
+*PAR:	then she's startin(g) to dry the dishes . 10628_12830
+%mor:	adv|then pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|start-Part-Pres-S part|to verb|dry-Inf-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|8|DET 8|6|OBJ 9|4|PUNCT
+%wor:	then 10850_10890 she's 10890_11190 starting 11190_11570 to 11570_11870 dry 11870_12210 the 12210_12430 dishes 12430_12888 .
+*PAR:	and then she's looking out the window . 12830_15795
+%mor:	cconj|and adv|then pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|8|DET 8|5|OBJ 9|5|PUNCT
+%wor:	and 12830_13330 then 14210_14430 she's 14430_14670 looking 14670_14890 out 14890_15130 the 15130_15310 window 15310_15795 .
+*PAR:	and &-uh the little girl's there . 18252_21412
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl~part|s adv|there .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NMOD-POSS 5|4|CASE 6|0|ROOT 7|6|PUNCT
+%wor:	and 18252_19112 uh 19112_19372 the 19372_20332 little 20332_20572 girl's 20572_21132 there 21132_21492 .
+*PAR:	and the little boy and he almost is fallin(g) off the stool . 21412_25312
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|boy cconj|and pron|he-Prs-Nom-S3 adv|almost aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|4|CC 2|4|DET 3|4|AMOD 4|9|NSUBJ 5|9|CC 6|9|NSUBJ 7|9|ADVMOD 8|9|AUX 9|0|ROOT 10|12|CASE 11|12|DET 12|9|OBL 13|9|PUNCT
+%wor:	and 21412_21832 the 21832_21992 little 21992_22172 boy 22172_22612 and 22612_22812 he 22812_22992 almost 22992_23452 is 23452_23712 falling 23712_24072 off 24072_24412 the 24412_24592 stool 24592_25414 .
+*PAR:	but he didn't so +... 25312_27812
+%mor:	cconj|but pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr~part|not adv|so +...
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|ADVMOD 5|3|ADVMOD 6|3|PUNCT
+%wor:	but 25312_25812 he 26812_26952 didn't 26952_27432 so 27432_27837 +...
+*PAR:	he [/] &+d he survived anyway „ huh ? 27812_30010
+%mor:	pron|he-Prs-Nom-S3 verb|survive-Fin-Ind-Past-S3 adv|anyway punct|„ intj|huh ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|ADVMOD 4|5|PUNCT 5|2|PARATAXIS 6|2|PUNCT
+%wor:	he 27812_28212 he 28212_28692 survived 28692_29192 anyway 29192_29672 „ huh 29672_30010 ?
+*INV:	mhm . 30232_30712
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	mhm 30232_30827 .
+*INV:	is that all the action ? 30712_32072
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that det|all-Def-Tot det|the-Def-Art noun|action ?
+%gra:	1|5|COP 2|5|MARK 3|5|DET-PREDET 4|5|DET 5|0|ROOT 6|5|PUNCT
+%wor:	is 30712_31192 that 31192_31332 all 31332_31492 the 31492_31652 action 31652_32202 ?
+*PAR:	yeah [/] yeah ‡ on this paper „ yeah . [+ exc] 32072_34202
+%mor:	intj|yeah punct|‡ adp|on det|this-Def-Dem-Sing noun|paper punct|„ intj|yeah .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|CASE 4|5|DET 5|0|ROOT 6|7|PUNCT 7|5|DISCOURSE 8|5|PUNCT
+%wor:	yeah 32072_32852 yeah 32852_33132 ‡ on 33132_33172 this 33172_33372 paper 33372_33912 „ yeah 33912_34202 .
+*INV:	+< okay thank_you +/. 34212_35950
+%mor:	intj|okay propn|thankyou +/.
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+%wor:	okay 34212_34952 thank_you 34952_35950 +/.
+@End

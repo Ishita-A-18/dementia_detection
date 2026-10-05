@@ -1,0 +1,173 @@
+@UTF8
+@PID:	11312/a-00015197-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|73;|female|ProbableAD||Participant|21||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T05:55:36-04:00]
+@Media:	279-1, audio
+@G:	foods
+*INV:	okay . 0_2558
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	go ahead . 2558_2949
+%mor:	verb|go-Fin-Imp-S adv|ahead .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*PAR:	icecream . 2949_3824
+%mor:	noun|icecream .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cake . 3824_4318
+%mor:	noun|cake .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	jello . 4318_5245
+%mor:	noun|jello .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh popcorn . 5245_8621
+%mor:	noun|popcorn .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) &-hm oh ‡ pancakes &=laughs . 8621_14061
+%mor:	intj|oh x|‡ noun|pancake-Plur .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|PUNCT
+*INV:	okay . 14061_15101
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh oh_dear . [+ exc] 15101_18309
+%mor:	propn|ohdear .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) &-uh coffee cake . 18309_22693
+%mor:	noun|coffee noun|cake .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*PAR:	now I'm stuck on cake now . [+ exc] 22693_25141
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|stuck-S1 adp|on noun|cake adv|now .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|ADVMOD 8|4|PUNCT
+*PAR:	(..) is there a limit to how many I hafta give you ? 25141_31561
+%mor:	verb|be-Fin-Ind-Pres-S3 pron|there-Int-S1 det|a-Ind-Art noun|limit adp|to adv|how adj|many-S1 pron|I-Prs-Nom-S1 aux|hafta-Fin-Ind-Pres-S1 verb|give-Fin-Ind-S pron|you-Prs-Acc-S2 ?
+%gra:	1|0|ROOT 2|1|EXPL 3|4|DET 4|1|NSUBJ 5|7|CASE 6|7|ADVMOD 7|10|OBJ 8|10|NSUBJ 9|10|AUX 10|4|ACL 11|10|IOBJ 12|1|PUNCT
+*PAR:	no . [+ exc] 31561_32389
+%mor:	intj|no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	+< hmhunh xxx +... 31989_33317
+%mor:	intj|hmhunh +...
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	+< oh_gee Louise ‡ that's even worse . [+ exc] 32017_34229
+%mor:	propn|ohgee propn|Louise punct|‡ pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|even adj|bad-Cmp-S1 .
+%gra:	1|7|VOCATIVE 2|1|FLAT 3|1|FLAT 4|7|NSUBJ 5|7|COP 6|7|ADVMOD 7|0|ROOT 8|7|PUNCT
+*PAR:	&-uh potatoes . 34229_37021
+%mor:	noun|potato-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	tomatoes &=laughs . [+ exc] 37021_38789
+%mor:	noun|tomato-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay . 38789_39421
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	rutabagas &=laughs . 39421_40754
+%mor:	noun|rutabaga-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	that's something that you're gonna hafta look for . [+ exc] 40754_42581
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|something-Ind-S1 pron|that-Rel pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|go-Part-Pres-S~part|to part|hafta verb|look-Inf-S adp|for .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|10|OBJ 5|7|NSUBJ 6|7|AUX 7|3|ACL-RELCL 8|10|MARK 9|10|ADVMOD 10|7|XCOMP 11|4|CASE 12|3|PUNCT
+*INV:	+< mhm . 40881_42033
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh spinach . 42933_46509
+%mor:	noun|spinach .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh applesauce . 46509_50979
+%mor:	noun|applesauce .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	xxx . [+ exc] 50979_52525
+*PAR:	is that allowed ? [+ exc] 52525_53152
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem verb|allow-Part-Past-S ?
+%gra:	1|3|AUX-PASS 2|3|NSUBJ-PASS 3|0|ROOT 4|3|PUNCT
+*INV:	+< okay . 52952_53602
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-um (.) banana . 53602_60501
+%mor:	noun|banana .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay . 60501_61221
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-um (.) peanuts . [+ exc] 61221_65549
+%mor:	noun|peanut-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+@G:	S
+*INV:	okay ‡ go ahead . 65549_67437
+%mor:	intj|okay intj|‡ verb|go-Fin-Imp-S adv|ahead .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*INV:	any words that begin with s@l . 67437_69021
+%mor:	det|any-Def-Ind noun|word-Plur pron|that-Rel verb|begin-Fin-Ind-Pres-P3 adp|with n:let|s .
+%gra:	1|2|DET 2|0|ROOT 3|4|NSUBJ 4|2|ACL-RELCL 5|6|CASE 6|4|DEP 7|2|PUNCT
+*PAR:	oh ‡ you're gonna copy them down . [+ exc] 69021_70717
+%mor:	intj|oh punct|‡ pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|go-Part-Pres-S~part|to verb|copy-Inf-S pron|they-Prs-Acc-P3 adp|down .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|7|OBJ 9|7|COMPOUND-PRT 10|5|PUNCT
+*INV:	+< mhm . 70417_71037
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	oh . [+ exc] 71037_71501
+%mor:	intj|oh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh sugar . 71501_73441
+%mor:	noun|sugar .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	sandwich . 73441_76501
+%mor:	noun|sandwich .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh salary . [+ exc] 76501_78550
+%mor:	noun|salary .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh (.) &-uh a stepping stone when you go in the xxx . 78550_87461
+%mor:	det|a-Ind-Art noun|step-Ger noun|stone adv|when pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Pres-S2 adp|in det|the-Def-Art .
+%gra:	1|3|DET 2|3|COMPOUND 3|0|ROOT 4|6|ADVMOD 5|6|NSUBJ 6|3|ADVCL 7|8|CASE 8|6|OBL 9|3|PUNCT
+*INV:	sure . 87061_87877
+%mor:	adj|sure-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	xxx „ yeah . [+ exc] 87077_88557
+%mor:	punct|„ intj|yeah .
+%gra:	1|2|PUNCT 2|0|ROOT 3|2|PUNCT
+*PAR:	(.) salvage . 88557_92733
+%mor:	noun|salvage .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) how many more do I need &=laughs ? [+ exc] 92733_99897
+%mor:	adv|how adj|many-S1 adj|more-Cmp-S1 aux|do-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|need-Inf-S ?
+%gra:	1|2|ADVMOD 2|3|AMOD 3|6|OBJ 4|6|AUX 5|6|NSUBJ 6|0|ROOT 7|6|PUNCT
+*INV:	xxx . 99897_101784
+*PAR:	+< &-uh suitcase . 100584_103511
+%mor:	noun|suitcase .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	mhm . 103511_105125
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) statue . 105125_108249
+%mor:	noun|statue .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) star . 108249_115005
+%mor:	noun|star .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) sugar . 115005_121465
+%mor:	noun|sugar .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	mhm . 121465_122925
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) sand . 122925_126500
+%mor:	noun|sand .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	does that go too ? [+ exc] 126500_127725
+%mor:	aux|do-Fin-Ind-Pres-S3 pron|that-Dem verb|go-Inf-S adv|too ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	&=laughs I'm getting hungry . [+ exc] 127725_129233
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|get-Part-Pres-S adj|hungry-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|XCOMP 5|3|PUNCT
+*PAR:	&-um spinach . 129233_133933
+%mor:	noun|spinach .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay . 133933_134423
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	+< xxx a_lot_of that . [+ exc] 133943_135294
+%mor:	intj|alotof pron|that-Dem .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

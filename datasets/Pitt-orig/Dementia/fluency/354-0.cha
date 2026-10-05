@@ -1,0 +1,134 @@
+@UTF8
+@PID:	11312/t-00016182-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|60;|male|PossibleAD||Participant|23||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-07T09:47:44-04:00]
+@Media:	354-0, audio
+@G:	animals
+*INV:	you can start now . 0_3813
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*INV:	name the animals . 3813_7100
+%mor:	verb|name-Inf-Imp-S det|the-Def-Art noun|animal-Plur-Acc .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	&-uh lion . 7100_7900
+%mor:	noun|lion .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	tiger . 7900_8300
+%mor:	noun|tiger .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	giraffe . 8300_10262
+%mor:	noun|giraffe .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	rhinoceros . 10262_11725
+%mor:	noun|rhinocero-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	hippopotamus . 11725_13966
+%mor:	noun|hippopotamus .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	zebra . 13966_15849
+%mor:	noun|zebra .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	antelope . 15849_17421
+%mor:	noun|antelope .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh wildcat . 17421_22091
+%mor:	noun|wildcat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	bear . 22091_24704
+%mor:	noun|bear .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) moose . 24704_27708
+%mor:	noun|moose .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) &-uh reindeer . 27708_33295
+%mor:	noun|reindeer .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	xxx . [+ exc] 34789_41900
+*INV:	name as many animals as you can think of . 41900_43800
+%mor:	verb|name-Fin-Imp-S adp|as adj|many-S1 noun|animal-Plur-Acc sconj|as pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|0|ROOT 2|3|ADVMOD 3|4|AMOD 4|1|OBJ 5|8|MARK 6|8|NSUBJ 7|8|AUX 8|1|ADVCL 9|8|OBL 10|1|PUNCT
+*PAR:	&-uh alligators . 43800_45467
+%mor:	noun|alligator-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	crocodiles . 45467_47195
+%mor:	noun|crocodile-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	lizards . 47195_48596
+%mor:	noun|lizard-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	guinea pigs . 48596_50587
+%mor:	noun|guinea noun|pig-Plur .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*PAR:	gerbils . 50587_51865
+%mor:	noun|gerbil-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cats . 51865_53047
+%mor:	noun|cat-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	dogs . 53047_53934
+%mor:	noun|dog-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	monkeys . 53934_55210
+%mor:	noun|monkey-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) orangutans . 55210_59568
+%mor:	noun|orangutan-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&+hip &-uh Australia [//] &-uh kangaroos . 59568_64800
+%mor:	noun|kangaroo-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay ‡ that's fine +/. 64800_66463
+%mor:	intj|okay punct|‡ pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 +/.
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*PAR:	+< wallabies . 65001_67600
+%mor:	noun|wallaby-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+@G:	F
+*INV:	and you can start now . 67600_70100
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	father . 70100_71868
+%mor:	noun|father .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&=clears:throat <feather no> [//] feather . 71868_76000
+%mor:	noun|feather .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh (..) f@l „ huh . [+ exc] 76000_81000
+%mor:	n:let|f punct|„ intj|huh .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|LIST 4|1|PUNCT
+*PAR:	field . 81000_82219
+%mor:	noun|field .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	trees . 82219_84425
+%mor:	noun|tree-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	xxx . [+ exc] 98765_100500
+*PAR:	friends . 100500_103663
+%mor:	noun|friend-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	yeah ‡ xxx ? [+ exc] 109300_111400
+%mor:	intj|yeah punct|‡ ?
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|PUNCT
+*PAR:	that's difficult to try to +... [+ exc] 111200_115000
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|difficult-S1 part|to verb|try-Inf-S part|to +...
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|5|MARK 5|3|CSUBJ 6|5|XCOMP 7|3|PUNCT
+*PAR:	I got friends@q . [+ exc] 115000_116111
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Past-S1-irr meta|friends .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|DEP 4|2|PUNCT
+*PAR:	(.) &-hm (..) &-um father . 116111_121289
+%mor:	noun|father .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	friend . 121289_122148
+%mor:	noun|friend .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay . 127820_128569
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	+< fjʊlə@u [: x@n] [* n] . 128000_130000
+%mor:	neo|x .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

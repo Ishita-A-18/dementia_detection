@@ -1,0 +1,104 @@
+@UTF8
+@PID:	11312/t-00016099-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|62;|male|ProbableAD||Participant|17||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-07T09:46:16-04:00]
+@Media:	154-1, audio
+*INV:	www . 0_4063
+%exp:	end of previous testing
+@G:	foods
+*INV:	so ‡ name some things to eat for me . 4063_8046
+%mor:	adv|so punct|‡ verb|name-Fin-Imp-S det|some-Def-Ind noun|thing-Plur-Acc part|to verb|eat-Inf-S adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|MARK 7|5|ACL 8|9|CASE 9|7|OBL 10|3|PUNCT
+*INV:	and you can begin now . 8046_10474
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S adv|now .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*INV:	things to eat . 10474_13276
+%mor:	noun|thing-Plur part|to verb|eat-Inf-S .
+%gra:	1|0|ROOT 2|3|MARK 3|1|ACL 4|1|PUNCT
+*INV:	name things to eat for me . 13276_15564
+%mor:	noun|name noun|thing-Plur part|to verb|eat-Inf-S adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|4|MARK 4|2|ACL 5|6|CASE 6|4|OBL 7|2|PUNCT
+*INV:	go ahead . 15564_18365
+%mor:	verb|go-Fin-Imp-S adv|ahead .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*INV:	what's some things that you could eat ? 18365_20840
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|some-Def-Ind noun|thing-Plur pron|that-Rel pron|you-Prs-Nom-S2 aux|could-Fin-S verb|eat-Inf-S ?
+%gra:	1|0|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|8|OBJ 6|8|NSUBJ 7|8|AUX 8|4|ACL-RELCL 9|1|PUNCT
+*PAR:	well ‡ I could eat some icecream . 20840_25726
+%mor:	intj|well punct|‡ pron|I-Prs-Nom-S1 aux|could-Fin-S verb|eat-Inf-S det|some-Def-Ind noun|icecream-Acc .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*INV:	okay ‡ what else ? 25726_27423
+%mor:	intj|okay punct|‡ pron|what-Int-S1 adv|else ?
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	&-uh and some &-uh some &-uh +... [+ exc] 27423_34256
+%mor:	cconj|and det|some-Def-Ind det|some-Def-Ind +...
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	(..) what is it &-uh +... [+ exc] 34256_39485
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 +...
+%gra:	1|0|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*INV:	anything that you can think of that [/] that you could eat . 39485_45259
+%mor:	pron|anything-Ind-S1 pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of pron|that-Rel pron|you-Prs-Nom-S2 aux|could-Fin-S verb|eat-Inf-S .
+%gra:	1|0|ROOT 2|5|OBL 3|5|NSUBJ 4|5|AUX 5|1|ACL-RELCL 6|2|CASE 7|10|OBJ 8|10|NSUBJ 9|10|AUX 10|5|ADVCL 11|1|PUNCT
+*INV:	what else could you eat ? 45259_50551
+%mor:	pron|what-Int-S1 adv|else aux|could-Fin-S pron|you-Prs-Nom-S2 verb|eat-Inf-S ?
+%gra:	1|5|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|5|PUNCT
+*INV:	(..) you said icecream . 50551_58053
+%mor:	pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Past-S2-irr noun|icecream-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*INV:	what else could you eat ? 58053_59018
+%mor:	pron|what-Int-S1 adv|else aux|could-Fin-S pron|you-Prs-Nom-S2 verb|eat-Inf-S ?
+%gra:	1|5|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|5|PUNCT
+*INV:	(...) think of anything else . 59018_74801
+%mor:	verb|think-Fin-Imp-S adp|of pron|anything-Ind-S1 adj|else-S1 .
+%gra:	1|0|ROOT 2|3|CASE 3|1|OBL 4|3|AMOD 5|1|PUNCT
+*INV:	Mister_Lastname . 74801_75983
+%mor:	propn|MisterLastname .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	don't pull that off there . 75983_77446
+%mor:	aux|do-Fin-Imp-S~part|not verb|pull-Fin-Imp-S pron|that-Dem adp|off adv|there .
+%gra:	1|3|AUX 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|3|ADVMOD 7|3|PUNCT
+*PAR:	don't pull that off ? [+ exc] 77446_79889
+%mor:	aux|do-Fin-Imp-S~part|not verb|pull-Fin-Imp-S pron|that-Dem adp|off ?
+%gra:	1|3|AUX 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|3|PUNCT
+*INV:	no ‡ don't pull that off . 79889_81000
+%mor:	intj|no punct|‡ aux|do-Fin-Imp-S~part|not verb|pull-Fin-Imp-S pron|that-Dem adp|off .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|5|OBJ 7|5|COMPOUND-PRT 8|5|PUNCT
+@G:	S
+*INV:	s@l . 81000_81452
+%mor:	n:let|s .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	now let me give you a minute . 81452_82884
+%mor:	adv|now verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|give-Inf-S pron|you-Prs-Acc-S2 det|a-Ind-Art noun|minute .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|4|IOBJ 6|7|DET 7|4|OBL-UNMARKED 8|2|PUNCT
+*INV:	name for me any words you can think of that begin with the letter s@l . 82884_88176
+%mor:	noun|name adp|for pron|I-Prs-Acc-S1 det|any-Def-Ind noun|word-Plur pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of pron|that-Rel verb|begin-Fin-Ind-Pres-P3 adp|with det|the-Def-Art noun|letter n:let|s .
+%gra:	1|0|ROOT 2|3|CASE 3|1|NMOD 4|5|DET 5|1|APPOS 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|8|OBL 10|11|NSUBJ 11|5|ACL-RELCL 12|15|CASE 13|15|DET 14|15|COMPOUND 15|11|DEP 16|1|PUNCT
+*INV:	go ahead . 88176_88986
+%mor:	verb|go-Fin-Imp-S adv|ahead .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*INV:	any words begin with the letter s@l ? 88986_92938
+%mor:	det|any-Def-Ind noun|word-Plur verb|begin-Fin-Ind-Pres-P3 adp|with det|the-Def-Art noun|letter n:let|s ?
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|7|CASE 5|7|DET 6|7|COMPOUND 7|3|DEP 8|3|PUNCT
+*INV:	(.) can you think of any words that begin with the letter s@l ? 92938_101281
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|think-Inf-S adp|of det|any-Def-Ind noun|word-Plur pron|that-Rel verb|begin-Fin-Ind-Pres-P3 adp|with det|the-Def-Art noun|letter n:let|s ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|8|NSUBJ 8|6|ACL-RELCL 9|12|CASE 10|12|DET 11|12|COMPOUND 12|8|DEP 13|3|PUNCT
+*INV:	(..) can you think of anything that begins with the letter s@l ? 101281_113794
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|think-Inf-S adp|of pron|anything-Ind-S1 pron|that-Rel verb|begin-Fin-Ind-Pres-S3 adp|with det|the-Def-Art noun|letter n:let|s ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|CASE 5|3|OBL 6|7|NSUBJ 7|5|ACL-RELCL 8|11|CASE 9|11|DET 10|11|COMPOUND 11|7|DEP 12|3|PUNCT
+*INV:	(...) anything that begins with the letter s@l Mister_Lastname . 113794_132408
+%mor:	pron|anything-Ind-S1 pron|that-Rel verb|begin-Fin-Ind-Pres-S3 adp|with det|the-Def-Art noun|letter n:let|s propn|MisterLastname .
+%gra:	1|0|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|8|CASE 5|8|DET 6|7|COMPOUND 7|8|DEP 8|3|OBL 9|1|PUNCT
+*INV:	any words ? 132408_133062
+%mor:	det|any-Def-Ind noun|word-Plur ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	this one right here . [+ exc] 133062_135862
+%mor:	det|this-Def-Dem-Sing noun|one adv|right adv|here .
+%gra:	1|2|DET 2|0|ROOT 3|4|ADVMOD 4|2|ADVMOD 5|2|PUNCT
+*INV:	name it for me . 135862_137792
+%mor:	verb|name-Inf-S pron|it-Prs-Acc-S3 adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|CASE 4|1|OBL 5|1|PUNCT
+@End

@@ -1,0 +1,144 @@
+@UTF8
+@PID:	11312/t-00016194-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|76;|female|ProbableAD||Participant|14||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-07T09:46:39-04:00]
+@Media:	381-1, audio
+@G:	foods
+*INV:	you can start now . 0_4203
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	bread . 4203_5236
+%mor:	noun|bread .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	milk . 5236_6583
+%mor:	noun|milk .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	icecream . 6583_7802
+%mor:	noun|icecream .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) candy . 7802_10333
+%mor:	noun|candy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) sandwich . 10333_13862
+%mor:	noun|sandwich .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) ham . 13862_33315
+%mor:	noun|ham .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	name anything at all you can think of that you can eat . 33315_36211
+%mor:	verb|name-Fin-Imp-S pron|anything-Ind-S1 adp|at det|all-Def-Tot pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|eat-Inf-S .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|CASE 4|1|OBL 5|7|NSUBJ 6|7|AUX 7|2|ACL-RELCL 8|9|CASE 9|12|OBJ 10|12|NSUBJ 11|12|AUX 12|7|CCOMP 13|1|PUNCT
+*PAR:	icecream &=laughs . 36211_40346
+%mor:	noun|icecream .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	anything else ? 40346_41298
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|1|PUNCT
+*PAR:	cake . 41298_41809
+%mor:	noun|cake .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	candy . 41809_42280
+%mor:	noun|candy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	what_the_heck ? [+ exc] 42280_43604
+%mor:	propn|whattheheck ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	anything else at all that you can think of that you can eat . 43604_50720
+%mor:	pron|anything-Ind-S1 adj|else-S1 adp|at det|all-Def-Tot pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of sconj|that pron|you-Prs-Nom-S2 aux|can-Fin-S verb|eat-Inf-S .
+%gra:	1|0|ROOT 2|1|AMOD 3|4|CASE 4|1|NMOD 5|8|OBL 6|8|NSUBJ 7|8|AUX 8|1|ACL-RELCL 9|5|CASE 10|13|MARK 11|13|NSUBJ 12|13|AUX 13|8|ADVCL 14|1|PUNCT
+*PAR:	oh_dear . [+ exc] 50720_53426
+%mor:	propn|ohdear .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) icecream . 53426_62646
+%mor:	noun|icecream .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay ‡ good . 62646_63979
+%mor:	intj|okay intj|‡ adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|PUNCT
+*PAR:	Hamilton icecream company . [+ exc] 63979_66649
+%mor:	propn|Hamilton noun|icecream noun|company .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|0|ROOT 4|3|PUNCT
+*PAR:	that's me ! [+ exc] 66649_67125
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|I-Prs-Acc-S1 !
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*INV:	okay . 67125_67803
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@G:	S
+*INV:	start +/. 67803_68291
+%mor:	verb|start-Fin-Imp-S +/.
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	+< &+sund sundae . 68291_69556
+%mor:	noun|sundae .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	icecream . 69556_72827
+%mor:	noun|icecream .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	that's icecream . 72827_73794
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 noun|icecream .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*INV:	okay ‡ name all of the words you can think of that begin with the letter s@l . 73794_77841
+%mor:	intj|okay x|‡ verb|name-Fin-Imp-S det|all-Def-Tot adp|of det|the-Def-Art noun|word-Plur pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of pron|that-Rel verb|begin-Fin-Ind-Pres-P3 adp|with det|the-Def-Art noun|letter n:let|s .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|10|NSUBJ 9|10|AUX 10|7|ACL-RELCL 11|10|OBL 12|13|NSUBJ 13|7|ACL-RELCL 14|17|CASE 15|17|DET 16|17|COMPOUND 17|13|DEP 18|3|PUNCT
+*PAR:	sun . 77841_78714
+%mor:	noun|sun .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	good ‡ anything else ? 78714_80351
+%mor:	adj|good-S1 punct|‡ pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|AMOD 2|0|ROOT 3|2|VOCATIVE 4|3|AMOD 5|2|PUNCT
+*PAR:	sample . 80351_81884
+%mor:	noun|sample .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay ‡ anything else ? 81884_85134
+%mor:	intj|okay punct|‡ pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|3|DISCOURSE 2|3|PUNCT 3|0|ROOT 4|3|AMOD 5|3|PUNCT
+*PAR:	s:and . 85134_90243
+%mor:	noun|sand .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	anything else ? 90243_91857
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|1|PUNCT
+*PAR:	(..) oh ‡ I can't think . [+ exc] 91857_96022
+%mor:	intj|oh punct|‡ pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|think-Inf-S .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|6|PUNCT
+*INV:	any word at all that begins with the letter s@l . 96022_98416
+%mor:	det|any-Def-Ind noun|word adp|at det|all-Def-Tot pron|that-Rel verb|begin-Fin-Ind-Pres-S3 adp|with det|the-Def-Art noun|letter n:let|s .
+%gra:	1|2|DET 2|0|ROOT 3|4|CASE 4|2|NMOD 5|6|NSUBJ 6|2|ACL-RELCL 7|10|CASE 8|10|DET 9|10|COMPOUND 10|6|DEP 11|2|PUNCT
+*PAR:	s@l ! [+ exc] 98416_99333
+%mor:	n:let|s !
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	salve . 99333_104407
+%mor:	noun|salve .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	any word at all that begins with the letter s@l . 104407_111524
+%mor:	det|any-Def-Ind noun|word adp|at det|all-Def-Tot pron|that-Rel verb|begin-Fin-Ind-Pres-S3 adp|with det|the-Def-Art noun|letter n:let|s .
+%gra:	1|2|DET 2|0|ROOT 3|4|CASE 4|2|NMOD 5|6|NSUBJ 6|2|ACL-RELCL 7|10|CASE 8|10|DET 9|10|COMPOUND 10|6|DEP 11|2|PUNCT
+*PAR:	s:ample . 111524_114217
+%mor:	noun|sample .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) sandwich . 114217_122611
+%mor:	noun|sandwich .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	mhm . 122611_123424
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) sundae . 123424_128137
+%mor:	noun|sundae .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay ‡ good . 128137_129194
+%mor:	intj|okay intj|‡ adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|PUNCT
+*PAR:	sample . 129194_131144
+%mor:	noun|sample .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay ‡ that's good . 131144_132154
+%mor:	intj|okay punct|‡ pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*INV:	you can stop . 132154_133071
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|stop-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+@End

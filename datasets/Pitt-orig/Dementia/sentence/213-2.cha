@@ -1,0 +1,76 @@
+@UTF8
+@PID:	11312/t-00016594-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR||male|ProbableAD||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-07T09:47:57-04:00]
+@Media:	213-2, audio
+*PAR:	pencil@q . [+ exc] 0_627
+%mor:	meta|pencil .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	pencil@q . 627_1974
+%mor:	meta|pencil .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	sharpen my pencil . 1974_3969
+%mor:	verb|sharp-Fin-Imp-S pron|my-Prs-Gen-S1 noun|pencil-Acc .
+%gra:	1|0|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|PUNCT
+*INV:	okay . 3969_5120
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	(..) tree@q . 5120_12047
+%mor:	meta|tree .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) chop down the tree . 12047_17074
+%mor:	verb|chop-Fin-Imp-S adp|down det|the-Def-Art noun|tree-Acc .
+%gra:	1|0|ROOT 2|1|COMPOUND-PRT 3|4|DET 4|1|OBJ 5|1|PUNCT
+*INV:	(..) I'm gonna give you two words . 17074_27907
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S~part|to verb|give-Inf-S pron|you-Prs-Acc-S2 num|two noun|word-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|IOBJ 7|8|NUMMOD 8|5|OBJ 9|3|PUNCT
+*INV:	I want you to use them both for me in a short sentence . 27907_30924
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|use-Inf-S pron|they-Prs-Acc-P3 det|both-Def-Tot adp|for pron|I-Prs-Acc-S1 adp|in det|a-Ind-Art adj|short-S1 noun|sentence .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|OBJ 7|5|OBJ 8|9|CASE 9|5|OBL 10|13|CASE 11|13|DET 12|13|AMOD 13|5|OBL 14|2|PUNCT
+*INV:	child@q hospital@q . 30924_33851
+%mor:	meta|child meta|hospital .
+%gra:	1|2|DEP 2|0|ROOT 3|2|PUNCT
+*PAR:	this is a children's hospital . 33851_37352
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|child-Plur~part|s noun|hospital .
+%gra:	1|6|NSUBJ 2|6|COP 3|4|DET 4|6|NMOD-POSS 5|4|CASE 6|0|ROOT 7|6|PUNCT
+*INV:	okay . 37352_38427
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	cold@q winter@q . 38427_46876
+%mor:	meta|cold meta|winter .
+%gra:	1|2|DEP 2|0|ROOT 3|2|PUNCT
+*PAR:	we will have a cold winter soon . 46876_51159
+%mor:	pron|we-Prs-Nom-P1 aux|will-Fin-S verb|have-Inf-S det|a-Ind-Art adj|cold-S1 noun|winter-Acc adv|soon .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|ADVMOD 8|3|PUNCT
+*INV:	(..) now I'm gonna give you three sentences . 51159_65107
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S~part|to verb|give-Inf-S pron|you-Prs-Acc-S2 num|three noun|sentence-Plur-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|IOBJ 8|9|NUMMOD 9|6|OBJ 10|4|PUNCT
+*INV:	I want you to use all three of them in a sentence for me . 65107_67312
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|use-Inf-S det|all-Def-Tot num|three adp|of pron|they-Prs-Acc-P3 adp|in det|a-Ind-Art noun|sentence adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|7|DET 7|5|OBJ 8|9|CASE 9|7|NMOD 10|12|CASE 11|12|DET 12|5|OBL 13|14|CASE 14|12|NMOD 15|2|PUNCT
+*INV:	three words . 67312_68130
+%mor:	num|three noun|word-Plur .
+%gra:	1|2|NUMMOD 2|0|ROOT 3|2|PUNCT
+*INV:	chair@q doctor@q sit@q . 68130_72916
+%mor:	meta|chair meta|doctor meta|sit .
+%gra:	1|0|ROOT 2|3|DEP 3|1|DEP 4|1|PUNCT
+*PAR:	&+s sit in the doctor's chair . 72916_76507
+%mor:	verb|sit-Fin-Imp-S adp|in det|the-Def-Art noun|doctor~part|s noun|chair .
+%gra:	1|0|ROOT 2|6|CASE 3|4|DET 4|6|NMOD-POSS 5|4|CASE 6|1|OBL 7|1|PUNCT
+*INV:	okay . 76507_85880
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	bureau@q open@q drawer@q . 85880_89739
+%mor:	meta|bureau meta|open meta|drawer .
+%gra:	1|0|ROOT 2|3|DEP 3|1|DEP 4|1|PUNCT
+*PAR:	open the bureau drawer „ please . 89739_93334
+%mor:	verb|open-Fin-Imp-S det|the-Def-Art noun|bureau noun|drawer-Acc punct|„ intj|please .
+%gra:	1|0|ROOT 2|4|DET 3|4|COMPOUND 4|1|OBJ 5|6|PUNCT 6|1|DISCOURSE 7|1|PUNCT
+*INV:	okay . 93334_94469
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

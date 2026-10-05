@@ -1,0 +1,120 @@
+@UTF8
+@PID:	11312/t-00002465-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|69;|female|ProbableAD||Participant|15||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T21:28:51-04:00]
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T05:56:22-04:00]
+@Media:	051-3, audio
+@G:	Cookie
+*PAR:	alright . [+ exc] 0_300
+%mor:	intj|alright .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	alright 0_350 .
+*PAR:	gonna start here . [+ exc] 300_1586
+%mor:	verb|go-Part-Pres-S~part|to verb|start-Inf-S adv|here .
+%gra:	1|0|ROOT 2|3|MARK 3|1|XCOMP 4|3|ADVMOD 5|1|PUNCT
+%wor:	gonna 300_840 start 840_1180 here 1180_1586 .
+*INV:	okay . 1620_1960
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	okay 1620_1960 .
+*PAR:	+< <the [/] the [/] the boys have opened the> [//] the boy has opened the [//] <into the cookie> [//] &+ca &-uh where the cookies are . [+ cir] 2360_9780
+%mor:	det|the-Def-Art noun|boy aux|have-Fin-Ind-Pres-S3 verb|open-Part-Past-S adv|where det|the-Def-Art noun|cookie-Plur aux|be-Fin-Ind-Pres-P3 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|DET 7|8|NSUBJ 8|5|COP 9|4|PUNCT
+%wor:	the 2360_2880 the 2880_3600 the 3600_3820 boys 3820_3860 have 3860_4020 opened 4020_4220 the 4220_4500 the 4500_5140 boy 5140_5300 has 5300_5460 opened 5460_5720 the 5720_6040 into 6040_6480 the 6480_6780 cookie 6780_7060 uh 7060_7420 where 7420_7920 the 9100_9200 cookies 9200_9420 are 9420_9860 .
+*PAR:	and in the meantime he's [//] <they almost> [//] the thing is falling down . [+ es] 9780_16546
+%mor:	cconj|and adp|in det|the-Def-Art noun|meantime det|the-Def-Art noun|thing-Ger aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|down .
+%gra:	1|8|CC 2|4|CASE 3|4|DET 4|8|OBL 5|6|DET 6|8|NSUBJ 7|8|AUX 8|0|ROOT 9|8|COMPOUND-PRT 10|8|PUNCT
+%wor:	and 9780_10280 in 11000_11900 the 11900_12020 meantime 12020_12420 he's 12420_12780 they 12780_13280 almost 14000_14460 the 14460_14920 thing 14920_15140 is 15140_15260 falling 15260_15580 down 15580_16546 .
+*PAR:	<the little boy> [//] the girl was being shh@o quiet . 17536_21156
+%mor:	det|the-Def-Art noun|girl aux|be-Fin-Ind-Past-S3-irr aux|be-Part-Pres-S on|shh adj|quiet-S1 .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|AUX 4|6|COP 5|6|DEP 6|0|ROOT 7|6|PUNCT
+%wor:	the 17536_17756 little 17756_17796 boy 17796_18056 the 18056_18276 girl 18276_18556 was 18556_18816 being 18816_19316 shh 20016_20516 quiet 21116_21456 .
+*PAR:	<mother has> [//] the water is running over in the kitchen . 21156_25976
+%mor:	det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over adp|in det|the-Def-Art noun|kitchen .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+%wor:	mother 21156_21656 has 22476_22816 the 22816_23716 water 23716_23896 is 23896_24096 running 24096_24296 over 24296_24556 in 24556_24896 the 24896_25216 kitchen 25216_26190 .
+*PAR:	mother is wiping <the dishes> [//] the dish and dishes . 25976_31393
+%mor:	noun|mother aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S det|the-Def-Art noun|dish-Acc cconj|and noun|dish-Plur .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|CC 7|5|CONJ 8|3|PUNCT
+%wor:	mother 25976_26476 is 27296_27636 wiping 27636_27936 the 27936_28616 dishes 28616_29216 the 29216_29716 dish 30596_30876 and 30876_31076 dishes 31076_31393 .
+*PAR:	&-uh it's [//] she doesn't seem to <think it's> [//] even know what's going on . 31718_37858
+%mor:	pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|seem-Inf-S part|to adv|even verb|know-Inf-S pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|7|MARK 6|7|ADVMOD 7|4|XCOMP 8|10|NSUBJ 9|10|AUX 10|7|CCOMP 11|10|COMPOUND-PRT 12|4|PUNCT
+%wor:	uh 31718_32338 it's 32338_33178 she 33178_33618 doesn't 33618_33918 seem 33918_34118 to 34118_34778 think 34778_35278 it's 35898_36398 even 36398_36718 know 36718_36898 what's 36898_37098 going 37098_37278 on 37278_37882 .
+*PAR:	&-uh it's &-uh I would say summer . 37858_44418
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|I-Prs-Nom-S1 aux|would-Fin-S verb|say-Inf-S noun|summer-Acc .
+%gra:	1|2|NSUBJ 2|5|REPARANDUM 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%wor:	uh 37858_38358 it's 39258_39758 uh 42058_42558 I 43118_43678 would 43678_43838 say 43838_43998 summer 43998_44498 .
+*PAR:	that looks like things are growing up . 44418_45998
+%mor:	pron|that-Dem verb|look-Fin-Ind-Pres-S3 sconj|like noun|thing-Plur aux|be-Fin-Ind-Pres-P3 verb|grow-Part-Pres-S adp|up .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|MARK 4|6|NSUBJ 5|6|AUX 6|2|ADVCL 7|6|COMPOUND-PRT 8|2|PUNCT
+%wor:	that 44418_44638 looks 44638_44878 like 44878_45018 things 45018_45278 are 45278_45378 growing 45378_45658 up 45658_46242 .
+*PAR:	there she's looking out the window . 45998_48402
+%mor:	adv|there pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|7|DET 7|4|OBJ 8|4|PUNCT
+%wor:	there 45998_46498 she's 47018_47258 looking 47258_47478 out 47478_47678 the 47678_47818 window 47818_48402 .
+*PAR:	&-uh she's standing in the water . 49037_53237
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in det|the-Def-Art noun|water .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	uh 49037_49537 she's 50137_50637 standing 52257_52577 in 52577_52777 the 52777_52857 water 52857_53542 .
+*PAR:	&-uh cookies . [+ gram] 53237_56723
+%mor:	noun|cookie-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	uh 53237_53737 cookies 56117_56723 .
+*PAR:	they've taken cookies out_of the cookie jar . 58297_61797
+%mor:	pron|they-Prs-Nom-P3~aux|have-Fin-Ind-Pres-P3 verb|take-Part-Past-S-irr noun|cookie-Plur-Acc adp|outof det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|8|CASE 6|8|DET 7|8|COMPOUND 8|3|OBL 9|3|PUNCT
+%wor:	they've 58297_58797 taken 59777_60077 cookies 60077_60577 out_of 60577_60877 the 60877_61077 cookie 61077_61377 jar 61377_61996 .
+*PAR:	she's keeping quiet . 61797_64777
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|keep-Part-Pres-S adj|quiet-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|XCOMP 5|3|PUNCT
+%wor:	she's 61797_62297 keeping 63557_64017 quiet 64017_64952 .
+*PAR:	the things break , falling over . 64777_67644
+%mor:	det|the-Def-Art noun|thing-Plur noun|break cm|cm verb|fall-Part-Pres-S adv|over .
+%gra:	1|3|DET 2|3|COMPOUND 3|0|ROOT 4|5|PUNCT 5|3|ACL 6|5|ADVMOD 7|3|PUNCT
+%wor:	the 64777_65477 things 65477_65677 break 65677_66357 , falling 66357_66817 over 66817_67644 .
+*PAR:	it's summer . 69628_70168
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|summer .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+%wor:	it's 69628_69848 summer 69848_70218 .
+*PAR:	I_mean it looks like it's summer . 70168_71848
+%mor:	propn|Imean pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|summer .
+%gra:	1|3|NSUBJ 2|3|NSUBJ 3|0|ROOT 4|7|MARK 5|7|NSUBJ 6|7|COP 7|3|ADVCL 8|3|PUNCT
+%wor:	I_mean 70168_70848 it 70848_71048 looks 71048_71268 like 71268_71448 it's 71448_71628 summer 71628_71874 .
+*PAR:	it's [//] things are coming up . [+ es] 71848_73768
+%mor:	noun|thing-Plur aux|be-Fin-Ind-Pres-P3 verb|come-Part-Pres-S adp|up .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+%wor:	it's 71848_72708 things 72708_72968 are 72968_73068 coming 73068_73308 up 73308_73860 .
+*PAR:	&-uh mother doesn't seem to care what's going on with the kids &=laughs . 73768_80608
+%mor:	noun|mother aux|do-Fin-Ind-Pres-S3~part|not verb|seem-Inf-S part|to verb|care-Inf-S pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|with det|the-Def-Art noun|kid-Plur .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|9|OBJ 8|9|AUX 9|6|CCOMP 10|9|COMPOUND-PRT 11|13|CASE 12|13|DET 13|9|OBL 14|4|PUNCT
+%wor:	uh 73768_74268 mother 76508_77428 doesn't 77428_77708 seem 77708_77868 to 77868_78328 care 78328_78828 what's 79488_79748 going 79748_79908 on 79908_80088 with 80088_80208 the 80208_80308 kids 80308_80677 .
+*PAR:	&-uh there are two cups but only one [/] one &-uh dish . 80608_88551
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 num|two noun|cup-Plur cconj|but adv|only num|one noun|dish .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|NUMMOD 4|2|NSUBJ 5|8|CC 6|8|ADVMOD 7|8|NUMMOD 8|4|CONJ 9|2|PUNCT
+%wor:	uh 80608_81108 there 82808_83308 are 83968_84128 two 84128_84308 cups 84308_84648 but 84648_84848 only 84848_85028 one 85028_85468 one 85468_86688 uh 86688_87228 dish 87228_88551 .
+*INV:	okay ? 96314_96594
+%mor:	intj|okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	okay 96314_96594 ?
+*PAR:	&-hm <I think> [//] did I say <they'd turned off the water> [//] <they hadn't> [//] the water's still running . [+ exc] 96594_103354
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|say-Inf-S det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 adv|still verb|run-Part-Pres-S .
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|3|CCOMP 9|3|PUNCT
+%wor:	hm 96594_97094 I 98594_99094 think 100174_100454 did 100454_100834 I 100834_100914 say 100914_101114 they'd 101114_101374 turned 101374_101574 off 101574_101774 the 101774_101914 water 101914_102054 they 102054_102194 hadn't 102194_102434 the 102434_102614 water's 102614_102994 still 102994_103154 running 103154_103475 .
+*PAR:	that was all . [+ exc] 103354_104354
+%mor:	pron|that-Dem aux|be-Fin-Ind-Past-S3-irr det|all-Def-Tot .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+%wor:	that 103354_103834 was 103834_104014 all 104014_104433 .
+*PAR:	I guess that's it . [+ exc] 104354_105161
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|NSUBJ 4|5|COP 5|2|CCOMP 6|2|PUNCT
+%wor:	I 104354_104674 guess 104674_104854 that's 104854_105114 it 105114_105161 .
+*INV:	okay good . 105361_106481
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+%wor:	okay 105374_105774 good 105774_106481 .
+@End

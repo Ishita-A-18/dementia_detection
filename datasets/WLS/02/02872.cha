@@ -1,0 +1,86 @@
+@UTF8
+@PID:	11312/a-00048912-1
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|WLS|INV|||||Investigator|||
+@ID:	eng|WLS|PAR|||||Participant|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T05:52:51-04:00]
+@Media:	02872, audio
+*INV:	and I want you to please take a look at this picture and describe everything that you see here . 32142_37942
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to intj|please verb|take-Inf-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture cconj|and verb|describe-Inf-S pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 adv|here .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|7|MARK 6|7|DISCOURSE 7|3|XCOMP 8|9|DET 9|7|OBJ 10|12|CASE 11|12|DET 12|9|NMOD 13|14|CC 14|7|CONJ 15|14|OBJ 16|18|OBJ 17|18|NSUBJ 18|15|ACL-RELCL 19|18|ADVMOD 20|3|PUNCT
+*PAR:	www .
+%exp:	PAR discusses getting her glasses
+*INV:	whoops . 41230_41470
+%mor:	intj|whoops .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	here ‡ I'll let you sit at the computer and just verbalize what you see is going on . 41617_49157
+%mor:	adv|here punct|‡ pron|I-Prs-Nom-S1~aux|will-Fin-S verb|let-Inf-S pron|you-Prs-Acc-S2 verb|sit-Inf-S adp|at det|the-Def-Art noun|computer cconj|and adv|just verb|verbalize-Inf-S pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on .
+%gra:	1|5|ADVMOD 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|XCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|13|CC 12|13|ADVMOD 13|5|CONJ 14|18|OBJ 15|16|NSUBJ 16|14|ACL-RELCL 17|18|AUX 18|13|CCOMP 19|18|COMPOUND-PRT 20|5|PUNCT
+*PAR:	+< see [//] everything that I see in that picture ? 48949_51709
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|0|ROOT 2|4|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|7|CASE 6|7|DET 7|4|OBL 8|1|PUNCT
+*INV:	mhm . 51761_51941
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	okay . 52579_53069
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@Bg:	Activity
+*PAR:	I see a cupboard door open where a boy and a girl are climbing up on a stool to get to the cookie jar which is on the top shelf . 53086_63526
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|a-Ind-Art noun|cupboard noun|door-Acc adj|open-S1 adv|where det|a-Ind-Art noun|boy cconj|and det|a-Ind-Art noun|girl aux|be-Fin-Ind-Pres-P3 verb|climb-Part-Pres-S adp|up adp|on det|a-Ind-Art noun|stool part|to verb|get-Inf-S adp|to det|the-Def-Art noun|cookie noun|jar pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art adj|top-S1 noun|shelf .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|COMPOUND 5|2|OBJ 6|5|AMOD 7|14|ADVMOD 8|9|DET 9|14|NSUBJ 10|12|CC 11|12|DET 12|9|CONJ 13|14|AUX 14|5|ACL-RELCL 15|14|COMPOUND-PRT 16|18|CASE 17|18|DET 18|14|OBL 19|20|MARK 20|14|ADVCL 21|24|CASE 22|24|DET 23|24|COMPOUND 24|20|OBL 25|30|NSUBJ 26|30|COP 27|30|CASE 28|30|DET 29|30|AMOD 30|24|ACL-RELCL 31|2|PUNCT
+*PAR:	they have dɑɪkɪnd@u [: x@n] [*] the cover off . 63895_65144
+%mor:	pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 neo|x det|the-Def-Art noun|cover-Acc adp|off .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|DEP 4|5|DET 5|2|OBJ 6|2|COMPOUND-PRT 7|2|PUNCT
+*PAR:	&-um the boy is handing a cookie down to the girl who's telling him to be quiet . 65718_72238
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|hand-Part-Pres-S det|a-Ind-Art noun|cookie-Acc adp|down adp|to det|the-Def-Art noun|girl pron|who-Rel~aux|be-Fin-Ind-Pres-S3 verb|tell-Part-Pres-S pron|he-Prs-Acc-S3 part|to aux|be-Inf-S adj|quiet-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|COMPOUND-PRT 8|10|CASE 9|10|DET 10|4|OBL 11|13|NSUBJ 12|13|AUX 13|10|ACL-RELCL 14|13|IOBJ 15|17|MARK 16|17|COP 17|13|XCOMP 18|4|PUNCT
+*PAR:	and as he's doing this , the stool is tipping over . 72452_75532
+%mor:	cconj|and sconj|as pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S pron|this-Dem-S1 cm|cm det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|tip-Part-Pres-S adp|over .
+%gra:	1|11|CC 2|5|MARK 3|5|NSUBJ 4|5|AUX 5|11|ADVCL 6|5|OBJ 7|5|PUNCT 8|9|DET 9|11|NSUBJ 10|11|AUX 11|0|ROOT 12|11|COMPOUND-PRT 13|11|PUNCT
+*PAR:	the woman <in the> [//] &-uh is doing dishes , &-uh the [//] looking out . 76647_83437
+%mor:	det|the-Def-Art noun|woman aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S noun|dish-Plur-Acc cm|cm verb|look-Part-Pres-S adp|out .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|PUNCT 7|4|ADVCL 8|7|COMPOUND-PRT 9|4|PUNCT
+*PAR:	the window is open . 83533_85043
+%mor:	det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	she's &-uh apparently unware that the water is running <off of the fountain &-uh or off of the I should say off of the cupboard> [//] out_of the sink onto the floor . 85323_95713
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|apparently adj|unware-S1 sconj|that det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|outof det|the-Def-Art noun|sink adp|onto det|the-Def-Art noun|floor .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|9|MARK 6|7|DET 7|9|NSUBJ 8|9|AUX 9|4|CCOMP 10|12|CASE 11|12|DET 12|9|OBL 13|15|CASE 14|15|DET 15|9|OBL 16|4|PUNCT
+*PAR:	&-um she's continuing to wipe the dishes . 96205_99295
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|continue-Part-Pres-S part|to verb|wipe-Inf-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*PAR:	&-um curtain on the window . 99822_101772
+%mor:	noun|curtain adp|on det|the-Def-Art noun|window .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+*PAR:	there's &-uh some dishes on the cupboard . 101787_105027
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|some-Def-Ind noun|dish-Plur adp|on det|the-Def-Art noun|cupboard .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|2|PUNCT
+*PAR:	and &-um she's wearing &-uh highheeled shoes and wearing an apron . 105589_112019
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wear-Part-Pres-S adj|highheeled-S1 noun|shoe-Plur-Acc cconj|and verb|wear-Part-Pres-S det|a-Ind-Art noun|apron-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|AMOD 6|4|OBJ 7|8|CC 8|4|CONJ 9|10|DET 10|8|OBJ 11|4|PUNCT
+*PAR:	and she has dishcloth in her hand . 112182_113572
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 noun|dishcloth-Acc adp|in pron|her-Prs-Gen-S3 noun|hand .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|7|CASE 6|7|NMOD-POSS 7|3|OBL 8|3|PUNCT
+*PAR:	and &-uh there's [//] &-uh outside the window there's a tree and a sidewalk and some shrubs . 113595_121885
+%mor:	cconj|and adp|outside det|the-Def-Art noun|window pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|tree cconj|and det|a-Ind-Art noun|sidewalk cconj|and det|some-Def-Ind noun|shrub-Plur .
+%gra:	1|6|CC 2|4|CASE 3|4|DET 4|6|OBL 5|6|EXPL 6|0|ROOT 7|8|DET 8|6|NSUBJ 9|11|CC 10|11|DET 11|8|CONJ 12|14|CC 13|14|DET 14|8|CONJ 15|6|PUNCT
+*PAR:	I guess that would be about it . [+ exc] 125293_126653
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem aux|would-Fin-S aux|be-Inf-S adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|7|NSUBJ 4|7|AUX 5|7|COP 6|7|CASE 7|2|CCOMP 8|2|PUNCT
+@Eg:	Activity
+*INV:	okay . 126720_127400
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	well ‡ that worked . 127960_129050
+%mor:	intj|well noun|‡ pron|that-Rel verb|work-Fin-Ind-Past-S3 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|4|NSUBJ 4|2|ACL-RELCL 5|2|PUNCT
+*INV:	so ‡ thank_you for that one . 129173_135123
+%mor:	adv|so x|‡ propn|thankyou adp|for det|that-Def-Dem-Sing noun|one .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|3|PUNCT
+*PAR:	okay . 135170_135830
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

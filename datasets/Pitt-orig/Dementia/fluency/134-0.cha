@@ -1,0 +1,60 @@
+@UTF8
+@PID:	11312/t-00016095-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|77;|female|ProbableAD||Participant|24||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T06:01:31-04:00]
+@Media:	134-0, audio
+@G:	animals
+*INV:	off you go . 0_1262
+%mor:	adp|off pron|you-Prs-Acc-S2 verb|go-Fin-Ind-Pres-S2 .
+%gra:	1|3|CASE 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	cat . 1262_3285
+%mor:	noun|cat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	dog . 3285_5744
+%mor:	noun|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-um horse . 5744_9587
+%mor:	noun|horse .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	pig . 9587_11268
+%mor:	noun|pig .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-um (...) hen . 11268_32232
+%mor:	intj|hen .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	turkey . 32232_36045
+%mor:	noun|turkey .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(...) did I say horse@q ? [+ exc] 36045_49650
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|say-Inf-S meta|horse ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|DEP 5|3|PUNCT
+*INV:	mhm . 49650_50613
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(...) bear . 50613_60480
+%mor:	noun|bear .
+%gra:	1|0|ROOT 2|1|PUNCT
+@G:	F
+*INV:	okay ‡ all f@l words now that you can think of . 60480_65035
+%mor:	intj|okay intj|‡ det|all-Def-Tot n:let|f noun|word-Plur adv|now pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|DET 4|5|DEP 5|0|ROOT 6|5|ADVMOD 7|10|OBJ 8|10|NSUBJ 9|10|AUX 10|5|ACL-RELCL 11|7|CASE 12|5|PUNCT
+*INV:	off you go . 65035_65927
+%mor:	adp|off pron|you-Prs-Acc-S2 verb|go-Fin-Ind-Pres-S2 .
+%gra:	1|3|CASE 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	food . 65927_69149
+%mor:	noun|food .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh found . 69149_72588
+%mor:	verb|find-Part-Past-S-irr .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(...) fox . 72588_116928
+%mor:	propn|fox .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	(...) okay ‡ thanks . 116928_126904
+%mor:	intj|okay punct|‡ noun|thanks .
+%gra:	1|3|DISCOURSE 2|3|PUNCT 3|0|ROOT 4|3|PUNCT
+@End

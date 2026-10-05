@@ -1,0 +1,50 @@
+@UTF8
+@PID:	11312/t-00016375-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|70;|female|MCI||Participant|26||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	260-1, audio
+@G:	Bill_Immediate
+*INV:	recall from that story ? 552000_553324
+%mor:	verb|recall-Fin-Imp-S adp|from det|that-Def-Dem-Sing noun|story ?
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+*PAR:	(...) no ‡ I didn't xxx . [+ exc] 553324_561892
+%mor:	intj|no punct|‡ pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not .
+%gra:	1|4|DISCOURSE 2|4|DISCOURSE 3|4|NSUBJ 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+@G:	Bill_Questions
+*INV:	can you recall who the story was about ? 561892_564144
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|recall-Inf-S pron|who-Int det|the-Def-Art noun|story aux|be-Fin-Ind-Past-S3-irr adp|about ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|CCOMP 5|6|DET 6|4|NSUBJ 7|4|COP 8|3|PUNCT 9|3|PUNCT
+*PAR:	(.) no . [+ exc] 564144_566652
+%mor:	intj|no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	and what time of year it was when it took place ? 566652_569786
+%mor:	cconj|and det|what-Def-Int noun|time adp|of noun|year pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|when pron|it-Prs-Nom-S3 verb|take-Fin-Ind-Past-S3-irr noun|place-Acc ?
+%gra:	1|7|CC 2|3|DET 3|7|OBL-UNMARKED 4|5|CASE 5|3|NMOD 6|7|NSUBJ 7|0|ROOT 8|10|ADVMOD 9|10|NSUBJ 10|7|ADVCL 11|10|OBJ 12|7|PUNCT
+*PAR:	(.) no . [+ exc] 569786_573537
+%mor:	intj|no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	the story was about uncle Bill . 573537_578482
+%mor:	det|the-Def-Art noun|story aux|be-Fin-Ind-Past-S3-irr adp|about noun|uncle propn|Bill .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|CASE 5|0|ROOT 6|5|FLAT 7|5|PUNCT
+*INV:	can you recall how long he'd been away ? 578482_580804
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|recall-Inf-S adv|how adv|long pron|he-Prs-Nom-S3~aux|would-Fin-Ind-Past-S3 aux|be-Part-Past-S-irr adv|away ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|ADVMOD 5|3|OBJ 6|9|NSUBJ 7|9|AUX 8|9|COP 9|5|ADVCL-RELCL 10|3|PUNCT
+*PAR:	(..) a year . 580804_584601
+%mor:	det|a-Ind-Art noun|year .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*INV:	and who was waiting for him when he returned ? 584601_589802
+%mor:	cconj|and pron|who-Int aux|be-Fin-Ind-Past-S3-irr verb|wait-Part-Pres-S adp|for pron|he-Prs-Acc-S3 adv|when pron|he-Prs-Nom-S3 verb|return-Fin-Ind-Past-S3 ?
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|CASE 6|4|OBL 7|9|ADVMOD 8|9|NSUBJ 9|4|ADVCL 10|4|PUNCT
+*PAR:	the nephew . 589802_592136
+%mor:	det|the-Def-Art noun|nephew .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*INV:	and what did the nephew remember (.) that he and Bill had done together ? 592136_601006
+%mor:	cconj|and pron|what-Int-S1 aux|do-Fin-Ind-Past-S3-irr det|the-Def-Art noun|nephew verb|remember-Inf-S sconj|that pron|he-Prs-Nom-S3 cconj|and propn|Bill aux|have-Fin-Ind-Past-S3-irr verb|do-Part-Past-S-irr adv|together ?
+%gra:	1|6|CC 2|6|OBJ 3|6|AUX 4|5|DET 5|6|NSUBJ 6|0|ROOT 7|12|MARK 8|12|NSUBJ 9|10|CC 10|8|CONJ 11|12|AUX 12|6|CCOMP 13|12|ADVMOD 14|6|PUNCT
+*PAR:	played games . 601006_605313
+%mor:	verb|play-Fin-Ind-Past-S1 noun|game-Plur-Acc .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+@End

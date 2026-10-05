@@ -1,0 +1,75 @@
+@UTF8
+@PID:	11312/t-00002680-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|83;|female|PossibleAD||Participant|17||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T21:53:32-04:00]
+@Media:	530-0, audio
+@G:	Cookie
+*INV:	I want you to tell me everything that's going on in this picture . 660_3800
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|this-Def-Dem-Sing noun|picture .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|5|OBJ 8|10|NSUBJ 9|10|AUX 10|7|ACL-RELCL 11|10|COMPOUND-PRT 12|14|CASE 13|14|DET 14|10|OBL 15|2|PUNCT
+%wor:	I 660_820 want 820_860 you 860_1060 to 1060_1240 tell 1240_1400 me 1400_1560 everything 1560_1940 that's 1940_2380 going 2380_2660 on 2660_3060 in 3060_3240 this 3240_3420 picture 3420_4089 .
+*INV:	I want you to tell me everything that you see happening in this picture . 3800_7649
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|this-Def-Dem-Sing noun|picture .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|5|OBJ 8|11|OBJ 9|10|NSUBJ 10|7|ACL-RELCL 11|10|XCOMP 12|14|CASE 13|14|DET 14|11|OBL 15|2|PUNCT
+%wor:	I 3800_4360 want 4360_4580 you 4580_4700 to 4700_4840 tell 4840_4980 me 4980_5140 everything 5140_5540 that 5540_5820 you 5820_5940 see 5940_6160 happening 6160_6640 in 6640_7120 this 7120_7300 picture 7300_7649 .
+*PAR:	are you countin(g) (th)em ? [+ exc] 7660_8940
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|count-Part-Pres-S pron|they-Prs-Acc-P3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	are 7660_7840 you 7840_7920 counting 7920_8220 them 8220_9140 ?
+*INV:	<just tell> [//] just say them to me . 8940_11177
+%mor:	adv|just verb|say-Fin-Imp-S pron|they-Prs-Acc-P3 adp|to pron|I-Prs-Acc-S1 .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|OBJ 4|5|CASE 5|2|OBL 6|2|PUNCT
+%wor:	just 8940_9440 tell 10100_10340 just 10340_10580 say 10580_10900 them 10900_11040 to 11040_11137 me 11137_11177 .
+*PAR:	well the mother's &-uh &+dy &+dry &-uh dryin(g) dishes . 11231_16140
+%mor:	intj|well det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%wor:	well 11280_11540 the 11540_11940 mother's 11940_12340 uh 12340_13560 uh 13560_14200 drying 14200_14700 dishes 15720_16321 .
+*PAR:	and &-uh she let the water run over . 16140_20248
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|let-Fin-Ind-Past-S3-irr det|the-Def-Art noun|water-Acc verb|run-Inf-S adp|over .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|XCOMP 7|6|COMPOUND-PRT 8|3|PUNCT
+%wor:	and 16140_16640 uh 18320_18760 she 18760_18840 let 18840_19060 the 19060_19200 water 19200_19480 run 19480_19800 over 19800_20248 .
+*PAR:	and &-um (.) the little one's got the cookie jar . 21728_29888
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|one~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr det|the-Def-Art noun|cookie noun|jar-Acc .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|9|DET 8|9|COMPOUND 9|6|OBJ 10|6|PUNCT
+%wor:	and 21728_22228 um 22228_22648 the 22648_23148 little 28048_28328 one's 28328_28708 got 28708_28908 the 28908_29068 cookie 29068_29348 jar 29348_29988 .
+*PAR:	and the little boy almost fell off the +... 29888_34008
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|boy adv|almost verb|fall-Fin-Ind-Past-S3-irr adp|off det|the-Def-Art +...
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|ADVMOD 6|0|ROOT 7|6|CASE 8|6|OBL 9|6|PUNCT
+%wor:	and 29888_30388 the 32128_32288 little 32288_32468 boy 32468_32728 almost 32728_33148 fell 33148_33428 off 33428_33808 the 33808_34826 +...
+*PAR:	they had a stool . 34008_37450
+%mor:	pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Past-P3-irr det|a-Ind-Art noun|stool-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	they 34008_34508 had 36128_36468 a 36468_36808 stool 36808_37450 .
+*PAR:	and she had couple dishes , a couple cups and a plate . 41719_48699
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Past-S3-irr noun|couple noun|dish-Plur-Acc cm|cm det|a-Ind-Art noun|couple noun|cup-Plur cconj|and det|a-Ind-Art noun|plate .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|COMPOUND 5|3|OBJ 6|9|PUNCT 7|9|DET 8|9|COMPOUND 9|5|CONJ 10|12|CC 11|12|DET 12|5|CONJ 13|3|PUNCT
+%wor:	and 41719_41979 she 41979_42019 had 42019_42219 couple 42219_42719 dishes 44739_45239 , a 45239_45739 couple 46839_47119 cups 47119_47919 and 47919_48199 a 48199_48339 plate 48339_49329 .
+*PAR:	the &-uh little ones didn't have anything . 48699_51319
+%mor:	det|the-Def-Art adj|little-S1 noun|one-Plur aux|do-Fin-Ind-Past-P3-irr~part|not verb|have-Inf-S pron|anything-Ind-S1 .
+%gra:	1|3|DET 2|3|AMOD 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+%wor:	the 48699_49199 uh 49919_50039 little 50039_50279 ones 50279_50479 didn't 50479_50699 have 50699_50919 anything 50919_52143 .
+*PAR:	she's drying the dishes . 51319_58471
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	she's 51319_51819 drying 57039_57439 the 57439_57699 dishes 57699_58471 .
+*PAR:	and <her water> [//] the water run over . 63017_65417
+%mor:	cconj|and det|the-Def-Art noun|water noun|run adv|over .
+%gra:	1|4|CC 2|4|DET 3|4|COMPOUND 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	and 63017_63277 her 63277_63317 water 63317_63717 the 63717_64497 water 64497_64857 run 64857_65157 over 65157_65417 .
+*PAR:	huhuh . [+ exc] 65457_68497
+%mor:	intj|huhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	huhuh 65457_68514 .
+*INV:	okay ? 68497_69177
+%mor:	intj|okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	okay 68497_69286 ?
+*INV:	okay . 69177_69920
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	okay 69177_69920 .
+@End

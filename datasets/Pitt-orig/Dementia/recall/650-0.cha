@@ -1,0 +1,80 @@
+@UTF8
+@PID:	11312/t-00016474-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|87;|female|ProbableAD||Participant|24||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	650-0, audio
+@G:	George_Immediate
+*INV:	what was that story about I just read ? 1656000_1659000
+%com:	my best guess is that it's a George task due to the use of the word "grandchildren" , but no other context clues indicate whether it's a George task or a Bill task .
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Past-S3-irr det|that-Def-Dem-Sing noun|story sconj|about pron|I-Prs-Nom-S1 adv|just verb|read-Fin-Ind-Past-S1-irr ?
+%gra:	1|0|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|8|MARK 6|8|NSUBJ 7|8|ADVMOD 8|4|ACL 9|1|PUNCT
+*PAR:	+< yeah . [+ exc] 1657100_1657808
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	uhhuh . [+ exc] 1659001_1659686
+%mor:	intj|uhhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	about &-uh &-uh &-uh &-uh <is it> [//] &-uh was it &-uh +... [+ exc] 1659686_1667441
+%mor:	adv|about aux|be-Fin-Ind-Past-S3-irr pron|it-Prs-Nom-S3 +...
+%gra:	1|0|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*PAR:	I can't remember what relations were . [+ exc] 1667441_1669972
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|remember-Inf-S det|what-Def-Int noun|relation-Plur aux|be-Fin-Ind-Past-P3-irr .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|6|DET 6|7|NSUBJ 7|4|CCOMP 8|4|PUNCT
+*INV:	okay . 1669972_1670785
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	oh ‡ &-uh &-uh <the but the> [//] &-uh (.) were they &-uh grandchildren ? 1670785_1680073
+%mor:	intj|oh intj|‡ aux|be-Fin-Ind-Past-P3-irr pron|they-Prs-Nom-P3 noun|grandchild-Plur ?
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|COP 4|5|NSUBJ 5|0|ROOT 6|5|PUNCT
+*INV:	uhhuh . 1680073_1680723
+%mor:	intj|uhhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and [/] &-uh and &-uh they went to visit their relations . 1680723_1687631
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|go-Fin-Ind-Past-P3-irr part|to verb|visit-Inf-S pron|their-Prs-Gen-P3 noun|relation-Plur-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|ADVCL 6|7|NMOD-POSS 7|5|OBJ 8|3|PUNCT
+*INV:	right . 1687631_1687852
+%mor:	adj|right-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	+< &-uh and &-uh (.) &-uh &-uh &-uh and &-uh +... [+ exc] 1687631_1696071
+%mor:	cconj|and cconj|and +...
+%gra:	1|0|ROOT 2|1|CC 3|1|PUNCT
+*PAR:	see ‡ &-uh what makes it &-uh &-uh &-uh +..? [+ exc] 1696071_1703072
+%mor:	verb|see-Fin-Imp-S punct|‡ pron|what-Int-S1 verb|make-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 +..?
+%gra:	1|0|ROOT 2|4|PUNCT 3|4|NSUBJ 4|1|CCOMP 5|4|OBJ 6|1|PUNCT
+*PAR:	what makes that +/? [+ exc] 1703072_1704593
+%mor:	pron|what-Int-S1 verb|make-Fin-Ind-Pres-S3 pron|that-Dem +/?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*INV:	+< can you remember any more ? 1703072_1705173
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|remember-Inf-S det|any-Def-Ind adj|more-Cmp-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	+< huh ? [+ exc] 1704873_1705314
+%mor:	intj|huh ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	can you remember any more about that story ? 1705314_1707613
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|remember-Inf-S det|any-Def-Ind adj|more-Cmp-S1 adp|about det|that-Def-Dem-Sing noun|story ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|DET 8|5|OBL 9|3|PUNCT
+*PAR:	+< I [//] &-um &-uh do you think it's part nervousness that &-uh +... [+ exc] 1707613_1712164
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|think-Inf-S pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|part noun|nervousness pron|that-Dem +...
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|8|NSUBJ 5|8|COP 6|7|COMPOUND 7|8|COMPOUND 8|3|CCOMP 9|3|PUNCT
+*INV:	+< no [/] no ‡ I don't really think it's nervousness . 1712164_1714614
+%mor:	intj|no punct|‡ pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not adv|really verb|think-Inf-S pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|nervousness .
+%gra:	1|7|DISCOURSE 2|7|DISCOURSE 3|7|NSUBJ 4|7|AUX 5|7|ADVMOD 6|7|ADVMOD 7|0|ROOT 8|10|NSUBJ 9|10|COP 10|7|CCOMP 11|7|PUNCT
+*PAR:	well ‡ <why doesn't> [/] why doesn't it &-uh &-uh show +... [+ exc] 1714614_1719002
+%mor:	intj|well punct|‡ adv|why aux|do-Fin-Ind-Pres-S3~part|not pron|it-Prs-Nom-S3 verb|show-Inf-S +...
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|ADVMOD 4|7|AUX 5|7|ADVMOD 6|7|NSUBJ 7|0|ROOT 8|7|PUNCT
+*PAR:	&-uh I_mean in my &-uh brain &-uh that [//] &-uh &-uh what [//] the [/] &-uh the picture that you painted . [+ exc] 1719002_1726827
+%mor:	propn|Imean adp|in pron|my-Prs-Gen-S1 noun|brain det|the-Def-Art noun|picture pron|that-Rel pron|you-Prs-Nom-S2 verb|paint-Fin-Ind-Past-S2 .
+%gra:	1|0|ROOT 2|4|CASE 3|4|NMOD-POSS 4|1|NMOD 5|6|DET 6|1|APPOS 7|9|OBJ 8|9|NSUBJ 9|6|ACL-RELCL 10|1|PUNCT
+*PAR:	you_know about the story . [+ exc] 1726827_1728255
+%mor:	verb|youknow-Fin-Imp-S adp|about det|the-Def-Art noun|story .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+*PAR:	I_mean &-uh &-uh why don't I see that anymore ? [+ exc] 1728255_1731135
+%mor:	propn|Imean adv|why aux|do-Fin-Ind-Pres-S1~part|not pron|I-Prs-Nom-S1 verb|see-Inf-S pron|that-Dem adv|anymore ?
+%gra:	1|6|VOCATIVE 2|6|ADVMOD 3|6|AUX 4|6|ADVMOD 5|6|NSUBJ 6|0|ROOT 7|6|OBJ 8|6|ADVMOD 9|6|PUNCT
+*INV:	+< that's alright . 1730135_1731715
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|alright-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+@End

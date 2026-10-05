@@ -1,0 +1,105 @@
+@UTF8
+@PID:	11312/t-00016113-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|64;|male|ProbableAD||Participant|27||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-07T09:48:06-04:00]
+@Media:	183-1, audio
+@G:	foods
+*INV:	right ‡ okay ‡ great . 0_1324
+%mor:	adj|right-S1 punct|‡ intj|okay punct|‡ adj|great-S1 .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|DISCOURSE 4|5|DISCOURSE 5|0|ROOT 6|5|PUNCT
+*INV:	all the things that you can think of to eat . 1324_3347
+%mor:	det|all-Def-Tot det|the-Def-Art noun|thing-Plur pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of part|to verb|eat-Inf-S .
+%gra:	1|3|DET-PREDET 2|3|DET 3|0|ROOT 4|7|OBL 5|7|NSUBJ 6|7|AUX 7|3|ACL-RELCL 8|4|CASE 9|10|MARK 10|7|ADVCL 11|3|PUNCT
+*INV:	starting now . 3347_5214
+%mor:	verb|start-Part-Pres-S adv|now .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*PAR:	bread . 5214_6367
+%mor:	noun|bread .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	meat . 6367_8155
+%mor:	noun|meat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	fish . 8155_9775
+%mor:	noun|fish .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	chicken . 9775_10974
+%mor:	noun|chicken .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) &-uh rabbit . 10974_13886
+%mor:	noun|rabbit .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) lettuce . 13886_17060
+%mor:	noun|lettuce .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	tomato . 17060_20423
+%mor:	noun|tomato .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	corn . 20423_22414
+%mor:	noun|corn .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	spinach . 22414_25185
+%mor:	noun|spinach .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) beets . 25185_30399
+%mor:	noun|beet-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) beans . 30399_38104
+%mor:	noun|bean-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	peas . 38104_39551
+%mor:	noun|pea-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) peppers . 39551_43956
+%mor:	noun|pepper-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	tomatoes . 43956_47146
+%mor:	noun|tomato-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(...) cheese . 47146_62974
+%mor:	noun|cheese .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) milk . 62974_66756
+%mor:	noun|milk .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay ‡ hold it there . 66756_68189
+%mor:	intj|okay intj|‡ verb|hold-Fin-Imp-S pron|it-Prs-Acc-S3 adv|there .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+@G:	S
+*INV:	&=coughs xxx with the letter s@l . 68189_71223
+%mor:	adp|with det|the-Def-Art noun|letter n:let|s .
+%gra:	1|4|CASE 2|4|DET 3|4|COMPOUND 4|0|ROOT 5|4|PUNCT
+*INV:	starting now . 71223_72967
+%mor:	verb|start-Part-Pres-S adv|now .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*PAR:	sea . 72967_74243
+%mor:	noun|sea .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	snake . 74243_76499
+%mor:	noun|snake .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) seal . 76499_82616
+%mor:	noun|seal .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) silver . 82616_86445
+%mor:	noun|silver .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) ship . 86445_90865
+%mor:	noun|ship .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) snap . 90865_94523
+%mor:	noun|snap .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(...) see . 94523_106755
+%mor:	verb|see-Fin-Imp-S .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(...) that's all . [+ exc] 106755_134131
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*INV:	okay ‡ hold it there . 134131_135454
+%mor:	intj|okay intj|‡ verb|hold-Fin-Imp-S pron|it-Prs-Acc-S3 adv|there .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+@End

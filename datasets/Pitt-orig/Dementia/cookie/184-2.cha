@@ -1,0 +1,57 @@
+@UTF8
+@PID:	11312/t-00002543-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|65;00.|male|ProbableAD||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T21:42:44-04:00]
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T05:58:40-04:00]
+@Media:	184-2, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	what I'm gonna do now , is I'm gonna show you a picture . 350_2430
+%mor:	pron|what-Int-S1 pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S~part|to verb|do-Inf-S adv|now cm|cm aux|be-Fin-Ind-Pres-S3 pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S~part|to verb|show-Inf-S pron|you-Prs-Acc-S2 det|a-Ind-Art noun|picture-Acc .
+%gra:	1|12|NSUBJ-OUTER 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|6|MARK 6|4|XCOMP 7|6|ADVMOD 8|1|PUNCT 9|12|COP 10|12|NSUBJ 11|12|AUX 12|0|ROOT 13|14|MARK 14|12|XCOMP 15|14|IOBJ 16|17|DET 17|14|OBJ 18|12|PUNCT
+%wor:	what 350_490 I'm 490_530 gonna 530_630 do 630_770 now 770_1050 , is 1050_1190 I'm 1190_1290 gonna 1290_1350 show 1350_1630 you 1630_1770 a 1770_1970 picture 1970_3234 .
+*INV:	and in the picture there's a [//] &+l some action taking place . 2430_6504
+%mor:	cconj|and adp|in det|the-Def-Art noun|picture pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|some-Def-Ind noun|action verb|take-Ger-S noun|place-Acc .
+%gra:	1|6|CC 2|4|CASE 3|4|DET 4|6|OBL 5|6|EXPL 6|0|ROOT 7|8|DET 8|6|NSUBJ 9|8|ACL 10|9|OBJ 11|6|PUNCT
+%wor:	and 2430_2930 in 3550_3690 the 3690_3870 picture 3870_4190 there's 4190_4550 a 4550_4690 some 4690_5070 action 5070_5550 taking 5550_6030 place 6030_6504 .
+*INV:	there's some things going on , okay . 6510_8340
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|some-Def-Ind noun|thing-Plur verb|go-Ger-S adp|on cm|cm intj|okay .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|4|ACL 6|5|COMPOUND-PRT 7|8|PUNCT 8|2|DISCOURSE 9|2|PUNCT
+%wor:	there's 6510_6730 some 6730_6890 things 6890_7230 going 7230_7530 on 7530_7970 , okay 7970_8340 .
+*INV:	what I want you to do is look at the picture and tell me anything you see that's going on . 8350_14153
+%mor:	pron|what-Int-S1 pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|do-Inf-S aux|be-Fin-Ind-Pres-S3 verb|look-Inf-S adp|at det|the-Def-Art noun|picture cconj|and verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|anything-Ind-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on .
+%gra:	1|8|NSUBJ-OUTER 2|3|NSUBJ 3|1|ACL-RELCL 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|8|COP 8|0|ROOT 9|11|CASE 10|11|DET 11|8|OBL 12|13|CC 13|8|CONJ 14|13|IOBJ 15|13|OBJ 16|17|NSUBJ 17|15|ACL-RELCL 18|20|NSUBJ 19|20|AUX 20|15|ACL-RELCL 21|20|COMPOUND-PRT 22|8|PUNCT
+%wor:	what 8350_9170 I 9170_9290 want 9290_9470 you 9470_9570 to 9570_9690 do 9690_9830 is 9830_9950 look 9950_10150 at 10150_10270 the 10270_10450 picture 10450_10870 and 10870_11370 tell 11370_11510 me 11510_11650 anything 11650_12010 you 12010_12290 see 12290_12530 that's 12530_12790 going 12790_13030 on 13030_14153 .
+*PAR:	&=clears:throat okay Junior's in the <kɪkɪ@u [: cookie] [* pn-ret] jar> [//] cookie jar . 14353_22233
+%mor:	intj|okay propn|Junior~aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|7|DISCOURSE 2|7|NSUBJ 3|7|COP 4|7|CASE 5|7|DET 6|7|COMPOUND 7|0|ROOT 8|7|PUNCT
+%wor:	okay 14353_14853 Junior's 19393_19893 in 19893_19973 the 19973_22233 kɪkɪ jar cookie jar .
+*PAR:	and he's just about to go &=laughs have himself an accident . 25549_29249
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just adj|about-S1 part|to verb|go-Inf-S verb|have-Inf-S pron|himself-Prs-Acc-reflx-S3 det|a-Ind-Art noun|accident-Acc .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|7|XCOMP 9|8|IOBJ 10|11|DET 11|8|OBJ 12|5|PUNCT
+%wor:	and he's just about to go have himself an accident .
+*PAR:	his sister's standin(g) down below waitin(g) for a handful of cookies . 30324_33494
+%mor:	pron|his-Prs-Gen-S3 noun|sister~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|down sconj|below verb|wait-Part-Pres-S adp|for det|a-Ind-Art noun|handful adp|of noun|cookie-Plur .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|7|MARK 7|4|ADVCL 8|10|CASE 9|10|DET 10|7|OBL 11|12|CASE 12|10|NMOD 13|4|PUNCT
+%wor:	his sister's standing down below waiting for a handful of cookies .
+*PAR:	and &-uh his mom's washin(g) [//] &+wash dryin(g) the dishes I think . 34101_43551
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|mom~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 .
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|9|NSUBJ 9|7|ACL-RELCL 10|5|PUNCT
+%wor:	and 34101_35361 uh 35361_35621 his 35621_36421 mom's 36421_36921 washing 38641_39141 drying 40261_40761 the 42461_42641 dishes 42641_42881 I 42881_43161 think 43161_43551 .
+*PAR:	and she's havin(g) problems because the sink's running over and she's standing in a puddle of water , some empty dishes on the counter . 44523_54663
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|have-Part-Pres-S noun|problem-Plur-Acc sconj|because det|the-Def-Art noun|sink~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in det|a-Ind-Art noun|puddle adp|of noun|water cm|cm det|some-Def-Ind adj|empty-S1 noun|dish-Plur adp|on det|the-Def-Art noun|counter .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|10|MARK 7|8|DET 8|10|NSUBJ 9|10|AUX 10|4|ADVCL 11|10|COMPOUND-PRT 12|15|CC 13|15|NSUBJ 14|15|AUX 15|4|CONJ 16|18|CASE 17|18|DET 18|15|OBL 19|20|CASE 20|18|NMOD 21|24|PUNCT 22|24|DET 23|24|AMOD 24|18|APPOS 25|27|CASE 26|27|DET 27|24|NMOD 28|4|PUNCT
+%wor:	and 44523_44903 she's 44903_45083 having 45083_45323 problems 45323_45763 because 45763_46163 the 46163_46423 sink's 46423_46663 running 46663_46943 over 46943_47343 and 47343_47843 she's 48583_48863 standing 48863_49163 in 49163_49423 a 49423_49563 puddle 49563_49823 of 49823_50083 water 50083_51083 , some 51083_51583 empty 52443_52703 dishes 52703_53043 on 53043_53343 the 53343_53843 counter 53843_54813 .
+*PAR:	&-um as far as the action that's just about it . [+ exc] 54663_59943
+%mor:	adv|as adv|far adp|as det|the-Def-Art noun|action pron|that-Rel~aux|be-Fin-Ind-Pres-S3 adv|just adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|10|NSUBJ 7|10|COP 8|10|ADVMOD 9|10|CASE 10|5|ACL-RELCL 11|2|PUNCT
+%wor:	um 54663_55163 as 57463_57683 far 57683_57903 as 57903_58023 the 58023_58143 action 58143_58523 that's 58523_58923 just 58923_59203 about 59203_59563 it 59563_60055 .
+*INV:	okay . 59943_61436
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	okay 59943_61436 .
+@End

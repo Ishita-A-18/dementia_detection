@@ -1,0 +1,120 @@
+@UTF8
+@PID:	11312/t-00016249-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|79;|male|PossibleAD||Participant|18||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T05:56:30-04:00]
+@Media:	714-0, audio
+@G:	animals
+*INV:	give me all the animals you can think of . 0_3472
+%mor:	verb|give-Fin-Imp-S pron|I-Prs-Acc-S1 det|all-Def-Tot det|the-Def-Art noun|animal-Plur-Acc pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|0|ROOT 2|1|IOBJ 3|5|DET-PREDET 4|5|DET 5|1|OBJ 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|8|OBL 10|1|PUNCT
+*INV:	go ahead . 3472_5138
+%mor:	verb|go-Fin-Imp-S adv|ahead .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*PAR:	cat . 5138_7334
+%mor:	noun|cat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	mhm . 7334_8050
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	dog . 8050_9185
+%mor:	noun|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	pig . 9185_11800
+%mor:	noun|pig .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cow . 11800_14323
+%mor:	noun|cow .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	deer . 14323_16937
+%mor:	noun|deer .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	horse . 16937_19006
+%mor:	noun|horse .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) pig . 19006_30181
+%mor:	noun|pig .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) bear . 30181_39409
+%mor:	noun|bear .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(...) elephant . 39409_52935
+%mor:	noun|elephant .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	I'm sorry ‡ what ? 52935_54740
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|sorry-S1 punct|‡ pron|what-Int-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|5|PUNCT 5|3|PARATAXIS 6|3|PUNCT
+*PAR:	elephant . [+ exc] 54740_55565
+%mor:	noun|elephant .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay ‡ great ‡ that's a minute . 70000_72450
+%mor:	intj|okay punct|‡ adj|great-S1 punct|‡ pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|minute .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|AMOD 4|0|ROOT 5|8|NSUBJ 6|8|COP 7|8|DET 8|4|PARATAXIS 9|4|PUNCT
+@G:	F
+*INV:	now I'm going to give you another minute . 72450_75678
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|give-Inf-S pron|you-Prs-Acc-S2 det|another-Def-Ind noun|minute-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|IOBJ 8|9|DET 9|6|OBJ 10|4|PUNCT
+*INV:	and in that minute's time name as many words you can think of that start with the letter f@l . 75678_81643
+%mor:	cconj|and adp|in det|that-Def-Dem-Sing noun|minute~part|s noun|time noun|name adp|as adj|many-S1 noun|word-Plur pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of det|that-Def-Dem-Sing verb|start-Fin-Ind-Pres-S adp|with det|the-Def-Art noun|letter n:let|f .
+%gra:	1|13|CC 2|7|CASE 3|4|DET 4|7|NMOD-POSS 5|4|CASE 6|7|COMPOUND 7|13|OBL 8|10|CASE 9|10|AMOD 10|7|NMOD 11|13|NSUBJ 12|13|AUX 13|0|ROOT 14|16|MARK 15|16|DET 16|13|XCOMP 17|20|CASE 18|20|DET 19|20|DEP 20|16|OBL 21|13|PUNCT
+*INV:	all of the words that come to mind that start with the letter f@l . 81643_85753
+%mor:	det|all-Def-Tot adp|of det|the-Def-Art noun|word-Plur pron|that-Rel verb|come-Fin-Ind-Pres-P3 adp|to noun|mind pron|that-Rel verb|start-Fin-Ind-Pres-P3 adp|with det|the-Def-Art noun|letter n:let|f .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|6|NSUBJ 6|4|ACL-RELCL 7|8|CASE 8|6|OBL 9|10|NSUBJ 10|4|ACL-RELCL 11|14|CASE 12|14|DET 13|14|COMPOUND 14|10|DEP 15|1|PUNCT
+*INV:	no proper names of people or places . 85753_88725
+%mor:	det|no-Def-Neg adj|proper-S1 noun|name-Plur adp|of noun|person-Plur cconj|or noun|place-Plur .
+%gra:	1|3|DET 2|3|AMOD 3|0|ROOT 4|5|CASE 5|3|NMOD 6|7|CC 7|5|CONJ 8|3|PUNCT
+*INV:	and only one form of the word . 88725_91463
+%mor:	cconj|and adv|only num|one noun|form adp|of det|the-Def-Art noun|word .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NUMMOD 4|0|ROOT 5|7|CASE 6|7|DET 7|4|NMOD 8|4|PUNCT
+*INV:	for instance if you gave me the word walk@q I wouldn't want you to give me walking@q and walked@q also . 91463_97299
+%mor:	adp|for noun|instance sconj|if pron|you-Prs-Nom-S2 verb|give-Fin-Ind-Past-S2-irr pron|I-Prs-Acc-S1 det|the-Def-Art noun|word-Acc meta|walk pron|I-Prs-Nom-S1 aux|would-Fin-S~part|not verb|want-Inf-S pron|you-Prs-Acc-S2 part|to verb|give-Inf-S pron|I-Prs-Acc-S1 meta|walking cconj|and meta|walked adv|also .
+%gra:	1|2|CASE 2|13|OBL 3|5|MARK 4|5|NSUBJ 5|13|ADVCL 6|5|IOBJ 7|8|DET 8|5|OBJ 9|5|DEP 10|13|NSUBJ 11|13|AUX 12|13|ADVMOD 13|0|ROOT 14|13|OBJ 15|16|MARK 16|13|XCOMP 17|16|DEP 18|16|OBJ 19|20|DEP 20|18|CONJ 21|16|ADVMOD 22|13|PUNCT
+*INV:	so ‡ one form of the word no proper names . 97299_100583
+%mor:	adv|so punct|‡ num|one noun|form adp|of det|the-Def-Art noun|word det|no-Def-Neg adj|proper-S1 noun|name-Plur .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NUMMOD 4|0|ROOT 5|7|CASE 6|7|DET 7|4|NMOD 8|10|DET 9|10|AMOD 10|4|APPOS 11|4|PUNCT
+*INV:	any word that you can think of that starts with the letter f@l . 100583_103913
+%mor:	det|any-Def-Ind noun|word pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of pron|that-Rel verb|start-Fin-Ind-Pres-S3 adp|with det|the-Def-Art noun|letter n:let|f .
+%gra:	1|2|DET 2|0|ROOT 3|6|OBL 4|6|NSUBJ 5|6|AUX 6|2|ACL-RELCL 7|3|CASE 8|9|NSUBJ 9|2|ACL-RELCL 10|13|CASE 11|13|DET 12|13|COMPOUND 13|9|DEP 14|2|PUNCT
+*INV:	okay ? 103913_105376
+%mor:	intj|okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	give you a minute . 105376_106258
+%mor:	verb|give-Fin-Imp-S pron|you-Prs-Acc-S2 det|a-Ind-Art noun|minute-Acc .
+%gra:	1|0|ROOT 2|1|IOBJ 3|4|DET 4|1|OBJ 5|1|PUNCT
+*INV:	ready ? 106258_108220
+%mor:	adj|ready-S1 ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	begin . 108220_109533
+%mor:	verb|begin-Fin-Imp-S .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	floor . 109533_112101
+%mor:	noun|floor .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	mhm . 112101_112661
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	(...) anything that starts with f@l . 112661_124847
+%mor:	pron|anything-Ind-S1 pron|that-Rel verb|start-Fin-Ind-Pres-S3 adp|with n:let|f .
+%gra:	1|0|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|5|CASE 5|3|DEP 6|1|PUNCT
+*PAR:	(..) five . 124847_132900
+%mor:	num|five .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	mhm . 132900_133455
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) foot . 133455_141298
+%mor:	noun|foot .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) fence . 141298_150621
+%mor:	noun|fence .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(...) Friday . 150621_169592
+%mor:	propn|Friday .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay ‡ that's a minute . 169592_173764
+%mor:	intj|okay punct|‡ pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|minute .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|DET 6|0|ROOT 7|6|PUNCT
+@End

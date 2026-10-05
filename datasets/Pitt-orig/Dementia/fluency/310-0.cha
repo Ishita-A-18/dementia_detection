@@ -1,0 +1,121 @@
+@UTF8
+@PID:	11312/t-00016166-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|69;|female|ProbableAD||Participant|19||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-07T09:48:06-04:00]
+@Media:	310-0, audio
+@G:	animals
+*INV:	okay ‡ go ahead . 0_3969
+%mor:	intj|okay intj|‡ verb|go-Fin-Imp-S adv|ahead .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	lion . 3969_5276
+%mor:	noun|lion .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	tiger . 5276_6538
+%mor:	noun|tiger .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	hippopotamus . 6538_8594
+%mor:	noun|hippopotamus .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	rhinoceros . 8594_9667
+%mor:	noun|rhinocero-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	elephant . 9667_10866
+%mor:	noun|elephant .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-um wolf . 10866_15208
+%mor:	noun|wolf .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	fox . 15208_16810
+%mor:	propn|fox .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	bear . 16810_19363
+%mor:	noun|bear .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	rabbit . 19363_22055
+%mor:	noun|rabbit .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) giraffe . 22055_31767
+%mor:	noun|giraffe .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	porcupine . 31767_34437
+%mor:	noun|porcupine .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	skunk . 34437_36689
+%mor:	noun|skunk .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(...) xxx . [+ exc] 36689_49137
+*INV:	mhm . 49137_50210
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) monkeys . 50210_56871
+%mor:	noun|monkey-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	gorillas . 56871_58443
+%mor:	noun|gorilla-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay ‡ good . 58443_64607
+%mor:	intj|okay intj|‡ adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|PUNCT
+@G:	F
+*INV:	now . 64607_66273
+%mor:	adv|now .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh start with one ? [+ exc] 66273_67952
+%mor:	verb|start-Fin-Imp-S adp|with num|one ?
+%gra:	1|0|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*INV:	pardon me ? 67952_69053
+%mor:	verb|pardon-Inf-Imp-S pron|I-Prs-Acc-S1 ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	want <this what I_mean> [//] the letter ? [+ exc] 69053_71937
+%mor:	verb|want-Fin-Imp-S det|the-Def-Art noun|letter-Acc ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*INV:	f@l . 71937_72591
+%mor:	n:let|f .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	any words beginning with f@l . 72591_73600
+%mor:	det|any-Def-Ind noun|word-Plur verb|begin-Ger-S adp|with n:let|f .
+%gra:	1|2|DET 2|0|ROOT 3|2|ACL 4|5|CASE 5|3|DEP 6|2|PUNCT
+*INV:	okay +/? 73600_74410
+%mor:	intj|okay +/?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	fruit . 74200_75316
+%mor:	noun|fruit .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) fall . 75316_78101
+%mor:	noun|fall .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	fill . 78101_80328
+%mor:	verb|fill-Fin-Imp-S .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) food . 80328_87051
+%mor:	noun|food .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) family . 87051_89681
+%mor:	noun|family .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) frost . 89681_94444
+%mor:	noun|frost .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) fiddle . 94444_96420
+%mor:	verb|fiddle-Fin-Imp-S .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-hm (..) fix . 96420_106723
+%mor:	noun|fix .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) fork . 106723_109571
+%mor:	noun|fork .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) fiber . 109571_114194
+%mor:	noun|fiber .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(...) five . 114194_126038
+%mor:	num|five .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay . 126038_135469
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

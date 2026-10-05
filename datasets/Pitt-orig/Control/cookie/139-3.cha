@@ -1,0 +1,35 @@
+@UTF8
+@PID:	11312/t-00002297-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|53;|female|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T22:12:14-04:00]
+@Media:	139-3, audio
+@G:	Cookie
+*INV:	good . 30_150
+%mor:	adj|good-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	good 30_380 .
+*PAR:	okay . [+ exc] 150_1410
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	okay 150_1613 .
+*PAR:	&-uh the little boy is falling off the stool . 1410_4370
+%mor:	det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	uh 1410_1910 the 2650_2750 little 2750_2950 boy 2950_3170 is 3170_3330 falling 3330_3650 off 3650_3910 the 3910_4110 stool 4110_4409 .
+*PAR:	he is giving cookies to the little girl . 4370_6710
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|give-Part-Pres-S noun|cookie-Plur-Acc adp|to det|the-Def-Art adj|little-S1 noun|girl .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|8|CASE 6|8|DET 7|8|AMOD 8|3|OBL 9|3|PUNCT
+%wor:	he 4370_4590 is 4590_4770 giving 4770_5010 cookies 5010_5470 to 5470_5890 the 5890_6170 little 6170_6350 girl 6350_6720 .
+*PAR:	the little girl is telling him to be quiet so that mother will not hear . 6710_10750
+%mor:	det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|tell-Part-Pres-S pron|he-Prs-Acc-S3 part|to aux|be-Inf-S adj|quiet-S1 sconj|so sconj|that noun|mother aux|will-Fin-S part|not verb|hear-Inf-S .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|IOBJ 7|9|MARK 8|9|COP 9|5|XCOMP 10|15|MARK 11|10|FIXED 12|15|NSUBJ 13|15|AUX 14|15|ADVMOD 15|9|ADVCL 16|5|PUNCT
+%wor:	the 6710_7290 little 7290_7510 girl 7510_7770 is 7770_8010 telling 8010_8290 him 8290_8550 to 8550_8730 be 8730_8930 quiet 8930_9310 so 9310_9610 that 9610_9810 mother 9810_10030 will 10030_10290 not 10290_10550 hear 10550_10780 .
+*PAR:	mother is drying the dishes while the sink is overflowing . 10750_15970
+%mor:	noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc sconj|while det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|10|MARK 7|8|DET 8|10|NSUBJ 9|10|COP 10|3|ADVCL 11|3|PUNCT
+%wor:	mother 10750_11090 is 11090_11570 drying 11570_12530 the 12530_12790 dishes 12790_13090 while 13090_13390 the 13390_13630 sink 13630_13910 is 13910_14330 overflowing 14330_15970 .
+@End

@@ -1,0 +1,102 @@
+@UTF8
+@PID:	11312/t-00002530-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|71;|female|ProbableAD||Participant|5||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T21:43:02-04:00]
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T05:58:44-04:00]
+@Media:	173-1, audio
+@G:	Cookie
+*INV:	what's going on in the picture ? 0_1480
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	what's 0_300 going 300_520 on 520_800 in 800_940 the 940_1040 picture 1040_1540 ?
+*PAR:	xxx &=clears:throat . [+ exc]
+%wor:	.
+*INV:	can you tell me the action going on in the picture ? 1480_15120
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 det|the-Def-Art noun|action-Acc verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|IOBJ 5|6|DET 6|3|OBJ 7|6|ACL 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|3|PUNCT
+%wor:	can 1480_1980 you 9140_9640 tell 13220_13360 me 13360_13500 the 13500_13660 action 13660_14080 going 14080_14380 on 14380_14580 in 14580_14720 the 14720_14820 picture 14820_16794 ?
+*PAR:	let's see what's this [/] this ? [+ exc] 15120_18744
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|6|NSUBJ 5|6|COP 6|3|CCOMP 7|1|PUNCT
+%wor:	let's 15120_15620 see 16700_16940 what's 16940_17380 this 17380_17740 this 17740_18744 ?
+*INV:	what's going on in the picture ? 25439_26579
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	what's 25439_25659 going 25659_25899 on 25899_26139 in 26139_26279 the 26279_26339 picture 26339_26629 ?
+*INV:	tell me all of the action about the picture . 26579_29079
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|all-Def-Tot adp|of det|the-Def-Art noun|action adp|about det|the-Def-Art noun|picture .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|9|CASE 8|9|DET 9|6|NMOD 10|1|PUNCT
+%wor:	tell 26579_26899 me 26899_27079 all 27079_27279 of 27279_27399 the 27399_27519 action 27519_28019 about 28019_28499 the 28499_28719 picture 28719_29214 .
+*INV:	what's going on in that picture ? 29079_31013
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	what's 29079_29799 going 29799_30039 on 30039_30339 in 30339_30459 that 30459_30639 picture 30639_31013 ?
+*PAR:	well the kæl@u [: gal] [* p:n] and the little boy . [+ gram] 31179_33659
+%mor:	intj|well det|the-Def-Art noun|gal cconj|and det|the-Def-Art adj|little-S1 noun|boy .
+%gra:	1|3|DISCOURSE 2|3|DET 3|0|ROOT 4|7|CC 5|7|DET 6|7|AMOD 7|3|CONJ 8|3|PUNCT
+%wor:	well 31179_31799 the 31799_32199 kæl 32199_32599 and 32599_32779 the 32779_32939 little 32939_33139 boy 33139_33754 .
+*INV:	mhm . 33659_34859
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	mhm 33659_35029 .
+*INV:	what else is going on ? 34859_38039
+%mor:	pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on ?
+%gra:	1|4|OBJ 2|1|ADVMOD 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+%wor:	what 34859_35359 else 36479_36739 is 36739_36899 going 36899_37139 on 37139_38099 ?
+*PAR:	lay it down . [+ exc] 38039_45009
+%mor:	verb|lay-Fin-Imp-S pron|it-Prs-Acc-S3 adp|down .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMPOUND-PRT 4|1|PUNCT
+%wor:	lay 38039_38539 it 39279_39779 down 53039_53539 .
+*INV:	it doesn't open up . 45009_45779
+%mor:	pron|it-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|open-Inf-S adp|up .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+%wor:	it 45009_45169 doesn't 45169_45429 open 45429_45609 up 45609_45779 .
+*INV:	you hafta leave it closed . 45869_46969
+%mor:	pron|you-Prs-Nom-S2 aux|hafta-Fin-Ind-Pres-S2 verb|leave-Inf-S pron|it-Prs-Acc-S3 verb|close-Part-Past-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|XCOMP 6|3|PUNCT
+%wor:	you 45869_45969 hafta 45969_46249 leave 46249_46409 it 46409_46509 closed 46509_47503 .
+*INV:	<what else goes> [//] what else is going on in the picture ? 46969_50349
+%mor:	pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|4|NSUBJ 2|1|ADVMOD 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+%wor:	what 46969_47469 else 48149_48369 goes 48369_48629 what 48629_48949 else 48949_49169 is 49169_49329 going 49329_49549 on 49549_49809 in 49809_49929 the 49929_50049 picture 50049_50383 ?
+*INV:	<can you see what> [//] tell me what else is going on in that picture . 50349_52809
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Int-S1 adj|else-S1 aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|1|IOBJ 3|6|OBJ 4|3|AMOD 5|6|AUX 6|1|CCOMP 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|1|PUNCT
+%wor:	can 50349_50609 you 50609_50729 see 50729_50889 what 50889_51049 tell 51049_51209 me 51209_51289 what 51289_51449 else 51449_51609 is 51609_51729 going 51729_51929 on 51929_52169 in 52169_52269 that 52269_52389 picture 52389_53118 .
+*PAR:	pants and clothes and +... 52809_54562
+%mor:	noun|pants-Ptan cconj|and noun|clothes-Ptan cconj|and +...
+%gra:	1|0|ROOT 2|3|CC 3|1|CONJ 4|1|CONJ 5|1|PUNCT
+%wor:	pants 52809_53309 and 53849_54829 clothes 54829_55269 and 55269_55818 +...
+*INV:	+< yeah . 54562_55869
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	yeah 55449_55949 .
+*INV:	anything else ? 55869_56849
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	anything 55869_56269 else 56269_56915 ?
+*PAR:	&+s <the little boy's> [/] the little boy's (j)ust sittin(g) there . 56849_61754
+%mor:	det|the-Def-Art adj|little-S1 noun|boy~aux|be-Fin-Ind-Pres-S3 adv|just verb|sit-Part-Pres-S adv|there .
+%gra:	1|3|DET 2|3|AMOD 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|6|ADVMOD 8|6|PUNCT
+%wor:	the 56849_57349 little 58589_58889 boy's 58889_59629 the 59629_60089 little 60089_60309 boy's 60309_60789 just 60789_61009 sitting 61009_61409 there 61409_61754 .
+*INV:	okay anything else ? 61869_64102
+%mor:	intj|okay pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|AMOD 4|2|PUNCT
+%wor:	okay 61869_62369 anything 63109_63589 else 63589_64102 ?
+*PAR:	is this one getting through there ? [+ exc] 66670_68450
+%mor:	aux|be-Fin-Ind-Pres-S3 det|this-Def-Dem-Sing noun|one verb|get-Part-Pres-S adp|through adv|there ?
+%gra:	1|4|AUX 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+%wor:	is 66670_67210 this 67210_67250 one 67250_67670 getting 67670_67710 through 67710_68050 there 68050_68450 ?
+*PAR:	I can't +... [+ exc] 68490_69290
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not +...
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	I 68490_68750 can't 68750_69300 +...
+*INV:	okay good . 69290_74492
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+%wor:	okay 69290_69790 good 74070_74492 .
+@End

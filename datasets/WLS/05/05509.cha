@@ -1,0 +1,77 @@
+@UTF8
+@PID:	11312/a-00049098-1
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|WLS|INV|||||Investigator|||
+@ID:	eng|WLS|PAR|||||Participant|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-07T09:47:01-04:00]
+@Media:	05509, audio
+@Comment:	lots of noise of papers and things being moved around the microphone , poor audio
+*INV:	please take a look at this picture and describe everything you see . 17980_20920
+%mor:	intj|please verb|take-Fin-Imp-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture cconj|and verb|describe-Fin-Imp-S pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|9|CC 9|2|CONJ 10|9|OBJ 11|12|NSUBJ 12|10|ACL-RELCL 13|2|PUNCT
+*PAR:	everything I see ? 23400_24590
+%mor:	pron|everything-Tot-S1 pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 ?
+%gra:	1|0|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|1|PUNCT
+*INV:	mhm . 24940_25180
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+@Bg:	Activity
+*PAR:	the kid's in the cookie jar . 29630_30760
+%mor:	det|the-Def-Art noun|kid~aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|7|NSUBJ 3|7|COP 4|7|CASE 5|7|DET 6|7|COMPOUND 7|0|ROOT 8|7|PUNCT
+*PAR:	and he's about ready to fall . 31070_32259
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|about adj|ready-S1 part|to verb|fall-Inf-S .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|5|PUNCT
+*PAR:	he's xxx .
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	and <the COO k IE j a r's> [//] the lid is open all the way . 38320_40940
+%mor:	cconj|and det|the-Def-Art noun|lid aux|be-Fin-Ind-Pres-S3 adj|open-S1 det|all-Def-Tot det|the-Def-Art noun|way .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|8|DET-PREDET 7|8|DET 8|5|OBL-UNMARKED 9|5|PUNCT
+*PAR:	he has xxx . 42810_43450
+%mor:	pron|he-Prs-Nom-S3 aux|have-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	xxx .
+*PAR:	I think the mother's doing dishes . 59385_61705
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 det|the-Def-Art noun|mother~part|s verb|do-Ger-S noun|dish-Plur-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|7|NMOD-POSS 5|4|CASE 6|7|AMOD 7|2|OBJ 8|2|PUNCT
+*PAR:	the water's overflowing all over the floor . 63385_65735
+%mor:	det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adv|all adp|over det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|8|ADVMOD 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*PAR:	she's wiping the dishes . 69040_70170
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	has an apron on . 71670_72825
+%mor:	verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|apron-Acc adp|on .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|ADVMOD 5|1|PUNCT
+*PAR:	shoes are +...
+%mor:	noun|shoe-Plur aux|be-Fin-Ind-Pres-P3 +...
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	two cups and saucers are on the <what d o y o u c a l l i t> [//] sink . 79480_87400
+%mor:	num|two noun|cup-Plur cconj|and noun|saucer-Plur aux|be-Fin-Ind-Pres-P3 adp|on det|the-Def-Art noun|sink .
+%gra:	1|2|NUMMOD 2|8|NSUBJ 3|4|CC 4|2|CONJ 5|8|COP 6|8|CASE 7|8|DET 8|0|ROOT 9|8|PUNCT
+*PAR:	the grass , a little walkway . 89200_91730
+%mor:	det|the-Def-Art noun|grass cm|cm det|a-Ind-Art adj|little-S1 noun|walkway .
+%gra:	1|2|DET 2|0|ROOT 3|6|PUNCT 4|6|DET 5|6|AMOD 6|2|APPOS 7|2|PUNCT
+*PAR:	the house must be kind_of l@l shaped because it shows part of the house through the window . 95260_100270
+%mor:	det|the-Def-Art noun|house aux|must-Fin-S aux|be-Inf-S noun|kindof n:let|l verb|shape-Part-Past-S sconj|because pron|it-Prs-Nom-S3 verb|show-Fin-Ind-Pres-S3 noun|part-Acc adp|of det|the-Def-Art noun|house adp|through det|the-Def-Art noun|window .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|AUX 4|6|COP 5|6|COMPOUND 6|0|ROOT 7|6|ACL 8|10|MARK 9|10|NSUBJ 10|7|ADVCL 11|10|OBJ 12|14|CASE 13|14|DET 14|11|NMOD 15|17|CASE 16|17|DET 17|10|OBL 18|6|PUNCT
+*PAR:	did I tell you he has a cookie in his hand , maybe getting his sister one , treats . 100320_119040
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|tell-Inf-S pron|you-Prs-Acc-S2 pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie-Acc adp|in pron|his-Prs-Gen-S3 noun|hand cm|cm adv|maybe verb|get-Part-Pres-S pron|his-Prs-Gen-S3 noun|sister-Acc num|one cm|cm noun|treat-Plur .
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|IOBJ 5|6|NSUBJ 6|3|CCOMP 7|8|DET 8|6|OBJ 9|11|CASE 10|11|NMOD-POSS 11|6|OBL 12|14|PUNCT 13|14|ADVMOD 14|6|ADVCL 15|16|NMOD-POSS 16|14|OBJ 17|14|OBJ 18|19|PUNCT 19|17|CONJ 20|3|PUNCT
+*PAR:	the daughter is +//.
+%mor:	det|the-Def-Art noun|daughter aux|be-Fin-Ind-Pres-S3 +//.
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	what he's standing on has only got <three at least> [//] you_know three legs . 123580_130259
+%mor:	pron|what-Int-S1 pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on aux|have-Fin-Ind-Pres-S3 adv|only verb|get-Part-Past-S-irr noun|youknow-Acc num|three noun|leg-Plur-Acc .
+%gra:	1|8|NSUBJ 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|OBL 6|8|AUX 7|8|ADVMOD 8|0|ROOT 9|8|OBJ 10|11|NUMMOD 11|8|OBJ 12|8|PUNCT
+*PAR:	that's about it for me . [+ exc] 134740_139900
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+@Eg:	Activity
+*INV:	okay ‡ thank_you .
+%mor:	intj|okay x|‡ propn|thankyou .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|PUNCT
+@End

@@ -1,0 +1,67 @@
+@UTF8
+@PID:	11312/t-00002685-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|79;|female|ProbableAD||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T21:56:52-04:00]
+@Media:	559-0, audio
+@G:	Cookie
+*INV:	I want you to take a look at this picture . 30_3230
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|take-Inf-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|7|DET 7|5|OBJ 8|10|CASE 9|10|DET 10|7|NMOD 11|2|PUNCT
+%wor:	I 30_530 want 1370_1410 you 1410_1570 to 1570_1770 take 1770_1990 a 1990_2190 look 2190_2350 at 2350_2510 this 2510_2730 picture 2730_3270 .
+*INV:	I want you to tell me everything that you see happening in that picture . 3230_7645
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|5|OBJ 8|11|OBJ 9|10|NSUBJ 10|7|ACL-RELCL 11|10|XCOMP 12|14|CASE 13|14|DET 14|11|OBL 15|2|PUNCT
+%wor:	I 3230_3730 want 4530_4690 you 4690_4790 to 4790_4950 tell 4950_5130 me 5130_5330 everything 5330_5730 that 5730_6050 you 6050_6190 see 6190_6410 happening 6410_6910 in 6910_7170 that 7170_7370 picture 7370_7645 .
+*INV:	everything that you see going on there . 7710_9750
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adv|there .
+%gra:	1|0|ROOT 2|5|OBL 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|2|CASE 7|5|ADVMOD 8|1|PUNCT
+%wor:	everything 7710_8330 that 8330_8610 you 8610_8730 see 8730_8870 going 8870_9170 on 9170_9470 there 9470_10500 .
+*PAR:	the sink is running over . 9750_12690
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adv|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	the 9750_10250 sink 11130_11510 is 11510_11750 running 11750_12170 over 12170_12890 .
+*PAR:	and &-uh the [/] the lady's &+wa drying the dishes . 12690_17533
+%mor:	cconj|and det|the-Def-Art noun|lady~part|s verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|3|CASE 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%wor:	and 12690_13990 uh 13990_14590 the 14590_15370 the 15370_15430 lady's 15430_15770 drying 15770_16450 the 16450_16730 dishes 16730_17533 .
+*PAR:	and the boy's crawled up on the stool . 17777_20157
+%mor:	cconj|and det|the-Def-Art noun|boy~aux|be-Fin-Ind-Pres-S3 verb|crawl-Fin-Ind-Past-S adp|up adp|on det|the-Def-Art noun|stool .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|5|PUNCT
+%wor:	and 17777_17957 the 17957_17997 boy's 17997_18837 crawled 18837_19337 up 19337_19517 on 19517_19677 the 19677_19817 stool 19817_20297 .
+*PAR:	and it's &+fa falling . 20157_21337
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%wor:	and 20157_20357 it's 20357_20597 falling 20597_21621 .
+*PAR:	and he's gonna fall down . 21337_23637
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|fall-Inf-S adp|down .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|COMPOUND-PRT 8|4|PUNCT
+%wor:	and 21337_22297 he's 22297_22597 gonna 22597_22777 fall 22777_23117 down 23117_23750 .
+*PAR:	and &-uh he's handing the cookie to the little girl . 23637_28437
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|hand-Part-Pres-S det|the-Def-Art noun|cookie-Acc adp|to det|the-Def-Art adj|little-S1 noun|girl .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|10|CASE 8|10|DET 9|10|AMOD 10|4|OBL 11|4|PUNCT
+%wor:	and 23637_25017 uh 25017_25377 he's 25377_25577 handing 25577_25897 the 25897_26457 cookie 26457_27117 to 27117_27397 the 27397_27577 little 27577_27997 girl 27997_28602 .
+*PAR:	and &-uh let's see . [+ exc] 28437_32351
+%mor:	cconj|and verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|2|CC 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|2|PUNCT
+%wor:	and 28437_28937 uh 30377_31237 let's 31237_31837 see 31837_32351 .
+*PAR:	the cupboard door is &-uh open . 36729_38449
+%mor:	det|the-Def-Art noun|cupboard noun|door aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+%wor:	the 36729_37029 cupboard 37029_37069 door 37069_37389 is 37389_37649 uh 37649_38049 open 38049_38609 .
+*PAR:	and he was <in after the> [//] &+c in the &+c cookie jar after the cookies . 38449_42429
+%mor:	cconj|and pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adp|in det|the-Def-Art noun|cookie noun|jar adp|after det|the-Def-Art noun|cookie-Plur .
+%gra:	1|7|CC 2|7|NSUBJ 3|7|COP 4|7|CASE 5|7|DET 6|7|COMPOUND 7|0|ROOT 8|10|CASE 9|10|DET 10|7|NMOD 11|7|PUNCT
+%wor:	and 38449_38909 he 38909_39029 was 39029_39209 in 39209_39429 after 39429_39749 the 39749_40009 in 40009_40309 the 40309_40589 cookie 40589_41089 jar 41089_41449 after 41449_41769 the 41769_41969 cookies 41969_42516 .
+*PAR:	and [/] (.) &-uh (.) and I don't know . [+ exc] 42429_53950
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|5|PUNCT
+%wor:	and 42429_42929 uh 53209_53469 and 53469_53509 I 53509_53549 don't 53549_53649 know 53649_53950 .
+*INV:	okay that's fine thank_you . 54009_55750
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 noun|thankyou .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|AMOD 5|0|ROOT 6|5|PUNCT
+%wor:	okay 54009_54389 that's 54389_54709 fine 54709_55049 thank_you 55049_55750 .
+@End

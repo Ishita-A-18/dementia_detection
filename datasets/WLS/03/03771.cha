@@ -1,0 +1,87 @@
+@UTF8
+@PID:	11312/a-00048975-1
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|WLS|INV|||||Investigator|||
+@ID:	eng|WLS|PAR|||||Participant|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T05:56:23-04:00]
+@Media:	03771, audio
+*INV:	okay . 11470_11740
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	please take a look at this picture and describe everything you see here . 16260_22500
+%mor:	intj|please verb|take-Fin-Imp-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture cconj|and verb|describe-Fin-Imp-S pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 adv|here .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|9|CC 9|2|CONJ 10|9|OBJ 11|12|NSUBJ 12|10|ACL-RELCL 13|12|ADVMOD 14|2|PUNCT
+@Bg:	Activity
+*PAR:	a typical household . 22550_28180
+%mor:	det|a-Ind-Art adj|typical-S1 noun|household .
+%gra:	1|3|DET 2|3|AMOD 3|0|ROOT 4|3|PUNCT
+*PAR:	let's see . [+ exc] 30240_33370
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*PAR:	we've got the kids trying to get cookie out_of the cookie jar , and standing on a stool . 33420_40620
+%mor:	pron|we-Prs-Nom-P1~aux|have-Fin-Ind-Pres-P1 verb|get-Part-Past-S-irr det|the-Def-Art noun|kid-Plur-Acc verb|try-Ger-S part|to verb|get-Inf-S noun|cookie noun|outof-Acc det|the-Def-Art noun|cookie noun|jar-Acc cm|cm cconj|and verb|stand-Part-Pres-S adp|on det|a-Ind-Art noun|stool .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|ACL 7|8|MARK 8|6|XCOMP 9|10|COMPOUND 10|8|OBJ 11|13|DET 12|13|COMPOUND 13|8|OBJ 14|16|PUNCT 15|16|CC 16|8|CONJ 17|19|CASE 18|19|DET 19|16|OBL 20|3|PUNCT
+*PAR:	and it's about ready to fall . 40660_42020
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|about adj|ready-S1 part|to verb|fall-Inf-S .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|5|PUNCT
+*PAR:	mom's doing the dishes . 42820_43900
+%mor:	noun|mom~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	she's not paying attention too well because the water's running over pretty good . 43920_48310
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not verb|pay-Part-Pres-S noun|attention-Acc adv|too adv|well sconj|because det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over adv|pretty adj|good-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|7|ADVMOD 7|4|ADVMOD 8|12|MARK 9|10|DET 10|12|NSUBJ 11|12|AUX 12|4|ADVCL 13|12|COMPOUND-PRT 14|15|ADVMOD 15|12|ADVMOD 16|4|PUNCT
+*PAR:	a nice scene outside . 50670_52580
+%mor:	det|a-Ind-Art adj|nice-S1 noun|scene adv|outside .
+%gra:	1|3|DET 2|3|AMOD 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	it looks like an organized [//] generally organized house . 52880_55940
+%mor:	pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 adp|like det|a-Ind-Art adv|generally verb|organize-Part-Past-S noun|house .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|7|CASE 4|7|DET 5|6|ADVMOD 6|7|AMOD 7|2|OBL 8|2|PUNCT
+*PAR:	the counters are clean , except for a couple of dishes there , which is normal . 56060_60300
+%mor:	det|the-Def-Art noun|counter-Plur aux|be-Fin-Ind-Pres-P3 adj|clean-S1 cm|cm adp|except adp|for det|a-Ind-Art noun|couple adp|of noun|dish-Plur adv|there cm|cm pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 adj|normal-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|9|PUNCT 6|9|CASE 7|9|CASE 8|9|DET 9|4|OBL 10|11|CASE 11|9|NMOD 12|11|ADVMOD 13|16|PUNCT 14|16|NSUBJ 15|16|COP 16|9|ACL-RELCL 17|4|PUNCT
+*PAR:	she's doing the dishes . 60490_61380
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	she has a dress on with an apron . 61400_66280
+%mor:	pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|dress-Acc adp|on adp|with det|a-Ind-Art noun|apron .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|COMPOUND-PRT 6|8|CASE 7|8|DET 8|2|OBL 9|2|PUNCT
+*PAR:	I'm not sure if that little girl is saying “hee_hee_hee@o” or “give me one” . 69090_74680
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not adj|sure-S1 sconj|if det|that-Def-Dem-Sing adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|say-Part-Pres-S on|heeheehee cconj|or verb|give-Fin-S pron|I-Prs-Acc-S1 num|one .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|10|MARK 6|8|DET 7|8|AMOD 8|10|NSUBJ 9|10|AUX 10|4|DEP 11|10|OBJ 12|13|CC 13|10|CONJ 14|13|IOBJ 15|13|OBJ 16|4|PUNCT
+*PAR:	her expression there . 75590_76440
+%mor:	pron|her-Prs-Gen-S3 noun|expression adv|there .
+%gra:	1|2|NMOD-POSS 2|0|ROOT 3|2|ADVMOD 4|2|PUNCT
+*PAR:	the floor has no lines , which would be strange . 78760_84960
+%mor:	det|the-Def-Art noun|floor verb|have-Fin-Ind-Pres-S3 det|no-Def-Neg noun|line-Plur-Acc cm|cm pron|which-Rel-S1 aux|would-Fin-S aux|be-Inf-S adj|strange-S1 .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|10|PUNCT 7|10|NSUBJ 8|10|AUX 9|10|COP 10|5|ACL-RELCL 11|3|PUNCT
+*PAR:	no tile , no nothing . 86570_87480
+%mor:	det|no-Def-Neg noun|tile cm|cm det|no-Def-Neg pron|nothing-Neg-S1 .
+%gra:	1|2|DET 2|0|ROOT 3|5|PUNCT 4|5|DET 5|2|APPOS 6|2|PUNCT
+*PAR:	the cabinets are just plain cabinets . 89330_96380
+%mor:	det|the-Def-Art noun|cabinet-Plur aux|be-Fin-Ind-Pres-P3 adv|just adj|plain-S1 noun|cabinet-Plur .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|ADVMOD 5|6|AMOD 6|0|ROOT 7|6|PUNCT
+*PAR:	the counter has no edge on it . 97890_99990
+%mor:	det|the-Def-Art noun|counter verb|have-Fin-Ind-Pres-S3 det|no-Def-Neg noun|edge-Acc adp|on pron|it-Prs-Acc-S3 .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|3|OBL 8|3|PUNCT
+*PAR:	no edge meaning overhang . 102470_103830
+%mor:	det|no-Def-Neg noun|edge noun|meaning-Ger noun|overhang .
+%gra:	1|4|DET 2|4|COMPOUND 3|4|COMPOUND 4|0|ROOT 5|4|PUNCT
+*PAR:	the walls are plain . 108450_109330
+%mor:	det|the-Def-Art noun|wall-Plur aux|be-Fin-Ind-Pres-P3 adj|plain-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	the curtains look nice . 115660_116630
+%mor:	det|the-Def-Art noun|curtain-Plur verb|look-Fin-Ind-Pres-P3 adj|nice-S1 .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|3|XCOMP 5|3|PUNCT
+*PAR:	and I'm about out of gas . [+ exc] 119880_123970
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|about adp|out adp|of noun|gas .
+%gra:	1|7|CC 2|7|NSUBJ 3|7|COP 4|7|ADVMOD 5|7|CASE 6|7|CASE 7|0|ROOT 8|7|PUNCT
+@Eg:	Activity
+*INV:	okay . 127140_127560
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	thank_you .
+%mor:	propn|thankyou .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

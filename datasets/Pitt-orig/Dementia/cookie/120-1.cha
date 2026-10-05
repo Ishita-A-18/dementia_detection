@@ -1,0 +1,91 @@
+@UTF8
+@PID:	11312/t-00002502-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|78;|male|MCI||Participant|28||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T21:39:21-04:00]
+@Media:	120-1, audio
+@G:	Cookie
+*INV:	show you a picture . 270_1250
+%mor:	verb|show-Fin-Imp-S pron|you-Prs-Acc-S2 det|a-Ind-Art noun|picture-Acc .
+%gra:	1|0|ROOT 2|1|IOBJ 3|4|DET 4|1|OBJ 5|1|PUNCT
+%wor:	show 270_570 you 570_710 a 710_910 picture 910_1380 .
+*INV:	and I want you to look at the picture and just tell me everything you see going on in the picture . 1250_6603
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|look-Inf-S adp|at det|the-Def-Art noun|picture cconj|and adv|just verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|12|CC 11|12|ADVMOD 12|3|CONJ 13|12|IOBJ 14|12|OBJ 15|16|NSUBJ 16|14|ACL-RELCL 17|16|XCOMP 18|17|COMPOUND-PRT 19|21|CASE 20|21|DET 21|17|OBL 22|3|PUNCT
+%wor:	and 1250_1870 I 1870_1970 want 1970_2110 you 2110_2190 to 2190_2310 look 2310_2490 at 2490_2570 the 2570_2690 picture 2690_3050 and 3050_3910 just 3910_4090 tell 4090_4290 me 4290_4450 everything 4450_4830 you 4830_5150 see 5150_5510 going 5510_5790 on 5790_6050 in 6050_6170 the 6170_6290 picture 6290_6603 .
+*INV:	+< just tell me everything that you see happening there . 6630_7110
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adv|there .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|IOBJ 4|2|OBJ 5|8|OBJ 6|7|NSUBJ 7|4|ACL-RELCL 8|7|XCOMP 9|8|ADVMOD 10|2|PUNCT
+%wor:	just 6630_6970 tell 6970_7190 me 7190_7370 everything 7370_7690 that 7690_7930 you 7930_8030 see 8030_8210 happening 8210_8570 there 8570_9019 .
+*PAR:	+< okay . [+ exc] 7110_9490
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	okay 8990_9490 .
+*PAR:	okay . [+ exc] 9556_9806
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	okay 9750_9806 .
+*INV:	there it is . 9868_11128
+%mor:	pron|there-Int-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+%wor:	there 10690_10730 it 10730_10870 is 10870_11128 .
+*PAR:	okay . [+ exc] 11130_12510
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	okay 11130_12955 .
+*PAR:	well ‡ the boy is <reaching for the cookie jar> [//] &+r reaching for cookies from the cookie jar . 12510_20237
+%mor:	intj|well punct|‡ det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for noun|cookie-Plur adp|from det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|4|DET 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|8|CASE 8|6|OBL 9|12|CASE 10|12|DET 11|12|COMPOUND 12|8|NMOD 13|6|PUNCT
+%wor:	well 12510_13010 ‡ the 14170_14670 boy 15190_15370 is 15370_15510 reaching 15510_15770 for 15770_16070 the 16070_16230 cookie 16230_16470 jar 16470_16930 reaching 16930_17430 for 18090_18530 cookies 18530_18890 from 18890_19450 the 19450_19590 cookie 19590_19810 jar 19810_20237 .
+*PAR:	his stool is falling over . 21118_22738
+%mor:	pron|his-Prs-Gen-S3 noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	his 21118_21498 stool 21498_21638 is 21638_21918 falling 21918_22278 over 22278_22828 .
+*PAR:	he's handing the cookies to his sister . 22738_26818
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|hand-Part-Pres-S det|the-Def-Art noun|cookie-Plur-Acc adp|to pron|his-Prs-Gen-S3 noun|sister .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|NMOD-POSS 8|3|OBL 9|3|PUNCT
+%wor:	he's 22738_23238 handing 24058_24378 the 24378_24998 cookies 24998_25338 to 25338_25618 his 25618_25918 sister 25918_26918 .
+*PAR:	the mother is washing the dishes . 26818_32134
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	the 26818_27318 mother 28538_29038 is 29878_30178 washing 30178_30678 the 31558_31858 dishes 31858_32134 .
+*PAR:	the sink is running over . 32138_34898
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adv|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	the 32138_32638 sink 33638_33918 is 33918_34098 running 34098_34338 over 34338_34984 .
+*PAR:	(.) &-uh these are things that are happening ? [+ exc] 34898_39758
+%mor:	pron|this-Dem-P1 aux|be-Fin-Ind-Pres-P3 noun|thing-Plur pron|that-Rel aux|be-Fin-Ind-Pres-P3 verb|happen-Part-Pres-S ?
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|3|PUNCT
+%wor:	uh 34898_35398 these 38518_38698 are 38698_38818 things 38818_39098 that 39098_39258 are 39258_39378 happening 39378_39951 ?
+*INV:	mhm . 39758_40502
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	mhm 39758_40502 .
+*PAR:	the [/] the little sister's shushing , doesn't want the mother to know what's going on . 40580_49330
+%mor:	det|the-Def-Art adj|little-S1 noun|sister~part|s noun|shushing-Ger cm|cm aux|do-Fin-Ind-Pres-S3~part|not verb|want-Inf-S det|the-Def-Art noun|mother-Acc part|to verb|know-Inf-S pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on .
+%gra:	1|3|DET 2|3|AMOD 3|5|NMOD-POSS 4|3|CASE 5|9|NSUBJ 6|5|PUNCT 7|9|AUX 8|9|ADVMOD 9|0|ROOT 10|11|DET 11|9|OBJ 12|13|MARK 13|9|XCOMP 14|16|NSUBJ 15|16|AUX 16|13|CCOMP 17|16|COMPOUND-PRT 18|9|PUNCT
+%wor:	the 40580_41080 the 44540_44920 little 44920_45800 sister's 45800_46480 shushing 46480_47140 , doesn't 47140_47640 want 47640_47840 the 47840_48000 mother 48000_48160 to 48160_48360 know 48360_48520 what's 48520_48760 going 48760_48940 on 48940_49330 .
+*PAR:	&+a (.) well ‡ the water's running into the sink as_well_as the sink running over . 49520_59358
+%mor:	intj|well punct|‡ det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|into det|the-Def-Art noun|sink noun|aswellas det|the-Def-Art noun|sink-Acc verb|run-Ger-S adv|over .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|4|DET 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|10|CASE 8|10|DET 9|10|COMPOUND 10|6|OBL 11|12|DET 12|6|OBJ 13|6|ADVCL 14|13|ADVMOD 15|6|PUNCT
+%wor:	well 49520_50020 ‡ the 53320_53820 water's 55440_55740 running 55740_55940 into 55940_56180 the 56180_56340 sink 56340_56580 as_well_as 56580_57040 the 57040_57160 sink 57160_57340 running 57340_57580 over 57580_59358 .
+*PAR:	oh ‡ and the mother's stepping in the puddle . 59723_61823
+%mor:	intj|oh intj|‡ cconj|and det|the-Def-Art noun|mother~part|s verb|step-Ger-S adp|in det|the-Def-Art noun|puddle .
+%gra:	1|7|DISCOURSE 2|7|DISCOURSE 3|7|CC 4|5|DET 5|7|NSUBJ 6|5|CASE 7|0|ROOT 8|10|CASE 9|10|DET 10|7|OBL 11|7|PUNCT
+%wor:	oh 59723_59943 ‡ and 59943_60023 the 60023_60143 mother's 60143_60523 stepping 60523_60803 in 60803_60943 the 60943_61023 puddle 61023_62523 .
+*INV:	(..) okay . 61823_75223
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	okay 61823_75274 .
+*PAR:	yes ‡ I don't identify any other happenings . [+ exc] 75223_77823
+%mor:	intj|yes punct|‡ pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|identify-Inf-S det|any-Def-Ind adj|other-S1 noun|happening-Plur-Acc .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|9|DET 8|9|AMOD 9|6|OBJ 10|6|PUNCT
+%wor:	yes 75223_75923 ‡ I 75923_76043 don't 76043_76183 identify 76183_76823 any 76823_77103 other 77103_77243 happenings 77243_77823 .
+*INV:	okay . 77838_77958
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	okay 77903_77958 .
+@End

@@ -1,0 +1,80 @@
+@UTF8
+@PID:	11312/t-00002574-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|60;00.|male|ProbableAD||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T21:46:37-04:00]
+@Media:	235-2, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	everything that's going on in this picture . 0_2000
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|this-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|1|PUNCT
+%wor:	everything 0_440 that's 440_680 going 680_920 on 920_1280 in 1280_1460 this 1460_1640 picture 1640_2170 .
+*INV:	tell me everything that you see happening there . 2000_4918
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adv|there .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|7|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|6|XCOMP 8|7|ADVMOD 9|1|PUNCT
+%wor:	tell 2000_2940 me 2940_3100 everything 3100_3420 that 3420_3660 you 3660_3780 see 3780_4000 happening 4000_4500 there 4500_4918 .
+*PAR:	<the young> [/] <the young> [/] &=clears:throat the young boy he's up on a ladder [: stool] [* s:r] and with some cookies . 4920_14993
+%mor:	det|the-Def-Art adj|young-S1 noun|boy pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|up adp|on det|a-Ind-Art noun|stool cconj|and adp|with det|some-Def-Ind noun|cookie-Plur .
+%gra:	1|3|DET 2|3|AMOD 3|0|ROOT 4|6|NSUBJ 5|6|COP 6|3|ACL-RELCL 7|9|CASE 8|9|DET 9|6|OBL 10|13|CC 11|13|CASE 12|13|DET 13|9|CONJ 14|3|PUNCT
+%wor:	the 4920_5420 young 10320_10500 the 10500_10700 young 10700_10920 the 10920_11880 young 11880_12100 boy 12100_12340 he's 12340_12640 up 12640_12760 on 12760_12900 a 12900_13020 ladder 13020_13260 and 13260_13680 with 13680_14460 some 14460_14620 cookies 14620_14993 .
+*PAR:	and the [/] &+l the [/] the little girl she's reachin(g) up ask some cookies (.) from him . [+ gram] 16168_24358
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|up verb|ask-Inf-S det|some-Def-Ind noun|cookie-Plur-Acc adp|from pron|he-Prs-Acc-S3 .
+%gra:	1|9|CC 2|4|DET 3|4|AMOD 4|9|NSUBJ 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|7|COMPOUND-PRT 9|0|ROOT 10|11|DET 11|9|OBJ 12|13|CASE 13|11|NMOD 14|9|PUNCT
+%wor:	and 16168_16368 the 16368_16648 the 16648_17148 the 17728_18588 little 18588_18708 girl 18708_18948 she's 18948_19328 reaching 19328_19608 up 19608_19908 ask 19908_20448 some 20448_20628 cookies 20628_20928 from 20928_21428 him 23988_24358 .
+*PAR:	and the [//] this young lady here is [//] (.) &-hm I think she's washin(g) dishes . 25763_40823
+%mor:	cconj|and det|this-Def-Dem-Sing adj|young-S1 noun|lady adv|here pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|7|CC 2|4|DET 3|4|AMOD 4|7|NSUBJ 5|4|ADVMOD 6|7|NSUBJ 7|0|ROOT 8|10|NSUBJ 9|10|AUX 10|7|CCOMP 11|10|OBJ 12|7|PUNCT
+%wor:	and 25763_26043 the 26043_26543 this 28863_29843 young 29843_30043 lady 30043_30283 here 30283_30623 is 30623_32323 hm 32323_32823 I 38703_39203 think 39783_40003 she's 40003_40243 washing 40243_40483 dishes 40483_40903 .
+*PAR:	yeah &+sh &+pro I think +... [+ exc] 40823_44626
+%mor:	intj|yeah pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 +...
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+%wor:	yeah 40823_41323 I 42543_42663 think 42663_44626 +...
+*PAR:	she's washin(g) dishes <at a> [/] <at a> [/] &+s at a sink . 45200_49360
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc adp|at det|a-Ind-Art noun|sink .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	she's 45200_45420 washing 45420_45720 dishes 45720_46180 at 46180_46680 a 48020_48240 at 48240_48420 a 48420_48680 at 48680_48960 a 48960_49080 sink 49080_49410 .
+*PAR:	(be)cause here's the spigot . [+ gram] 49360_50720
+%mor:	sconj|because adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|spigot .
+%gra:	1|2|MARK 2|0|ROOT 3|2|COP 4|5|DET 5|2|NSUBJ 6|2|PUNCT
+%wor:	because 49360_50020 here's 50020_50260 the 50260_50360 spigot 50360_51155 .
+*PAR:	and here are cups . 50720_52780
+%mor:	cconj|and adv|here aux|be-Fin-Ind-Pres-P3 noun|cup-Plur .
+%gra:	1|2|CC 2|0|ROOT 3|2|COP 4|2|NSUBJ 5|2|PUNCT
+%wor:	and 50720_51220 here 52140_52280 are 52280_52420 cups 52420_53429 .
+*PAR:	and here's the kitchen (.) curtains . 52780_57000
+%mor:	cconj|and adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|kitchen noun|curtain-Plur .
+%gra:	1|2|CC 2|0|ROOT 3|2|COP 4|6|DET 5|6|COMPOUND 6|2|NSUBJ 7|2|PUNCT
+%wor:	and 52780_53280 here's 53880_54080 the 54080_54200 kitchen 54200_54560 curtains 54560_57041 .
+*PAR:	and <stand up by> [//] stand up <in the> [//] in a window is [/] is [/] &+o <is over the> [/] &-uh is over the sink . [+ gram] 57000_65062
+%mor:	cconj|and verb|stand-Fin-Imp-S adp|up adp|in det|a-Ind-Art noun|window aux|be-Fin-Ind-Pres-S3 adp|over det|the-Def-Art noun|sink .
+%gra:	1|10|CC 2|10|CSUBJ 3|2|COMPOUND-PRT 4|6|CASE 5|6|DET 6|2|OBL 7|10|COP 8|10|CASE 9|10|DET 10|0|ROOT 11|10|PUNCT
+%wor:	and 57000_57500 stand 59200_59420 up 59420_59600 by 59600_59760 stand 59760_60100 up 60100_60260 in 60260_60400 the 60400_60500 in 60500_60700 a 60700_60920 window 60920_61160 is 61160_61680 is 61680_61820 is 61820_62020 over 62020_62200 the 62200_62480 uh 62480_63000 is 63000_63500 over 64400_64560 the 64560_64780 sink 64780_65062 .
+*PAR:	(.) there's the sink . 73746_74206
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|sink .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	there's 73746_73906 the 73906_74046 sink 74046_74266 .
+*PAR:	there's the cups . 74206_74819
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|cup-Plur .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	there's 74206_74446 the 74446_74566 cups 74566_74819 .
+*PAR:	and that be [//] up here would be a plate . 74866_77292
+%mor:	cconj|and sconj|that adp|up adv|here aux|would-Fin-S aux|be-Inf-S det|a-Ind-Art noun|plate .
+%gra:	1|8|CC 2|8|MARK 3|8|ADVMOD 4|3|ADVMOD 5|8|AUX 6|8|COP 7|8|DET 8|0|ROOT 9|8|PUNCT
+%wor:	and 74866_75786 that 75786_76206 be 76206_76386 up 76386_76546 here 76546_76586 would 76586_76746 be 76746_76866 a 76866_77006 plate 77006_77292 .
+*PAR:	that would be the window . 77326_78726
+%mor:	pron|that-Dem aux|would-Fin-S aux|be-Inf-S det|the-Def-Art noun|window .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|COP 4|5|DET 5|0|ROOT 6|5|PUNCT
+%wor:	that 77326_78146 would 78146_78266 be 78266_78366 the 78366_78466 window 78466_79036 .
+*INV:	okay . 78726_79636
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	okay 78726_79636 .
+*INV:	okay all done ? 84149_85759
+%mor:	intj|okay det|all-Def-Tot verb|do-Part-Past-S-irr ?
+%gra:	1|3|DISCOURSE 2|3|ADVMOD 3|0|ROOT 4|3|PUNCT
+%wor:	okay 84366_84746 all 84746_85546 done 85546_85759 ?
+@End

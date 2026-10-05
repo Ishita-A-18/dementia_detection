@@ -1,0 +1,68 @@
+@UTF8
+@PID:	11312/t-00002441-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|52;|male|Memory||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T21:52:13-04:00]
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-07T09:47:52-04:00]
+@Media:	024-2, audio
+@G:	Cookie
+*INV:	okay all of the action . 350_2190
+%mor:	intj|okay det|all-Def-Tot adp|of det|the-Def-Art noun|action .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|2|PUNCT
+%wor:	okay 350_850 all 1490_1530 of 1530_1610 the 1610_1770 action 1770_2300 .
+*PAR:	okay . [+ exc] 2190_5390
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	okay 2190_5646 .
+*PAR:	&-uh we see a [/] &-uh a &+b little boy climbed up on a stool reaching for the cookie jar . 5390_13250
+%mor:	pron|we-Prs-Nom-P1 verb|see-Fin-Ind-Pres-P1 det|a-Ind-Art adj|little-S1 noun|boy verb|climb-Fin-Ind-Past-S3 adp|up adp|on det|a-Ind-Art noun|stool verb|reach-Ger-S adp|for det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|AMOD 5|6|NSUBJ 6|2|CCOMP 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|10|ACL 12|15|CASE 13|15|DET 14|15|COMPOUND 15|11|OBL 16|2|PUNCT
+%wor:	uh 5390_6250 we 6250_7030 see 7030_7330 a 7330_7670 uh 7670_8510 a 8510_9010 little 9650_9910 boy 9910_10210 climbed 10210_10570 up 10570_10770 on 10770_10970 a 10970_11330 stool 11330_11690 reaching 11690_12130 for 12130_12390 the 12390_12550 cookie 12550_12810 jar 12810_13430 .
+*PAR:	and &-uh the stool <is about to or> [//] is falling . 13250_20083
+%mor:	cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+%wor:	and 13250_13750 uh 15670_16090 the 16090_16250 stool 16250_16670 is 16670_17010 about 17010_17370 to 17370_17870 or 17870_18370 is 19450_19610 falling 19610_20083 .
+*PAR:	&-uh he is trying to get a cookie for himself and also one for his sister . 21414_35815
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|get-Inf-S det|a-Ind-Art noun|cookie-Acc adp|for pron|himself-Prs-Acc-reflx-S3 cconj|and adv|also num|one adp|for pron|his-Prs-Gen-S3 noun|sister .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|9|CASE 9|5|OBL 10|12|CC 11|12|ADVMOD 12|7|CONJ 13|15|CASE 14|15|NMOD-POSS 15|12|NMOD 16|3|PUNCT
+%wor:	uh 21414_21914 he 23174_23214 is 23214_23554 trying 23554_24054 to 25454_25794 get 25794_25974 a 25974_26134 cookie 26134_26474 for 26474_26974 himself 28494_29234 and 29234_29734 also 30394_30794 one 30794_31394 for 31394_31894 his 35054_35314 sister 35314_35815 .
+*PAR:	&-uh his sister is telling him to be very quiet . 38436_42816
+%mor:	pron|his-Prs-Gen-S3 noun|sister aux|be-Fin-Ind-Pres-S3 verb|tell-Part-Pres-S pron|he-Prs-Acc-S3 part|to aux|be-Inf-S adv|very adj|quiet-S1 .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|IOBJ 6|9|MARK 7|9|COP 8|9|ADVMOD 9|4|XCOMP 10|4|PUNCT
+%wor:	uh 38436_38936 his 40096_40596 sister 40596_41036 is 41036_41256 telling 41256_41536 him 41536_41776 to 41776_41936 be 41936_42056 very 42056_42336 quiet 42336_42866 .
+*PAR:	she's goin(g) shh@o . 42816_44025
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S on|shh .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	she's 42816_43156 going 43156_43416 shh 43416_44025 .
+*PAR:	can't write that down . [+ exc] 44356_46776
+%mor:	aux|can-Fin-S~part|not verb|write-Fin-Imp-S pron|that-Dem adp|down .
+%gra:	1|3|AUX 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|3|PUNCT
+%wor:	can't 44356_44856 write 46056_46236 that 46236_46416 down 46416_46857 .
+*PAR:	telling him to be quiet . [+ gram] 46776_47916
+%mor:	verb|tell-Part-Pres-S pron|he-Prs-Acc-S3 part|to aux|be-Inf-S adj|quiet-S1 .
+%gra:	1|0|ROOT 2|1|IOBJ 3|5|MARK 4|5|COP 5|1|XCOMP 6|1|PUNCT
+%wor:	telling 46776_47296 him 47296_47436 to 47436_47496 be 47496_47576 quiet 47576_48531 .
+*PAR:	and &-uh let's see . [+ exc] 47916_50481
+%mor:	cconj|and verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|2|CC 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|2|PUNCT
+%wor:	and 47916_48416 uh 49156_49736 let's 49736_50396 see 50396_50481 .
+*PAR:	in the meantime &-uh the mother is <washing the dishes or yes> [//] washing dishes and the sink has &-uh overflowed and &-uh is pouring water on the floor . 50500_66880
+%mor:	adp|in det|the-Def-Art noun|meantime det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc cconj|and det|the-Def-Art noun|sink aux|have-Fin-Ind-Pres-S3 verb|overflow-Part-Past-S cconj|and aux|be-Fin-Ind-Pres-S3 verb|pour-Part-Pres-S noun|water-Acc adp|on det|the-Def-Art noun|floor .
+%gra:	1|3|CASE 2|3|DET 3|7|OBL 4|5|DET 5|7|NSUBJ 6|7|AUX 7|0|ROOT 8|7|OBJ 9|13|CC 10|11|DET 11|13|NSUBJ 12|13|AUX 13|7|CONJ 14|16|CC 15|16|AUX 16|13|CONJ 17|16|OBJ 18|20|CASE 19|20|DET 20|16|OBL 21|7|PUNCT
+%wor:	in 50500_50660 the 50660_50740 meantime 50740_51280 uh 51280_51980 the 51980_52480 mother 53080_53420 is 53420_53740 washing 53740_54280 the 54280_54940 dishes 54940_55360 or 55360_55900 yes 55900_56240 washing 56240_56580 dishes 56580_56860 and 56860_57080 the 57080_57280 sink 57280_57600 has 57600_59400 uh 59400_59660 overflowed 59660_60160 and 60720_64640 uh 64640_64920 is 64920_65160 pouring 65160_65820 water 65820_66180 on 66180_66360 the 66360_66480 floor 66480_66880 .
+*PAR:	(..) I don't think I see anything else . [+ exc] 78936_80376
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|think-Inf-S pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 pron|anything-Ind-S1 adj|else-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|6|NSUBJ 6|4|CCOMP 7|6|OBJ 8|7|AMOD 9|4|PUNCT
+%wor:	I 78936_79096 don't 79096_79236 think 79236_79396 I 79396_79496 see 79496_79716 anything 79716_79996 else 79996_80446 .
+*INV:	+< well good , that's about all there is to see . 80376_82076
+%mor:	intj|well adj|good-S1 cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|about det|all-Def-Tot pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 part|to verb|see-Inf-S .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|7|PUNCT 4|7|NSUBJ 5|7|COP 6|7|ADVMOD 7|2|PARATAXIS 8|9|EXPL 9|7|ACL-RELCL 10|11|MARK 11|9|XCOMP 12|2|PUNCT
+%wor:	well 80376_80636 good 80636_80676 , that's 80676_80836 about 80836_81096 all 81096_81296 there 81296_81436 is 81436_81636 to 81636_81776 see 81776_82839 .
+*PAR:	okay . [+ exc] 82076_83129
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	okay 82076_83129 .
+@End

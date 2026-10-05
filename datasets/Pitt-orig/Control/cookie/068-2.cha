@@ -1,0 +1,56 @@
+@UTF8
+@PID:	11312/t-00002228-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|Pitt-orig|PAR|61;00.|female|Control||Participant|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T22:00:46-04:00]
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T06:00:11-04:00]
+@Media:	068-2, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*PAR:	oh yes . [+ exc] 570_1270
+%mor:	intj|oh intj|yes .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+%wor:	oh 570_850 yes 850_1320 .
+*PAR:	(.) well &=sighs &-uh the mother is washing the dishes . 1270_10590
+%mor:	intj|well det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%wor:	well 1270_1770 uh 5050_5550 the 9130_9250 mother 9250_9470 is 9470_9690 washing 9690_10010 the 10010_10250 dishes 10250_10764 .
+*PAR:	and the water is running over in the sink . 10590_14610
+%mor:	cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over adp|in det|the-Def-Art noun|sink .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|5|PUNCT
+%wor:	and 10590_11090 the 12470_12730 water 12730_12970 is 12970_13190 running 13190_13490 over 13490_13830 in 13830_14090 the 14090_14250 sink 14250_15760 .
+*PAR:	and the kid's [//] little boy's &+goi getting in the cookie jar . 14610_20052
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|boy~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|10|CASE 8|10|DET 9|10|COMPOUND 10|6|OBL 11|6|PUNCT
+%wor:	and 14610_15110 the 17150_17450 kid's 17450_17950 little 17950_18410 boy's 18410_18770 getting 18770_19110 in 19110_19310 the 19310_19430 cookie 19430_19670 jar 19670_20052 .
+*PAR:	and he's about to trip over the chair [: stool] [* s:r] . 20100_21820
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|trip-Inf-S adp|over det|the-Def-Art noun|stool .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|4|PUNCT
+%wor:	and 20100_20240 he's 20240_20360 about 20360_20600 to 20600_20780 trip 20780_21020 over 21020_21220 the 21220_21440 chair 21440_21850 .
+*PAR:	and she seems to be oblivious to everything . 21820_24240
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|seem-Fin-Ind-Pres-S3 part|to aux|be-Inf-S adj|oblivious-S1 adp|to pron|everything-Tot-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|MARK 5|6|COP 6|3|XCOMP 7|8|CASE 8|6|OBL 9|3|PUNCT
+%wor:	and 21820_22040 she 22040_22240 seems 22240_22640 to 22640_22800 be 22800_22940 oblivious 22940_23420 to 23420_23620 everything 23620_24260 .
+*PAR:	guess in some kind of daze . [+ gram] 24240_27400
+%mor:	verb|guess-Fin-Imp-S adp|in det|some-Def-Ind noun|kind adp|of noun|daze .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|6|CASE 6|4|NMOD 7|1|PUNCT
+%wor:	guess 24240_24740 in 25880_26120 some 26120_26420 kind 26420_26640 of 26640_26800 daze 26800_28049 .
+*PAR:	and the little girl has her finger on her lips and +"/. 27400_30620
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|finger-Acc adp|on pron|her-Prs-Gen-S3 noun|lip-Plur cconj|and +"/.
+%gra:	1|5|CC 2|4|DET 3|4|AMOD 4|5|NSUBJ 5|0|ROOT 6|7|NMOD-POSS 7|5|OBJ 8|10|CASE 9|10|NMOD-POSS 10|5|OBL 11|5|CONJ 12|5|PUNCT
+%wor:	and 27400_27900 the 28500_28640 little 28640_28720 girl 28720_28920 has 28920_29200 her 29200_29360 finger 29360_29620 on 29620_29840 her 29840_29980 lips 29980_30360 and 30360_31181 +"/.
+*PAR:	+" sh@o don't tell mom . 30620_31931
+%mor:	on|sh aux|do-Fin-Imp-S~part|not verb|tell-Fin-Imp-S noun|mom .
+%gra:	1|4|DEP 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|IOBJ 6|4|PUNCT
+%wor:	sh 30620_30920 don't 30920_31280 tell 31280_31500 mom 31500_31931 .
+*PAR:	&-um (.) this looks [/] looks like the mother is really kinda [: kind_of] (.) burned out . 31958_42978
+%mor:	pron|this-Dem-S1 verb|look-Fin-Ind-Pres-S3 sconj|like det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 adv|really adj|kindof-S1 verb|burn-Part-Past-S adp|out .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|8|MARK 4|5|DET 5|8|NSUBJ 6|8|COP 7|8|ADVMOD 8|2|ADVCL 9|8|ADVCL 10|9|COMPOUND-PRT 11|2|PUNCT
+%wor:	um 31958_32458 this 33838_34338 looks 37778_38318 looks 38318_38638 like 38638_38798 the 38798_38938 mother 38938_39138 is 39138_39318 really 39318_39558 kinda 39558_39898 burned 39898_40398 out 42558_42984 .
+*PAR:	or in some kind of a depression (be)cause she doesn't seem to know what's going on . [+ gram] 42978_51024
+%mor:	cconj|or adp|in det|some-Def-Ind noun|kind adp|of det|a-Ind-Art noun|depression sconj|because pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|seem-Inf-S part|to verb|know-Inf-S pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on .
+%gra:	1|4|CC 2|4|CASE 3|4|DET 4|0|ROOT 5|7|CASE 6|7|DET 7|4|NMOD 8|12|MARK 9|12|NSUBJ 10|12|AUX 11|12|ADVMOD 12|4|ADVCL 13|14|MARK 14|12|XCOMP 15|17|NSUBJ 16|17|AUX 17|14|CCOMP 18|17|COMPOUND-PRT 19|4|PUNCT
+%wor:	or 42978_43478 in 45258_45578 some 45578_45778 kind 45778_46018 of 46018_46138 a 46138_46458 depression 46458_46958 because 49198_49478 she 49478_49618 doesn't 49618_49878 seem 49878_50118 to 50118_50238 know 50238_50418 what's 50418_50678 going 50678_50958 on 50958_51024 .
+@End

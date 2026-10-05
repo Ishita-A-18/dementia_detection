@@ -1,0 +1,105 @@
+@UTF8
+@PID:	11312/a-00049948-1
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|WLS|INV|||||Investigator|||
+@ID:	eng|WLS|PAR|||||Participant|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T05:52:32-04:00]
+@Media:	16847, audio
+*INV:	so ‡ I'm going to hand you this card . 0_8690
+%mor:	adv|so punct|‡ pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|hand-Inf-S pron|you-Prs-Acc-S2 det|this-Def-Dem-Sing noun|card-Acc .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|7|IOBJ 9|10|DET 10|7|OBJ 11|5|PUNCT
+*INV:	just please take a look at the picture and describe everything that you see here . 27950_31260
+%mor:	adv|just intj|please verb|take-Fin-Imp-S det|a-Ind-Art noun|look-Acc adp|at det|the-Def-Art noun|picture cconj|and verb|describe-Fin-Imp-S pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 adv|here .
+%gra:	1|3|ADVMOD 2|3|DISCOURSE 3|0|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|10|CC 10|3|CONJ 11|10|OBJ 12|14|OBJ 13|14|NSUBJ 14|11|ACL-RELCL 15|14|ADVMOD 16|3|PUNCT
+*PAR:	really ? 31280_31540
+%mor:	adv|really ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	everything ? 33470_33740
+%mor:	pron|everything-Tot-S1 ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	mhm . 34290_34940
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	just whatever comes to mind . 36130_37180
+%mor:	adv|just pron|whatever-Int-S1 verb|come-Fin-Ind-Pres-S3 adp|to noun|mind .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|ACL-RELCL 4|5|CASE 5|3|OBL 6|2|PUNCT
+*PAR:	okay . 37560_37860
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@Bg:	Activity
+*PAR:	well ‡ the sink is overflowing . 38070_39390
+%mor:	intj|well punct|‡ det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|4|DET 4|6|NSUBJ 5|6|COP 6|0|ROOT 7|6|PUNCT
+*PAR:	that's happened to me , too . [+ exc] 39980_42120
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Past-S adp|to pron|I-Prs-Acc-S1 cm|cm adv|too .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|0|ROOT 4|5|CASE 5|3|OBL 6|7|PUNCT 7|3|ADVMOD 8|3|PUNCT
+*PAR:	and the little boy is getting in the cookie jar . 42760_44820
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|10|CASE 8|10|DET 9|10|COMPOUND 10|6|OBL 11|6|PUNCT
+*PAR:	and the stool is going to fall over . 44840_47790
+%mor:	cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|fall-Inf-S adv|over .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|7|ADVMOD 9|5|PUNCT
+*PAR:	and of_course +//. 48410_49860
+%mor:	cconj|and noun|ofcourse +//.
+%gra:	1|2|CC 2|0|ROOT 3|2|PUNCT
+*PAR:	I don't know if you want the good stuff too . [+ exc] 49880_51230
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|if pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 det|the-Def-Art adj|good-S1 noun|stuff-Acc adv|too .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|7|MARK 6|7|NSUBJ 7|4|CCOMP 8|10|DET 9|10|AMOD 10|7|OBJ 11|7|ADVMOD 12|4|PUNCT
+*PAR:	looking outside . 51280_51870
+%mor:	verb|look-Part-Pres-S adv|outside .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*PAR:	nice yard , trees , grass , bushes . 52470_55180
+%mor:	adj|nice-S1 noun|yard cm|cm noun|tree-Plur cm|cm noun|grass cm|cm noun|bush-Plur .
+%gra:	1|2|AMOD 2|0|ROOT 3|4|PUNCT 4|2|CONJ 5|6|PUNCT 6|2|CONJ 7|8|PUNCT 8|2|CONJ 9|2|PUNCT
+*PAR:	it's a kitchen obviously . 55200_58070
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|kitchen adv|obviously .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	there's some dishes on the counter . 58120_59620
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|some-Def-Ind noun|dish-Plur adp|on det|the-Def-Art noun|counter .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|2|PUNCT
+*PAR:	and mom obviously is wiping the dishes . 59860_62710
+%mor:	cconj|and noun|mom adv|obviously aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|ADVMOD 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	and it looks like the little girl is laughing almost or something about the little boy has a cookie and was going to hand it to his sister . 63060_71630
+%mor:	cconj|and pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|laugh-Part-Pres-S adv|almost cconj|or pron|something-Ind-S1 adp|about det|the-Def-Art adj|little-S1 noun|boy verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie-Acc cconj|and aux|be-Fin-Ind-Past-S3-irr verb|go-Part-Pres-S part|to verb|hand-Inf-S pron|it-Prs-Acc-S3 adp|to pron|his-Prs-Gen-S3 noun|sister .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|9|MARK 5|7|DET 6|7|AMOD 7|9|NSUBJ 8|9|AUX 9|3|ADVCL 10|9|ADVMOD 11|17|CC 12|17|NSUBJ 13|16|CASE 14|16|DET 15|16|AMOD 16|12|NMOD 17|3|CONJ 18|19|DET 19|17|OBJ 20|22|CC 21|22|AUX 22|17|CONJ 23|24|MARK 24|22|XCOMP 25|24|OBJ 26|28|CASE 27|28|NMOD-POSS 28|24|OBL 29|3|PUNCT
+*PAR:	there's a puddle on the floor . 71950_75340
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|puddle adp|on det|the-Def-Art noun|floor .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|2|PUNCT
+*PAR:	and there's a nice curtain on the window . 76460_80700
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|nice-S1 noun|curtain adp|on det|the-Def-Art noun|window .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|NSUBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|3|PUNCT
+*PAR:	and it obviously has a balance . 80780_82040
+%mor:	cconj|and pron|it-Prs-Nom-S3 adv|obviously verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|balance-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and it must be an l@l shaped house because there's a window that she can see from the kitchen window . 82420_88820
+%mor:	cconj|and pron|it-Prs-Nom-S3 aux|must-Fin-S aux|be-Inf-S det|a-Ind-Art n:let|l verb|shape-Part-Past-S noun|house sconj|because pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|window pron|that-Rel pron|she-Prs-Nom-S3 aux|can-Fin-S verb|see-Inf-S adp|from det|the-Def-Art noun|kitchen noun|window .
+%gra:	1|8|CC 2|8|NSUBJ 3|8|AUX 4|8|COP 5|8|DET 6|7|DEP 7|8|AMOD 8|0|ROOT 9|11|MARK 10|11|EXPL 11|8|ADVCL 12|13|DET 13|11|NSUBJ 14|17|OBJ 15|17|NSUBJ 16|17|AUX 17|13|ACL-RELCL 18|21|CASE 19|21|DET 20|21|COMPOUND 21|17|OBL 22|8|PUNCT
+*PAR:	mom has on a dress . 91180_92260
+%mor:	noun|mom verb|have-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art noun|dress .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*PAR:	nobody wears dresses in the kitchen nowadays . 92280_94470
+%mor:	pron|nobody-Neg-S1 verb|wear-Fin-Ind-Pres-S3 noun|dress-Plur-Acc adp|in det|the-Def-Art noun|kitchen adv|nowadays .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|6|CASE 5|6|DET 6|2|OBL 7|2|ADVMOD 8|2|PUNCT
+*PAR:	and an apron . 95940_96580
+%mor:	cconj|and det|a-Ind-Art noun|apron .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	just looks like a nice kitchen . 102630_103640
+%mor:	adv|just verb|look-Fin-Ind-Pres-S3 adp|like det|a-Ind-Art adj|nice-S1 noun|kitchen .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|6|CASE 4|6|DET 5|6|AMOD 6|2|OBL 7|2|PUNCT
+@Eg:	Activity
+*INV:	alright . 105220_105590
+%mor:	intj|alright .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	I'll take it . 106650_107020
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S verb|take-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*INV:	thank_you . 107130_107220
+%mor:	propn|thankyou .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	that's just what we're looking for . 107410_108580
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|just pron|what-Rel-S1 pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 verb|look-Part-Pres-S adp|for .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|7|OBL 9|4|PUNCT
+@End

@@ -1,0 +1,137 @@
+@UTF8
+@PID:	11312/t-00016185-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|57;|female|ProbableAD||Participant|20||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-07T09:46:02-04:00]
+@Media:	356-0, audio
+@G:	animals
+*INV:	and you can begin now . 0_1600
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S adv|now .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	okay . [+ exc] 1600_1960
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	horse . 1960_2500
+%mor:	noun|horse .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cow . 2500_4343
+%mor:	noun|cow .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	dog . 4343_5698
+%mor:	noun|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	horse [/] &-hm horse cow and dog . [+ exc] 6087_10961
+%mor:	noun|horse noun|cow cconj|and noun|dog .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|4|CC 4|2|CONJ 5|2|PUNCT
+*PAR:	a cat . 10961_12767
+%mor:	det|a-Ind-Art noun|cat .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	(.) did I say a cow@q ? [+ exc] 12767_17359
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|say-Inf-S det|a-Ind-Art meta|cow ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|DEP 6|3|PUNCT
+*INV:	just keep naming them . 17359_18701
+%mor:	adv|just verb|keep-Fin-Imp-S verb|name-Ger-S pron|they-Prs-Acc-P3 .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|XCOMP 4|3|OBJ 5|2|PUNCT
+*PAR:	cow . 18701_19241
+%mor:	noun|cow .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	a horse . 19241_20785
+%mor:	det|a-Ind-Art noun|horse .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	what else +..? [+ exc] 25555_27133
+%mor:	pron|what-Int-S1 adv|else +..?
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*PAR:	pig . 27133_28253
+%mor:	noun|pig .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh did I saw cow@q ? [+ exc] 28253_33389
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|see-Part-Past-S-irr meta|cow ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|DEP 5|3|PUNCT
+*PAR:	&-uh egads . [+ exc] 33389_39000
+%mor:	noun|egad-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	chicken . 39000_40657
+%mor:	noun|chicken .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	did I say dog@q ? [+ exc] 45000_47552
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|say-Inf-S meta|dog ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|DEP 5|3|PUNCT
+*PAR:	I don't even know if I did . [+ exc] 47552_49080
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not adv|even verb|know-Inf-S sconj|if pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|ADVMOD 4|5|ADVMOD 5|0|ROOT 6|8|MARK 7|8|NSUBJ 8|5|CCOMP 9|5|PUNCT
+*INV:	just keep naming them . 49080_50311
+%mor:	adv|just verb|keep-Fin-Imp-S verb|name-Ger-S pron|they-Prs-Acc-P3 .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|XCOMP 4|3|OBJ 5|2|PUNCT
+*PAR:	gosh ‡ I just can't think of any more . [+ exc] 61000_63365
+%mor:	intj|gosh intj|‡ pron|I-Prs-Nom-S1 adv|just aux|can-Fin-S~part|not verb|think-Inf-S adp|of det|any-Def-Ind adj|more-Cmp-S1 .
+%gra:	1|7|DISCOURSE 2|7|DISCOURSE 3|7|NSUBJ 4|7|ADVMOD 5|7|AUX 6|7|ADVMOD 7|0|ROOT 8|10|CASE 9|10|DET 10|7|OBL 11|7|PUNCT
+*INV:	+< okay that's fine . 62365_64287
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+@G:	F
+*INV:	now I'm going to have you think of as many words as you can think of that begin with the letter f@l . 64287_69456
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|have-Inf-S pron|you-Prs-Nom-S2 verb|think-Inf-S adp|of adv|as adj|many-S1 noun|word-Plur sconj|as pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of pron|that-Rel verb|begin-Fin-Ind-Pres-P3 adp|with det|the-Def-Art noun|letter n:let|f .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|OBJ 8|6|XCOMP 9|12|CASE 10|11|ADVMOD 11|12|AMOD 12|8|OBL 13|16|MARK 14|16|NSUBJ 15|16|AUX 16|8|ADVCL 17|16|OBL 18|19|NSUBJ 19|12|ACL-RELCL 20|23|CASE 21|23|DET 22|23|DEP 23|19|OBL 24|4|PUNCT
+*INV:	any word at all that begins with the letter f@l . 69456_71540
+%mor:	det|any-Def-Ind noun|word adp|at det|all-Def-Tot pron|that-Rel verb|begin-Fin-Ind-Pres-S3 adp|with det|the-Def-Art noun|letter n:let|f .
+%gra:	1|2|DET 2|0|ROOT 3|4|CASE 4|2|NMOD 5|6|NSUBJ 6|2|ACL-RELCL 7|10|CASE 8|10|DET 9|10|COMPOUND 10|6|DEP 11|2|PUNCT
+*INV:	letter f@l . 71540_72525
+%mor:	noun|letter n:let|f .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*INV:	and you can begin now . 72225_74350
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S adv|now .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	f@l . [+ exc] 74350_75290
+%mor:	n:let|f .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&+f floor . 75290_77456
+%mor:	noun|floor .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and f@l o@l r@l . 77456_80195
+%mor:	cconj|and n:let|f n:let|o n:let|r .
+%gra:	1|4|CC 2|4|DEP 3|4|DEP 4|0|ROOT 5|4|PUNCT
+*PAR:	&-um floor „ jeez . [+ exc] 80195_85862
+%mor:	noun|floor punct|„ noun|jeez .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|APPOS 4|1|PUNCT
+*PAR:	(.) jeez ‡ I can't think of anything now . [+ exc] 85862_91272
+%mor:	intj|jeez punct|‡ pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|think-Inf-S adp|of pron|anything-Ind-S1 adv|now .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|8|CASE 8|6|OBL 9|6|ADVMOD 10|6|PUNCT
+*PAR:	&-uh xxx . [+ exc] 91272_95045
+*PAR:	a fiddle . 95045_99465
+%mor:	det|a-Ind-Art noun|fiddle .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	&-hm what else ? [+ exc] 99465_103633
+%mor:	pron|what-Int-S1 adv|else ?
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*PAR:	oh_my . [+ exc] 103633_108916
+%mor:	propn|ohmy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	jeez ‡ I can't think of it now . [+ exc] 108916_113162
+%mor:	intj|jeez punct|‡ pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|think-Inf-S adp|of pron|it-Prs-Acc-S3 adv|now .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|8|CASE 8|6|OBL 9|6|ADVMOD 10|6|PUNCT
+*INV:	you've got about twenty seconds . 113162_115136
+%mor:	pron|you-Prs-Nom-S2~aux|have-Fin-Ind-Pres-S2 verb|get-Part-Past-S-irr adv|about num|twenty noun|second-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|ADVMOD 5|6|NUMMOD 6|3|OBJ 7|3|PUNCT
+*PAR:	&-hm jeez . [+ exc] 115136_116680
+%mor:	intj|jeez .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) gosh ‡ I can't think of it . [+ exc] 116680_122926
+%mor:	intj|gosh intj|‡ pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|think-Inf-S adp|of pron|it-Prs-Acc-S3 .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|8|CASE 8|6|OBL 9|6|PUNCT
+*PAR:	(.) I get hyper . [+ exc] 122926_128778
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Pres-S1 noun|hyper-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	look out &=laughs . [+ exc] 128778_130058
+%mor:	verb|look-Fin-Imp-S adp|out .
+%gra:	1|0|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+*PAR:	it's terrible . [+ exc] 130058_131355
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|terrible-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	xxx . [+ exc] 132275_134362
+*INV:	okay ‡ that's fine . 133962_135435
+%mor:	intj|okay punct|‡ pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+@End

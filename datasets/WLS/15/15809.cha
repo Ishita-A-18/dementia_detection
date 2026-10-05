@@ -1,0 +1,102 @@
+@UTF8
+@PID:	11312/a-00049870-1
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|WLS|INV|||||Investigator|||
+@ID:	eng|WLS|PAR|||||Participant|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T05:52:33-04:00]
+@Media:	15809, audio
+*INV:	okay . 14770_14920
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	will you please take a look at this picture and describe everything you see here ? 15240_18850
+%mor:	aux|will-Fin-S pron|you-Prs-Nom-S2 intj|please verb|take-Inf-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture cconj|and verb|describe-Inf-S pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 adv|here ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|DISCOURSE 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|11|CC 11|4|CONJ 12|11|OBJ 13|14|NSUBJ 14|12|ACL-RELCL 15|14|ADVMOD 16|4|PUNCT
+@Bg:	Activity
+*PAR:	well ‡ we have a mother who is not paying attention to the water that's spilling down on the floor . 24410_28720
+%mor:	intj|well punct|‡ pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 det|a-Ind-Art noun|mother-Acc pron|who-Rel aux|be-Fin-Ind-Pres-S3 part|not verb|pay-Part-Pres-S noun|attention-Acc adp|to det|the-Def-Art noun|water pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S adp|down adp|on det|the-Def-Art noun|floor .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|6|ACL-RELCL 11|10|OBJ 12|14|CASE 13|14|DET 14|10|OBL 15|17|NSUBJ 16|17|AUX 17|14|ACL-RELCL 18|17|COMPOUND-PRT 19|21|CASE 20|21|DET 21|17|OBL 22|4|PUNCT
+*PAR:	she's in high heels . 28940_29960
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|in adj|high-S1 noun|heel-Plur .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|CASE 4|5|AMOD 5|0|ROOT 6|5|PUNCT
+*PAR:	that's an old old picture . 30980_31970
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|old-S1 adj|old-S1 noun|picture .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|DET 4|6|AMOD 5|6|AMOD 6|0|ROOT 7|6|PUNCT
+*PAR:	she has an apron on . 32080_33130
+%mor:	pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|apron-Acc adp|on .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|ADVMOD 6|2|PUNCT
+*PAR:	she was drying the dishes . 33760_34640
+%mor:	pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	she lives in a house with a pretty picture window , looking outside . 34800_38640
+%mor:	pron|she-Prs-Nom-S3 verb|live-Fin-Ind-Pres-S3 adp|in det|a-Ind-Art noun|house adp|with det|a-Ind-Art adj|pretty-S1 noun|picture noun|window cm|cm verb|look-Part-Pres-S adv|outside .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|10|CASE 7|10|DET 8|10|AMOD 9|10|COMPOUND 10|2|OBL 11|12|PUNCT 12|2|ADVCL 13|12|ADVMOD 14|2|PUNCT
+*PAR:	the little boy is gonna fall off there , trying to get the cookies in the cookie jar . 39670_42920
+%mor:	det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|fall-Inf-S adp|off adv|there cm|cm verb|try-Part-Pres-S part|to verb|get-Inf-S det|the-Def-Art noun|cookie-Plur-Acc adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|9|CASE 9|7|OBL 10|11|PUNCT 11|7|ADVCL 12|13|MARK 13|11|XCOMP 14|15|DET 15|13|OBJ 16|19|CASE 17|19|DET 18|19|COMPOUND 19|13|OBL 20|5|PUNCT
+*PAR:	and the daughter is probably saying +"/. 43320_45120
+%mor:	cconj|and det|the-Def-Art noun|daughter aux|be-Fin-Ind-Pres-S3 adv|probably verb|say-Part-Pres-S +"/.
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|6|PUNCT
+*PAR:	+" you stupid guy . 45460_45840
+%mor:	pron|you-Prs-Nom-S2 adj|stupid-S1 noun|guy .
+%gra:	1|3|NSUBJ 2|3|AMOD 3|0|ROOT 4|3|PUNCT
+*PAR:	+" you shouldn't have done that . 45950_46650
+%mor:	pron|you-Prs-Nom-S2 aux|should-Fin-S~part|not aux|have-Inf-S verb|do-Part-Past-S-irr pron|that-Dem .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|ADVMOD 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	and let's see . [+ exc] 47720_49120
+%mor:	cconj|and verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|2|CC 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|2|PUNCT
+*PAR:	what else ? [+ exc] 49170_49830
+%mor:	pron|what-Int-S1 adv|else ?
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*PAR:	in the kitchen , they've got a valance on the top of their kitchen . 52410_54890
+%mor:	adp|in det|the-Def-Art noun|kitchen cm|cm pron|they-Prs-Nom-P3~aux|have-Fin-Ind-Pres-P3 verb|get-Part-Past-S-irr det|a-Ind-Art noun|valance-Acc adp|on det|the-Def-Art noun|top adp|of pron|their-Prs-Gen-P3 noun|kitchen .
+%gra:	1|3|CASE 2|3|DET 3|7|OBL 4|3|PUNCT 5|7|NSUBJ 6|7|AUX 7|0|ROOT 8|9|DET 9|7|OBJ 10|12|CASE 11|12|DET 12|7|OBL 13|15|CASE 14|15|NMOD-POSS 15|12|NMOD 16|7|PUNCT
+*PAR:	a tree outside . 54970_59080
+%mor:	det|a-Ind-Art noun|tree adv|outside .
+%gra:	1|2|DET 2|0|ROOT 3|2|ADVMOD 4|2|PUNCT
+*PAR:	it's an l@l shaped house . 61740_62770
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art n:let|l verb|shape-Part-Past-S noun|house .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|DEP 4|5|COMPOUND 5|6|AMOD 6|0|ROOT 7|6|PUNCT
+*PAR:	I wonder what kind of cookies they have . 63350_68910
+%mor:	pron|I-Prs-Nom-S1 verb|wonder-Fin-Ind-Pres-S1 det|what-Def-Int noun|kind-Acc adp|of noun|cookie-Plur pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|CASE 6|4|NMOD 7|8|NSUBJ 8|6|ACL-RELCL 9|2|PUNCT
+*PAR:	it doesn't look like chocolate chip cookies . 68930_70710
+%mor:	pron|it-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|look-Inf-S adp|like noun|chocolate noun|chip noun|cookie-Plur .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|8|CASE 6|7|COMPOUND 7|8|COMPOUND 8|4|OBL 9|4|PUNCT
+*PAR:	can't tell what kind . 70730_71390
+%mor:	aux|can-Fin-S~part|not verb|tell-Fin-Imp-S det|what-Def-Int noun|kind-Acc .
+%gra:	1|3|AUX 2|3|ADVMOD 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	but they're not sugar cookies . 72440_73360
+%mor:	cconj|but pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 part|not noun|sugar noun|cookie-Plur .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|6|ADVMOD 5|6|COMPOUND 6|0|ROOT 7|6|PUNCT
+*PAR:	what else ? [+ exc] 78480_79300
+%mor:	pron|what-Int-S1 adv|else ?
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*PAR:	mom's got an oldfashioned hairdo . 81410_82560
+%mor:	noun|mom~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr det|a-Ind-Art adj|oldfashioned-S1 noun|hairdo-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+*PAR:	he's in tennis shoes . 84510_89450
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|in noun|tennis noun|shoe-Plur .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|CASE 4|5|COMPOUND 5|0|ROOT 6|5|PUNCT
+*PAR:	she's got &-like mary_janes on , the girl , and socks . 90290_93000
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr noun|maryjane-Plur-Acc adp|on cm|cm det|the-Def-Art noun|girl cm|cm cconj|and noun|sock-Plur .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|ADVMOD 6|8|PUNCT 7|8|DET 8|3|PARATAXIS 9|11|PUNCT 10|11|CC 11|8|CONJ 12|3|PUNCT
+*PAR:	short xxx short skirt , the little girl . 94070_95930
+%mor:	adj|short-S1 adj|short-S1 noun|skirt cm|cm det|the-Def-Art adj|little-S1 noun|girl .
+%gra:	1|3|AMOD 2|3|AMOD 3|0|ROOT 4|7|PUNCT 5|7|DET 6|7|AMOD 7|3|APPOS 8|3|PUNCT
+*PAR:	that's all I see . [+ exc] 95990_102620
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|3|PUNCT
+@Eg:	Activity
+*INV:	okay . 103070_103270
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	thank_you . 103320_104870
+%mor:	propn|thankyou .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	that's just what we're looking for on that one . 108460_113260
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|just pron|what-Rel-S1 pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 verb|look-Part-Pres-S adp|for adp|on det|that-Def-Dem-Sing noun|one .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|7|OBL 9|11|CASE 10|11|DET 11|7|OBL 12|4|PUNCT
+@End

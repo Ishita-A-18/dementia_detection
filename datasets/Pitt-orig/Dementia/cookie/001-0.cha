@@ -1,0 +1,64 @@
+@UTF8
+@PID:	11312/t-00002420-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|57;|male|ProbableAD||Participant|18||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T21:56:47-04:00]
+@Media:	001-0, audio
+@Comment:	another audio testing file overlaps in background
+@G:	Cookie
+*INV:	this is the picture . 340_2460
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|0|ROOT 5|4|PUNCT
+%wor:	this 340_840 is 1820_1940 the 1940_2120 picture 2120_2530 .
+*PAR:	mhm . [+ exc] 2460_3211
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	mhm 2460_3211 .
+*INV:	just tell me everything that you see happening in that picture . 3300_6220
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|IOBJ 4|2|OBJ 5|8|OBJ 6|7|NSUBJ 7|4|ACL-RELCL 8|7|XCOMP 9|11|CASE 10|11|DET 11|8|OBL 12|2|PUNCT
+%wor:	just 3300_4160 tell 4160_4380 me 4380_4520 everything 4520_4960 that 4960_5200 you 5200_5340 see 5340_5540 happening 5540_5900 in 5900_6120 that 6120_6220 picture 6220_6646 .
+*PAR:	+< alright . [+ exc] 6220_6900
+%mor:	intj|alright .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	alright 6220_7000 .
+*PAR:	there's &-um a young boy that's getting a cookie jar . 6900_11880
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|young-S1 noun|boy pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S det|a-Ind-Art noun|cookie noun|jar-Acc .
+%gra:	1|2|EXPL 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|NSUBJ 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|11|DET 10|11|COMPOUND 11|8|OBJ 12|2|PUNCT
+%wor:	there's 6900_7600 um 7600_7920 a 7920_8740 young 8740_8960 boy 8960_9400 that's 9400_9900 getting 10460_10840 a 10840_11160 cookie 11160_11380 jar 11380_12027 .
+*PAR:	and it [//] he's &-uh in bad shape because &-uh the thing is fallin(g) over . 11880_18528
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|in adj|bad-S1 noun|shape sconj|because det|the-Def-Art noun|thing-Ger aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|AMOD 6|0|ROOT 7|11|MARK 8|9|DET 9|11|NSUBJ 10|11|AUX 11|6|ADVCL 12|11|ADVMOD 13|6|PUNCT
+%wor:	and 11880_12380 it 12900_13060 he's 13060_13920 uh 13920_14320 in 14320_15180 bad 15180_15520 shape 15520_15860 because 15860_16280 uh 16280_16660 the 16660_17320 thing 17320_17500 is 17500_17640 falling 17640_18000 over 18000_18528 .
+*PAR:	and in the picture the mother is washin(g) dishes and doesn't see it . 19908_24568
+%mor:	cconj|and adp|in det|the-Def-Art noun|picture det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc cconj|and aux|do-Fin-Ind-Pres-S3~part|not verb|see-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|8|CC 2|4|CASE 3|4|DET 4|8|OBL 5|6|DET 6|8|NSUBJ 7|8|AUX 8|0|ROOT 9|8|OBJ 10|13|CC 11|13|AUX 12|13|ADVMOD 13|8|CONJ 14|13|OBJ 15|8|PUNCT
+%wor:	and 19908_20248 in 20248_20368 the 20368_20608 picture 20608_20928 the 20928_21348 mother 21348_21648 is 21648_22628 washing 22628_22928 dishes 22928_23328 and 23328_23648 doesn't 23648_24028 see 24028_24348 it 24348_24598 .
+*PAR:	and so <is the> [//] the water is overflowing in the sink . 24568_28968
+%mor:	cconj|and adv|so det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|in det|the-Def-Art noun|sink .
+%gra:	1|6|CC 2|6|ADVMOD 3|4|DET 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+%wor:	and 24568_25248 so 25248_25488 is 25488_25708 the 25708_25988 the 25988_26788 water 26788_27088 is 27088_27308 overflowing 27308_28268 in 28268_28488 the 28488_28668 sink 28668_29022 .
+*PAR:	and the dishes might <get falled [* +ed] over if you don't> [//] fell [//] fall over there [/] there if you don't get it . 28968_34608
+%mor:	cconj|and det|the-Def-Art noun|dish-Plur aux|might-Fin-S verb|fall-Inf-S adp|over adv|there sconj|if pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|get-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|CASE 7|5|OBL 8|12|MARK 9|12|NSUBJ 10|12|AUX 11|12|ADVMOD 12|5|ADVCL 13|12|OBJ 14|5|PUNCT
+%wor:	and 28968_29468 the 30628_30768 dishes 30768_30988 might 30988_31268 get 31268_31448 falled 31448_31848 over 31848_31988 if 31988_32248 you 32248_32288 don't 32288_32568 fell 32568_32608 fall 32608_32828 over 32828_33048 there 33048_33448 there 33448_33848 if 33848_33968 you 33968_34048 don't 34048_34148 get 34148_34368 it 34368_35644 .
+*PAR:	and it [//] there [//] it's a picture of a kitchen window . 34608_38954
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|picture adp|of det|a-Ind-Art noun|kitchen noun|window .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|DET 5|0|ROOT 6|9|CASE 7|9|DET 8|9|COMPOUND 9|5|NMOD 10|5|PUNCT
+%wor:	and 34608_35108 it 36088_36248 there 36248_36368 it's 36368_36808 a 36808_36928 picture 36928_37228 of 37228_38068 a 38068_38208 kitchen 38208_38448 window 38448_38954 .
+*PAR:	and the curtains are very &-uh distinct . 39140_42020
+%mor:	cconj|and det|the-Def-Art noun|curtain-Plur aux|be-Fin-Ind-Pres-P3 adv|very adj|distinct-S1 .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|0|ROOT 7|6|PUNCT
+%wor:	and 39140_39540 the 39540_40020 curtains 40020_40340 are 40340_40640 very 40640_41180 uh 41180_41460 distinct 41460_42140 .
+*PAR:	but the water is &+flow still flowing . 42020_46242
+%mor:	cconj|but det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 adv|still verb|flow-Part-Pres-S .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|6|PUNCT
+%wor:	but 42020_42520 the 43400_43900 water 44540_44860 is 44860_45060 still 45060_45700 flowing 45700_46242 .
+*INV:	okay thank_you very much . 46260_54755
+%mor:	intj|okay propn|thankyou adv|very adv|much .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|4|ADVMOD 4|2|ADVMOD 5|2|PUNCT
+%wor:	okay 46260_46760 thank_you 53500_54180 very 54180_54440 much 54440_54755 .
+@End

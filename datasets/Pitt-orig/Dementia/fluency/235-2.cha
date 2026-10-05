@@ -1,0 +1,130 @@
+@UTF8
+@PID:	11312/t-00016145-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR||male|ProbableAD||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-07T09:46:44-04:00]
+@Media:	235-2, audio
+@G:	animals
+*INV:	xxx . 0_1440
+*PAR:	ca(t) . 1440_3495
+%mor:	noun|cat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	ho(g) . 3495_3900
+%mor:	noun|hog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	sheep . 3900_4516
+%mor:	noun|sheep-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	goat . 4516_5480
+%mor:	noun|goat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&+r &+r &+r &-uh &+r rabbit . 5480_9473
+%mor:	noun|rabbit .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	possum . 9473_11006
+%mor:	noun|possum .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	coon . 11006_11784
+%mor:	noun|coon .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-um (.) foxes . 11784_20689
+%mor:	noun|fox-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	possums . 20689_22895
+%mor:	noun|possum-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	squirrels . 22895_24497
+%mor:	noun|squirrel-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh (..) deer . 24497_40043
+%mor:	noun|deer .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	hog . 40043_41772
+%mor:	noun|hog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	goats . 41772_43804
+%mor:	noun|goat-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	sheeps . 43804_45012
+%mor:	noun|sheep-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) racoon . 45012_54404
+%mor:	noun|racoon .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	possum . 54404_55762
+%mor:	noun|possum .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) &-hm apes . 55762_64865
+%mor:	noun|ape-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	hippopotamus . 64865_67953
+%mor:	noun|hippopotamus .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	+< okay ‡ that's a minute . 67553_68765
+%mor:	intj|okay punct|‡ pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|minute .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|DET 6|0|ROOT 7|6|PUNCT
+*INV:	very good . 68765_69613
+%mor:	adv|very adj|good-S1 .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|PUNCT
+@G:	F
+*INV:	now what I would like for you to do is name for me as many words as you can think of beginning with the letter f@l . 69613_77740
+%mor:	adv|now pron|what-Rel-S1 pron|I-Prs-Nom-S1 aux|would-Fin-S verb|like-Inf-S sconj|for pron|you-Prs-Acc-S2 part|to verb|do-Inf-S aux|be-Fin-Ind-Pres-S3 verb|name-Inf-S adp|for pron|I-Prs-Acc-S1 adv|as adj|many-S1 noun|word-Plur-Acc sconj|as pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S sconj|of verb|begin-Part-Pres-S adp|with det|the-Def-Art noun|letter n:let|f .
+%gra:	1|11|ADVMOD 2|11|NSUBJ-OUTER 3|5|NSUBJ 4|5|AUX 5|2|ACL-RELCL 6|9|MARK 7|5|OBL 8|9|MARK 9|5|XCOMP 10|11|COP 11|0|ROOT 12|13|CASE 13|11|OBL 14|15|ADVMOD 15|16|AMOD 16|11|OBJ 17|20|MARK 18|20|NSUBJ 19|20|AUX 20|11|ADVCL 21|22|MARK 22|20|ADVCL 23|26|CASE 24|26|DET 25|26|COMPOUND 26|22|DEP 27|11|PUNCT
+*INV:	the letter f@l . 77740_80283
+%mor:	det|the-Def-Art noun|letter n:let|f .
+%gra:	1|3|DET 2|3|COMPOUND 3|0|ROOT 4|3|PUNCT
+*INV:	I only want one form of the word . 80283_84921
+%mor:	pron|I-Prs-Nom-S1 adv|only verb|want-Fin-Ind-Pres-S1 num|one noun|form-Acc adp|of det|the-Def-Art noun|word .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|5|NUMMOD 5|3|OBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|3|PUNCT
+*INV:	for instance if you gave me the word walk I wouldn't want you to give me walking@q and walked@q also . 84921_91653
+%mor:	adp|for noun|instance sconj|if pron|you-Prs-Nom-S2 verb|give-Fin-Ind-Past-S2-irr pron|I-Prs-Acc-S1 det|the-Def-Art noun|word noun|walk-Acc pron|I-Prs-Nom-S1 aux|would-Fin-S~part|not verb|want-Inf-S pron|you-Prs-Acc-S2 part|to verb|give-Inf-S pron|I-Prs-Acc-S1 meta|walking cconj|and meta|walked adv|also .
+%gra:	1|2|CASE 2|13|OBL 3|5|MARK 4|5|NSUBJ 5|13|ADVCL 6|5|IOBJ 7|9|DET 8|9|COMPOUND 9|5|OBJ 10|13|NSUBJ 11|13|AUX 12|13|ADVMOD 13|0|ROOT 14|13|OBJ 15|16|MARK 16|13|XCOMP 17|16|DEP 18|16|OBJ 19|20|DEP 20|18|CONJ 21|16|ADVMOD 22|13|PUNCT
+*INV:	just one form of the word . 91653_93118
+%mor:	adv|just num|one noun|form adp|of det|the-Def-Art noun|word .
+%gra:	1|3|ADVMOD 2|3|NUMMOD 3|0|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|3|PUNCT
+*PAR:	+< just one &-uh +/. [+ exc] 92355_93118
+%mor:	adv|just num|one +/.
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|PUNCT
+*INV:	no proper names . 93118_95626
+%mor:	det|no-Def-Neg adj|proper-S1 noun|name-Plur .
+%gra:	1|3|DET 2|3|AMOD 3|0|ROOT 4|3|PUNCT
+*INV:	I don't want any proper names of places or people . 95626_98586
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|want-Inf-S det|any-Def-Ind adj|proper-S1 noun|name-Plur-Acc adp|of noun|place-Plur cconj|or noun|person-Plur .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|9|CASE 9|7|NMOD 10|11|CC 11|9|CONJ 12|4|PUNCT
+*INV:	so ‡ all the words that you can think of beginning with the letter f@l . 98586_103869
+%mor:	adv|so punct|‡ det|all-Def-Tot det|the-Def-Art noun|word-Plur pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S sconj|of verb|begin-Part-Pres-S adp|with det|the-Def-Art noun|letter n:let|f .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|DET-PREDET 4|5|DET 5|0|ROOT 6|11|OBJ 7|9|NSUBJ 8|9|AUX 9|5|ACL-RELCL 10|11|MARK 11|9|ADVCL 12|15|CASE 13|15|DET 14|15|COMPOUND 15|11|DEP 16|5|PUNCT
+*INV:	okay ‡ ready go ahead . 103869_107305
+%mor:	intj|okay intj|‡ adj|ready-S1 verb|go-Fin-Imp-S adv|ahead .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|XCOMP 5|4|ADVMOD 6|3|PUNCT
+*PAR:	fume . 107305_108780
+%mor:	noun|fume .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	fox . 108780_109628
+%mor:	propn|fox .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh fabric . 109628_114179
+%mor:	noun|fabric .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh (...) folks . 114179_136249
+%mor:	noun|folk-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh (.) fume . 136249_146756
+%mor:	noun|fume .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) family . 146756_157844
+%mor:	noun|family .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	folks . 157844_159446
+%mor:	noun|folk-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(...) familiar . 159446_170801
+%mor:	adj|familiar-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	good . 170801_171613
+%mor:	adj|good-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

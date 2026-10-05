@@ -1,0 +1,59 @@
+@UTF8
+@PID:	11312/t-00002541-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|63;|male|ProbableAD||Participant|27||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T21:58:23-04:00]
+@Media:	184-0, audio
+@G:	Cookie
+*INV:	okey_dokey . 390_550
+%mor:	propn|okeydokey .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	okey_dokey 390_550 .
+*INV:	tell me just what you see going on . 1070_2550
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 adv|just pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on .
+%gra:	1|0|ROOT 2|1|IOBJ 3|4|ADVMOD 4|1|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|6|XCOMP 8|7|COMPOUND-PRT 9|1|PUNCT
+%wor:	tell 1070_1110 me 1110_1270 just 1270_1470 what 1470_1590 you 1590_1710 see 1710_1890 going 1890_2170 on 2170_3531 .
+*PAR:	well ‡ (.) the little boy's in the cookie jar . 2550_7370
+%mor:	intj|well punct|‡ det|the-Def-Art adj|little-S1 noun|boy~part|s adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DISCOURSE 2|5|DISCOURSE 3|5|DET 4|5|AMOD 5|0|ROOT 6|5|CASE 7|10|CASE 8|10|DET 9|10|COMPOUND 10|5|NMOD 11|5|PUNCT
+%wor:	well 2550_3050 ‡ the 4670_5170 little 6170_6350 boy's 6350_6650 in 6650_6730 the 6730_6830 cookie 6830_7030 jar 7030_7446 .
+*PAR:	and he's about to fall on the floor because the chair's [: stool's] [* s:r] tilted . 7370_12410
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|fall-Inf-S adp|on det|the-Def-Art noun|floor sconj|because det|the-Def-Art noun|stool~part|s verb|tilt-Part-Past-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|14|MARK 11|12|DET 12|14|NMOD-POSS 13|12|CASE 14|6|ADVCL 15|4|PUNCT
+%wor:	and 7370_7870 he's 9170_9330 about 9330_9630 to 9630_9850 fall 9850_10730 on 10730_10890 the 10890_11010 floor 11010_11230 because 11230_11570 the 11570_11770 chair's 11770_12130 tilted 12130_12504 .
+*PAR:	mom's dryin(g) dishes . 12410_15890
+%mor:	noun|mom~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	mom's 12410_12910 drying 15350_15530 dishes 15530_16136 .
+*PAR:	she's not paying attention (be)cause the <water's runnin(g) over> [//] sink's runnin(g) over . 15890_20120
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not verb|pay-Part-Pres-S noun|attention-Acc sconj|because det|the-Def-Art noun|sink~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|10|MARK 7|8|DET 8|10|NSUBJ 9|10|AUX 10|4|ADVCL 11|10|COMPOUND-PRT 12|4|PUNCT
+%wor:	she's 15890_16890 not 16890_17070 paying 17070_17290 attention 17290_17670 because 17670_18010 the 18010_18130 water's 18130_18450 running 18450_18650 over 18650_18890 sink's 18890_19710 running 19710_19870 over 19870_20120 .
+*PAR:	water's all over the floor . 20897_21857
+%mor:	noun|water~aux|be-Fin-Ind-Pres-S3 adv|all adp|over det|the-Def-Art noun|floor .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|ADVMOD 4|6|CASE 5|6|DET 6|0|ROOT 7|6|PUNCT
+%wor:	water's 20897_21157 all 21157_21277 over 21277_21437 the 21437_21677 floor 21677_21857 .
+*PAR:	the little girl I think is begging her brother to give her a cookie . 21910_27137
+%mor:	det|the-Def-Art adj|little-S1 noun|girl pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 aux|be-Fin-Ind-Pres-S3 verb|begg-Part-Pres-S pron|her-Prs-Gen-S3 noun|brother-Acc part|to verb|give-Inf-S pron|her-Prs-Acc-S3 det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|3|DET 2|3|AMOD 3|7|NSUBJ-OUTER 4|5|NSUBJ 5|3|ACL-RELCL 6|7|COP 7|0|ROOT 8|9|NMOD-POSS 9|7|OBJ 10|11|MARK 11|7|XCOMP 12|11|IOBJ 13|14|DET 14|11|OBJ 15|7|PUNCT
+%wor:	the 21977_22477 little 23677_23837 girl 23837_24137 I 24137_24417 think 24417_24657 is 24657_24877 begging 24877_25257 her 25257_25497 brother 25497_25777 to 25777_25997 give 25997_26197 her 26197_26457 a 26457_26637 cookie 26637_27137 .
+*PAR:	I'm not sure about that . [+ exc] 27137_28697
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not adj|sure-S1 adp|about pron|that-Dem .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+%wor:	I'm 27137_27317 not 27317_27477 sure 27477_27657 about 27657_27997 that 27997_28946 .
+*PAR:	&-um must be summer time because the window's open . 28697_33077
+%mor:	aux|must-Fin-S aux|be-Inf-S noun|summer noun|time sconj|because det|the-Def-Art noun|window~part|s adj|open-S1 .
+%gra:	1|4|AUX 2|4|COP 3|4|COMPOUND 4|0|ROOT 5|9|MARK 6|7|DET 7|9|NMOD-POSS 8|7|CASE 9|4|ADVCL 10|4|PUNCT
+%wor:	um 28697_29197 must 29777_30277 be 31177_31357 summer 31357_31597 time 31597_31877 because 31877_32197 the 32197_32377 window's 32377_32717 open 32717_33138 .
+*PAR:	you can see the [/] the grass and shrubbery outside . 33077_36375
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S det|the-Def-Art noun|grass-Acc cconj|and noun|shrubbery adv|outside .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|CC 7|5|CONJ 8|3|ADVMOD 9|3|PUNCT
+%wor:	you 33077_33517 can 33517_33697 see 33697_33897 the 33897_34377 the 34377_35017 grass 35017_35317 and 35317_35517 shrubbery 35517_35877 outside 35877_36375 .
+*PAR:	and see a few dishes that mom has already dried . [+ gram] 38328_49238
+%mor:	cconj|and verb|see-Fin-Imp-S det|a-Ind-Art adj|few-S1 noun|dish-Plur-Acc pron|that-Rel noun|mom aux|have-Fin-Ind-Pres-S3 adv|already verb|dry-Part-Past-S .
+%gra:	1|2|CC 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|10|OBJ 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|5|ACL-RELCL 11|2|PUNCT
+%wor:	and 38328_38528 see 38528_39028 a 41208_41388 few 41388_41648 dishes 41648_42328 that 42328_42608 mom 42608_42888 has 42888_42988 already 42988_43328 dried 43328_49238 .
+@End

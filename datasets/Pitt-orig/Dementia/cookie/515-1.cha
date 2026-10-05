@@ -1,0 +1,72 @@
+@UTF8
+@PID:	11312/t-00002674-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|78;|female|ProbableAD||Participant|12||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T21:49:11-04:00]
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T05:59:20-04:00]
+@Media:	515-1, audio
+@G:	Cookie
+*INV:	I want you to take a look at that picture . 1290_3070
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|take-Inf-S det|a-Ind-Art noun|look-Acc adp|at det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|7|DET 7|5|OBJ 8|10|CASE 9|10|DET 10|7|NMOD 11|2|PUNCT
+%wor:	I 1290_1470 want 1470_1510 you 1510_1710 to 1710_1850 take 1850_2010 a 2010_2190 look 2190_2390 at 2390_2530 that 2530_2730 picture 2730_3524 .
+*PAR:	ah oh boy &=laughs . [+ exc] 3070_4710
+%mor:	intj|ah intj|oh intj|boy .
+%gra:	1|0|ROOT 2|3|DISCOURSE 3|1|DISCOURSE 4|1|PUNCT
+%wor:	ah 3070_3630 oh 3630_4150 boy 4150_5964 .
+*INV:	I want you to tell me everything &*PAR:mm you see happening there . 4710_8868
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adv|there .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|5|OBJ 8|9|NSUBJ 9|7|ACL-RELCL 10|9|XCOMP 11|10|ADVMOD 12|2|PUNCT
+%wor:	I 4710_5210 want 6110_6350 you 6350_6490 to 6490_6650 tell 6650_6890 me 6890_7090 everything 7090_7410 you 7410_7830 see 7830_7970 happening 7970_8470 there 8470_8868 .
+*PAR:	mhm &=laughs . [+ exc] 8870_9358
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	mhm 8870_9358 .
+*INV:	everything that's going on in that picture . 9370_11050
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|1|PUNCT
+%wor:	everything 9370_9770 that's 9770_10070 going 10070_10350 on 10350_10670 in 10670_11010 that 11010_11050 picture 11050_11730 .
+*PAR:	+< oh ‡ the kids are tryin(g) to get the cookies . 11050_13070
+%mor:	intj|oh punct|‡ det|the-Def-Art noun|kid-Plur aux|be-Fin-Ind-Pres-P3 verb|try-Part-Pres-S part|to verb|get-Inf-S det|the-Def-Art noun|cookie-Plur-Acc .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|4|DET 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|8|MARK 8|6|XCOMP 9|10|DET 10|8|OBJ 11|6|PUNCT
+%wor:	oh 11050_11210 ‡ the 11210_11470 kids 11470_11770 are 11770_11910 trying 11910_12230 to 12230_12390 get 12390_12550 the 12550_12730 cookies 12730_13932 .
+*PAR:	and she's laughing but holdin(g) her hand up to him . 13070_17070
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|laugh-Part-Pres-S cconj|but verb|hold-Part-Pres-S pron|her-Prs-Gen-S3 noun|hand-Acc adp|up adp|to pron|he-Prs-Acc-S3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|CC 6|4|CONJ 7|8|NMOD-POSS 8|6|OBJ 9|6|COMPOUND-PRT 10|11|CASE 11|6|OBL 12|4|PUNCT
+%wor:	and 13070_13570 she's 14330_14750 laughing 14750_15250 but 15250_15570 holding 15570_15970 her 15970_16170 hand 16170_16430 up 16430_16630 to 16630_16830 him 16830_17242 .
+*PAR:	and the [//] they know he's gonna fall off the chair [* s:r] &=laughs . 17070_20913
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|know-Fin-Ind-Pres-P3 pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|fall-Inf-S adp|off det|the-Def-Art noun|chair .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|NSUBJ 5|6|AUX 6|3|CCOMP 7|8|MARK 8|6|XCOMP 9|11|CASE 10|11|DET 11|8|OBL 12|3|PUNCT
+%wor:	and 17070_17330 the 17330_17810 they 17810_18190 know 18190_18390 he's 18390_18530 gonna 18530_18690 fall 18690_19030 off 19030_19250 the 19250_19430 chair 19430_20913 .
+*PAR:	and their mother's doing the dishes and <not doing> [//] not being careful . 21801_26341
+%mor:	cconj|and pron|their-Prs-Gen-P3 noun|mother~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc cconj|and part|not aux|be-Part-Pres-S adj|careful-S1 .
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|11|CC 9|11|ADVMOD 10|11|COP 11|5|CONJ 12|5|PUNCT
+%wor:	and 21801_22141 their 22141_22201 mother's 22201_22781 doing 22781_23021 the 23021_23241 dishes 23241_23561 and 23561_24061 not 24741_25041 doing 25041_25501 not 25501_25801 being 25801_26021 careful 26021_26391 .
+*PAR:	she didn't turn the water off . 26341_27484
+%mor:	pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr~part|not verb|turn-Inf-S det|the-Def-Art noun|water-Acc adp|off .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|COMPOUND-PRT 8|4|PUNCT
+%wor:	she 26341_26541 didn't 26541_26761 turn 26761_26921 the 26921_27061 water 27061_27281 off 27281_27484 .
+*PAR:	and the water's all goin(g) to the floor instead of gettin(g) the dishes all dry . 27549_32481
+%mor:	cconj|and det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot verb|go-Part-Pres-S adp|to det|the-Def-Art noun|floor adv|instead sconj|of verb|get-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc det|all-Def-Tot adj|dry-S1 .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|0|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|12|MARK 11|10|FIXED 12|6|ADVCL 13|14|DET 14|12|OBJ 15|16|ADVMOD 16|12|XCOMP 17|6|PUNCT
+%wor:	and 27561_27641 the 27641_27761 water's 27761_28061 all 28061_28221 going 28221_28461 to 28461_28601 the 28601_28741 floor 28741_29081 instead 29081_29581 of 31041_31221 getting 31221_31361 the 31361_31541 dishes 31541_31821 all 31821_32081 dry 32081_32488 .
+*PAR:	&-hm that's all &*INV:okay I can +/. [+ exc] 32481_35143
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|I-Prs-Nom-S1 aux|can-Fin-S +/.
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|3|PUNCT
+%wor:	hm 32481_32981 that's 33921_34621 all 34621_34841 I 34841_35041 can 35041_35143 +/.
+*PAR:	and tʌp@u [//] [* p:n] two cups &*INV:great and a plate . [+ gram] 35163_36973
+%mor:	cconj|and num|two noun|cup-Plur cconj|and det|a-Ind-Art noun|plate .
+%gra:	1|3|CC 2|3|NUMMOD 3|0|ROOT 4|6|CC 5|6|DET 6|3|CONJ 7|3|PUNCT
+%wor:	and 35281_36973 tʌp two cups and a plate .
+*INV:	that's it . 37124_37854
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+%wor:	that's it .
+*INV:	thanks . 37927_38487
+%mor:	noun|thanks .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	thanks .
+@End

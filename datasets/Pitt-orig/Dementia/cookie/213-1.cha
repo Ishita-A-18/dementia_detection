@@ -1,0 +1,132 @@
+@UTF8
+@PID:	11312/t-00002555-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|64;|male|ProbableAD||Participant|15||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T21:23:17-04:00]
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T05:53:35-04:00]
+@Media:	213-1, audio
+@G:	Cookie
+*INV:	that it's not real clear so do want you can with it . 950_3570
+%mor:	sconj|that pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not adj|real-S1 adj|clear-S1 adv|so aux|do-Fin-Ind-Pres-S verb|want-Fin-Imp-S pron|you-Prs-Nom-S2 aux|can-Fin-S adp|with pron|it-Prs-Acc-S3 .
+%gra:	1|6|MARK 2|6|NSUBJ 3|6|COP 4|6|ADVMOD 5|6|AMOD 6|0|ROOT 7|9|ADVMOD 8|9|AUX 9|6|PARATAXIS 10|11|NSUBJ 11|9|CCOMP 12|13|CASE 13|11|OBL 14|6|PUNCT
+%wor:	that 950_1110 it's 1110_1330 not 1330_1490 real 1490_1730 clear 1730_2010 so 2010_2250 do 2250_2430 want 2430_2590 you 2590_2690 can 2690_3010 with 3010_3250 it 3250_4436 .
+*INV:	do you see anything going on ? 3570_5740
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S pron|anything-Ind-S1 verb|go-Ger-S adp|on ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|4|ACL 6|5|COMPOUND-PRT 7|3|PUNCT
+%wor:	do 3570_4550 you 4550_4610 see 4610_4770 anything 4770_5090 going 5090_5390 on 5390_5740 ?
+*PAR:	yeah I see the woman's in a kitchen . 5770_7615
+%mor:	intj|yeah pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|the-Def-Art noun|woman-Acc~part|s adp|in det|a-Ind-Art noun|kitchen .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|CASE 7|9|CASE 8|9|DET 9|3|OBL 10|3|PUNCT
+%wor:	yeah 5770_6110 I 6110_6290 see 6290_6530 the 6530_6710 woman's 6710_7130 in 7130_7230 a 7230_7390 kitchen 7390_7615 .
+*PAR:	and +/. 7730_8050
+%mor:	cconj|and +/.
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	and 7730_8164 +/.
+*INV:	okay . 8050_8388
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	okay 8050_8388 .
+*PAR:	+, now it looks like she's +... 8490_11190
+%mor:	adv|now pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 +...
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|6|MARK 5|6|NSUBJ 6|3|ADVCL 7|3|PUNCT
+%wor:	now 8490_8990 it 10030_10210 looks 10210_10350 like 10350_10610 she's 10610_11605 +...
+*PAR:	I [/] &+me I [/] &+c I can't really pick it out but +... [+ exc] 11190_15210
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not adv|really verb|pick-Inf-S pron|it-Prs-Acc-S3 adp|out cconj|but +...
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|ADVMOD 4|5|ADVMOD 5|0|ROOT 6|5|OBJ 7|5|COMPOUND-PRT 8|5|PUNCT 9|5|PUNCT
+%wor:	I 11190_11690 I 13090_13570 I 13570_13830 can't 13830_14050 really 14050_14310 pick 14310_14630 it 14630_14730 out 14730_14950 but 14950_15583 +...
+*PAR:	oh and there's a gɪɾəl@u [: little] [* p:n] girl here talking and a bɪɾəl@u [: little] boy I assume on this side here . 15210_20353
+%mor:	intj|oh cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|little-S1 noun|girl adv|here verb|talk-Ger-S cconj|and det|a-Ind-Art adj|little-S1 noun|boy pron|I-Prs-Nom-S1 verb|assume-Fin-Ind-Pres-S1 adp|on det|this-Def-Dem-Sing noun|side adv|here .
+%gra:	1|4|DISCOURSE 2|4|CC 3|4|EXPL 4|0|ROOT 5|7|DET 6|7|AMOD 7|4|NSUBJ 8|7|ADVMOD 9|7|ACL 10|13|CC 11|13|DET 12|13|AMOD 13|7|CONJ 14|15|NSUBJ 15|13|ACL-RELCL 16|18|CASE 17|18|DET 18|15|OBL 19|15|ADVMOD 20|4|PUNCT
+%wor:	oh 15210_15890 and 15890_16010 there's 16010_16170 a 16170_20353 gɪɾəl girl here talking and a bɪɾəl boy I assume on this side here .
+*INV:	mhm . 21360_21560
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	mhm 21360_21710 .
+*PAR:	and this is a highchair [: stool] [* s:r] here (.) or some kind of a chair . [+ cir] 21560_26820
+%mor:	cconj|and pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|stool adv|here cconj|or det|some-Def-Ind noun|kind adp|of det|a-Ind-Art noun|chair .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|DET 5|0|ROOT 6|5|ADVMOD 7|9|CC 8|9|DET 9|5|CONJ 10|12|CASE 11|12|DET 12|9|NMOD 13|5|PUNCT
+%wor:	and 21560_22060 this 23060_23440 is 23440_23580 a 23580_23740 highchair 23740_24280 here 24280_24740 or 24740_25240 some 25780_26000 kind 26000_26240 of 26240_26360 a 26360_26520 chair 26520_27628 .
+*PAR:	and &-uh (.) I don't know what this is here . [+ exc] 26820_34287
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Int-S1 pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adv|here .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|5|OBJ 7|9|NSUBJ 8|9|COP 9|6|ACL-RELCL 10|5|PUNCT
+%wor:	and 26820_27320 uh 29360_29740 I 29740_30240 don't 33040_33240 know 33240_33420 what 33420_33620 this 33620_33900 is 33900_34220 here 34220_34287 .
+*PAR:	I can't see what that is . [+ exc] 34600_38283
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|see-Inf-S pron|what-Int-S1 pron|that-Dem aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|4|PUNCT
+%wor:	I 34600_35100 can't 36520_36900 see 36900_37140 what 37140_37380 that 37380_37579 is 37579_38283 .
+*PAR:	(..) oh there's another . 38483_44463
+%mor:	intj|oh pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|another-Def-Ind .
+%gra:	1|3|DISCOURSE 2|3|EXPL 3|0|ROOT 4|3|NSUBJ 5|3|PUNCT
+%wor:	oh 38483_38983 there's 39543_40043 another 44103_44603 .
+*PAR:	did I talk about this girl up here ? [+ exc] 44463_47223
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|talk-Inf-S adp|about det|this-Def-Dem-Sing noun|girl adp|up adv|here ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|COMPOUND-PRT 8|3|ADVMOD 9|3|PUNCT
+%wor:	did 44463_44963 I 45483_45623 talk 45623_45903 about 45903_46103 this 46103_46423 girl 46423_46743 up 46743_47003 here 47003_47330 ?
+*INV:	what's she doing ? 47223_48383
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3 verb|do-Part-Pres-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+%wor:	what's 47223_47803 she 47803_48023 doing 48023_48580 ?
+*PAR:	she's &-uh +... 48383_50623
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 +...
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+%wor:	she's 48383_48883 uh 50303_53925 +...
+*PAR:	I can't see too plain what she's doing . [+ exc] 50623_56825
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|see-Inf-S adv|too adj|plain-S1 pron|what-Rel-S1 pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|6|ADVMOD 6|7|AMOD 7|4|OBJ 8|10|NSUBJ 9|10|AUX 10|7|ACL-RELCL 11|4|PUNCT
+%wor:	I 50623_51123 can't 53983_54323 see 54323_54542 too 54542_54803 plain 54803_55163 what 55163_55423 she's 55423_55663 doing 55663_56825 .
+*INV:	no ? 58333_59971
+%mor:	intj|no ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	no 58333_59971 ?
+*INV:	here , let me try this . 60333_61673
+%mor:	adv|here cm|cm verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|try-Inf-S pron|this-Dem-S1 .
+%gra:	1|3|ADVMOD 2|1|PUNCT 3|0|ROOT 4|3|OBJ 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+%wor:	here 60333_60333 , let 60333_60373 me 60373_60673 try 60673_60873 this 60873_61682 .
+*INV:	(..) is it a_little clearer ? 61673_67092
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 adv|alittle adj|clear-Cmp-S1 ?
+%gra:	1|4|COP 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+%wor:	is 61673_62173 it 65353_65853 a_little 66513_66753 clearer 66753_67092 ?
+*PAR:	oh yes I think so . [+ exc] 67113_68483
+%mor:	intj|oh intj|yes pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 adv|so .
+%gra:	1|4|DISCOURSE 2|4|DISCOURSE 3|4|NSUBJ 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	oh 67133_67393 yes 67393_67793 I 67793_68093 think 68093_68433 so 68433_68483 .
+*INV:	okay can you see what she's doing now ? 69193_71533
+%mor:	intj|okay aux|can-Fin-S pron|you-Prs-Nom-S2 verb|see-Inf-S pron|what-Rel-S1 pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S adv|now ?
+%gra:	1|4|DISCOURSE 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|8|ADVMOD 10|4|PUNCT
+%wor:	okay 69193_69913 can 69913_70333 you 70333_70373 see 70373_70453 what 70453_70653 she's 70653_70893 doing 70893_71153 now 71153_73046 ?
+*PAR:	(..) where was she xxx ? [+ exc] 71533_76693
+%mor:	adv|where aux|be-Fin-Ind-Past-S3-irr pron|she-Prs-Nom-S3 ?
+%gra:	1|0|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+%wor:	where 71533_72033 was 76213_76453 she 76453_77142 ?
+*PAR:	this girl ? [+ exc] 76693_78116
+%mor:	det|this-Def-Dem-Sing noun|girl ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+%wor:	this 76693_77273 girl 77273_78116 ?
+*INV:	okay what's she doing ? 78316_79296
+%mor:	intj|okay pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3 verb|do-Part-Pres-S ?
+%gra:	1|5|DISCOURSE 2|5|OBJ 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|5|PUNCT
+%wor:	okay 78316_78516 what's 78516_78756 she 78756_78896 doing 78896_79716 ?
+*PAR:	(.) I really can't see what she's doing . [+ exc] 79296_86296
+%mor:	pron|I-Prs-Nom-S1 adv|really aux|can-Fin-S~part|not verb|see-Inf-S pron|what-Rel-S1 pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S .
+%gra:	1|5|NSUBJ 2|5|ADVMOD 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|5|OBJ 7|9|NSUBJ 8|9|AUX 9|6|ACL-RELCL 10|5|PUNCT
+%wor:	I 79296_79796 really 84336_84556 can't 84556_85016 see 85016_85316 what 85316_85576 she's 85576_85856 doing 85856_86803 .
+*INV:	how_about can you see what's gonna [//] going on over there ? 86296_89813
+%mor:	noun|howabout-Acc aux|can-Fin-S pron|you-Prs-Nom-S2 verb|see-Inf-S pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|over adv|there ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|7|AUX 7|5|ACL-RELCL 8|7|COMPOUND-PRT 9|10|CASE 10|7|OBL 11|4|PUNCT
+%wor:	how_about 86296_86796 can 87356_87676 you 87676_87736 see 87736_87856 what's 87856_88176 gonna 88176_88436 going 88436_89076 on 89076_89296 over 89296_89536 there 89536_89813 ?
+*PAR:	(..) no &-uh I don't . [+ exc] 90476_97490
+%mor:	intj|no pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	no 90476_90976 uh 94796_95156 I 95156_95656 don't 108216_108716 .
+*PAR:	yeah , that's awfully hard for me to distinguish . [+ exc] 97490_99270
+%mor:	intj|yeah cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|awfully adj|hard-S1 sconj|for pron|I-Prs-Acc-S1 part|to verb|distinguish-Inf-S .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|0|ROOT 7|10|MARK 8|10|NSUBJ 9|10|MARK 10|6|ADVCL 11|6|PUNCT
+%wor:	yeah 97490_97570 , that's 97570_97710 awfully 97710_98010 hard 98010_98210 for 98210_98450 me 98450_98610 to 98610_98810 distinguish 98810_100290 .
+*INV:	mhm (.) okay . 99270_101226
+%mor:	intj|mhm intj|okay .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%wor:	mhm 99270_100050 okay 100050_101226 .
+@End

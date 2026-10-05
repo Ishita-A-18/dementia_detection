@@ -1,0 +1,54 @@
+@UTF8
+@PID:	11312/t-00002476-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|68;|male|MCI||Participant|25||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T22:04:50-04:00]
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T06:00:31-04:00]
+@Media:	062-0, audio
+@G:	Cookie
+*INV:	there's the picture . 390_1090
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	there's 390_630 the 630_750 picture 750_1440 .
+*PAR:	(..) now the boy <on the> [/] <on the> [//] standing on the stool is gonna fall . 1090_13303
+%mor:	adv|now det|the-Def-Art noun|boy noun|standing-Ger adp|on det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|fall-Inf-S .
+%gra:	1|9|ADVMOD 2|3|DET 3|4|COMPOUND 4|9|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|9|AUX 9|0|ROOT 10|11|MARK 11|9|XCOMP 12|9|PUNCT
+%wor:	now 1090_1590 the 8430_8710 boy 8710_8990 on 8990_9270 the 9270_9650 on 9650_10150 the 10830_11110 standing 11110_11790 on 11790_12050 the 12050_12210 stool 12210_12510 is 12510_12730 gonna 12730_12830 fall 12830_13303 .
+*PAR:	he's reaching for a cookie . 13310_16939
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	he's 13310_13810 reaching 15850_16170 for 16170_16430 a 16430_16630 cookie 16630_16939 .
+*PAR:	he's handling [: handing] [* p:w-ret] [//] handing a cookie to his sister I would imagine . 17005_20725
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|hand-Part-Pres-S det|a-Ind-Art noun|cookie-Acc adp|to pron|his-Prs-Gen-S3 noun|sister pron|I-Prs-Nom-S1 aux|would-Fin-S verb|imagine-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|NMOD-POSS 8|3|OBL 9|11|NSUBJ 10|11|AUX 11|3|PARATAXIS 12|3|PUNCT
+%wor:	he's 17005_17285 handling 17285_17725 handing 17725_18245 a 18245_18545 cookie 18545_18805 to 18805_19225 his 19225_19525 sister 19525_19945 I 19945_20225 would 20225_20405 imagine 20405_20725 .
+*PAR:	poor mother wasn't very attentive and the water was swepping [: x@n] [* n:uk] over the sink . 20925_27571
+%mor:	adj|poor-S1 noun|mother aux|be-Fin-Ind-Past-S3-irr~part|not adv|very adj|attentive-S1 cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Past-S3-irr neo|x adp|over det|the-Def-Art noun|sink .
+%gra:	1|2|AMOD 2|6|NSUBJ 3|6|COP 4|6|ADVMOD 5|6|ADVMOD 6|0|ROOT 7|11|CC 8|9|DET 9|11|NSUBJ 10|11|DEP 11|6|CONJ 12|14|CASE 13|14|DET 14|11|OBL 15|6|PUNCT
+%wor:	poor 20925_21425 mother 22845_23125 wasn't 23125_23565 very 23565_23805 attentive 23805_24265 and 24265_24725 the 24725_25005 water 25005_25305 was 25305_25605 swepping 25605_25965 over 25965_26265 the 26265_26585 sink 26585_27571 .
+*PAR:	(..) oh boy . [+ exc] 37375_37895
+%mor:	intj|oh intj|boy .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+%wor:	oh 37375_37535 boy 37535_38075 .
+*PAR:	(..) something's missing and I don't know what it is . [+ exc] 37895_38445
+%mor:	pron|something-Ind-S1~aux|be-Fin-Ind-Pres-S3 adj|missing-S1 cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Int-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|8|CC 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|3|CONJ 9|8|OBJ 10|11|NSUBJ 11|9|ACL-RELCL 12|3|PUNCT
+%wor:	something's 37895_38395 missing 45495_45895 and 45895_46115 I 46115_46215 don't 46215_46335 know 46335_46535 what 46535_46655 it 46655_46735 is 46735_47235 .
+*PAR:	(..) they have a nice backyard with a garage in the back and shrubbery . 38445_68495
+%mor:	pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 det|a-Ind-Art adj|nice-S1 noun|backyard-Acc adp|with det|a-Ind-Art noun|garage adp|in det|the-Def-Art noun|back cconj|and noun|shrubbery .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|11|CASE 10|11|DET 11|8|NMOD 12|13|CC 13|11|CONJ 14|2|PUNCT
+%wor:	they 38445_38945 have 46165_46665 a 52125_52245 nice 52245_52505 backyard 52505_52985 with 52985_53405 a 53405_53545 garage 53545_53905 in 53905_54045 the 54045_54185 back 54185_54605 and 54605_54805 shrubbery 54805_68495 .
+*INV:	(..) okay . 98375_98875
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	okay 98375_98875 .
+*PAR:	that's about it . [+ exc]
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|0|ROOT 5|4|PUNCT
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

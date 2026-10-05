@@ -1,0 +1,91 @@
+@UTF8
+@PID:	11312/t-00002471-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|70;|male|ProbableAD||Participant|23||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T21:37:53-04:00]
+@Media:	058-1, audio
+@G:	Cookie
+*INV:	here's the picture . 820_1500
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|0|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+%wor:	here's 820_1040 the 1040_1160 picture 1160_1870 .
+*INV:	all of the action . 1500_3480
+%mor:	det|all-Def-Tot adp|of det|the-Def-Art noun|action .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+%wor:	all 1500_2000 of 2760_2920 the 2920_3060 action 3060_3716 .
+*PAR:	okay I'll start . [+ exc] 3480_7099
+%mor:	intj|okay pron|I-Prs-Nom-S1~aux|will-Fin-S verb|start-Inf-S .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%wor:	okay 3480_3980 I'll 6600_7120 start 7120_7620 .
+*PAR:	the mother is drying dishes . 7099_8580
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|AMOD 5|0|ROOT 6|5|PUNCT
+%wor:	the 7120_7400 mother 7400_7660 is 7660_7900 drying 7900_8240 dishes 8240_8679 .
+*PAR:	and the sink is over flowing . 8580_13400
+%mor:	cconj|and det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 adv|over verb|flow-Part-Pres-S .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|0|ROOT 7|6|PUNCT
+%wor:	and 8580_9080 the 11480_11840 sink 11840_12320 is 12320_12580 over 12580_13000 flowing 13000_13576 .
+*PAR:	the water is falling onto the floor . 13400_16251
+%mor:	det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|onto det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	the 13400_14100 water 14100_14360 is 14360_14920 falling 14920_14960 onto 14960_15140 the 15140_15380 floor 15380_16251 .
+*PAR:	&-uh the boy is on his stool &-uh taking cookies out_of a cookie jar . 16275_26035
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 adp|on pron|his-Prs-Gen-S3 noun|stool verb|take-Part-Pres-S noun|cookie-Plur-Acc adp|outof det|a-Ind-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|NMOD-POSS 6|0|ROOT 7|6|ACL 8|7|OBJ 9|12|CASE 10|12|DET 11|12|COMPOUND 12|7|OBL 13|6|PUNCT
+%wor:	uh 16275_16775 the 18055_18555 boy 20075_20695 is 20695_21255 on 21255_21495 his 21495_21735 stool 21735_22255 uh 22255_22755 taking 24055_24455 cookies 24455_24935 out_of 24935_25275 a 25275_25395 cookie 25395_25595 jar 25595_26039 .
+*PAR:	and he has <one cookie> [//] two cookies one in each hand . 26035_31648
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 num|two noun|cookie-Plur-Acc num|one adp|in det|each-Def-Tot noun|hand .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|NUMMOD 5|3|OBJ 6|5|NUMMOD 7|9|CASE 8|9|DET 9|6|NMOD 10|3|PUNCT
+%wor:	and 26035_26535 he 28815_29055 has 29055_29215 one 29215_29375 cookie 29375_29795 two 29795_30255 cookies 30255_30715 one 30715_30995 in 30995_31115 each 31115_31315 hand 31315_31648 .
+*PAR:	the &-uh girl is standing , reaching up for a cookie with her &-uh finger over her mouth telling him to be quiet . 45170_45630
+%mor:	det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S cm|cm verb|reach-Part-Pres-S adp|up adp|for det|a-Ind-Art noun|cookie adp|with pron|her-Prs-Gen-S3 noun|finger adp|over pron|her-Prs-Gen-S3 noun|mouth verb|tell-Part-Pres-S pron|he-Prs-Acc-S3 part|to aux|be-Inf-S adj|quiet-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|PUNCT 6|4|ADVCL 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|13|CASE 12|13|NMOD-POSS 13|10|NMOD 14|16|CASE 15|16|NMOD-POSS 16|13|NMOD 17|6|ADVCL 18|17|IOBJ 19|21|MARK 20|21|COP 21|17|XCOMP 22|4|PUNCT
+%wor:	the 45170_45390 uh 45390_45390 girl 45390_45430 is 45430_45630 standing 45630_45670 , reaching 45670_45670 up 45670_45670 for 45670_45670 a 45670_45670 cookie 45670_45670 with 45670_45670 her 45670_45670 uh 45670_45670 finger 45670_45670 over 45670_45670 her 45670_45670 mouth 45670_45670 telling 45670_45670 him 45670_45670 to 45670_45670 be 45670_45710 quiet 45710_46170 .
+*PAR:	the stool is on one leg . 45630_47310
+%mor:	det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 adp|on num|one noun|leg .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|NUMMOD 6|0|ROOT 7|6|PUNCT
+%wor:	the 45670_45670 stool 45670_45670 is 45670_45710 on 45710_45910 one 45910_46310 leg 46310_47310 .
+*PAR:	&-uh there's drapes on the window . 47330_51750
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|drape-Plur adp|on det|the-Def-Art noun|window .
+%gra:	1|2|EXPL 2|0|ROOT 3|2|NSUBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|2|PUNCT
+%wor:	uh 47330_47830 there's 49870_50770 drapes 50770_51110 on 51110_51330 the 51330_51470 window 51470_51827 .
+*PAR:	there's a path &-uh between the grass and the bushes . 51750_58835
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|path adp|between det|the-Def-Art noun|grass cconj|and det|the-Def-Art noun|bush-Plur .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|10|CC 9|10|DET 10|7|CONJ 11|2|PUNCT
+%wor:	there's 51750_52250 a 53930_54110 path 54110_54610 uh 54610_55310 between 55310_55810 the 56710_56990 grass 56990_57490 and 57490_57870 the 57870_58110 bushes 58110_58835 .
+*PAR:	and this little picture is a part of the xxx house and part of the tree in the upper window . 60339_67899
+%mor:	cconj|and det|this-Def-Dem-Sing adj|little-S1 noun|picture aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|part adp|of det|the-Def-Art noun|house cconj|and noun|part adp|of det|the-Def-Art noun|tree adp|in det|the-Def-Art adj|upper-S1 noun|window .
+%gra:	1|7|CC 2|4|DET 3|4|AMOD 4|7|NSUBJ 5|7|COP 6|7|DET 7|0|ROOT 8|10|CASE 9|10|DET 10|7|NMOD 11|12|CC 12|10|CONJ 13|15|CASE 14|15|DET 15|12|NMOD 16|19|CASE 17|19|DET 18|19|AMOD 19|15|NMOD 20|7|PUNCT
+%wor:	and 60339_60339 this 60339_60379 little 60379_60839 picture 61799_61839 is 61839_62159 a 62159_62819 part 62819_62859 of 62859_62959 the 62959_63119 house 63119_63639 and 63639_64139 part 65299_65859 of 65859_66179 the 66179_66219 tree 66219_66539 in 66539_66919 the 66919_67159 upper 67159_67399 window 67399_67969 .
+*PAR:	there are &-uh &-uh doors on the &-uh cabinets in the sink . 67899_78055
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|door-Plur adp|on det|the-Def-Art noun|cabinet-Plur adp|in det|the-Def-Art noun|sink .
+%gra:	1|2|EXPL 2|0|ROOT 3|2|NSUBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|9|CASE 8|9|DET 9|6|NMOD 10|2|PUNCT
+%wor:	there 67899_68399 are 69859_70299 uh 70299_70879 uh 70879_71379 doors 72419_73159 on 73159_73559 the 73559_74139 uh 74139_74639 cabinets 75339_75839 in 77039_77439 the 77439_77719 sink 77719_78055 .
+*PAR:	and &-uh it's daylight . 82640_84640
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|daylight .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+%wor:	and 82640_83000 uh 83000_83120 it's 83120_83620 daylight 84300_84800 .
+*PAR:	&-um there's two cups and a dish <on it> [//] on the sink . 84640_94776
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 num|two noun|cup-Plur cconj|and det|a-Ind-Art noun|dish adp|on det|the-Def-Art noun|sink .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|NUMMOD 4|2|NSUBJ 5|7|CC 6|7|DET 7|4|CONJ 8|10|CASE 9|10|DET 10|7|NMOD 11|2|PUNCT
+%wor:	um 84640_85140 there's 87820_88320 two 92400_92620 cups 92620_92940 and 92940_93140 a 93140_93280 dish 93280_93500 on 93500_93820 it 93820_93980 on 93980_94500 the 94500_94680 sink 94680_94776 .
+*PAR:	&=hums (..) should I describe the two faucets ? [+ exc] 99501_104841
+%mor:	aux|should-Fin-S pron|I-Prs-Nom-S1 verb|describe-Inf-S det|the-Def-Art num|two noun|faucet-Plur-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|NUMMOD 6|3|OBJ 7|3|PUNCT
+%wor:	should 99501_100001 I 102421_103221 describe 103221_103761 the 103761_103941 two 103941_104241 faucets 104241_104841 ?
+*INV:	that's okay . 104841_105881
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|okay-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+%wor:	that's 104841_105601 okay 105601_105955 .
+*INV:	that's fine . 105881_106728
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+%wor:	that's 105881_106501 fine 106501_106728 .
+*INV:	okay . 106781_107822
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+%wor:	okay 106781_107822 .
+@End

@@ -1,0 +1,87 @@
+@UTF8
+@PID:	11312/t-00002608-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|75;|female|ProbableAD||Participant|15||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 align | fa=whisper-fa-large-v2 ; lang=eng | 2026-08-05T21:52:06-04:00]
+@Media:	293-1, audio
+@G:	Cookie
+*INV:	what's going on in the picture ? 0_2060
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	what's 0_820 going 820_1160 on 1160_1460 in 1460_1640 the 1640_1720 picture 1720_2110 ?
+*PAR:	does that say cookie honey ? [+ exc] 2060_7980
+%mor:	aux|do-Fin-Ind-Pres-S3 pron|that-Dem verb|say-Inf-S noun|cookie noun|honey-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|COMPOUND 5|3|OBJ 6|3|PUNCT
+%wor:	does 2060_2560 that 6700_6980 say 6980_7240 cookie 7240_7620 honey 7620_8073 ?
+*INV:	you just tell me what you see going on in the picture . 7980_10860
+%mor:	pron|you-Prs-Nom-S2 adv|just verb|tell-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|IOBJ 5|3|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|7|XCOMP 9|8|COMPOUND-PRT 10|12|CASE 11|12|DET 12|8|OBL 13|3|PUNCT
+%wor:	you 7980_8600 just 8600_8840 tell 8840_9060 me 9060_9180 what 9180_9300 you 9300_9460 see 9460_9720 going 9720_10020 on 10020_10240 in 10240_10380 the 10380_10480 picture 10480_10957 .
+*PAR:	oh cookie jar . [+ gram] 10860_12340
+%mor:	intj|oh noun|cookie noun|jar .
+%gra:	1|3|DISCOURSE 2|3|COMPOUND 3|0|ROOT 4|3|PUNCT
+%wor:	oh 10860_11320 cookie 11320_11800 jar 11800_12367 .
+*PAR:	this chair [: stool] [* s:r] is tilted . 12340_16240
+%mor:	det|this-Def-Dem-Sing noun|stool aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Past-S .
+%gra:	1|2|DET 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|0|ROOT 5|4|PUNCT
+%wor:	this 12340_12840 chair 15260_15700 is 15700_15940 tilted 15940_16283 .
+*PAR:	do I tell you that too ? [+ exc] 16240_17660
+%mor:	aux|do-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|tell-Inf-S pron|you-Prs-Acc-S2 pron|that-Dem adv|too ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|IOBJ 5|3|OBJ 6|3|ADVMOD 7|3|PUNCT
+%wor:	do 16240_16500 I 16500_16640 tell 16640_16940 you 16940_17020 that 17020_17260 too 17260_18033 ?
+*INV:	you can tell me everything you see going on . 17660_18450
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|IOBJ 5|3|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|7|XCOMP 9|8|COMPOUND-PRT 10|3|PUNCT
+%wor:	you 17660_18240 can 18240_18420 tell 18420_18620 me 18620_18660 everything 18660_18900 you 18900_19240 see 19240_19280 going 19280_19580 on 19580_19793 .
+*PAR:	+< titled chair [: stool] [* s:r] . [+ gram] 18450_20693
+%mor:	verb|title-Part-Past-S noun|stool-Acc .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	titled 19980_20480 chair 22960_23460 .
+*PAR:	girl goin(g) [: doin(g)] [* s:r] dishes . [+ gram] 20693_21613
+%mor:	noun|girl verb|do-Ger-S noun|dish-Plur-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	girl 20693_20913 going 20913_21213 dishes 21213_21713 .
+*PAR:	spillin(g) water . [+ gram] 21613_23333
+%mor:	verb|spill-Part-Pres-S noun|water-Acc .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	spilling 21613_22113 water 22853_23384 .
+*PAR:	(.) here's two plates . 23333_33913
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 num|two noun|plate-Plur .
+%gra:	1|0|ROOT 2|1|COP 3|4|NUMMOD 4|1|NSUBJ 5|1|PUNCT
+%wor:	here's 23333_23833 two 33313_33533 plates 33533_33913 .
+*PAR:	now what would I say about them ? [+ exc] 33993_35733
+%mor:	adv|now pron|what-Int-S1 aux|would-Fin-S pron|I-Prs-Nom-S1 verb|say-Inf-S adp|about pron|they-Prs-Acc-P3 ?
+%gra:	1|5|ADVMOD 2|5|OBJ 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+%wor:	now 33993_34293 what 34293_34513 would 34513_34693 I 34693_34813 say 34813_35073 about 35073_35353 them 35353_36113 ?
+*INV:	just tell me what you see going on in the picture . 35733_39939
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|IOBJ 4|2|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|6|XCOMP 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|2|PUNCT
+%wor:	just 35733_36273 tell 36273_36533 me 36533_36653 what 36653_36793 you 36793_36953 see 36953_37273 going 37273_37573 on 37573_37813 in 37813_37993 the 37993_38093 picture 38093_39939 .
+*PAR:	water spillin(g) . [+ gram] 40139_41139
+%mor:	noun|water noun|spilling-Ger .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+%wor:	water 40139_40499 spilling 40499_41249 .
+*PAR:	(.) cookie jar . [+ gram] 41139_46379
+%mor:	noun|cookie noun|jar .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+%wor:	cookie 41139_41639 jar 45839_46409 .
+*PAR:	(.) chair [: stool] [* s:r] fallin(g) . [+ gram] 46379_51479
+%mor:	noun|stool noun|falling-Ger .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+%wor:	chair 46379_46879 falling 50899_51626 .
+*PAR:	and children . [+ gram] 51479_53039
+%mor:	cconj|and noun|child-Plur .
+%gra:	1|2|CC 2|0|ROOT 3|2|PUNCT
+%wor:	and 51479_51979 children 52519_53128 .
+*PAR:	hell this is a damn dumb thing . [+ exc] 53039_58279
+%mor:	noun|hell pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|damn-S1 adj|dumb-S1 noun|thing-Ger .
+%gra:	1|7|OBL-UNMARKED 2|7|NSUBJ 3|7|COP 4|7|DET 5|7|AMOD 6|7|AMOD 7|0|ROOT 8|7|PUNCT
+%wor:	hell 53039_53539 this 56479_56759 is 56759_56899 a 56899_57079 damn 57079_57399 dumb 57399_57779 thing 57779_58279 .
+*INV:	okay that's fine let me take it away . 58832_89312
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|take-Inf-S pron|it-Prs-Acc-S3 adv|away .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PARATAXIS 6|5|OBJ 7|5|XCOMP 8|7|OBJ 9|7|ADVMOD 10|4|PUNCT
+%wor:	okay 88692_88732 that's 88732_88772 fine 88772_88812 let 88812_88812 me 88812_88812 take 88812_88812 it 88812_88852 away 88852_89312 .
+@End

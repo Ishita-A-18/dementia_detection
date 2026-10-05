@@ -1,0 +1,70 @@
+@UTF8
+@PID:	11312/t-00016704-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|60;|female|PossibleAD||Participant|18||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-07T09:47:58-04:00]
+@Media:	624-0, audio
+*INV:	and hospital@q . 0_1619
+%mor:	cconj|and meta|hospital .
+%gra:	1|2|CC 2|0|ROOT 3|2|PUNCT
+*INV:	put those in a brief sentence . 1619_5636
+%mor:	verb|put-Fin-Imp-S pron|that-Dem-P1 adp|in det|a-Ind-Art adj|brief-S1 noun|sentence .
+%gra:	1|0|ROOT 2|1|OBJ 3|6|CASE 4|6|DET 5|6|AMOD 6|1|OBL 7|1|PUNCT
+*PAR:	well ‡ in the hospital . [+ exc] 5636_8806
+%mor:	intj|well noun|‡ adp|in det|the-Def-Art noun|hospital .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|2|PUNCT
+*PAR:	&-uh (.) we took the child to the hospital . 8806_15007
+%mor:	pron|we-Prs-Nom-P1 verb|take-Fin-Ind-Past-P1-irr det|the-Def-Art noun|child-Acc adp|to det|the-Def-Art noun|hospital .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|2|OBL 8|2|PUNCT
+*INV:	mhm . 15007_15679
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	cold@q and winter@q . 15679_18290
+%mor:	meta|cold cconj|and meta|winter .
+%gra:	1|0|ROOT 2|3|CC 3|1|DEP 4|1|PUNCT
+*PAR:	I don't like the cold winter . 18290_22835
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S det|the-Def-Art adj|cold-S1 noun|winter-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|4|PUNCT
+*INV:	me neither . 22835_24064
+%mor:	pron|I-Prs-Acc-S1 cconj|neither .
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|PUNCT
+*INV:	(..) I'm going to give you three words now . 24064_37492
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|give-Inf-S pron|you-Prs-Acc-S2 num|three noun|word-Plur-Acc adv|now .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|IOBJ 7|8|NUMMOD 8|5|OBJ 9|5|ADVMOD 10|3|PUNCT
+*INV:	still make up a sentence using the three words . 37492_40328
+%mor:	adv|still verb|make-Fin-Ind-Pres-S adp|up det|a-Ind-Art noun|sentence-Acc verb|use-Ger-S det|the-Def-Art num|three noun|word-Plur-Acc .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|COMPOUND-PRT 4|5|DET 5|2|OBJ 6|5|ACL 7|9|DET 8|9|NUMMOD 9|6|OBJ 10|2|PUNCT
+*INV:	chair@q doctor@q and sit@q . 40328_44203
+%mor:	meta|chair meta|doctor cconj|and meta|sit .
+%gra:	1|0|ROOT 2|1|DEP 3|4|CC 4|2|DEP 5|1|PUNCT
+*PAR:	(..) I sat in the chair at the doctor's . 44203_56281
+%mor:	pron|I-Prs-Nom-S1 verb|sit-Fin-Ind-Past-S1-irr adp|in det|the-Def-Art noun|chair adp|at det|the-Def-Art noun|doctor~part|s .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|8|CASE 7|8|DET 8|2|OBL 9|8|CASE 10|2|PUNCT
+*INV:	mhm . 56281_57106
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	(.) bureau@q open@q and drawer@q . 57106_65230
+%mor:	meta|bureau meta|open cconj|and meta|drawer .
+%gra:	1|0|ROOT 2|1|DEP 3|4|CC 4|2|DEP 5|1|PUNCT
+*PAR:	(.) &=whispers bureau@q open@q drawer@q . [+ exc] 65230_73774
+%mor:	meta|bureau meta|open meta|drawer .
+%gra:	1|0|ROOT 2|3|DEP 3|1|DEP 4|1|PUNCT
+*PAR:	&-uh what am I sposta tell you ? [+ exc] 73774_77556
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 adv|sposta verb|tell-Inf-S pron|you-Prs-Acc-S2 ?
+%gra:	1|5|OBJ 2|5|AUX 3|5|NSUBJ 4|5|ADVMOD 5|0|ROOT 6|5|IOBJ 7|5|PUNCT
+*INV:	make up a sentence using those three words . 77556_79959
+%mor:	verb|make-Fin-Imp-S adp|up det|a-Ind-Art noun|sentence-Acc verb|use-Ger-S det|that-Def-Dem-Plur num|three noun|word-Plur-Acc .
+%gra:	1|0|ROOT 2|1|COMPOUND-PRT 3|4|DET 4|1|OBJ 5|4|ACL 6|8|DET 7|8|NUMMOD 8|5|OBJ 9|1|PUNCT
+*INV:	bureau@q open@q and drawer@q . 79959_83018
+%mor:	meta|bureau meta|open cconj|and meta|drawer .
+%gra:	1|0|ROOT 2|1|DEP 3|4|CC 4|2|DEP 5|1|PUNCT
+*PAR:	(.) I cleaned the bureau drawer . 83018_88637
+%mor:	pron|I-Prs-Nom-S1 verb|clean-Fin-Ind-Past-S1 det|the-Def-Art noun|bureau noun|drawer-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|COMPOUND 5|2|OBJ 6|2|PUNCT
+*INV:	mhm . 88637_89447
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End
